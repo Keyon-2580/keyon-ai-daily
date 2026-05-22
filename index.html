@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="zh-CN" class="h-full antialiased">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Keyon's AI Frontier — 每日 AI 前沿速览</title>
+<meta name="description" content="Keyon 的每日 AI 前沿速览：聚焦 Agent 自进化、A2A 协议、Agentic 架构与 Harness 工程。" />
+<link rel="icon" href="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%231A1A18'/><text x='50%25' y='55%25' font-size='12' font-weight='700' text-anchor='middle' fill='white' font-family='ui-sans-serif'>K</text></svg>" />
+<script src="https://cdn.tailwindcss.com"></script>
+<link rel="stylesheet" href="./assets/style.css" />
+</head>
+<body class="min-h-full flex flex-col" style="background:#F4F3EF;color:#1A1A18;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',Helvetica,Arial,sans-serif;">
+
+<div class="min-h-screen" style="background:var(--bg-page,#F4F3EF)">
+
+  <!-- Header -->
+  <header class="sticky top-0 z-50 border-b" style="background:rgba(244,243,239,0.92);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);border-color:#E2E1DC">
+    <div class="max-w-[1200px] mx-auto px-5 sm:px-8 h-14 flex items-center justify-between gap-4">
+      <div class="flex items-center gap-2.5 shrink-0">
+        <div class="w-7 h-7 rounded-xl bg-[#1A1A18] flex items-center justify-center">
+          <span class="text-[10px] font-bold text-white tracking-tight">日报</span>
+        </div>
+        <span class="font-semibold text-[15px] text-[#1A1A18] tracking-tight hidden sm:block">Keyon 的 AI 日报</span>
+      </div>
+      <div class="relative w-72 hidden lg:block">
+        <svg class="absolute left-3 top-1/2 -translate-y-1/2 text-[#B0B0A8] pointer-events-none" width="12" height="12" viewBox="0 0 16 16" fill="none"><circle cx="6.5" cy="6.5" r="5" stroke="currentColor" stroke-width="1.5"/><path d="M10.5 10.5L14 14" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+        <input id="search-input" type="text" placeholder="搜索标题、来源、标签…" class="w-full bg-white border border-[#E8E8E4] rounded-xl pl-8 pr-8 py-1.5 text-[12.5px] text-[#1A1A18] placeholder-[#C0BFB8] outline-none focus:border-blue-200 focus:ring-2 focus:ring-blue-50 transition-all" />
+      </div>
+      <div class="flex items-center gap-3 shrink-0">
+        <span id="hdr-date" class="text-[12px] text-[#9A9A94] hidden sm:block"></span>
+        <div class="flex items-center gap-1.5">
+          <span class="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse"></span>
+          <span class="text-[11px] text-[#9A9A94] hidden sm:block">今日已更新</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Mobile section tabs -->
+  <div class="lg:hidden sticky top-14 z-40 overflow-x-auto scrollbar-hide border-b" style="background:rgba(244,243,239,0.96);backdrop-filter:blur(12px);border-color:#E2E1DC">
+    <div id="mobile-tabs" class="flex items-center gap-1 px-4 py-2.5 min-w-max"></div>
+  </div>
+
+  <div class="max-w-[1200px] mx-auto px-5 sm:px-8 flex gap-10">
+    <!-- Sidebar -->
+    <aside class="hidden lg:flex w-44 shrink-0 sticky top-14 self-start h-[calc(100vh-3.5rem)] flex-col pt-8 pl-2 pr-4">
+      <nav id="sidenav" class="flex flex-col gap-0.5 flex-1 overflow-y-auto"></nav>
+      <div class="mt-4 pt-4 border-t border-[#EFEFEC] pb-6">
+        <p class="text-[10px] text-[#9A9A94] mb-2 font-medium uppercase tracking-wider">快捷键</p>
+        <div class="flex items-center justify-between mb-1.5"><kbd class="text-[10px] text-[#5A5A56] bg-[#F5F5F2] border border-[#E8E8E4] rounded px-1.5 py-0.5 font-mono">j/k</kbd><span class="text-[10px] text-[#9A9A94]">上下翻</span></div>
+        <div class="flex items-center justify-between mb-1.5"><kbd class="text-[10px] text-[#5A5A56] bg-[#F5F5F2] border border-[#E8E8E4] rounded px-1.5 py-0.5 font-mono">1–8</kbd><span class="text-[10px] text-[#9A9A94]">跳转</span></div>
+        <div class="flex items-center justify-between mb-1.5"><kbd class="text-[10px] text-[#5A5A56] bg-[#F5F5F2] border border-[#E8E8E4] rounded px-1.5 py-0.5 font-mono">/</kbd><span class="text-[10px] text-[#9A9A94]">搜索</span></div>
+        <div class="flex items-center justify-between mb-1.5"><kbd class="text-[10px] text-[#5A5A56] bg-[#F5F5F2] border border-[#E8E8E4] rounded px-1.5 py-0.5 font-mono">Esc</kbd><span class="text-[10px] text-[#9A9A94]">清除</span></div>
+      </div>
+    </aside>
+
+    <!-- Main -->
+    <main class="flex-1 min-w-0 py-6 sm:py-8">
+      <!-- Title -->
+      <div class="mb-6">
+        <h1 class="text-[22px] sm:text-[26px] font-bold text-[#1A1A18] tracking-tight mb-1">每日 AI 前沿速览</h1>
+        <p id="sub-meta" class="text-[13px] text-[#9A9A94]"></p>
+      </div>
+
+      <!-- 7-day archive selector -->
+      <section id="archive" class="mb-6">
+        <div class="flex items-center gap-3 mb-3">
+          <span class="text-[15px] leading-none text-[#9A9A94]">⌖</span>
+          <h2 class="text-[13px] font-semibold text-[#1A1A18] tracking-tight shrink-0">最近 7 日</h2>
+          <div class="flex-1 h-[1px] bg-[#EFEFEC]"></div>
+          <span class="text-[11px] text-[#9A9A94] shrink-0">点击切换日期</span>
+        </div>
+        <div id="archive-tabs" class="flex flex-wrap gap-2"></div>
+      </section>
+
+      <!-- Insight -->
+      <div id="insight" class="mb-7 rounded-2xl bg-[#F7F6F3] p-5 sm:p-6"></div>
+
+      <!-- Dynamic sections -->
+      <div id="sections"></div>
+
+      <footer class="mt-12 pt-6 border-t border-[#EFEFEC] text-[12px] text-[#9A9A94] flex items-center justify-between">
+        <span>© <span id="year"></span> Keyon · 每日 AI 前沿速览</span>
+        <span>focus on <span class="text-[#5A5A56]">Agent 自进化 · A2A · Agentic 架构 · Harness 工程</span></span>
+      </footer>
+    </main>
+  </div>
+</div>
+
+<script src="./assets/app.js"></script>
+</body>
+</html>

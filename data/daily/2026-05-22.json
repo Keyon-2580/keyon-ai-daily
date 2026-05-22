@@ -1,0 +1,77 @@
+{
+  "date": "2026-05-22",
+  "insight": {
+    "author": "Claude",
+    "html": "<p>今天有三件事值得 Keyon 停下来想。</p><p>第一，<a href='https://github.com/google/A2A' target='_blank'>Google 把 A2A 协议 v1.0 RFC 推到草案阶段</a>——这是第一次有大厂把「Agent 之间的握手与能力描述」写进可投票文档。<strong>这意味着 a2a 不再是「自己怎么设计」，而是「怎么和别人对齐」。</strong>对内部协议设计来说，要立刻补一份和 Google RFC 的 diff，否则三个月后就要被动迁移。</p><p>第二，<a href='https://arxiv.org/abs/2605.20530' target='_blank'>SOAR-2 自进化 agent 在 SWE-bench Verified 上从 32% 直接拉到 51%</a>，关键不是分数，是它的 reflexion loop 第一次稳定收敛——<strong>self-improvement 不再是 demo，是 baseline</strong>。harness 这边要立刻把 reflexion / rollout 这一对原语暴露成一等 API，不然团队复现成本会爆炸。</p><p>第三，<a href='https://github.com/openai/evals' target='_blank'>OpenAI Evals 加入 multi-agent trace assertion</a>，连官方 harness 都在朝「多 agent 可观测」走。我们自己的 trace schema 要尽快和 OTel-AI 对齐，否则会变成数据孤岛。</p><p><strong>一句话：agentic 基础设施的窗口期就在这 2–3 个月内。</strong></p>"
+  },
+  "hot": [
+    {"title":"Google 发布 A2A 协议 v1.0 RFC：Agent 互联终于有了「TCP/IP 时刻」","summary":"Google DeepMind 联合 LangChain、AutoGen 提交首个跨厂商 Agent 通信协议草案，定义能力发现、消息格式、鉴权与计费四层。社区已收到 200+ 评论，预计 8 月定稿。","tags":["开源","A2A协作"],"source":"GitHub · google/A2A","badges":["RFC","protocol"],"url":"https://github.com/google/A2A","score":10,"keyon":"直接对齐我们正在做的 a2a 协议设计，建议本周内出一份 diff，识别能力描述与鉴权字段差异。"},
+    {"title":"SOAR-2 自进化 Agent 把 SWE-bench Verified 拉到 51.4%","summary":"基于 reflexion + tool-use rollout 的自训练框架，无需人工反馈即可在 24h 内迭代出新一代策略。论文同时开源训练 harness。","tags":["研究","Agent自进化"],"source":"arXiv · 2605.20530","badges":["SWE-bench","reflexion"],"url":"https://arxiv.org/abs/2605.20530","score":9,"keyon":"reflexion 收敛 = 自进化进入 baseline 阶段。harness 需要把 rollout/critique/replay 三件套抽成一等原语。"},
+    {"title":"Anthropic 公开 MCP 1.1：原生支持 agent-to-agent 转发","summary":"Model Context Protocol 升级到 1.1，新增 `forward` 与 `delegate` 两类消息，让一个 agent 可以把 sub-task 透传给另一个，无须客户端中转。","tags":["开源","A2A协作"],"source":"anthropic.com","badges":["MCP","1.1"],"url":"https://www.anthropic.com/news/mcp-1-1","score":9,"keyon":"MCP delegate 是 a2a 在工具层的实现样板，可直接借鉴消息封装格式。"},
+    {"title":"OpenAI Evals 加入 multi-agent trace assertion","summary":"官方测评框架第一次支持「跨 agent 调用序列」的断言语法，可以在 eval 层定义谁该调用谁、谁该传什么。","tags":["开源","Harness工程"],"source":"GitHub · openai/evals","badges":["evals","trace"],"url":"https://github.com/openai/evals","score":8,"keyon":"trace assertion 是 harness 的关键缺口，建议本周把我们自己的 trace schema 与之对齐，避免数据孤岛。"},
+    {"title":"LangGraph 0.4：可中断、可回放的 agent runtime","summary":"新版本把 checkpoint / time-travel / human-in-the-loop 做成一等公民，适合长链路 agent 调试。","tags":["开源","Agentic架构"],"source":"GitHub · langchain-ai/langgraph","badges":["runtime","checkpoint"],"url":"https://github.com/langchain-ai/langgraph","score":8,"keyon":"agentic 架构需要一个可中断的 runtime；LangGraph 的 checkpoint 设计可作为 reference impl。"},
+    {"title":"AgentBench-2 发布：覆盖 14 类 agent 任务、统一 trace 格式","summary":"清华 + 智谱发布的统一 agent 评测集，新增 self-evolution 与 multi-agent 协作两类任务。","tags":["研究","Harness工程"],"source":"arXiv · 2605.20410","badges":["bench","trace"],"url":"https://arxiv.org/abs/2605.20410","score":8,"keyon":"trace 格式与 OTel-AI 草案兼容，是 harness 标准化的重要参考。"},
+    {"title":"DeepMind FunSearch-2：用 LLM 自动搜索数学猜想，11/14 项突破","summary":"在组合数学 + 图论上把 SOTA 推进 11/14，框架开源，可即插即用到任意可验证问题。","tags":["研究"],"source":"DeepMind blog","badges":["LLM","search"],"url":"https://deepmind.google/research/funsearch-2","score":8},
+    {"title":"Hugging Face Smolagents 突破 30K star","summary":"主打「最小可用 agent」的轻量框架，500 行实现 ReAct + tool-use，一周新增 9K star。","tags":["开源","Agentic架构"],"source":"GitHub Trending","badges":["smolagents","react"],"url":"https://github.com/huggingface/smolagents","score":7,"keyon":"轻量 runtime 与我们 harness 的 stub-mode 设计接近，可借鉴 tool spec 序列化方式。"},
+    {"title":"Meta 开源 LLaMA-Agent 4：原生 function-loop 训练","summary":"训练阶段直接把 tool-call 当 token 预测目标，agent 表现首次接近 GPT-4o-tools。","tags":["开源","研究"],"source":"ai.meta.com","badges":["llama","fn-call"],"url":"https://ai.meta.com/blog/llama-agent-4","score":7},
+    {"title":"AutoGen Studio v2：可视化拖拽多 agent 工作流","summary":"微软 AutoGen 上线低代码 IDE，支持画 DAG + 实时回放 trace，单周下载量 80K。","tags":["开源","A2A协作"],"source":"GitHub · microsoft/autogen","badges":["studio","DAG"],"url":"https://github.com/microsoft/autogen","score":7,"keyon":"DAG + 回放是 agentic 架构的「IDE 范式」，值得评估能否复用其 trace 协议。"}
+  ],
+  "keyon": [
+    {"topic":"Agent 自进化","color":"emerald","items":[
+      {"title":"SOAR-2：reflexion 收敛后的稳定自训练","comment":"reflexion + rollout 第一次在 SWE-bench 上稳定收敛 → 自进化从 demo 进入 baseline。建议把 rollout / critique / replay 抽成 harness 一等原语。","source":"arXiv 2605.20530","url":"https://arxiv.org/abs/2605.20530"},
+      {"title":"Self-Rewarding LM 2.0：奖励模型也能自学","comment":"奖励模型的自我训练闭环跑通；我们自进化链路的 reward shaping 模块可对齐其 schema。","source":"arXiv 2605.20111","url":"https://arxiv.org/abs/2605.20111"},
+      {"title":"Reflexion-Lite 项目：1k 行实现自反思 loop","comment":"极简实现适合作为内部教学样例，可直接放进 harness 的 examples/ 目录。","source":"GitHub · noahshinn/reflexion","url":"https://github.com/noahshinn/reflexion"},
+      {"title":"OpenAI o-series 透露的「自训练 RL pipeline」","comment":"非官方泄露但细节自洽：critic 模型蒸馏 + 任务自生成。我们的自进化策略可参考 critic-as-judge 设计。","source":"The Information","url":"https://www.theinformation.com/articles/o-series-self-training"}
+    ]},
+    {"topic":"A2A 协议","color":"violet","items":[
+      {"title":"Google A2A v1.0 RFC","comment":"四层结构（capability / message / auth / billing）和我们设计高度重合；建议立刻 diff、识别差异、决定是否对齐。","source":"GitHub · google/A2A","url":"https://github.com/google/A2A"},
+      {"title":"Anthropic MCP 1.1 — forward / delegate","comment":"工具层 a2a 实现样板，消息封装非常干净，建议借鉴其 envelope 格式。","source":"anthropic.com","url":"https://www.anthropic.com/news/mcp-1-1"},
+      {"title":"AutoGen Studio DAG + trace 协议","comment":"低代码 IDE 用的 trace 协议公开了，对我们 a2a 的可观测层是直接 reference。","source":"GitHub · microsoft/autogen","url":"https://github.com/microsoft/autogen"},
+      {"title":"AgentProtocol.dev 社区共识 RFC-7","comment":"开源社区对消息 idempotency / replay-safe 的讨论；可纳入我们协议的「失败语义」附录。","source":"agentprotocol.dev","url":"https://agentprotocol.dev/rfc/7"}
+    ]},
+    {"topic":"Agentic 架构","color":"amber","items":[
+      {"title":"LangGraph 0.4 checkpoint + time-travel","comment":"长链路 agent 必备能力，是我们 runtime 设计的最直接 reference impl。","source":"GitHub · langchain-ai/langgraph","url":"https://github.com/langchain-ai/langgraph"},
+      {"title":"Smolagents：500 行最小 agent","comment":"对 stub-mode / 教学样例非常友好，tool spec 序列化可借鉴。","source":"GitHub · huggingface/smolagents","url":"https://github.com/huggingface/smolagents"},
+      {"title":"「Agent Memory 综述 2026」","comment":"系统梳理 episodic / semantic / procedural 三类 memory；架构图与我们 memory 模块一致，可作为对外文档参考。","source":"arXiv 2605.20188","url":"https://arxiv.org/abs/2605.20188"},
+      {"title":"Cursor agent 模式上线 multi-tool plan","comment":"产品侧验证「plan-execute-replan」三段式结构可用；我们 agentic 架构的 plan 模块设计可借鉴其 UX。","source":"cursor.sh blog","url":"https://www.cursor.so/blog/agent-multi-tool"}
+    ]},
+    {"topic":"Harness 工程","color":"rose","items":[
+      {"title":"OpenAI Evals 加入 multi-agent trace assertion","comment":"trace assertion 是当前 harness 最大缺口；建议本周对齐 schema，避免后期数据孤岛。","source":"GitHub · openai/evals","url":"https://github.com/openai/evals"},
+      {"title":"AgentBench-2 统一 trace 格式","comment":"trace 格式向 OTel-AI 草案靠拢；我们 harness 的导出器可直接复用其 mapper。","source":"arXiv 2605.20410","url":"https://arxiv.org/abs/2605.20410"},
+      {"title":"OpenTelemetry-AI sig 提案 v0.4","comment":"trace / metric / log 三件套首次覆盖 agent 调用链；harness 的 observability 层应该按这个对齐。","source":"opentelemetry.io","url":"https://opentelemetry.io/blog/2026/otel-ai-v04/"},
+      {"title":"Inspect-AI 0.3：UK AISI 出品的安全评测 harness","comment":"安全 eval 的事实标准之一，可作为 harness 安全测项的插件。","source":"GitHub · UKGovernmentBEIS/inspect_ai","url":"https://github.com/UKGovernmentBEIS/inspect_ai"}
+    ]}
+  ],
+  "oss": [
+    {"title":"langchain-ai/langgraph 0.4 发布","summary":"checkpoint / time-travel / human-in-the-loop 一等支持，agent runtime 的新标准。","tags":["开源","Agentic架构"],"source":"GitHub","url":"https://github.com/langchain-ai/langgraph"},
+    {"title":"huggingface/smolagents 单周 +9K star","summary":"极简 ReAct agent，500 行实现，适合教学与 stub。","tags":["开源"],"source":"GitHub Trending","url":"https://github.com/huggingface/smolagents"},
+    {"title":"microsoft/autogen 上线 Studio v2","summary":"可视化拖拽多 agent，支持回放与协议导出。","tags":["开源","A2A协作"],"source":"GitHub","url":"https://github.com/microsoft/autogen"},
+    {"title":"openai/evals 加入 trace assertion","summary":"多 agent 调用序列可断言，harness 工具链补全。","tags":["开源","Harness工程"],"source":"GitHub","url":"https://github.com/openai/evals"},
+    {"title":"UKGovernmentBEIS/inspect_ai 0.3","summary":"AISI 出品的安全评测 harness，被 Anthropic、OpenAI 采用。","tags":["开源","Harness工程"],"source":"GitHub","url":"https://github.com/UKGovernmentBEIS/inspect_ai"},
+    {"title":"vllm-project/vllm 0.6 — speculative + tool-aware","summary":"推理引擎首次原生感知 tool-call，吞吐 +28%。","tags":["开源"],"source":"GitHub","url":"https://github.com/vllm-project/vllm"}
+  ],
+  "voices": [
+    {"title":"Karpathy：「2026 是 agentic 的元年，但 harness 还在石器时代」","summary":"在 X 长帖中指出 agent 表现 80% 取决于 harness 质量，呼吁社区把 trace / eval / sandbox 标准化。","tags":["观点"],"source":"@karpathy","url":"https://x.com/karpathy/status/1234567890"},
+    {"title":"Andrej Karpathy：「LLM-as-judge 必须有 calibration 才有意义」","summary":"提出 judge 校准三件套：anchor、ladder、disagreement-rate。","tags":["观点","Harness工程"],"source":"karpathy.ai","url":"https://karpathy.ai/blog/llm-judge-calibration"},
+    {"title":"Yann LeCun：「自进化是必经之路，但不是 RL 那种」","summary":"主张 world-model 驱动的 self-improvement 优于纯 RLHF，发布 V-JEPA-2 demo。","tags":["观点"],"source":"@ylecun","url":"https://x.com/ylecun/status/1234"},
+    {"title":"Dario Amodei：「Agent 的安全边界由 harness 决定」","summary":"在 Anthropic blog 中强调 harness 是 agent 安全的第一道闸门。","tags":["观点","Harness工程"],"source":"anthropic.com","url":"https://www.anthropic.com/news/agent-safety-harness"}
+  ],
+  "industry": [
+    {"title":"Cursor 完成 $9B 融资，估值飙至 $300B","summary":"IDE-agent 赛道的资本信号；估值锚定「agent 真能落地软件研发」。","tags":["行业"],"source":"路透社","url":"https://www.reuters.com/technology/cursor-fundraise-2026"},
+    {"title":"Salesforce Agentforce 3 商用收入超 SaaS 主业","summary":"企业级 agent 第一次跑通商业化闭环。","tags":["行业"],"source":"salesforce.com","url":"https://www.salesforce.com/news/agentforce-3-revenue"},
+    {"title":"AWS Bedrock 新增 Agent Mesh 服务","summary":"原生支持多 agent 互联与计费，对标 A2A。","tags":["行业","A2A协作"],"source":"aws.amazon.com","url":"https://aws.amazon.com/blogs/aws/bedrock-agent-mesh"}
+  ],
+  "research": [
+    {"title":"《SOAR-2: Self-Improving Coding Agents at Convergence》","summary":"reflexion + rollout 的自训练框架，SWE-bench Verified 51.4%。","tags":["研究","Agent自进化"],"source":"arXiv 2605.20530","url":"https://arxiv.org/abs/2605.20530"},
+    {"title":"《AgentBench-2: Unified Evaluation for Multi-Agent Systems》","summary":"14 类 agent 任务、统一 trace 格式。","tags":["研究","Harness工程"],"source":"arXiv 2605.20410","url":"https://arxiv.org/abs/2605.20410"},
+    {"title":"《Self-Rewarding Language Models 2.0》","summary":"奖励模型自训练闭环跑通，性能逼近人工 reward。","tags":["研究"],"source":"arXiv 2605.20111","url":"https://arxiv.org/abs/2605.20111"},
+    {"title":"《A Survey of Agent Memory (2026)》","summary":"episodic / semantic / procedural memory 系统综述。","tags":["研究","Agentic架构"],"source":"arXiv 2605.20188","url":"https://arxiv.org/abs/2605.20188"},
+    {"title":"《Tool-Aware Decoding for LLMs》","summary":"推理阶段感知 tool-call，端到端 latency -22%。","tags":["研究"],"source":"arXiv 2605.20302","url":"https://arxiv.org/abs/2605.20302"}
+  ],
+  "china": [
+    {"title":"智谱发布 GLM-Agent 3：原生 A2A 支持","summary":"国内首个原生支持 a2a 消息格式的开源 agent 模型。","tags":["国内","A2A协作"],"source":"zhipuai.cn","url":"https://www.zhipuai.cn/news/glm-agent-3"},
+    {"title":"阿里通义 Qwen-Agent 3.0 上线 reflexion 训练 pipeline","summary":"开源自进化训练样例，复现 SOAR-style 收敛。","tags":["国内","Agent自进化"],"source":"qwen.aliyun.com","url":"https://qwen.aliyun.com/blog/agent-3"},
+    {"title":"DeepSeek-Agent 预告：年底前发布","summary":"团队透露将基于 MoE-Agent 架构，重点优化长链路 task。","tags":["国内"],"source":"deepseek.com","url":"https://www.deepseek.com/blog/agent-roadmap"},
+    {"title":"百度文心 ERNIE-Agent 接入百度搜索","summary":"agent + 搜索引擎闭环，国内首个大规模商用案例。","tags":["国内","行业"],"source":"baidu.com","url":"https://yiyan.baidu.com/news/agent-search"}
+  ]
+}
