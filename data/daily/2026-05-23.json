@@ -1,0 +1,159 @@
+{
+  "date": "2026-05-23",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-05-23 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "All Model Labs Are Now Agent Labs",
+      "summary": "Article URL: https://www.latent.space/p/ainews-all-model-labs-are-now-agent\nComments URL: https://news.ycombinator.com/item?id=48244659\nPoints: 1\n# Comments: 0",
+      "url": "https://www.latent.space/p/ainews-all-model-labs-are-now-agent",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Agent Substrate",
+      "summary": "Article URL: https://github.com/agent-substrate/substrate\nComments URL: https://news.ycombinator.com/item?id=48244426\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/agent-substrate/substrate",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Any positive sides of LLM there?",
+      "summary": "I started to wonder that I dont remember reading any positive articles or discussion about AI.It is deep in human nature for stressing out about our problems that might occur and possible dangers, and for myself I think I have been quite deep lately for the upcoming \"world-end\" and overall stressin",
+      "url": "https://news.ycombinator.com/item?id=48244190",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Nano: Coding agent in under 200 lines",
+      "summary": "Article URL: https://github.com/pnegahdar/nano\nComments URL: https://news.ycombinator.com/item?id=48243488\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/pnegahdar/nano",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Show HN: OpenRig – a control plane for multi-agent coding topologies",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://www.openrig.dev/"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "Agentic-Agile: Why Agent Development Needs Agile (Not Just Prompts)",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://developer.microsoft.com/blog/agentic-agile-why-agent-development-needs-agile-not-just-prompts"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": []
+    }
+  ],
+  "oss": [
+    {
+      "title": "All Model Labs Are Now Agent Labs",
+      "summary": "Article URL: https://www.latent.space/p/ainews-all-model-labs-are-now-agent\nComments URL: https://news.ycombinator.com/item?id=48244659\nPoints: 1\n# Comments: 0",
+      "url": "https://www.latent.space/p/ainews-all-model-labs-are-now-agent",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Agent Substrate",
+      "summary": "Article URL: https://github.com/agent-substrate/substrate\nComments URL: https://news.ycombinator.com/item?id=48244426\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/agent-substrate/substrate",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Any positive sides of LLM there?",
+      "summary": "I started to wonder that I dont remember reading any positive articles or discussion about AI.It is deep in human nature for stressing out about our problems that might occur and possible dangers, and for myself I think I have been quite deep lately for the upcoming \"world-end\" and overall stressin",
+      "url": "https://news.ycombinator.com/item?id=48244190",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Nano: Coding agent in under 200 lines",
+      "summary": "Article URL: https://github.com/pnegahdar/nano\nComments URL: https://news.ycombinator.com/item?id=48243488\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/pnegahdar/nano",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: BonzAI – self-sovereign, local LLM inference in the browser",
+      "summary": "Article URL: https://www.bonzai.sh/\nComments URL: https://news.ycombinator.com/item?id=48242556\nPoints: 2\n# Comments: 0",
+      "url": "https://www.bonzai.sh/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: Microcodegen.py – PRD → FastAPI app, one file, no LLM calls",
+      "summary": "Article URL: https://github.com/Anioko/microcodegen\nComments URL: https://news.ycombinator.com/item?id=48241911\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/Anioko/microcodegen",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: OpenRig – a control plane for multi-agent coding topologies",
+      "summary": "Hi HN, I’m Mike, the founder of OpenRig.I built this because my Claude Code + Codex setup kept forming little \"topologies\" of long-lived agents that worked well together, but the terminal sprawl was intense. So I built a primitive the agents could intuitively reach for to save and recreate these se",
+      "url": "https://www.openrig.dev/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Agentic-Agile: Why Agent Development Needs Agile (Not Just Prompts)",
+      "summary": "Article URL: https://developer.microsoft.com/blog/agentic-agile-why-agent-development-needs-agile-not-just-prompts\nComments URL: https://news.ycombinator.com/item?id=48241013\nPoints: 4\n# Comments: 0",
+      "url": "https://developer.microsoft.com/blog/agentic-agile-why-agent-development-needs-agile-not-just-prompts",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [
+    {
+      "title": "Google Is Killing ChromeOS: Aluminium OS, Its Android-Based Replacement",
+      "summary": "Article URL: https://techjournal.org/google-aluminium-os-replacing-chromeos\nComments URL: https://news.ycombinator.com/item?id=48244476\nPoints: 8\n# Comments: 1",
+      "url": "https://techjournal.org/google-aluminium-os-replacing-chromeos",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "research": [],
+  "china": []
+}
