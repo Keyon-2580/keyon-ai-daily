@@ -1,0 +1,151 @@
+{
+  "date": "2026-05-24",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-05-24 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "SSV: Sparse Speculative Verification for Efficient LLM Inference",
+      "summary": "Article URL: https://arxiv.org/abs/2605.19893\nComments URL: https://news.ycombinator.com/item?id=48253621\nPoints: 3\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2605.19893",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Characterization of machine learning compilers for LLM inference on NVIDIA GPUs",
+      "summary": "Article URL: https://link.springer.com/article/10.1007/s11227-026-08559-6\nComments URL: https://news.ycombinator.com/item?id=48253584\nPoints: 3\n# Comments: 0",
+      "url": "https://link.springer.com/article/10.1007/s11227-026-08559-6",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "A simple AI agent in Java",
+      "summary": "Article URL: https://github.com/machineswillrise/jagent\nComments URL: https://news.ycombinator.com/item?id=48253474\nPoints: 4\n# Comments: 0",
+      "url": "https://github.com/machineswillrise/jagent",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Bateschess – Chess Analytics Feeding Stockfish Evals into LLM's",
+      "summary": "Article URL: https://bateschess.com\nComments URL: https://news.ycombinator.com/item?id=48253002\nPoints: 2\n# Comments: 0",
+      "url": "https://bateschess.com",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": []
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "Agentic Compilation: Reducing LLM Rerun Costs",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://arxiv.org/abs/2604.09718"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Bateschess – Chess Analytics Feeding Stockfish Evals into LLM's",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://bateschess.com"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "SSV: Sparse Speculative Verification for Efficient LLM Inference",
+      "summary": "Article URL: https://arxiv.org/abs/2605.19893\nComments URL: https://news.ycombinator.com/item?id=48253621\nPoints: 3\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2605.19893",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Characterization of machine learning compilers for LLM inference on NVIDIA GPUs",
+      "summary": "Article URL: https://link.springer.com/article/10.1007/s11227-026-08559-6\nComments URL: https://news.ycombinator.com/item?id=48253584\nPoints: 3\n# Comments: 0",
+      "url": "https://link.springer.com/article/10.1007/s11227-026-08559-6",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "A simple AI agent in Java",
+      "summary": "Article URL: https://github.com/machineswillrise/jagent\nComments URL: https://news.ycombinator.com/item?id=48253474\nPoints: 4\n# Comments: 0",
+      "url": "https://github.com/machineswillrise/jagent",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Bateschess – Chess Analytics Feeding Stockfish Evals into LLM's",
+      "summary": "Article URL: https://bateschess.com\nComments URL: https://news.ycombinator.com/item?id=48253002\nPoints: 2\n# Comments: 0",
+      "url": "https://bateschess.com",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Customizing an LLM for Enterprise Software Engineering",
+      "summary": "Article URL: https://arxiv.org/abs/2605.16517\nComments URL: https://news.ycombinator.com/item?id=48252173\nPoints: 4\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2605.16517",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Agentic Compilation: Reducing LLM Rerun Costs",
+      "summary": "Article URL: https://arxiv.org/abs/2604.09718\nComments URL: https://news.ycombinator.com/item?id=48251826\nPoints: 3\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2604.09718",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Kimi Is Quietly Beating Everyone – The Engineer Behind Agent Swarm Reveals Why",
+      "summary": "Article URL: https://twitter.com/kirillk_web3/status/2057528102368977328/video/1\nComments URL: https://news.ycombinator.com/item?id=48251572\nPoints: 11\n# Comments: 0",
+      "url": "https://twitter.com/kirillk_web3/status/2057528102368977328/video/1",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "GateGraph – a gate that decides if an AI agent action may proceed before it runs",
+      "summary": "Article URL: https://github.com/humancoreai/Gategraph\nComments URL: https://news.ycombinator.com/item?id=48251003\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/humancoreai/Gategraph",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [],
+  "research": [],
+  "china": []
+}
