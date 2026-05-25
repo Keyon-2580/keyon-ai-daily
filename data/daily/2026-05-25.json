@@ -1,0 +1,364 @@
+{
+  "date": "2026-05-25",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-05-25 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Show HN: YieldOS-Lite – A simulator for LLM inference control-plane governance",
+      "summary": "Article URL: https://github.com/nikitph/yieldos\nComments URL: https://news.ycombinator.com/item?id=48263410\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/nikitph/yieldos",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Live AI music sequencing agent",
+      "summary": "Pretzel is an experiment in live AI agents for music. It's a web synchronized music sequencer that is controlled by an AI agent. Everyone chats with the same AI agent and hears the same music at any time. I'm no audio engineer so it's a pretty basic tune, and turns out audio is a pretty complex 3d",
+      "url": "https://pretzel.shukant.com/?nickname=Anonymous&role=stage",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Code-mapper: Free CLI tool to reduce LLM token usage on any codebases",
+      "summary": "Article URL: https://github.com/damien220/code-mapper\nComments URL: https://news.ycombinator.com/item?id=48262981\nPoints: 3\n# Comments: 0",
+      "url": "https://github.com/damien220/code-mapper",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "We Built Secure, Scalable Agent Sandbox Infrastructure",
+      "summary": "Article URL: https://twitter.com/larsencc/status/2027225210412470668\nComments URL: https://news.ycombinator.com/item?id=48262435\nPoints: 2\n# Comments: 1",
+      "url": "https://twitter.com/larsencc/status/2027225210412470668",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems",
+      "summary": "arXiv:2605.22866v1 Announce Type: new \nAbstract: Compound AI systems route tasks through hierarchies of specialised components. Attribution is dominated by Shapley-based methods (SHAP), which decompose a coalition value function into per-component marginal contributions and require evaluation of the",
+      "url": "https://arxiv.org/abs/2605.22866",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "NeuroNL2LTL: A Neurosymbolic Framework for Natural Language Translation of Linear Temporal Logic",
+      "summary": "arXiv:2605.22874v1 Announce Type: new \nAbstract: Effectively translating between natural language (NL) and formal logics like Linear Temporal Logic (LTL) requires expertise that limits formal verification's reach in safety-critical development. Template-based approaches sacrifice expressiveness for",
+      "url": "https://arxiv.org/abs/2605.22874",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "RMA: an Agentic System for Research-Level Mathematical Problems",
+      "summary": "arXiv:2605.22875v1 Announce Type: new \nAbstract: We present $\\textbf{Research Math Agents (RMA)}$, an agentic framework for automated reasoning on research-level mathematical problems. Unlike prior studies centered on competition mathematics or formal theorem proving, RMA targets research-level math",
+      "url": "https://arxiv.org/abs/2605.22875",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research",
+      "summary": "arXiv:2605.22878v1 Announce Type: new \nAbstract: The exponential growth of global academic output has confronted researchers and AI agents with an unprecedented ``information explosion,'' where fragmented and unstructured knowledge organization impedes deep interdisciplinary integration. Current aca",
+      "url": "https://arxiv.org/abs/2605.22878",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": [
+        {
+          "title": "ImProver 2: Iteratively Self-Improving LMs for Neurosymbolic Proof Optimization",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2605.22885"
+        }
+      ]
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "How to Steer Your Multi-Agent System: Human-LLM Collaborative Planning",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2605.23023"
+        },
+        {
+          "title": "SVR-MAD: A Bayesian-Inspired Framework for Posterior-Guided Multi-Agent Debate",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2605.23099"
+        },
+        {
+          "title": "Self-Refining Topology Optimization via an LLM-Based Multi-Agent Framework",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2605.23273"
+        },
+        {
+          "title": "ARMS: Automatic Reward Shaping for Sparse-Reward Multi-Agent Reinforcement Learning",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2605.23562"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "A Language for Describing Agentic LLM Contexts",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://arxiv.org/abs/2605.01920"
+        },
+        {
+          "title": "RMA: an Agentic System for Research-Level Mathematical Problems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2605.22875"
+        },
+        {
+          "title": "Energy per Successful Goal: Goal-Level Energy Accounting for Agentic AI Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2605.22883"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Agent evals should feel like real work",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://www.zohaib.cc/blog/agent-evals"
+        },
+        {
+          "title": "BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2605.22866"
+        },
+        {
+          "title": "Evaluating Large Language Models in a Complex Hidden Role Game",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2605.22826"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "Show HN: YieldOS-Lite – A simulator for LLM inference control-plane governance",
+      "summary": "Article URL: https://github.com/nikitph/yieldos\nComments URL: https://news.ycombinator.com/item?id=48263410\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/nikitph/yieldos",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Live AI music sequencing agent",
+      "summary": "Pretzel is an experiment in live AI agents for music. It's a web synchronized music sequencer that is controlled by an AI agent. Everyone chats with the same AI agent and hears the same music at any time. I'm no audio engineer so it's a pretty basic tune, and turns out audio is a pretty complex 3d",
+      "url": "https://pretzel.shukant.com/?nickname=Anonymous&role=stage",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Code-mapper: Free CLI tool to reduce LLM token usage on any codebases",
+      "summary": "Article URL: https://github.com/damien220/code-mapper\nComments URL: https://news.ycombinator.com/item?id=48262981\nPoints: 3\n# Comments: 0",
+      "url": "https://github.com/damien220/code-mapper",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "We Built Secure, Scalable Agent Sandbox Infrastructure",
+      "summary": "Article URL: https://twitter.com/larsencc/status/2027225210412470668\nComments URL: https://news.ycombinator.com/item?id=48262435\nPoints: 2\n# Comments: 1",
+      "url": "https://twitter.com/larsencc/status/2027225210412470668",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Agent evals should feel like real work",
+      "summary": "Article URL: https://www.zohaib.cc/blog/agent-evals\nComments URL: https://news.ycombinator.com/item?id=48262205\nPoints: 2\n# Comments: 0",
+      "url": "https://www.zohaib.cc/blog/agent-evals",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: Local note engine uses LLM to organize notes into a knowledge graph",
+      "summary": "i take a lot of notes but rarely find time to organize them so the value of most notes in my personal context quietly disappears.Notecast is a local note engine i've been building to help me with that. it runs a three stage LLM pipeline (Classify -> Organize -> Consolidate) that automatically build",
+      "url": "https://github.com/AlexWasHeree/NoteCast",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Authorization layer for AI agents (OAuth has no idea what your agent is doing)",
+      "summary": "Article URL: https://www.tryagentgate.com/\nComments URL: https://news.ycombinator.com/item?id=48261032\nPoints: 2\n# Comments: 0",
+      "url": "https://www.tryagentgate.com/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "A Language for Describing Agentic LLM Contexts",
+      "summary": "Article URL: https://arxiv.org/abs/2605.01920\nComments URL: https://news.ycombinator.com/item?id=48260750\nPoints: 3\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2605.01920",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems",
+      "summary": "arXiv:2605.22866v1 Announce Type: new \nAbstract: Compound AI systems route tasks through hierarchies of specialised components. Attribution is dominated by Shapley-based methods (SHAP), which decompose a coalition value function into per-component marginal contributions and require evaluation of the",
+      "url": "https://arxiv.org/abs/2605.22866",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "NeuroNL2LTL: A Neurosymbolic Framework for Natural Language Translation of Linear Temporal Logic",
+      "summary": "arXiv:2605.22874v1 Announce Type: new \nAbstract: Effectively translating between natural language (NL) and formal logics like Linear Temporal Logic (LTL) requires expertise that limits formal verification's reach in safety-critical development. Template-based approaches sacrifice expressiveness for",
+      "url": "https://arxiv.org/abs/2605.22874",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "RMA: an Agentic System for Research-Level Mathematical Problems",
+      "summary": "arXiv:2605.22875v1 Announce Type: new \nAbstract: We present $\\textbf{Research Math Agents (RMA)}$, an agentic framework for automated reasoning on research-level mathematical problems. Unlike prior studies centered on competition mathematics or formal theorem proving, RMA targets research-level math",
+      "url": "https://arxiv.org/abs/2605.22875",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research",
+      "summary": "arXiv:2605.22878v1 Announce Type: new \nAbstract: The exponential growth of global academic output has confronted researchers and AI agents with an unprecedented ``information explosion,'' where fragmented and unstructured knowledge organization impedes deep interdisciplinary integration. Current aca",
+      "url": "https://arxiv.org/abs/2605.22878",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Energy per Successful Goal: Goal-Level Energy Accounting for Agentic AI Systems",
+      "summary": "arXiv:2605.22883v1 Announce Type: new \nAbstract: Current AI energy benchmarks measure consumption at the granularity of a single model invocation or training run. For classical single-turn workloads this unit remains coherent. For agentic systems - where a single user goal may trigger multi-step orc",
+      "url": "https://arxiv.org/abs/2605.22883",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "ImProver 2: Iteratively Self-Improving LMs for Neurosymbolic Proof Optimization",
+      "summary": "arXiv:2605.22885v1 Announce Type: new \nAbstract: Formal mathematics libraries are rapidly expanding, creating a growing need to refactor verified proofs for maintainability and to improve training data quality for neural provers. However, scalable proof optimization is hindered by heterogeneous and",
+      "url": "https://arxiv.org/abs/2605.22885",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Mediative Fuzzy Logic: From Type-1 Foundations to Type-2, Type-3 and Quantum Extensions",
+      "summary": "arXiv:2605.22900v1 Announce Type: new \nAbstract: Mediative Fuzzy Logic was conceived as a practical scheme for reconciling hesitant or conflicting assessments in fuzzy control and decision-making. However, its logical and semantic foundations remain underdeveloped, especially beyond operational type",
+      "url": "https://arxiv.org/abs/2605.22900",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "EVE-Agent: Evidence-Verifiable Self-Evolving Agents",
+      "summary": "arXiv:2605.22905v1 Announce Type: new \nAbstract: Self-evolving agents should not train on examples they cannot justify. Data-free self-evolving search agents offer a scalable route to systems that generate their own questions, answer them, and improve from their own feedback without human annotation",
+      "url": "https://arxiv.org/abs/2605.22905",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "How to Steer Your Multi-Agent System: Human-LLM Collaborative Planning",
+      "summary": "arXiv:2605.23023v1 Announce Type: new \nAbstract: In orchestrated multi-agent systems, humans often struggle to manage plans due to their complexity and limited transparency. Existing approaches rely on outcome-level supervision, where users verify only final outputs without visibility into intermedi",
+      "url": "https://arxiv.org/abs/2605.23023",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "SVR-MAD: A Bayesian-Inspired Framework for Posterior-Guided Multi-Agent Debate",
+      "summary": "arXiv:2605.23099v1 Announce Type: new \nAbstract: Multi-Agent Debate (MAD) improves LLM-agent accuracy but suffers from rapid context growth, limiting scalability in larger multi-agent settings. Existing methods prune low-utility communications using prior signals, such as token-level log-likelihoods",
+      "url": "https://arxiv.org/abs/2605.23099",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Self-Refining Topology Optimization via an LLM-Based Multi-Agent Framework",
+      "summary": "arXiv:2605.23273v1 Announce Type: new \nAbstract: Topology optimization is a widely used design method that produces optimized material distributions for prescribed objectives and constraints through well-established numerical algorithms. Throughout the workflow, engineers make a series of decisions",
+      "url": "https://arxiv.org/abs/2605.23273",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "ARMS: Automatic Reward Shaping for Sparse-Reward Multi-Agent Reinforcement Learning",
+      "summary": "arXiv:2605.23562v1 Announce Type: new \nAbstract: Sparse rewards are a major bottleneck in multi-agent reinforcement learning (MARL), where simultaneous learning induces non-stationarity and makes reward design especially delicate. Reward shaping can accelerate learning, but in the multi-agent settin",
+      "url": "https://arxiv.org/abs/2605.23562",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Safety, Liveness, and Fairness in Quantitative Argumentation Dialogues",
+      "summary": "arXiv:2605.23578v1 Announce Type: new \nAbstract: We introduce notions of safety, liveness, and fairness, as commonly used in temporal reasoning, to quantitative (bipolar) argumentation dialogues where repeated inferences are drawn from argumentation graphs with weighted nodes. Between inferences, th",
+      "url": "https://arxiv.org/abs/2605.23578",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "The Communication Complexity of Instant-Runoff Voting",
+      "summary": "arXiv:2605.23743v1 Announce Type: new \nAbstract: The communication complexity of a voting rule is the worst-case number of bits that n voters must transmit to a central authority under the most efficient elicitation protocol in an election with m candidates. We study the communication complexity of",
+      "url": "https://arxiv.org/abs/2605.23743",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Evaluating Large Language Models in a Complex Hidden Role Game",
+      "summary": "arXiv:2605.22826v1 Announce Type: cross \nAbstract: Quantifying the deceptive potential of Large Language Models (LLMs) is critical for AI safety, yet difficult to achieve in uncontrolled environments. This work investigates the reasoning, persuasion, and deceptive capabilities of LLMs within the soc",
+      "url": "https://arxiv.org/abs/2605.22826",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Computable Fairness: Boltzmann-Softmax Control for AI Resource Allocation",
+      "summary": "arXiv:2605.22827v1 Announce Type: cross \nAbstract: In large-scale AI systems, allocating scarce resources such as GPU compute time and bandwidth among multiple agents is a critical challenge. Conventional policies focus on efficiency metrics, potentially leading to dominance concentration that under",
+      "url": "https://arxiv.org/abs/2605.22827",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
