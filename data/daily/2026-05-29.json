@@ -1,0 +1,357 @@
+{
+  "date": "2026-05-29",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-05-29 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Show HN: P2P (POC) of the ACP for decentralized agent communication",
+      "summary": "The main idea is, to connect to p2p and just ask any agent in network for help, like `context7` but provided by agents to agents.dunno if this idea is somehow useful, but i had a great session creating this :3\n\nComments URL: https://news.ycombinator.com/item?id=48318241\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/skorotkiewicz/acp-p2p",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Starbucks retired AI agent that miscounted inventories, slowed down baristas",
+      "summary": "Article URL: https://fortune.com/2026/05/28/starbucks-quietly-retired-ai-inventory-agent-barista-complaints-hallucinations/\nComments URL: https://news.ycombinator.com/item?id=48317932\nPoints: 5\n# Comments: 0",
+      "url": "https://fortune.com/2026/05/28/starbucks-quietly-retired-ai-inventory-agent-barista-complaints-hallucinations/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+      "summary": "Article URL: https://minimaxir.com/2026/05/openrouter-hy3/\nComments URL: https://news.ycombinator.com/item?id=48317294\nPoints: 41\n# Comments: 18",
+      "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Building Trustworthy LLM Judges",
+      "summary": "Article URL: https://www.withemissary.com/resources/25\nComments URL: https://news.ycombinator.com/item?id=48317180\nPoints: 1\n# Comments: 1",
+      "url": "https://www.withemissary.com/resources/25",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Behavior-Induced Mirror-Prox Temporal-Difference Learning for Faster Off-Policy Prediction",
+      "summary": "arXiv:2605.28849v1 Announce Type: new \nAbstract: Gradient temporal-difference methods provide stable off-policy prediction with linear function approximation, but their practical performance is strongly affected by the geometry induced by the auxiliary-variable metric. Existing Mirror-Prox TD method",
+      "url": "https://arxiv.org/abs/2605.28849",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Behavior-Aware Auxiliary Corrections for Off-Policy Temporal-Difference Prediction",
+      "summary": "arXiv:2605.28855v1 Announce Type: new \nAbstract: Temporal-difference learning with function approximation can be unstable under off-policy sampling. TDC stabilizes off-policy TD through an auxiliary covariance correction, and TDRC further regularizes this correction in a single-timescale recursion.",
+      "url": "https://arxiv.org/abs/2605.28855",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "The Cognitive Categorical Transformer: Category-Theoretic Inductive Biases for Language Modeling",
+      "summary": "arXiv:2605.28864v1 Announce Type: new \nAbstract: The Cognitive Categorical Transformer (CCT) is a 306M-parameter architecture that augments a pretrained GPT-2 Small backbone with cognitively grounded components derived from category theory and several inspirations from cognitive science. Under a mat",
+      "url": "https://arxiv.org/abs/2605.28864",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Ultra-Reduced-Impact-Encased-Logging (URIEL): propose a new method for selective sustainable logging and post-harvest silvicultural treatment in tropical forest using airborne robotics systems",
+      "summary": "arXiv:2605.28883v1 Announce Type: new \nAbstract: Tropical forests worldwide are under intense deforestation pressure driven by economic and political interests, and scientific evidence suggests this deforestation contributes to climate change. This paper proposes a novel logging method for tropical",
+      "url": "https://arxiv.org/abs/2605.28883",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Symposium – Replayable, multi-agent LLM deliberation as a protocol",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://news.ycombinator.com/login?goto=newest"
+        },
+        {
+          "title": "The incremental voter model: mean-field analysis and convergence to equilibrium",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2605.28984"
+        },
+        {
+          "title": "LLM-ALSO: LLM-Driven Adaptive Learning-Signal Optimization for Multi-Agent Reinforcement Learning",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2605.29293"
+        },
+        {
+          "title": "DynaGraph: Lightweight Multi-Model Interaction Framework via Dynamic Topological Reconfiguration",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2605.29511"
+        },
+        {
+          "title": "CONCAT: Consensus- and Confidence-Driven Ad Hoc Teaming for Efficient LLM-Based Multi-Agent Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2605.29612"
+        },
+        {
+          "title": "Evolve as a Team: Collaborative Self-Evolution for LLM-based Multi-Agent Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2605.29790"
+        },
+        {
+          "title": "Evolutionary Dynamics of Cooperation in Next-Generation LLM Agent Systems: A Cross-Provider Empirical Extension",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2605.29874"
+        },
+        {
+          "title": "Discovering Cooperative Pipelines: Autoresearch for Sequential Social Dilemmas",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2605.30003"
+        },
+        {
+          "title": "When Cloud Agents Meet Device Agents: Lessons from Hybrid Multi-Agent Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2605.30102"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": []
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": []
+    }
+  ],
+  "oss": [
+    {
+      "title": "Show HN: P2P (POC) of the ACP for decentralized agent communication",
+      "summary": "The main idea is, to connect to p2p and just ask any agent in network for help, like `context7` but provided by agents to agents.dunno if this idea is somehow useful, but i had a great session creating this :3\n\nComments URL: https://news.ycombinator.com/item?id=48318241\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/skorotkiewicz/acp-p2p",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Starbucks retired AI agent that miscounted inventories, slowed down baristas",
+      "summary": "Article URL: https://fortune.com/2026/05/28/starbucks-quietly-retired-ai-inventory-agent-barista-complaints-hallucinations/\nComments URL: https://news.ycombinator.com/item?id=48317932\nPoints: 5\n# Comments: 0",
+      "url": "https://fortune.com/2026/05/28/starbucks-quietly-retired-ai-inventory-agent-barista-complaints-hallucinations/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+      "summary": "Article URL: https://minimaxir.com/2026/05/openrouter-hy3/\nComments URL: https://news.ycombinator.com/item?id=48317294\nPoints: 41\n# Comments: 18",
+      "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Building Trustworthy LLM Judges",
+      "summary": "Article URL: https://www.withemissary.com/resources/25\nComments URL: https://news.ycombinator.com/item?id=48317180\nPoints: 1\n# Comments: 1",
+      "url": "https://www.withemissary.com/resources/25",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Symposium – Replayable, multi-agent LLM deliberation as a protocol",
+      "summary": "Article URL: https://news.ycombinator.com/login?goto=newest\nComments URL: https://news.ycombinator.com/item?id=48316922\nPoints: 1\n# Comments: 0",
+      "url": "https://news.ycombinator.com/login?goto=newest",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "code2prompt: Convert any folder into a single LLM prompt",
+      "summary": "Article URL: https://github.com/mufeedvh/code2prompt\nComments URL: https://news.ycombinator.com/item?id=48316665\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/mufeedvh/code2prompt",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: rik – Limited Agent Edition",
+      "summary": "Article URL: https://github.com/exlee/rik\nComments URL: https://news.ycombinator.com/item?id=48316203\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/exlee/rik",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: Open-source browser agent that runs 24/7",
+      "summary": "Article URL: https://github.com/sediman-agent/sediman-browse\nComments URL: https://news.ycombinator.com/item?id=48314899\nPoints: 3\n# Comments: 0",
+      "url": "https://github.com/sediman-agent/sediman-browse",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [
+    {
+      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+      "summary": "Article URL: https://www.anthropic.com/news/series-h\nComments URL: https://news.ycombinator.com/item?id=48313048\nPoints: 302\n# Comments: 317",
+      "url": "https://www.anthropic.com/news/series-h",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "research": [
+    {
+      "title": "Behavior-Induced Mirror-Prox Temporal-Difference Learning for Faster Off-Policy Prediction",
+      "summary": "arXiv:2605.28849v1 Announce Type: new \nAbstract: Gradient temporal-difference methods provide stable off-policy prediction with linear function approximation, but their practical performance is strongly affected by the geometry induced by the auxiliary-variable metric. Existing Mirror-Prox TD method",
+      "url": "https://arxiv.org/abs/2605.28849",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Behavior-Aware Auxiliary Corrections for Off-Policy Temporal-Difference Prediction",
+      "summary": "arXiv:2605.28855v1 Announce Type: new \nAbstract: Temporal-difference learning with function approximation can be unstable under off-policy sampling. TDC stabilizes off-policy TD through an auxiliary covariance correction, and TDRC further regularizes this correction in a single-timescale recursion.",
+      "url": "https://arxiv.org/abs/2605.28855",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "The Cognitive Categorical Transformer: Category-Theoretic Inductive Biases for Language Modeling",
+      "summary": "arXiv:2605.28864v1 Announce Type: new \nAbstract: The Cognitive Categorical Transformer (CCT) is a 306M-parameter architecture that augments a pretrained GPT-2 Small backbone with cognitively grounded components derived from category theory and several inspirations from cognitive science. Under a mat",
+      "url": "https://arxiv.org/abs/2605.28864",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Ultra-Reduced-Impact-Encased-Logging (URIEL): propose a new method for selective sustainable logging and post-harvest silvicultural treatment in tropical forest using airborne robotics systems",
+      "summary": "arXiv:2605.28883v1 Announce Type: new \nAbstract: Tropical forests worldwide are under intense deforestation pressure driven by economic and political interests, and scientific evidence suggests this deforestation contributes to climate change. This paper proposes a novel logging method for tropical",
+      "url": "https://arxiv.org/abs/2605.28883",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Review Arcade: On the Human Alignment and Gameability of LLM Reviews",
+      "summary": "arXiv:2605.28897v1 Announce Type: new \nAbstract: LLM-generated reviews for scientific papers are gaining considerable traction and are even being officially piloted by major conferences. We have to assume that not only reviewers are using LLM-assistance, but also that authors use LLMs to revise thei",
+      "url": "https://arxiv.org/abs/2605.28897",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Orthogonal Concept Erasure for Diffusion Models",
+      "summary": "arXiv:2605.28902v1 Announce Type: new \nAbstract: Concept erasure has emerged as a promising approach to mitigate undesired or unsafe content in diffusion models, yet existing methods still face significant limitations. While training-based methods are effective, their high computational cost limits",
+      "url": "https://arxiv.org/abs/2605.28902",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Frontier LLM-based agents can overcome the ontology curation bottleneck for natural phenotypes",
+      "summary": "arXiv:2605.28965v1 Announce Type: new \nAbstract: Linking free-text phenotype descriptions to ontology terms, typically referred to as phenotype annotation, is essential for the cross-study integration of comparative morphological data. This labor intensive process has heavily relied on highly traine",
+      "url": "https://arxiv.org/abs/2605.28965",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "VFEAgent: A Multimodal Agent Framework for End-to-End Automated Finite Element Analysis",
+      "summary": "arXiv:2605.28978v1 Announce Type: new \nAbstract: Finite Element Analysis (FEA) serves as the cornerstone of modern engineering design. However, its workflow is inherently complex and relies heavily on domain expertise. Although recent efforts have integrated Large Language Models (LLMs) into FEA, ex",
+      "url": "https://arxiv.org/abs/2605.28978",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "The incremental voter model: mean-field analysis and convergence to equilibrium",
+      "summary": "arXiv:2605.28984v1 Announce Type: new \nAbstract: We introduce the incremental voter model (IVM), a discrete-opinion multi-agent system where agents undergo step-wise transitions biased by the opinion of a randomly selected persuader. Our incremental voter model comprises a large population of intera",
+      "url": "https://arxiv.org/abs/2605.28984",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "LLM-ALSO: LLM-Driven Adaptive Learning-Signal Optimization for Multi-Agent Reinforcement Learning",
+      "summary": "arXiv:2605.29293v1 Announce Type: new \nAbstract: Effective training-time guidance is central to multi-agent reinforcement learning (MARL), yet remains difficult in sparse-reward settings where weak supervision limits coordination and policy improvement, and existing methods often require substantial",
+      "url": "https://arxiv.org/abs/2605.29293",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "DynaGraph: Lightweight Multi-Model Interaction Framework via Dynamic Topological Reconfiguration",
+      "summary": "arXiv:2605.29511v1 Announce Type: new \nAbstract: Tackling complex reasoning tasks typically relies on massive monolithic LLMs, which suffer from severe computational redundancy. While task decomposition through structured pipelines or multi-agent collaborations offers an alternative, these approache",
+      "url": "https://arxiv.org/abs/2605.29511",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "CONCAT: Consensus- and Confidence-Driven Ad Hoc Teaming for Efficient LLM-Based Multi-Agent Systems",
+      "summary": "arXiv:2605.29612v1 Announce Type: new \nAbstract: Although large language model (LLM) based multi-agent systems (MAS) show their capability to solve complex tasks and achieve higher performance over single agent systems, they lead to huge computational overheads because of heavy communication between",
+      "url": "https://arxiv.org/abs/2605.29612",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Evolve as a Team: Collaborative Self-Evolution for LLM-based Multi-Agent Systems",
+      "summary": "arXiv:2605.29790v1 Announce Type: new \nAbstract: LLM-based multi-agent systems (MAS) have emerged as an effective paradigm for complex and long-horizon tasks. However, in real-world tasks, MAS often exhibit various failures during execution and such failures are difficult to eliminate during design.",
+      "url": "https://arxiv.org/abs/2605.29790",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Evolutionary Dynamics of Cooperation in Next-Generation LLM Agent Systems: A Cross-Provider Empirical Extension",
+      "summary": "arXiv:2605.29874v1 Announce Type: new \nAbstract: Do next-generation LLM agents inherit the cooperative biases documented in their predecessors, or does scale and provider diversity reshape equilibrium behaviour in competitive multi-agent settings? Willis et al. established a benchmark for this quest",
+      "url": "https://arxiv.org/abs/2605.29874",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Discovering Cooperative Pipelines: Autoresearch for Sequential Social Dilemmas",
+      "summary": "arXiv:2605.30003v1 Announce Type: new \nAbstract: We study two-level autoresearch for cooperation: an outer-loop AI agent autonomously redesigns the inner-loop pipeline of an LLM policy-synthesis system for multi-agent Sequential Social Dilemmas (SSDs). A researcher agent $\\mathcal{R}$ (run as a codi",
+      "url": "https://arxiv.org/abs/2605.30003",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "When Cloud Agents Meet Device Agents: Lessons from Hybrid Multi-Agent Systems",
+      "summary": "arXiv:2605.30102v1 Announce Type: new \nAbstract: The design space of agentic AI inference spans two extremes: frontier large language models (LLMs), typically hosted in the cloud and offering strong performance across a wide range of tasks at substantially high cost, and more cost-efficient small la",
+      "url": "https://arxiv.org/abs/2605.30102",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
