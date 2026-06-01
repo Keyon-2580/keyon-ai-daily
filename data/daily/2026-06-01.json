@@ -1,0 +1,238 @@
+{
+  "date": "2026-06-01",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-06-01 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "PhyDrawGen: Physically Grounded Diagram Generation from Natural Language",
+      "summary": "arXiv:2605.30512v1 Announce Type: new \nAbstract: Generating physics diagrams from text requires strict adherence to physical laws. While current generative models produce visually plausible outputs, they systematically hallucinate force vectors, ignore conservation laws, and violate geometric constr",
+      "url": "https://arxiv.org/abs/2605.30512",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Physically Viable World Models: A Case for Query-Conditioned Embodied AI",
+      "summary": "arXiv:2605.30542v1 Announce Type: new \nAbstract: World models for embodied AI must be physically viable: constructed to answer intervention queries by representing the physical structure governing action outcomes, rather than merely predicting future observations. Existing observation-predictive wor",
+      "url": "https://arxiv.org/abs/2605.30542",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Transforming and Encoding FTS for SAT Solving: What Helps, What Hurts (Extended Version)",
+      "summary": "arXiv:2605.30563v1 Announce Type: new \nAbstract: Factored tasks are a classical planning representation that extends SAS+ with limited forms of disjunctive preconditions, conditional effects, and angelic nondeterminism. This allows for a more compact representation of tasks than traditional formalis",
+      "url": "https://arxiv.org/abs/2605.30563",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Procedural Generation of First Person Shooter Maps using Map-Elites",
+      "summary": "arXiv:2605.30570v1 Announce Type: new \nAbstract: We investigate the application of MAP-Elites (a well-known quality diversity algorithm) to design levels for First-Person Shooter (FPS) games. We consider two well-known map representations (All-Black and Grid-Graph) and introduce two novel representa",
+      "url": "https://arxiv.org/abs/2605.30570",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Delayed Repression and Emergent Instability in Adaptive Multi-Agent Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2605.30392"
+        },
+        {
+          "title": "Design and Evaluation of Multi-Agent AI Oracle Systems for Prediction Market Resolution",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2605.30802"
+        },
+        {
+          "title": "Safe Equilibrium Policy Optimization for Strategic Agent Policies",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2605.30854"
+        },
+        {
+          "title": "Dreaming Of Others: Latent Teammate Modeling In World Models For Multi-Agent Reinforcement Learning",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2605.31361"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "LongDS-Bench: On the Failure of Long-Horizon Agentic Data Analysis",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2605.30434"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2605.30621"
+        },
+        {
+          "title": "EHRBench: An Automated and Reliable EHR-based Benchmark for Clinical Decision Making with LLMs",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2605.30637"
+        }
+      ]
+    }
+  ],
+  "oss": [],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "PhyDrawGen: Physically Grounded Diagram Generation from Natural Language",
+      "summary": "arXiv:2605.30512v1 Announce Type: new \nAbstract: Generating physics diagrams from text requires strict adherence to physical laws. While current generative models produce visually plausible outputs, they systematically hallucinate force vectors, ignore conservation laws, and violate geometric constr",
+      "url": "https://arxiv.org/abs/2605.30512",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Physically Viable World Models: A Case for Query-Conditioned Embodied AI",
+      "summary": "arXiv:2605.30542v1 Announce Type: new \nAbstract: World models for embodied AI must be physically viable: constructed to answer intervention queries by representing the physical structure governing action outcomes, rather than merely predicting future observations. Existing observation-predictive wor",
+      "url": "https://arxiv.org/abs/2605.30542",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Transforming and Encoding FTS for SAT Solving: What Helps, What Hurts (Extended Version)",
+      "summary": "arXiv:2605.30563v1 Announce Type: new \nAbstract: Factored tasks are a classical planning representation that extends SAS+ with limited forms of disjunctive preconditions, conditional effects, and angelic nondeterminism. This allows for a more compact representation of tasks than traditional formalis",
+      "url": "https://arxiv.org/abs/2605.30563",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Procedural Generation of First Person Shooter Maps using Map-Elites",
+      "summary": "arXiv:2605.30570v1 Announce Type: new \nAbstract: We investigate the application of MAP-Elites (a well-known quality diversity algorithm) to design levels for First-Person Shooter (FPS) games. We consider two well-known map representations (All-Black and Grid-Graph) and introduce two novel representa",
+      "url": "https://arxiv.org/abs/2605.30570",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Uncertainty-Aware and Temporally Regulated Expert Advice in Reinforcement Learning for Autonomous Driving",
+      "summary": "arXiv:2605.30576v1 Announce Type: new \nAbstract: Exploration in reinforcement learning for autonomous driving is inherently unsafe: agents must experience novel behaviors to learn, yet exploration can lead to collisions or off-road driving. We propose an uncertainty-aware framework that leverages ex",
+      "url": "https://arxiv.org/abs/2605.30576",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents",
+      "summary": "arXiv:2605.30621v1 Announce Type: new \nAbstract: LLM agents are increasingly deployed as systems built around editable external harnesses, including prompts, skills, memories and tools, that shape task execution without changing model parameters. Harness self-evolution adapts such agents by updating",
+      "url": "https://arxiv.org/abs/2605.30621",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "EHRBench: An Automated and Reliable EHR-based Benchmark for Clinical Decision Making with LLMs",
+      "summary": "arXiv:2605.30637v1 Announce Type: new \nAbstract: Clinical decision-making (CDM) is central to real-world clinical workflows, where clinicians infer diagnoses, select treatments, or anticipate future health outcomes under incomplete evidence. LLMs are increasingly used to support these decisions due",
+      "url": "https://arxiv.org/abs/2605.30637",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Structure-Induced Information for Rerooting Levin Tree Search",
+      "summary": "arXiv:2605.30664v1 Announce Type: new \nAbstract: Subgoal-based policy tree search, which uses a policy to guide search, is effective for complex single-agent deterministic problems but often relies on explicit subgoal generation that can incur substantial overhead and hinders scalability. In this pa",
+      "url": "https://arxiv.org/abs/2605.30664",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Social Reasoning in Machines: Investigating Collective Truth-Seeking Dynamics in Large Language Model Debate",
+      "summary": "arXiv:2605.30391v1 Announce Type: new \nAbstract: Human reasoning has long been theorised to operate socially, not through isolated individual cognition, but through collective adversarial discourse, a framework known as the Argumentative Theory of Reasoning (ATR). Rather than relying on individual \"",
+      "url": "https://arxiv.org/abs/2605.30391",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Delayed Repression and Emergent Instability in Adaptive Multi-Agent Systems",
+      "summary": "arXiv:2605.30392v1 Announce Type: new \nAbstract: Regulatory institutions (from content moderation platforms to financial supervisors) observe, deliberate, and intervene only after a characteristic delay. We ask whether this processing lag alone can destabilize a multi-agent system that would otherwi",
+      "url": "https://arxiv.org/abs/2605.30392",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "A Theory-Guided LLM Pedagogical Agent for STEM+C Scaffolding Without Over-Reliance",
+      "summary": "arXiv:2605.30539v1 Announce Type: new \nAbstract: LLM pedagogical agents are proliferating, yet recent findings have raised questions about their adherence to established theories of learning and, by extension, their educational value. Concerns regarding cognitive offloading, over-reliance, and \"gami",
+      "url": "https://arxiv.org/abs/2605.30539",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "MATraM: A Multi-Activity Transport and Mobility Agent-Based Model for Activity Modifications",
+      "summary": "arXiv:2605.30547v1 Announce Type: new \nAbstract: This paper introduces the Multi-Activity Transport & Mobility (MATraM) Agent-Based Model (ABM), a novel framework designed to advance activity-based transport modelling by incorporating dynamic activity adaptation. Traditional transport models simulat",
+      "url": "https://arxiv.org/abs/2605.30547",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Design and Evaluation of Multi-Agent AI Oracle Systems for Prediction Market Resolution",
+      "summary": "arXiv:2605.30802v1 Announce Type: new \nAbstract: Prediction markets aggregate collective intelligence to forecast uncertain events, but their utility depends on reliable outcome resolution. Existing oracle systems tradeoff fast but brittle automation against accurate but costly human arbitration. Si",
+      "url": "https://arxiv.org/abs/2605.30802",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Safe Equilibrium Policy Optimization for Strategic Agent Policies",
+      "summary": "arXiv:2605.30854v1 Announce Type: new \nAbstract: Language models fine-tuned with reinforcement learning typically optimize for task reward, ignoring multi-agent strategic structure. Because these agents condition on natural language game-state descriptions and emit actions through free-form generati",
+      "url": "https://arxiv.org/abs/2605.30854",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Dreaming Of Others: Latent Teammate Modeling In World Models For Multi-Agent Reinforcement Learning",
+      "summary": "arXiv:2605.31361v1 Announce Type: new \nAbstract: In cooperative multi-agent reinforcement learning (MARL), agents must coordinate with partners whose internal policies and intentions are not directly observable. While world models such as Dreamer have demonstrated strong generalization and sample ef",
+      "url": "https://arxiv.org/abs/2605.31361",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "LongDS-Bench: On the Failure of Long-Horizon Agentic Data Analysis",
+      "summary": "arXiv:2605.30434v1 Announce Type: cross \nAbstract: Real-world data analysis is inherently iterative, yet existing benchmarks mostly evaluate isolated or short interactive tasks, leaving agents' ability to track evolving analytical context over long horizons untested. We introduce LongDS, a benchmark",
+      "url": "https://arxiv.org/abs/2605.30434",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
