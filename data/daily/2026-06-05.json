@@ -1,0 +1,374 @@
+{
+  "date": "2026-06-05",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-06-05 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Agent Harness Engineering: A Survey",
+      "summary": "Article URL: https://picrew.github.io/LLM-Harness/\nComments URL: https://news.ycombinator.com/item?id=48408218\nPoints: 1\n# Comments: 0",
+      "url": "https://picrew.github.io/LLM-Harness/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "BrowseComp-Plus: A More Fair and Transparent Benchmark of Deep-Research Agent",
+      "summary": "Article URL: https://github.com/texttron/BrowseComp-Plus\nComments URL: https://news.ycombinator.com/item?id=48407811\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/texttron/BrowseComp-Plus",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Wyreup.com – Common file edit tools packaged for offline and agent use",
+      "summary": "I wanted some handy JS tools for simple file manipulation and built this out... then wanted to give it to my agent... now it is a thing unto itself. \nAny tools or capabilities you'd suggest?\n\nComments URL: https://news.ycombinator.com/item?id=48407617\nPoints: 2\n# Comments: 0",
+      "url": "https://wyreup.com/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Bad MCP design cost your Agent 5× more tokens",
+      "summary": "I recently did some tests on two MCPs with identical functionalities. Turns out one of them has really bad performance. So I wanna share those bad MCP design patterns that cause this.It all started when I wrote an MCP Server (MCP-A) for a to-do list app. Later, the app officially released its own M",
+      "url": "https://news.ycombinator.com/item?id=48407391",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
+      "summary": "arXiv:2606.04037v2 Announce Type: new \nAbstract: Pre-deployment verification of enterprise artificial intelligence (AI) agents remains a critical gap between large language model (LLM) capability benchmarking and production deployment. Post-deployment monitoring, human-in-the-loop controls, and prom",
+      "url": "https://arxiv.org/abs/2606.04037",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Human Connection",
+      "summary": "arXiv:2606.04150v1 Announce Type: new \nAbstract: Public discourse and emerging policy typically assume that AI emotional support is a deliberate act: a lonely user consciously seeking comfort from a dedicated companion chatbot. In this paper, we draw on emerging empirical evidence and argue that thi",
+      "url": "https://arxiv.org/abs/2606.04150",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Accountable AI-Enabled Research",
+      "summary": "arXiv:2606.04152v1 Announce Type: new \nAbstract: Large language models are reshaping research practice while quietly eroding researchers epistemic accountability. This commentary introduces PEEL - Protocols for Epistemically Engaged Literacy in AI, a working scaffolding that combines deterministic d",
+      "url": "https://arxiv.org/abs/2606.04152",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "SMAC-Talk: A Natural Language Extension of the StarCraft Multi-Agent Challenge for Large Language Models",
+      "summary": "arXiv:2606.04202v1 Announce Type: new \nAbstract: As LLMs become more widely deployed, they are increasingly expected to work alongside other AI agents rather than operating in isolation. Effective coordination in these settings requires agents to communicate, share information and make decisions und",
+      "url": "https://arxiv.org/abs/2606.04202",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Bad MCP design cost your Agent 5× more tokens",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://news.ycombinator.com/item?id=48407391"
+        },
+        {
+          "title": "SMAC-Talk: A Natural Language Extension of the StarCraft Multi-Agent Challenge for Large Language Models",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.04202"
+        },
+        {
+          "title": "Consensus is Strategically Insufficient: Reasoning-Trace Disagreement as a Knowledge-Representation Signal",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.04223"
+        },
+        {
+          "title": "Learning to Contest: Decentralized Robust Fairness in Cooperative MARL via Cross-Attention",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.06162"
+        },
+        {
+          "title": "SHIELDS: Automating OS Hardening with Iterative Multi-Agent Remediation",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.05476"
+        },
+        {
+          "title": "Merging model-based control with multi-agent reinforcement learning for multi-agent cooperative teaming strategies",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.06011"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": []
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Agent Harness Engineering: A Survey",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://picrew.github.io/LLM-Harness/"
+        },
+        {
+          "title": "BrowseComp-Plus: A More Fair and Transparent Benchmark of Deep-Research Agent",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://github.com/texttron/BrowseComp-Plus"
+        },
+        {
+          "title": "Librecode (Yet Another Agent Harness)",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://github.com/omarluq/librecode"
+        },
+        {
+          "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.04037"
+        },
+        {
+          "title": "VAMPS: Visual-Assisted Mathematical Problem Solving Benchmark",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.04244"
+        },
+        {
+          "title": "Can Generalist Agents Automate Data Curation?",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.04261"
+        },
+        {
+          "title": "ZERO-APT: A Closed-Loop Adversarial Framework for LLM-Driven Automated Penetration Testing under Intelligent Defense",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.05567"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "Agent Harness Engineering: A Survey",
+      "summary": "Article URL: https://picrew.github.io/LLM-Harness/\nComments URL: https://news.ycombinator.com/item?id=48408218\nPoints: 1\n# Comments: 0",
+      "url": "https://picrew.github.io/LLM-Harness/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "BrowseComp-Plus: A More Fair and Transparent Benchmark of Deep-Research Agent",
+      "summary": "Article URL: https://github.com/texttron/BrowseComp-Plus\nComments URL: https://news.ycombinator.com/item?id=48407811\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/texttron/BrowseComp-Plus",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Wyreup.com – Common file edit tools packaged for offline and agent use",
+      "summary": "I wanted some handy JS tools for simple file manipulation and built this out... then wanted to give it to my agent... now it is a thing unto itself. \nAny tools or capabilities you'd suggest?\n\nComments URL: https://news.ycombinator.com/item?id=48407617\nPoints: 2\n# Comments: 0",
+      "url": "https://wyreup.com/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Bad MCP design cost your Agent 5× more tokens",
+      "summary": "I recently did some tests on two MCPs with identical functionalities. Turns out one of them has really bad performance. So I wanna share those bad MCP design patterns that cause this.It all started when I wrote an MCP Server (MCP-A) for a to-do list app. Later, the app officially released its own M",
+      "url": "https://news.ycombinator.com/item?id=48407391",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Aisop – Define AI agent workflows as Mermaid or JSON flow graphs",
+      "summary": "Article URL: https://github.com/AIXP-Labs/AISOP\nComments URL: https://news.ycombinator.com/item?id=48407235\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/AIXP-Labs/AISOP",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Basecamp CLI and Agent Skill: Agent first, agent native",
+      "summary": "Article URL: https://basecamp.com/agents\nComments URL: https://news.ycombinator.com/item?id=48406903\nPoints: 2\n# Comments: 0",
+      "url": "https://basecamp.com/agents",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "LLM AI Chatbots are letting me down every single day",
+      "summary": "Article URL: https://umrashrf.github.io/llm-ai-chatbots-are-letting-me-down-every-single-day/\nComments URL: https://news.ycombinator.com/item?id=48406812\nPoints: 2\n# Comments: 0",
+      "url": "https://umrashrf.github.io/llm-ai-chatbots-are-letting-me-down-every-single-day/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Librecode (Yet Another Agent Harness)",
+      "summary": "Article URL: https://github.com/omarluq/librecode\nComments URL: https://news.ycombinator.com/item?id=48406099\nPoints: 3\n# Comments: 0",
+      "url": "https://github.com/omarluq/librecode",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
+      "summary": "arXiv:2606.04037v2 Announce Type: new \nAbstract: Pre-deployment verification of enterprise artificial intelligence (AI) agents remains a critical gap between large language model (LLM) capability benchmarking and production deployment. Post-deployment monitoring, human-in-the-loop controls, and prom",
+      "url": "https://arxiv.org/abs/2606.04037",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Human Connection",
+      "summary": "arXiv:2606.04150v1 Announce Type: new \nAbstract: Public discourse and emerging policy typically assume that AI emotional support is a deliberate act: a lonely user consciously seeking comfort from a dedicated companion chatbot. In this paper, we draw on emerging empirical evidence and argue that thi",
+      "url": "https://arxiv.org/abs/2606.04150",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Accountable AI-Enabled Research",
+      "summary": "arXiv:2606.04152v1 Announce Type: new \nAbstract: Large language models are reshaping research practice while quietly eroding researchers epistemic accountability. This commentary introduces PEEL - Protocols for Epistemically Engaged Literacy in AI, a working scaffolding that combines deterministic d",
+      "url": "https://arxiv.org/abs/2606.04152",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "SMAC-Talk: A Natural Language Extension of the StarCraft Multi-Agent Challenge for Large Language Models",
+      "summary": "arXiv:2606.04202v1 Announce Type: new \nAbstract: As LLMs become more widely deployed, they are increasingly expected to work alongside other AI agents rather than operating in isolation. Effective coordination in these settings requires agents to communicate, share information and make decisions und",
+      "url": "https://arxiv.org/abs/2606.04202",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Consensus is Strategically Insufficient: Reasoning-Trace Disagreement as a Knowledge-Representation Signal",
+      "summary": "arXiv:2606.04223v1 Announce Type: new \nAbstract: Multi-agent systems are commonly designed to reduce disagreement through voting, consensus protocols, debate, or fault-tolerant aggregation. We argue that this objective is insufficient for value-laden tasks, where disagreement may reflect genuine nor",
+      "url": "https://arxiv.org/abs/2606.04223",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "VAMPS: Visual-Assisted Mathematical Problem Solving Benchmark",
+      "summary": "arXiv:2606.04244v1 Announce Type: new \nAbstract: Multimodal large language models are increasingly capable of complex reasoning, yet their performance often degrades when they must externalize a problem through a tool and then reason over the tool's output, specifically when they rely on visual aids",
+      "url": "https://arxiv.org/abs/2606.04244",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "StepPRM-RTL: Stepwise Process-Reward Guided LLM Fine-Tuning for Enhanced RTL Synthesis",
+      "summary": "arXiv:2606.04246v1 Announce Type: new \nAbstract: Automatic generation of RTL code for digital hardware designs remains challenging due to long-horizon reasoning, multi-step dependencies, and strict correctness constraints in Verilog and VHDL. We present StepPRM-RTL, a novel framework that combines s",
+      "url": "https://arxiv.org/abs/2606.04246",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Can Generalist Agents Automate Data Curation?",
+      "summary": "arXiv:2606.04261v1 Announce Type: new \nAbstract: Curating training data is among the most consequential yet labor-intensive parts of modern AI development: practitioners iteratively propose, implement, evaluate, and revise data policies against noisy benchmark feedback. We ask whether generalist cod",
+      "url": "https://arxiv.org/abs/2606.04261",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "RAINO: Anchoring Agents in Reality, A Systematic Review and Conceptual Framework for Realism in Agent-Based Modelling",
+      "summary": "arXiv:2606.05167v1 Announce Type: new \nAbstract: Realism is a central yet seemingly under-theorized concept in Agent-Based Modelling. This paper presents a Systematic Literature Review, aiming to identify how realism is currently operationalized and demonstrated. The results show that realism is oft",
+      "url": "https://arxiv.org/abs/2606.05167",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Ahoy: LLMs Enacting Multiagent Interaction Protocols",
+      "summary": "arXiv:2606.05390v1 Announce Type: new \nAbstract: An interaction protocol formalizes how the agents in a multiagent system interact, which facilitates implementing agents. Existing approaches yield agent implementations specific to the selected protocols. How can we engineer intelligent agents that c",
+      "url": "https://arxiv.org/abs/2606.05390",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Learning to Contest: Decentralized Robust Fairness in Cooperative MARL via Cross-Attention",
+      "summary": "arXiv:2606.06162v1 Announce Type: new \nAbstract: Fair cooperative multi-agent RL (MARL) teams maximizing egalitarian welfare are exploitable: a single selfish agent free-rides on the surplus fair agents forgo to raise the worst-off. A centralized need-based allocator removes it, but only by taking a",
+      "url": "https://arxiv.org/abs/2606.06162",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "A Swarm Approach to Public Transit Using On-demand Routing in a Slime-Mold-Inspired Framework",
+      "summary": "arXiv:2606.06189v1 Announce Type: new \nAbstract: Demand-responsive transit (DRT) is a flexible alternative to traditional, fixed-route mass-transit networks. Although DRT can function well in low-density communities, high operating costs and low reliability are common issues. We propose that these i",
+      "url": "https://arxiv.org/abs/2606.06189",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "SHIELDS: Automating OS Hardening with Iterative Multi-Agent Remediation",
+      "summary": "arXiv:2606.05476v1 Announce Type: cross \nAbstract: Security misconfigurations remain a leading cause of OS-level compromise, and manually keeping systems compliant with standards like Defense Information Systems Agency (DISA) Security Technical Implementation Guides (STIGs) is a tedious and expensiv",
+      "url": "https://arxiv.org/abs/2606.05476",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "ZERO-APT: A Closed-Loop Adversarial Framework for LLM-Driven Automated Penetration Testing under Intelligent Defense",
+      "summary": "arXiv:2606.05567v1 Announce Type: cross \nAbstract: LLM-driven automated penetration testing agents are typically evaluated against static targets that neither detect nor respond to attacks, so their behavior under intelligent defense remains untested. The causal consistency of multi-step attack chai",
+      "url": "https://arxiv.org/abs/2606.05567",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Merging model-based control with multi-agent reinforcement learning for multi-agent cooperative teaming strategies",
+      "summary": "arXiv:2606.06011v1 Announce Type: cross \nAbstract: In this work, we propose a framework that combines multi-agent reinforcement learning (MARL) with model-based control to achieve safe, dynamically feasible actions in cooperative multi-agent tasks. Multi-agent reinforcement learning provides the adv",
+      "url": "https://arxiv.org/abs/2606.06011",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "DAST: A VLM-LLM Framework for Cross-Interface Anomaly Detection in O-RAN",
+      "summary": "arXiv:2606.06261v1 Announce Type: cross \nAbstract: O-RAN enables a disaggregated baseband stack with programmable functions that communicate over standardized open interfaces. The same openness that enables multi-vendor composition also expands the attack surface across logically decoupled tiers tha",
+      "url": "https://arxiv.org/abs/2606.06261",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
