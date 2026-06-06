@@ -1,0 +1,259 @@
+{
+  "date": "2026-06-06",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-06-06 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "How to Build an AI Agent for Slack with Chat SDK and AI SDK",
+      "summary": "Article URL: https://vercel.com/kb/guide/how-to-build-an-ai-agent-for-slack-with-chat-sdk-and-ai-sdk\nComments URL: https://news.ycombinator.com/item?id=48421418\nPoints: 1\n# Comments: 0",
+      "url": "https://vercel.com/kb/guide/how-to-build-an-ai-agent-for-slack-with-chat-sdk-and-ai-sdk",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Agent-ML-skills – Teach Codex/Claude/Cursor to stop making ML mistakes",
+      "summary": "Article URL: https://github.com/param087/agent-ml-skills\nComments URL: https://news.ycombinator.com/item?id=48420791\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/param087/agent-ml-skills",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Lite Agent redefines what an AI agent is",
+      "summary": "Article URL: https://liteagent.cloud\nComments URL: https://news.ycombinator.com/item?id=48420642\nPoints: 2\n# Comments: 0",
+      "url": "https://liteagent.cloud",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Rethinking the Value of Generated Tests for LLM Software Engineering Agents",
+      "summary": "Article URL: https://arxiv.org/abs/2602.07900\nComments URL: https://news.ycombinator.com/item?id=48420529\nPoints: 1\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2602.07900",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
+      "summary": "arXiv:2606.05256v1 Announce Type: new \nAbstract: This study analyzes a publicly released dataset from a discontinued field experiment on Reddit's r/ChangeMyView. The intervention, conducted by unknown, external researchers and halted following ethical backlash, involved undisclosed AI-generated acco",
+      "url": "https://arxiv.org/abs/2606.05256",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems",
+      "summary": "arXiv:2606.05304v1 Announce Type: new \nAbstract: Multi-agent systems (MAS) built on large language models are typically organized around roles, pipelines, and turn schedules, while the content that agents pass to one another is often left as unconstrained natural language. However, this free-form co",
+      "url": "https://arxiv.org/abs/2606.05304",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "I Know What You Meme, Even If it Emerged Today: Understanding Evolving Memes through Open-World Knowledge Acquisition",
+      "summary": "arXiv:2606.05316v1 Announce Type: new \nAbstract: Multimodal memes are dynamic and often require up to date background knowledge for interpretation. Existing methods often overlook such knowledge or rely on fixed parametric knowledge of pretrained models that may be incomplete, outdated, or unavailab",
+      "url": "https://arxiv.org/abs/2606.05316",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "GITCO: Gated Inference-Time Context Optimization in TSFMs",
+      "summary": "arXiv:2606.05332v1 Announce Type: new \nAbstract: Patch-based Time Series Foundation Models (TSFMs) suffer from context poisoning: structurally anomalous patches capture disproportionate attention and silently degrade zero-shot forecast quality. We propose improving TSFM accuracy at inference time by",
+      "url": "https://arxiv.org/abs/2606.05332",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.05304"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "Using an AI coding agent with oracle-based testing to build a game emulator",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://keanw.com/2026/03/a-diary-of-an-agentic-retro-gamer-part-1.html"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "SentinelBench: A Benchmark for Long-Running Monitoring Agents",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.05342"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "How to Build an AI Agent for Slack with Chat SDK and AI SDK",
+      "summary": "Article URL: https://vercel.com/kb/guide/how-to-build-an-ai-agent-for-slack-with-chat-sdk-and-ai-sdk\nComments URL: https://news.ycombinator.com/item?id=48421418\nPoints: 1\n# Comments: 0",
+      "url": "https://vercel.com/kb/guide/how-to-build-an-ai-agent-for-slack-with-chat-sdk-and-ai-sdk",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Agent-ML-skills – Teach Codex/Claude/Cursor to stop making ML mistakes",
+      "summary": "Article URL: https://github.com/param087/agent-ml-skills\nComments URL: https://news.ycombinator.com/item?id=48420791\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/param087/agent-ml-skills",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Lite Agent redefines what an AI agent is",
+      "summary": "Article URL: https://liteagent.cloud\nComments URL: https://news.ycombinator.com/item?id=48420642\nPoints: 2\n# Comments: 0",
+      "url": "https://liteagent.cloud",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Rethinking the Value of Generated Tests for LLM Software Engineering Agents",
+      "summary": "Article URL: https://arxiv.org/abs/2602.07900\nComments URL: https://news.ycombinator.com/item?id=48420529\nPoints: 1\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2602.07900",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Unlocking Non-Uniform KV Cache for Efficient Multi-Turn LLM Serving",
+      "summary": "Article URL: https://arxiv.org/abs/2606.06302\nComments URL: https://news.ycombinator.com/item?id=48420434\nPoints: 1\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2606.06302",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "I built an email agent to triage bogus security reports",
+      "summary": "Article URL: https://opencomputer.dev/blog/email-security-triage-agent/\nComments URL: https://news.ycombinator.com/item?id=48420086\nPoints: 1\n# Comments: 0",
+      "url": "https://opencomputer.dev/blog/email-security-triage-agent/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "ToTra – open-source LLM gateway with GDPR/EU AI Act compliance",
+      "summary": "Article URL: https://github.com/SugaC-275/ToTra\nComments URL: https://news.ycombinator.com/item?id=48420028\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/SugaC-275/ToTra",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Using an AI coding agent with oracle-based testing to build a game emulator",
+      "summary": "Article URL: https://keanw.com/2026/03/a-diary-of-an-agentic-retro-gamer-part-1.html\nComments URL: https://news.ycombinator.com/item?id=48419824\nPoints: 1\n# Comments: 0",
+      "url": "https://keanw.com/2026/03/a-diary-of-an-agentic-retro-gamer-part-1.html",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
+      "summary": "arXiv:2606.05256v1 Announce Type: new \nAbstract: This study analyzes a publicly released dataset from a discontinued field experiment on Reddit's r/ChangeMyView. The intervention, conducted by unknown, external researchers and halted following ethical backlash, involved undisclosed AI-generated acco",
+      "url": "https://arxiv.org/abs/2606.05256",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems",
+      "summary": "arXiv:2606.05304v1 Announce Type: new \nAbstract: Multi-agent systems (MAS) built on large language models are typically organized around roles, pipelines, and turn schedules, while the content that agents pass to one another is often left as unconstrained natural language. However, this free-form co",
+      "url": "https://arxiv.org/abs/2606.05304",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "I Know What You Meme, Even If it Emerged Today: Understanding Evolving Memes through Open-World Knowledge Acquisition",
+      "summary": "arXiv:2606.05316v1 Announce Type: new \nAbstract: Multimodal memes are dynamic and often require up to date background knowledge for interpretation. Existing methods often overlook such knowledge or rely on fixed parametric knowledge of pretrained models that may be incomplete, outdated, or unavailab",
+      "url": "https://arxiv.org/abs/2606.05316",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "GITCO: Gated Inference-Time Context Optimization in TSFMs",
+      "summary": "arXiv:2606.05332v1 Announce Type: new \nAbstract: Patch-based Time Series Foundation Models (TSFMs) suffer from context poisoning: structurally anomalous patches capture disproportionate attention and silently degrade zero-shot forecast quality. We propose improving TSFM accuracy at inference time by",
+      "url": "https://arxiv.org/abs/2606.05332",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Uncertainty Aware Functional Behavior Prediction and Material Fatigue Assessment for Circular Factory",
+      "summary": "arXiv:2606.05334v1 Announce Type: new \nAbstract: Returned products in circular factories re-enter production with heterogeneous degradation states, usage histories, and remaining capability. Reuse cannot be decided from the current inspection alone, because future function fulfillment and component",
+      "url": "https://arxiv.org/abs/2606.05334",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "SentinelBench: A Benchmark for Long-Running Monitoring Agents",
+      "summary": "arXiv:2606.05342v1 Announce Type: new \nAbstract: AI agents are increasingly asked to carry out work that spans minutes, hours, or longer. Yet the default model of agent behavior is continuous action: issuing tool calls, refreshing pages, searching for alternatives, or otherwise trying to force progr",
+      "url": "https://arxiv.org/abs/2606.05342",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "An interpretable and trustworthy AI framework for large-scale longitudinal structure-pain association studies using data from the Osteoarthritis Initiative (OAI)",
+      "summary": "arXiv:2606.05357v1 Announce Type: new \nAbstract: Purpose: To develop an interpretable and trustworthy AI framework that combines deep learning based MRI Osteoarthritis Knee Score (MOAKS) prediction with interpretable statistical modeling to study structure-pain relationships at scale using data from",
+      "url": "https://arxiv.org/abs/2606.05357",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Synthetic Contrastive Reasoning for Multi-Table Q&A",
+      "summary": "arXiv:2606.05382v1 Announce Type: new \nAbstract: Multi-table question answering requires models to retrieve relevant evidence, link schemas, and perform compositional reasoning across relational tables. Existing multi-table Q&A resources typically provide questions and final answers but lack reasoni",
+      "url": "https://arxiv.org/abs/2606.05382",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
