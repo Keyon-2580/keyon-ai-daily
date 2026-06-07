@@ -1,0 +1,152 @@
+{
+  "date": "2026-06-07",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-06-07 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Show HN: agent-asearch – Go CLI, 18 sources, session-based search for AI agents",
+      "summary": "Article URL: https://github.com/izzzzzi/agent-asearch\nComments URL: https://news.ycombinator.com/item?id=48432000\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/izzzzzi/agent-asearch",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Rl.cu: Training LLM RL with Pure CUDA",
+      "summary": "Article URL: https://github.com/KJLdefeated/RL.cu\nComments URL: https://news.ycombinator.com/item?id=48431886\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/KJLdefeated/RL.cu",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Async hierarchical memory middleware for LLM agents",
+      "summary": "Article URL: https://github.com/HtooTayZa/sawtooth-memory\nComments URL: https://news.ycombinator.com/item?id=48431870\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/HtooTayZa/sawtooth-memory",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: LLM for Dummies",
+      "summary": "Article URL: https://ronreiter.github.io/llm-for-dummies/\nComments URL: https://news.ycombinator.com/item?id=48431261\nPoints: 1\n# Comments: 0",
+      "url": "https://ronreiter.github.io/llm-for-dummies/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": []
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": []
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Gaia2: Benchmarking LLM Agents on Dynamic and Asynchronous Environments",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://arxiv.org/abs/2602.11964"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "Show HN: agent-asearch – Go CLI, 18 sources, session-based search for AI agents",
+      "summary": "Article URL: https://github.com/izzzzzi/agent-asearch\nComments URL: https://news.ycombinator.com/item?id=48432000\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/izzzzzi/agent-asearch",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Rl.cu: Training LLM RL with Pure CUDA",
+      "summary": "Article URL: https://github.com/KJLdefeated/RL.cu\nComments URL: https://news.ycombinator.com/item?id=48431886\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/KJLdefeated/RL.cu",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Async hierarchical memory middleware for LLM agents",
+      "summary": "Article URL: https://github.com/HtooTayZa/sawtooth-memory\nComments URL: https://news.ycombinator.com/item?id=48431870\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/HtooTayZa/sawtooth-memory",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: LLM for Dummies",
+      "summary": "Article URL: https://ronreiter.github.io/llm-for-dummies/\nComments URL: https://news.ycombinator.com/item?id=48431261\nPoints: 1\n# Comments: 0",
+      "url": "https://ronreiter.github.io/llm-for-dummies/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Ext-Infer – Native LLM Inference and Embeddings for PHP",
+      "summary": "Article URL: https://infer.displace.tech\nComments URL: https://news.ycombinator.com/item?id=48431237\nPoints: 1\n# Comments: 0",
+      "url": "https://infer.displace.tech",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Agent in 50 Lines",
+      "summary": "Article URL: https://minimal-agent.com/\nComments URL: https://news.ycombinator.com/item?id=48431216\nPoints: 3\n# Comments: 2",
+      "url": "https://minimal-agent.com/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Gaia2: Benchmarking LLM Agents on Dynamic and Asynchronous Environments",
+      "summary": "Article URL: https://arxiv.org/abs/2602.11964\nComments URL: https://news.ycombinator.com/item?id=48430918\nPoints: 2\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2602.11964",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: Persist – an AI agent that follows up accrued channels till they reply",
+      "summary": "Hi HN,I am co-founder of Persist AI.Meet Persist.chat an AI sales agent that follows up to prospects till you secure a sale. It can help you find prospects for your product with our extensive lists of Linkedin and email lists and also you can bring your own list of customers with their email/phone_",
+      "url": "https://persist.chat",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [
+    {
+      "title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
+      "summary": "Article URL: https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html\nComments URL: https://news.ycombinator.com/item?id=48417490\nPoints: 198\n# Comments: 776",
+      "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "research": [],
+  "china": []
+}
