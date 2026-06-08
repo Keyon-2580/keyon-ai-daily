@@ -1,0 +1,351 @@
+{
+  "date": "2026-06-08",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-06-08 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Guardian Angels: LLM Personalization for Productivity and Security",
+      "summary": "Article URL: https://gwern.net/guardian-angel\nComments URL: https://news.ycombinator.com/item?id=48441590\nPoints: 1\n# Comments: 0",
+      "url": "https://gwern.net/guardian-angel",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "99.9999% of you should in fact not being \"looping\" your agent",
+      "summary": "Article URL: https://xcancel.com/ThePrimeagen/status/2063746333023043966\nComments URL: https://news.ycombinator.com/item?id=48441567\nPoints: 1\n# Comments: 0",
+      "url": "https://xcancel.com/ThePrimeagen/status/2063746333023043966",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Ask HN: What do you do with LLM articles?",
+      "summary": "I don't want to make a rant about articles written entirely or partially with the aid of LLMs. I do myself sometimes resort to that type of help if I get stuck. I just would like to know your feelings when, at some point through the reading, you realize that what you have in front has not been writ",
+      "url": "https://news.ycombinator.com/item?id=48441480",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Avibe – your AI agent lives on your machine, reachable from your phone",
+      "summary": "Article URL: https://github.com/avibe-bot/avibe\nComments URL: https://news.ycombinator.com/item?id=48441230\nPoints: 2\n# Comments: 1",
+      "url": "https://github.com/avibe-bot/avibe",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation",
+      "summary": "arXiv:2606.06514v1 Announce Type: new \nAbstract: Machine learning systems deployed in high stakes socioeconomic settings routinely display bias. We formalize bias as a symmetry breaking operation: a classifier is fair if its outputs remain invariant under the counterfactual operation of switching a",
+      "url": "https://arxiv.org/abs/2606.06514",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "DiBS: Diffusion-Informed Branch Selection",
+      "summary": "arXiv:2606.06518v1 Announce Type: new \nAbstract: Sudoku is a representative constraint satisfaction problem that requires global structural reasoning under strict discrete constraints. The existing works of solving Sudoku mainly focus on two dominant approaches, i.e., traditional heuristic and deep",
+      "url": "https://arxiv.org/abs/2606.06518",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "SafeGene: Reusable Adapters for Transferable Safety Alignment",
+      "summary": "arXiv:2606.06519v1 Announce Type: new \nAbstract: Open-weight LLMs are increasingly fine-tuned into customized assistants, but downstream fine-tuning can weaken safety alignment and make models more vulnerable to malicious prompts, even when the training data is not intentionally harmful. This create",
+      "url": "https://arxiv.org/abs/2606.06519",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory",
+      "summary": "arXiv:2606.06523v1 Announce Type: new \nAbstract: Equipping Large Language Models (LLMs) to execute reliable multi-step workflows has become a central challenge in artificial intelligence. Despite recent advances in LLMs' agentic capabilities, most agent systems still lack formal methods for specifyi",
+      "url": "https://arxiv.org/abs/2606.06523",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "MADRAG: Multi-Agent Debate with Retrieval-Augmented Generation for Training-Free Analytic Essay Scoring",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.06754"
+        },
+        {
+          "title": "Modeling U.S. Attitudes Toward China via an Event-Steered Multi-Agent Simulator",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.06971"
+        },
+        {
+          "title": "Learning Multi-Agent Communication Protocol: Study on Information Entropy Efficiency in MARL",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.07200"
+        },
+        {
+          "title": "Modelling Opinion Dynamics at Scale with Deep MARL",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.07487"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.06523"
+        },
+        {
+          "title": "Attack Selection in Agentic AI Control Evaluations Meaningfully Decreases Safety",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.06529"
+        },
+        {
+          "title": "The Three-Ring Architecture: Governing Agents in the Era of On-Platform Organisations",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.07119"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Show HN: Preseason.ai – Open-source benchmark of devtool choices, ranked by LLM",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://www.preseason.ai"
+        },
+        {
+          "title": "CrowdMath: A Dataset of Crowdsourced Mathematical Research Discussions",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.06526"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "Guardian Angels: LLM Personalization for Productivity and Security",
+      "summary": "Article URL: https://gwern.net/guardian-angel\nComments URL: https://news.ycombinator.com/item?id=48441590\nPoints: 1\n# Comments: 0",
+      "url": "https://gwern.net/guardian-angel",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "99.9999% of you should in fact not being \"looping\" your agent",
+      "summary": "Article URL: https://xcancel.com/ThePrimeagen/status/2063746333023043966\nComments URL: https://news.ycombinator.com/item?id=48441567\nPoints: 1\n# Comments: 0",
+      "url": "https://xcancel.com/ThePrimeagen/status/2063746333023043966",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Ask HN: What do you do with LLM articles?",
+      "summary": "I don't want to make a rant about articles written entirely or partially with the aid of LLMs. I do myself sometimes resort to that type of help if I get stuck. I just would like to know your feelings when, at some point through the reading, you realize that what you have in front has not been writ",
+      "url": "https://news.ycombinator.com/item?id=48441480",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Avibe – your AI agent lives on your machine, reachable from your phone",
+      "summary": "Article URL: https://github.com/avibe-bot/avibe\nComments URL: https://news.ycombinator.com/item?id=48441230\nPoints: 2\n# Comments: 1",
+      "url": "https://github.com/avibe-bot/avibe",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Preseason.ai – Open-source benchmark of devtool choices, ranked by LLM",
+      "summary": "Article URL: https://www.preseason.ai\nComments URL: https://news.ycombinator.com/item?id=48440455\nPoints: 2\n# Comments: 0",
+      "url": "https://www.preseason.ai",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "EMILIAProtocol-an open standard for human sign-off on irreversible agent actions",
+      "summary": "Article URL: https://www.emiliaprotocol.ai/spec\nComments URL: https://news.ycombinator.com/item?id=48440210\nPoints: 2\n# Comments: 0",
+      "url": "https://www.emiliaprotocol.ai/spec",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "I built an AI agent that monitors job boards daily and emails you scored matches",
+      "summary": "Article URL: https://www.matchmind.site\nComments URL: https://news.ycombinator.com/item?id=48439900\nPoints: 1\n# Comments: 0",
+      "url": "https://www.matchmind.site",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: I built free VoiceToText app with local LLM polish to save 60 min/day",
+      "summary": "Article URL: https://vox.rizenhq.com/\nComments URL: https://news.ycombinator.com/item?id=48439779\nPoints: 1\n# Comments: 0",
+      "url": "https://vox.rizenhq.com/",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation",
+      "summary": "arXiv:2606.06514v1 Announce Type: new \nAbstract: Machine learning systems deployed in high stakes socioeconomic settings routinely display bias. We formalize bias as a symmetry breaking operation: a classifier is fair if its outputs remain invariant under the counterfactual operation of switching a",
+      "url": "https://arxiv.org/abs/2606.06514",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "DiBS: Diffusion-Informed Branch Selection",
+      "summary": "arXiv:2606.06518v1 Announce Type: new \nAbstract: Sudoku is a representative constraint satisfaction problem that requires global structural reasoning under strict discrete constraints. The existing works of solving Sudoku mainly focus on two dominant approaches, i.e., traditional heuristic and deep",
+      "url": "https://arxiv.org/abs/2606.06518",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "SafeGene: Reusable Adapters for Transferable Safety Alignment",
+      "summary": "arXiv:2606.06519v1 Announce Type: new \nAbstract: Open-weight LLMs are increasingly fine-tuned into customized assistants, but downstream fine-tuning can weaken safety alignment and make models more vulnerable to malicious prompts, even when the training data is not intentionally harmful. This create",
+      "url": "https://arxiv.org/abs/2606.06519",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory",
+      "summary": "arXiv:2606.06523v1 Announce Type: new \nAbstract: Equipping Large Language Models (LLMs) to execute reliable multi-step workflows has become a central challenge in artificial intelligence. Despite recent advances in LLMs' agentic capabilities, most agent systems still lack formal methods for specifyi",
+      "url": "https://arxiv.org/abs/2606.06523",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "CrowdMath: A Dataset of Crowdsourced Mathematical Research Discussions",
+      "summary": "arXiv:2606.06526v1 Announce Type: new \nAbstract: Large language models have made substantial progress on mathematical reasoning, but existing benchmarks typically evaluate well-specified problems with final answers, step-by-step solutions, or complete proofs. They do not capture collaborative open-p",
+      "url": "https://arxiv.org/abs/2606.06526",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Attack Selection in Agentic AI Control Evaluations Meaningfully Decreases Safety",
+      "summary": "arXiv:2606.06529v1 Announce Type: new \nAbstract: An attacker that strategically chooses when to attack is much harder to catch than one that attacks indiscriminately. AI control is a safety framework for deploying capable but untrusted AI agents under the oversight of a weaker, trusted monitor and a",
+      "url": "https://arxiv.org/abs/2606.06529",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "CARVE-Q: Quantum-Proposed, Classically Certified Interactive Driving Repair",
+      "summary": "arXiv:2606.06531v1 Announce Type: new \nAbstract: The critical question after a correct driving veto is not only whether a maneuver is unsafe, but whether the blocked interaction admits a lawful, auditable, and responsibility-bounded repair. Prediction and game-theoretic planners can suggest plausibl",
+      "url": "https://arxiv.org/abs/2606.06531",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Position: Don't Just \"Fix it in Post\": A Science of AI Must Study Training Dynamics",
+      "summary": "arXiv:2606.06533v1 Announce Type: new \nAbstract: What would it mean to have a scientific understanding of AI? Models are not static objects: they are snapshots of time-evolving processes shaped by data, objectives, architectures, and optimization dynamics. Yet much of AI research treats models as fi",
+      "url": "https://arxiv.org/abs/2606.06533",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "MADRAG: Multi-Agent Debate with Retrieval-Augmented Generation for Training-Free Analytic Essay Scoring",
+      "summary": "arXiv:2606.06754v1 Announce Type: new \nAbstract: We present MADRAG, a training-free framework for analytic essay scoring that combines multi-agent reasoning with retrieval-augmented grounding. Unlike standard LLM-as-judge approaches, which are prone to bias and unstable scoring, MADRAG decomposes ev",
+      "url": "https://arxiv.org/abs/2606.06754",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Modeling U.S. Attitudes Toward China via an Event-Steered Multi-Agent Simulator",
+      "summary": "arXiv:2606.06971v1 Announce Type: new \nAbstract: Understanding the dynamic evolution of opinions, such as U.S. public attitudes toward China, is essential for assessing geopolitical risks. However, existing LLM-based multiagent simulators predominantly rely on static rules and fixed datasets, limiti",
+      "url": "https://arxiv.org/abs/2606.06971",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Learning Multi-Agent Communication Protocol: Study on Information Entropy Efficiency in MARL",
+      "summary": "arXiv:2606.07200v1 Announce Type: new \nAbstract: Multi-Agent Systems (MAS) have emerged as a fundamental paradigm for distributed problem-solving, where autonomous agents collaborate to achieve complex objectives. Within this framework, Multi-Agent Reinforcement Learning (MARL) with communication ha",
+      "url": "https://arxiv.org/abs/2606.07200",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Hierarchical Certified Semantic Commitment for Byzantine-Resilient LLM-Agent Collaboration",
+      "summary": "arXiv:2606.07316v1 Announce Type: new \nAbstract: Byzantine collaboration among large-language-model agents requires a finality-control primitive: given delivered stochastic, structured natural-language proposals, the protocol must decide whether the round supports a commit, what kind of commit, or a",
+      "url": "https://arxiv.org/abs/2606.07316",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Modelling Opinion Dynamics at Scale with Deep MARL",
+      "summary": "arXiv:2606.07487v1 Announce Type: new \nAbstract: Modelling opinion dynamics typically relies on hand-crafted local interaction rules to study emergent macroscopic phenomena such as consensus and polarisation. In contrast, multi-agent reinforcement learning (MARL) enables agents to learn such behavio",
+      "url": "https://arxiv.org/abs/2606.07487",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Comparing Sentiment Contagion in AI-Agent and Human Social Networks: Evidence from MOLTBOOK",
+      "summary": "arXiv:2606.06665v1 Announce Type: cross \nAbstract: AI agents are beginning to interact not only with people, but also with one another. We investigate what happens to sentiment in such an AI-only social network: does negativity spread, or do replies calm it down? We study MOLTBOOK, a social network",
+      "url": "https://arxiv.org/abs/2606.06665",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Learn to Match: Two-Sided Matching with Temporally Extended Feedback",
+      "summary": "arXiv:2606.06744v1 Announce Type: cross \nAbstract: Two-sided matching markets often involve information that unfolds over time through interviews, repeated interaction, learning, and separation. Existing matching models typically reduce this process to immediate sub-Gaussian feedback about fixed pre",
+      "url": "https://arxiv.org/abs/2606.06744",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "The Three-Ring Architecture: Governing Agents in the Era of On-Platform Organisations",
+      "summary": "arXiv:2606.07119v1 Announce Type: cross \nAbstract: The current phase of enterprise AI deployment faces a structural failure: organisations are acquiring agentic capability without the infrastructure to govern it. The result is expected to reproduce the error of the first wave of AI deployment: decen",
+      "url": "https://arxiv.org/abs/2606.07119",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
