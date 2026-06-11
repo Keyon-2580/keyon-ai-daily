@@ -1,0 +1,373 @@
+{
+  "date": "2026-06-11",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-06-11 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "See what your AI coding agent is doing with Datadog Lapdog",
+      "summary": "Article URL: https://chrisebert.net/see-what-your-ai-coding-agent-is-doing-with-datadog-lapdog/\nComments URL: https://news.ycombinator.com/item?id=48486317\nPoints: 1\n# Comments: 0",
+      "url": "https://chrisebert.net/see-what-your-ai-coding-agent-is-doing-with-datadog-lapdog/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "I made an agent skill for making HTML slides with consultant style",
+      "summary": "I was a consultant in one of the top firms and have been an software engineer before joining consultancy... As an engineer, I really don't like to deal with the software made by Windows, especially the Office -- yep, I hate doing PPT..so I made MBB Page Maker - The project generates static HTML/CSS",
+      "url": "https://news.ycombinator.com/item?id=48485885",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "ECO: An LLM-Driven Efficient Code Optimizer for Warehouse Scale Computers",
+      "summary": "Article URL: https://arxiv.org/abs/2503.15669\nComments URL: https://news.ycombinator.com/item?id=48485743\nPoints: 2\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2503.15669",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Inverse Rubric Optimization: A testbed for agent science",
+      "summary": "Article URL: https://fulcrum.inc/2026/06/09/inverse-rubric-optimization.html\nComments URL: https://news.ycombinator.com/item?id=48485277\nPoints: 2\n# Comments: 0",
+      "url": "https://fulcrum.inc/2026/06/09/inverse-rubric-optimization.html",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "From Explicit Elements to Implicit Intent: A Predefined Library for Auditable Behavioral Inference",
+      "summary": "arXiv:2606.11207v1 Announce Type: new \nAbstract: We present SemantiClean, a modular framework for extracting structured semantic signals from e-commerce session data and driving pluggable inference targets including purchase intent, customer segmentation, and product affinity through a shared elemen",
+      "url": "https://arxiv.org/abs/2606.11207",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Position: Hippocampal Explicit Memory Is the Cornerstone for AGI",
+      "summary": "arXiv:2606.11245v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have demonstrated remarkable capabilities across various tasks, raising expectations for Artificial General Intelligence (AGI). This position paper argues that integrating explicit memory is the cornerstone for advancing L",
+      "url": "https://arxiv.org/abs/2606.11245",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Can AI Agents Synthesize Scientific Conclusions?",
+      "summary": "arXiv:2606.11337v1 Announce Type: new \nAbstract: Scientific AI agents increasingly retrieve evidence, reason across sources, and synthesize conclusions used in consequential decisions. Yet, their ability to do so in high-stakes domains such as health remains unclear. We introduce SciConBench, a larg",
+      "url": "https://arxiv.org/abs/2606.11337",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Knowing When to Ask: Self-Gated Clarification for Hierarchical Language Agents",
+      "summary": "arXiv:2606.11349v1 Announce Type: new \nAbstract: In hierarchical reasoning, failures often originate at intermediate decision points where the agent commits to a wrong branch without recognizing that it lacks critical information. Rather than treating clarification as an external uncertainty trigger",
+      "url": "https://arxiv.org/abs/2606.11349",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Agent-gate – fail-closed agent gate and tamper-evident receipts as an MCP server",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://github.com/Jott2121/agent-gate"
+        },
+        {
+          "title": "INFRAMIND: Infrastructure-Aware Multi-Agent Orchestration",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.11440"
+        },
+        {
+          "title": "Multi-agent rendezvous in fluid flows via reinforcement learning",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.11274"
+        },
+        {
+          "title": "Phi-Actor-Critic: Steering General-Sum Games to Pareto-Efficient Correlated Equilibria",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.11284"
+        },
+        {
+          "title": "CCKS: Consensus-based Communication and Knowledge Sharing",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.12281"
+        },
+        {
+          "title": "MASK: Multi-Agent Semantic K-Scheduling for Risk-Sensitive 6G Robotics",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.11249"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "Sovereign Assurance Boundary: Certificate-Bound Admission for Agentic Infrastructure",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.11632"
+        },
+        {
+          "title": "Evaluation of Alternative-Based Information Systems for Deliberative Polling using an Agentic Simulator",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.11692"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Search Discipline for Long-Horizon Research Agents",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.11522"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "See what your AI coding agent is doing with Datadog Lapdog",
+      "summary": "Article URL: https://chrisebert.net/see-what-your-ai-coding-agent-is-doing-with-datadog-lapdog/\nComments URL: https://news.ycombinator.com/item?id=48486317\nPoints: 1\n# Comments: 0",
+      "url": "https://chrisebert.net/see-what-your-ai-coding-agent-is-doing-with-datadog-lapdog/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "I made an agent skill for making HTML slides with consultant style",
+      "summary": "I was a consultant in one of the top firms and have been an software engineer before joining consultancy... As an engineer, I really don't like to deal with the software made by Windows, especially the Office -- yep, I hate doing PPT..so I made MBB Page Maker - The project generates static HTML/CSS",
+      "url": "https://news.ycombinator.com/item?id=48485885",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "ECO: An LLM-Driven Efficient Code Optimizer for Warehouse Scale Computers",
+      "summary": "Article URL: https://arxiv.org/abs/2503.15669\nComments URL: https://news.ycombinator.com/item?id=48485743\nPoints: 2\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2503.15669",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Inverse Rubric Optimization: A testbed for agent science",
+      "summary": "Article URL: https://fulcrum.inc/2026/06/09/inverse-rubric-optimization.html\nComments URL: https://news.ycombinator.com/item?id=48485277\nPoints: 2\n# Comments: 0",
+      "url": "https://fulcrum.inc/2026/06/09/inverse-rubric-optimization.html",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Ask HN: Releasing code under AGPLv3, but want to block LLM reconstruction?",
+      "summary": "I am preparing to release a software project under the AGPLv3. The goal is traditional copyleft reciprocity - if you use it or host it, share your changes.However, I am realistic about the current legal landscape. Big tech corps are treating public code as free raw material for LLM training under t",
+      "url": "https://news.ycombinator.com/item?id=48485069",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "AI agent runs amok in Fedora and elsewhere",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/\nComments URL: https://news.ycombinator.com/item?id=48484584\nPoints: 262\n# Comments: 64",
+      "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "GGUF vs. GPTQ vs. AWQ: The Plain-English Guide to LLM Quantization",
+      "summary": "Article URL: https://vettedconsumer.com/gguf-vs-gptq-vs-awq-the-plain-english-guide-to-llm-quantization-and-which-one-to-pick/\nComments URL: https://news.ycombinator.com/item?id=48484425\nPoints: 2\n# Comments: 0",
+      "url": "https://vettedconsumer.com/gguf-vs-gptq-vs-awq-the-plain-english-guide-to-llm-quantization-and-which-one-to-pick/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Agent-gate – fail-closed agent gate and tamper-evident receipts as an MCP server",
+      "summary": "Article URL: https://github.com/Jott2121/agent-gate\nComments URL: https://news.ycombinator.com/item?id=48484088\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/Jott2121/agent-gate",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [
+    {
+      "title": "OpenAI mulls slashing prices as it competes with Anthropic for users",
+      "summary": "Article URL: https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html\nComments URL: https://news.ycombinator.com/item?id=48486486\nPoints: 11\n# Comments: 2",
+      "url": "https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+      "summary": "Article URL: https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/\nComments URL: https://news.ycombinator.com/item?id=48478969\nPoints: 332\n# Comments: 298",
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Anthropic requires 30 day data retention for Fable and Mythos",
+      "summary": "https://www.theverge.com/report/947575/microsoft-claude-fabl...\n\nComments URL: https://news.ycombinator.com/item?id=48464258\nPoints: 299\n# Comments: 139",
+      "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "research": [
+    {
+      "title": "From Explicit Elements to Implicit Intent: A Predefined Library for Auditable Behavioral Inference",
+      "summary": "arXiv:2606.11207v1 Announce Type: new \nAbstract: We present SemantiClean, a modular framework for extracting structured semantic signals from e-commerce session data and driving pluggable inference targets including purchase intent, customer segmentation, and product affinity through a shared elemen",
+      "url": "https://arxiv.org/abs/2606.11207",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Position: Hippocampal Explicit Memory Is the Cornerstone for AGI",
+      "summary": "arXiv:2606.11245v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have demonstrated remarkable capabilities across various tasks, raising expectations for Artificial General Intelligence (AGI). This position paper argues that integrating explicit memory is the cornerstone for advancing L",
+      "url": "https://arxiv.org/abs/2606.11245",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Can AI Agents Synthesize Scientific Conclusions?",
+      "summary": "arXiv:2606.11337v1 Announce Type: new \nAbstract: Scientific AI agents increasingly retrieve evidence, reason across sources, and synthesize conclusions used in consequential decisions. Yet, their ability to do so in high-stakes domains such as health remains unclear. We introduce SciConBench, a larg",
+      "url": "https://arxiv.org/abs/2606.11337",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Knowing When to Ask: Self-Gated Clarification for Hierarchical Language Agents",
+      "summary": "arXiv:2606.11349v1 Announce Type: new \nAbstract: In hierarchical reasoning, failures often originate at intermediate decision points where the agent commits to a wrong branch without recognizing that it lacks critical information. Rather than treating clarification as an external uncertainty trigger",
+      "url": "https://arxiv.org/abs/2606.11349",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Automated Mediator for Human Negotiation: Pre-Mediation via a Structured LLM Pipeline",
+      "summary": "arXiv:2606.11379v1 Announce Type: new \nAbstract: Pre-mediation, the preparatory phase preceding direct human negotiation, plays a critical role in achieving mutually beneficial agreements, yet is often omitted due to cost, time, and limited access to trained mediators. We introduce an automated medi",
+      "url": "https://arxiv.org/abs/2606.11379",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "INFRAMIND: Infrastructure-Aware Multi-Agent Orchestration",
+      "summary": "arXiv:2606.11440v1 Announce Type: new \nAbstract: Existing multi-agent LLM orchestration methods, ranging from brute-force ensembles to learned routers, select models and topologies based on task and model features. However, these methods do not consider the runtime state of the serving infrastructur",
+      "url": "https://arxiv.org/abs/2606.11440",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Forecasting Future Behavior as a Learning Task",
+      "summary": "arXiv:2606.11445v1 Announce Type: new \nAbstract: Trust in an AI system is often anchored by explanations of how it works, which one then uses to forecast its behavior on new inputs. For large reasoning models (LRMs), this conventional route is particularly difficult to follow: explanation methods fo",
+      "url": "https://arxiv.org/abs/2606.11445",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Search Discipline for Long-Horizon Research Agents",
+      "summary": "arXiv:2606.11522v1 Announce Type: new \nAbstract: Autoresearch agents now propose, evaluate, and select scientific candidates against a metric, and that metric is usually an aggregate reduced over a heterogeneous space of regions, slices, or cohorts. We show that when scientific validity lives in tha",
+      "url": "https://arxiv.org/abs/2606.11522",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Multi-agent rendezvous in fluid flows via reinforcement learning",
+      "summary": "arXiv:2606.11274v1 Announce Type: new \nAbstract: Rendezvous is a critical task for multi-agent systems, requiring agents to coordinate to meet at an unspecified location. However, achieving this in fluid environments presents a challenge, as it remains unclear how agents can exploit underlying fluid",
+      "url": "https://arxiv.org/abs/2606.11274",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Phi-Actor-Critic: Steering General-Sum Games to Pareto-Efficient Correlated Equilibria",
+      "summary": "arXiv:2606.11284v1 Announce Type: new \nAbstract: Real-world multi-agent systems, from traffic coordination to resource allocation, are often modeled as general-sum games where individual incentives conflict with collective welfare. In these settings, the central challenge is not merely finding an eq",
+      "url": "https://arxiv.org/abs/2606.11284",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "CCKS: Consensus-based Communication and Knowledge Sharing",
+      "summary": "arXiv:2606.12281v1 Announce Type: new \nAbstract: In Decentralized Training and Decentralized Execution (DTDE) for cooperative Multi-Agent Reinforcement Learning (MARL), action-advising-based knowledge sharing promotes interpretable and scalable cooperation among agents. However, current action advis",
+      "url": "https://arxiv.org/abs/2606.12281",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "MASK: Multi-Agent Semantic K-Scheduling for Risk-Sensitive 6G Robotics",
+      "summary": "arXiv:2606.11249v1 Announce Type: cross \nAbstract: Realizing the vision of 6G connected robotics requires reconciling high-performance collaborative control with the rigid spectral limitations of physical wireless channels. In realistic collaborative sensing scenarios, spectral resources are quantiz",
+      "url": "https://arxiv.org/abs/2606.11249",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Sovereign Assurance Boundary: Certificate-Bound Admission for Agentic Infrastructure",
+      "summary": "arXiv:2606.11632v1 Announce Type: cross \nAbstract: Agentic infrastructure introduces a critical control-plane authorization problem: non-deterministic reasoning systems can propose high-stakes mutations to production resources, yet existing security mechanisms -- such as identity and access manageme",
+      "url": "https://arxiv.org/abs/2606.11632",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Evaluation of Alternative-Based Information Systems for Deliberative Polling using an Agentic Simulator",
+      "summary": "arXiv:2606.11692v1 Announce Type: cross \nAbstract: Deliberative polling promises to improve collective decision-making by exposing shareholders to a broad range of arguments before they vote. Yet ensuring that every voter encounters a representative sample of the reason space, the coverage problem,",
+      "url": "https://arxiv.org/abs/2606.11692",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Automating Geometry-Intensive Compliance Checking in BIM: Graph-Based Semantic Reasoning Framework",
+      "summary": "arXiv:2606.12065v1 Announce Type: cross \nAbstract: Automating compliance check for geometry-intensive regulations remains a significant technical bottleneck in Building Information Modeling (BIM), primarily due to the semantic disparity between high-level regulatory logic and structured IFC data. Ex",
+      "url": "https://arxiv.org/abs/2606.12065",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Multidimensional Manhattan Preferences",
+      "summary": "arXiv:2201.09691v2 Announce Type: replace \nAbstract: A preference profile (i.e., a collection of linear preference orders of the voters over a set of alternatives) with $m$ alternatives and $n$ voters is $d$-Manhattan (resp. $d$-Euclidean) if both the alternatives and the voters can be placed into a",
+      "url": "https://arxiv.org/abs/2201.09691",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
