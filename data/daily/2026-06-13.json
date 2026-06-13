@@ -1,0 +1,144 @@
+{
+  "date": "2026-06-13",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-06-13 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Show HN: WebCLI – make the web browser just another agent skill",
+      "summary": "Article URL: https://github.com/DO-SAY-GO/web-cli\nComments URL: https://news.ycombinator.com/item?id=48512071\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/DO-SAY-GO/web-cli",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Agentifying Agent Assessment for Openness, Standardization, and Reproducibility",
+      "summary": "Article URL: https://arxiv.org/abs/2606.13608\nComments URL: https://news.ycombinator.com/item?id=48510524\nPoints: 1\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2606.13608",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Agent Joe – a Rust only coding agent with no shell access",
+      "summary": "Article URL: https://github.com/Kapperchino/agent-joe\nComments URL: https://news.ycombinator.com/item?id=48510482\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/Kapperchino/agent-joe",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "I created an AI agent that finds investors that and does reachouts to investors",
+      "summary": "I created a CLI tool that does understands the app i'm building, finds investors with public facing emails and reaches out to them. tested this week. 43 emails sent, 6 replies. hopefully that's a good reply ratio of replies. idk the open rate tho. didn't track that.I'm trying to bring it to market.",
+      "url": "https://news.ycombinator.com/item?id=48509761",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": []
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": []
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Show HN: Rubric – test what your LLM agent did, not just what it said",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://github.com/Kareem-Rashed/rubric-eval"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "Show HN: WebCLI – make the web browser just another agent skill",
+      "summary": "Article URL: https://github.com/DO-SAY-GO/web-cli\nComments URL: https://news.ycombinator.com/item?id=48512071\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/DO-SAY-GO/web-cli",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Agentifying Agent Assessment for Openness, Standardization, and Reproducibility",
+      "summary": "Article URL: https://arxiv.org/abs/2606.13608\nComments URL: https://news.ycombinator.com/item?id=48510524\nPoints: 1\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2606.13608",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Agent Joe – a Rust only coding agent with no shell access",
+      "summary": "Article URL: https://github.com/Kapperchino/agent-joe\nComments URL: https://news.ycombinator.com/item?id=48510482\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/Kapperchino/agent-joe",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "I created an AI agent that finds investors that and does reachouts to investors",
+      "summary": "I created a CLI tool that does understands the app i'm building, finds investors with public facing emails and reaches out to them. tested this week. 43 emails sent, 6 replies. hopefully that's a good reply ratio of replies. idk the open rate tho. didn't track that.I'm trying to bring it to market.",
+      "url": "https://news.ycombinator.com/item?id=48509761",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Rubric – test what your LLM agent did, not just what it said",
+      "summary": "Article URL: https://github.com/Kareem-Rashed/rubric-eval\nComments URL: https://news.ycombinator.com/item?id=48509073\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/Kareem-Rashed/rubric-eval",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "ImpactArbiter – A PyTorch autograd trap for LLM-generated vLLM/SGLang invariants",
+      "summary": "Article URL: https://github.com/msunda17/impactarbiter-cli\nComments URL: https://news.ycombinator.com/item?id=48509033\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/msunda17/impactarbiter-cli",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "What Is an LLM Control Plane?",
+      "summary": "Article URL: https://blog.mozilla.ai/what-is-an-llm-control-plane/\nComments URL: https://news.ycombinator.com/item?id=48508913\nPoints: 3\n# Comments: 0",
+      "url": "https://blog.mozilla.ai/what-is-an-llm-control-plane/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Reasoning as Pattern Matching: Shared Mechanisms in Human and LLM Reasoning",
+      "summary": "Article URL: https://arxiv.org/abs/2606.13607\nComments URL: https://news.ycombinator.com/item?id=48508899\nPoints: 1\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2606.13607",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [],
+  "research": [],
+  "china": []
+}
