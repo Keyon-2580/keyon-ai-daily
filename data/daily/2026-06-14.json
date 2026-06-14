@@ -1,0 +1,152 @@
+{
+  "date": "2026-06-14",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-06-14 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Initial Results on Legal Agent Benchmark",
+      "summary": "Article URL: https://twitter.com/gabepereyra/status/2059320727988224128\nComments URL: https://news.ycombinator.com/item?id=48524237\nPoints: 1\n# Comments: 0",
+      "url": "https://twitter.com/gabepereyra/status/2059320727988224128",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Agent Gate – a deterministic CI firewall for AI-generated PRs",
+      "summary": "Article URL: https://github.com/sjh9714/Agent-Gate\nComments URL: https://news.ycombinator.com/item?id=48524230\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/sjh9714/Agent-Gate",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Hi HN: Loopy agent, meta-loop engineer my Claude Code and codex sessions",
+      "summary": "Article URL: https://github.com/secretbuilds/loopy\nComments URL: https://news.ycombinator.com/item?id=48524150\nPoints: 1\n# Comments: 1",
+      "url": "https://github.com/secretbuilds/loopy",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Ask HN: Which cheap Chinese LLM are you using?",
+      "summary": "In the last one or two months, starting from DeepSeek V4 Pro, there are quite many low-price Chinese models coming out. Their performance looks more or less similar to me: Mimo V2.5 Pro, MiniMax M3, and the just released GLM 5.2, etc.Which model are you using now? Why? What are the good and bad par",
+      "url": "https://news.ycombinator.com/item?id=48523455",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": []
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": []
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Initial Results on Legal Agent Benchmark",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://twitter.com/gabepereyra/status/2059320727988224128"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "Initial Results on Legal Agent Benchmark",
+      "summary": "Article URL: https://twitter.com/gabepereyra/status/2059320727988224128\nComments URL: https://news.ycombinator.com/item?id=48524237\nPoints: 1\n# Comments: 0",
+      "url": "https://twitter.com/gabepereyra/status/2059320727988224128",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Agent Gate – a deterministic CI firewall for AI-generated PRs",
+      "summary": "Article URL: https://github.com/sjh9714/Agent-Gate\nComments URL: https://news.ycombinator.com/item?id=48524230\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/sjh9714/Agent-Gate",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Hi HN: Loopy agent, meta-loop engineer my Claude Code and codex sessions",
+      "summary": "Article URL: https://github.com/secretbuilds/loopy\nComments URL: https://news.ycombinator.com/item?id=48524150\nPoints: 1\n# Comments: 1",
+      "url": "https://github.com/secretbuilds/loopy",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Ask HN: Which cheap Chinese LLM are you using?",
+      "summary": "In the last one or two months, starting from DeepSeek V4 Pro, there are quite many low-price Chinese models coming out. Their performance looks more or less similar to me: Mimo V2.5 Pro, MiniMax M3, and the just released GLM 5.2, etc.Which model are you using now? Why? What are the good and bad par",
+      "url": "https://news.ycombinator.com/item?id=48523455",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "AI agent on GitHub gives recipe for blueberry pie",
+      "summary": "Article URL: https://github.com/home-assistant/core/pull/173465\nComments URL: https://news.ycombinator.com/item?id=48522910\nPoints: 4\n# Comments: 2",
+      "url": "https://github.com/home-assistant/core/pull/173465",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Llama.cpp – Run LLM Inference in C/C++",
+      "summary": "Article URL: https://llama-cpp.com/\nComments URL: https://news.ycombinator.com/item?id=48522662\nPoints: 2\n# Comments: 0",
+      "url": "https://llama-cpp.com/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "LLM Token Price Index",
+      "summary": "Article URL: https://tokenpriceindex.com\nComments URL: https://news.ycombinator.com/item?id=48522130\nPoints: 3\n# Comments: 1",
+      "url": "https://tokenpriceindex.com",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "OpenDevOps – An open-source AI agent that investigates AWS/Azure incidents",
+      "summary": "Article URL: https://github.com/AhmadHammad21/OpenDevOps\nComments URL: https://news.ycombinator.com/item?id=48521685\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/AhmadHammad21/OpenDevOps",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [
+    {
+      "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+      "summary": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-offic...\n\nComments URL: https://news.ycombinator.com/item?id=48519092\nPoints: 617\n# Comments: 452",
+      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "research": [],
+  "china": []
+}
