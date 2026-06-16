@@ -1,0 +1,375 @@
+{
+  "date": "2026-06-16",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-06-16 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "SAMF- Deterministic Moscow guardrails for LLM multi-agent loops",
+      "summary": "Article URL: https://github.com/NanoPrompt/samf-framework\nComments URL: https://news.ycombinator.com/item?id=48551132\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/NanoPrompt/samf-framework",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Anthropic Pauses Its Claude Agent SDK Billing Change",
+      "summary": "Article URL: https://origami.sa/en/blog/anthropic-pauses-agent-sdk-subscription-billing-change/\nComments URL: https://news.ycombinator.com/item?id=48550740\nPoints: 2\n# Comments: 0",
+      "url": "https://origami.sa/en/blog/anthropic-pauses-agent-sdk-subscription-billing-change/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Anthropic pauses Claude Agent SDK policy",
+      "summary": "In May, we sent you an email announcing that starting today, the Claude Agent SDK, claude -p, and third-party apps built on the Agent SDK would stop drawing from subscription rate limits and move to a dedicated monthly credit. We're writing to let you know that we’re not making this change today. W",
+      "url": "https://news.ycombinator.com/item?id=48549646",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Deep-XPIA – Prompt injection benchmark for multi-agent AI systems",
+      "summary": "Article URL: https://freyzo.github.io/deep-xpia/\nComments URL: https://news.ycombinator.com/item?id=48549498\nPoints: 2\n# Comments: 0",
+      "url": "https://freyzo.github.io/deep-xpia/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "A Definition of Good Explanations and the Challenges Explaining LLM Outputs",
+      "summary": "arXiv:2606.14838v1 Announce Type: new \nAbstract: How to define a good explanation is a long-standing philosophical debate which has found recent renewed interest in the context of AI outputs. Explainability is crucial for AI adoption in many contexts, but in order to produce good explanations of AI",
+      "url": "https://arxiv.org/abs/2606.14838",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Dr-DCI: Scaling Direct Corpus Interaction via Dynamic Workspace Expansion",
+      "summary": "arXiv:2606.14885v1 Announce Type: new \nAbstract: Agentic search over large corpora relies on retriever-mediated interfaces (e.g., BM25 or ColBERT) for scalable candidate discovery. While effective at ranking relevant documents, these interfaces expose evidence only as ranked results or bounded docum",
+      "url": "https://arxiv.org/abs/2606.14885",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Relational Structural Causal Models",
+      "summary": "arXiv:2606.14892v1 Announce Type: new \nAbstract: An artificial intelligence must have a model of its environment that is causal, supporting reasoning about interventions and counterfactuals, and also combinatorial, supporting generalization to unseen combinations of objects. In this work, we formall",
+      "url": "https://arxiv.org/abs/2606.14892",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Trust Between AI Agents: Measuring Formation, Breakage, and Recovery, with Implications for Governing Multi-Agent Systems",
+      "summary": "arXiv:2606.14923v1 Announce Type: new \nAbstract: As language-model agents increasingly work in teams, each agent must decide how much to trust its teammates. Yet we lack a standard way to measure trust between AI agents. We propose a behavioral measure based on costly verification. In a cooperative",
+      "url": "https://arxiv.org/abs/2606.14923",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "SAMF- Deterministic Moscow guardrails for LLM multi-agent loops",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://github.com/NanoPrompt/samf-framework"
+        },
+        {
+          "title": "Show HN: Deep-XPIA – Prompt injection benchmark for multi-agent AI systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://freyzo.github.io/deep-xpia/"
+        },
+        {
+          "title": "DPBench: Structural Determinants of Multi-Agent LLM Coordination",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://arxiv.org/abs/2602.13255"
+        },
+        {
+          "title": "Trust Between AI Agents: Measuring Formation, Breakage, and Recovery, with Implications for Governing Multi-Agent Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.14923"
+        },
+        {
+          "title": "Resilient Consensus in Agentic AI",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.15024"
+        },
+        {
+          "title": "DeepRoot: A KG-Coordinated Multi-Agent System for Therapeutic Reasoning over Historical Medical Texts",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.15931"
+        },
+        {
+          "title": "Misinformation Propagation in Benign Multi-Agent Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.16710"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "Dr-DCI: Scaling Direct Corpus Interaction via Dynamic Workspace Expansion",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.14885"
+        },
+        {
+          "title": "MiroBench: Benchmarking Realism in Agentic Simulation of Real-world Discussions",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.14715"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Semantics-Enhanced Retrieval-Augmented Time Series Forecasting",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.14941"
+        },
+        {
+          "title": "AI Engram: In Search of Memory Traces in Artificial Intelligence",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.14997"
+        },
+        {
+          "title": "Metric Match: A Subset Selection Approach to Evaluating LLM Judge Reliability",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.15029"
+        },
+        {
+          "title": "Human-on-the-Bridge: Scalable Evaluation for AI Agents",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.16871"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "SAMF- Deterministic Moscow guardrails for LLM multi-agent loops",
+      "summary": "Article URL: https://github.com/NanoPrompt/samf-framework\nComments URL: https://news.ycombinator.com/item?id=48551132\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/NanoPrompt/samf-framework",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Anthropic Pauses Its Claude Agent SDK Billing Change",
+      "summary": "Article URL: https://origami.sa/en/blog/anthropic-pauses-agent-sdk-subscription-billing-change/\nComments URL: https://news.ycombinator.com/item?id=48550740\nPoints: 2\n# Comments: 0",
+      "url": "https://origami.sa/en/blog/anthropic-pauses-agent-sdk-subscription-billing-change/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Anthropic pauses Claude Agent SDK policy",
+      "summary": "In May, we sent you an email announcing that starting today, the Claude Agent SDK, claude -p, and third-party apps built on the Agent SDK would stop drawing from subscription rate limits and move to a dedicated monthly credit. We're writing to let you know that we’re not making this change today. W",
+      "url": "https://news.ycombinator.com/item?id=48549646",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Deep-XPIA – Prompt injection benchmark for multi-agent AI systems",
+      "summary": "Article URL: https://freyzo.github.io/deep-xpia/\nComments URL: https://news.ycombinator.com/item?id=48549498\nPoints: 2\n# Comments: 0",
+      "url": "https://freyzo.github.io/deep-xpia/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "The US just treated an LLM as a munition",
+      "summary": "Article URL: https://substack.productmind.co/p/four-thoughts-on-anthropics-fable\nComments URL: https://news.ycombinator.com/item?id=48548935\nPoints: 3\n# Comments: 1",
+      "url": "https://substack.productmind.co/p/four-thoughts-on-anthropics-fable",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "An AI auditor agent fabricated its own verification three times",
+      "summary": "Article URL: https://www.agentverificationtheater.com\nComments URL: https://news.ycombinator.com/item?id=48548247\nPoints: 3\n# Comments: 0",
+      "url": "https://www.agentverificationtheater.com",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: Tamper-evident audit trail for AI coding agent activity",
+      "summary": "We released what I've been working in the last few months: an Openclaw plugin that ecords every session, tool invocation, and prompt exchange into a local SQLite database with SHA-256 hash chain integrity, so you can verify that no events were altered or deleted after the fact.\n\nComments URL: https",
+      "url": "https://github.com/Constellation-Labs/gate-oc-audit",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "DPBench: Structural Determinants of Multi-Agent LLM Coordination",
+      "summary": "Article URL: https://arxiv.org/abs/2602.13255\nComments URL: https://news.ycombinator.com/item?id=48547462\nPoints: 2\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2602.13255",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "A Definition of Good Explanations and the Challenges Explaining LLM Outputs",
+      "summary": "arXiv:2606.14838v1 Announce Type: new \nAbstract: How to define a good explanation is a long-standing philosophical debate which has found recent renewed interest in the context of AI outputs. Explainability is crucial for AI adoption in many contexts, but in order to produce good explanations of AI",
+      "url": "https://arxiv.org/abs/2606.14838",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Dr-DCI: Scaling Direct Corpus Interaction via Dynamic Workspace Expansion",
+      "summary": "arXiv:2606.14885v1 Announce Type: new \nAbstract: Agentic search over large corpora relies on retriever-mediated interfaces (e.g., BM25 or ColBERT) for scalable candidate discovery. While effective at ranking relevant documents, these interfaces expose evidence only as ranked results or bounded docum",
+      "url": "https://arxiv.org/abs/2606.14885",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Relational Structural Causal Models",
+      "summary": "arXiv:2606.14892v1 Announce Type: new \nAbstract: An artificial intelligence must have a model of its environment that is causal, supporting reasoning about interventions and counterfactuals, and also combinatorial, supporting generalization to unseen combinations of objects. In this work, we formall",
+      "url": "https://arxiv.org/abs/2606.14892",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Trust Between AI Agents: Measuring Formation, Breakage, and Recovery, with Implications for Governing Multi-Agent Systems",
+      "summary": "arXiv:2606.14923v1 Announce Type: new \nAbstract: As language-model agents increasingly work in teams, each agent must decide how much to trust its teammates. Yet we lack a standard way to measure trust between AI agents. We propose a behavioral measure based on costly verification. In a cooperative",
+      "url": "https://arxiv.org/abs/2606.14923",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "PrologMCP: A Standardized Prolog Tool Interface for LLM Agents",
+      "summary": "arXiv:2606.14935v1 Announce Type: new \nAbstract: Frontier reasoning-tuned language models still fail on deductive tasks at depth, and the cost of improved performance through extended internal reasoning scales poorly. Symbolic delegation offers a complementary route: a language model translates the",
+      "url": "https://arxiv.org/abs/2606.14935",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Semantics-Enhanced Retrieval-Augmented Time Series Forecasting",
+      "summary": "arXiv:2606.14941v1 Announce Type: new \nAbstract: Time series forecasting models often benefit from historical patterns. Inspired by Retrieval-Augmented Generation (RAG), recent research explored retrieving relevant historical time series segments to enhance forecasting. However, relying solely on ti",
+      "url": "https://arxiv.org/abs/2606.14941",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "AI Engram: In Search of Memory Traces in Artificial Intelligence",
+      "summary": "arXiv:2606.14997v1 Announce Type: new \nAbstract: Memory formation is fundamental to intelligence, yet whether deep neural networks preserve identifiable memory traces analogous to biological memory units remains an open question. This work introduces a geometric framework to identify such \"AI engram",
+      "url": "https://arxiv.org/abs/2606.14997",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Metric Match: A Subset Selection Approach to Evaluating LLM Judge Reliability",
+      "summary": "arXiv:2606.15029v1 Announce Type: new \nAbstract: LLM judges are used to reduce the need for costly human labor in evaluating open-ended text generation. However, the reliability of these judges depends critically on their alignment with human raters -- a property that itself depends on costly human",
+      "url": "https://arxiv.org/abs/2606.15029",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "MiroBench: Benchmarking Realism in Agentic Simulation of Real-world Discussions",
+      "summary": "arXiv:2606.14715v1 Announce Type: new \nAbstract: LLM agents are increasingly used to simulate real world interactions, but it remains unclear whether simulated behaviors preserve the content patterns and interaction dynamics of real human behaviors. Existing evaluations remain fragmented, which make",
+      "url": "https://arxiv.org/abs/2606.14715",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Selective Control under Noisy Perception: Governance Failures Hidden by Aggregate Metrics in Modular Networks",
+      "summary": "arXiv:2606.14819v1 Announce Type: new \nAbstract: A content-moderation system can score well on every standard accuracy metric and still cause real harm, if its mistakes fall on the few users who connect otherwise separate communities. We show this in an agent-based model where N=240 learning agents",
+      "url": "https://arxiv.org/abs/2606.14819",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Hierarchical Generative Agents for Simulating Sequential Human Behavior",
+      "summary": "arXiv:2606.14989v1 Announce Type: new \nAbstract: Complex cognitive, emotional, and social processes shape human evacuations during natural disasters. Accurate modeling and understanding of human behavior in disasters or emergencies can greatly impact the evacuation process by informing more effectiv",
+      "url": "https://arxiv.org/abs/2606.14989",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Resilient Consensus in Agentic AI",
+      "summary": "arXiv:2606.15024v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly deployed in multi-agent systems where they must coordinate and agree on shared decisions. We ask whether classical resilient consensus theory, developed for deterministic agents, transfers to LLM agen",
+      "url": "https://arxiv.org/abs/2606.15024",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "DeepRoot: A KG-Coordinated Multi-Agent System for Therapeutic Reasoning over Historical Medical Texts",
+      "summary": "arXiv:2606.15931v1 Announce Type: new \nAbstract: Historical medical archives and traditional medicines hold immense potential for drug discovery and remain a primary source for current drug development. However, pre-ontological prose and idiosyncratic taxonomies prevent the standardization and medic",
+      "url": "https://arxiv.org/abs/2606.15931",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Misinformation Propagation in Benign Multi-Agent Systems",
+      "summary": "arXiv:2606.16710v1 Announce Type: new \nAbstract: Multi-agent systems, in which multiple large language model agents solve problems through turn-based interaction, are increasingly deployed in high-stakes settings such as medical diagnosis, legal analysis, and forensic decision-making. Their reliabil",
+      "url": "https://arxiv.org/abs/2606.16710",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Human-on-the-Bridge: Scalable Evaluation for AI Agents",
+      "summary": "arXiv:2606.16871v1 Announce Type: new \nAbstract: AI agents must be evaluated as behavioral systems, not as isolated response generators. They reason across turns, call tools, preserve context, follow policies, and act under uncertainty. Existing methods provide useful but fragmented signals: benchma",
+      "url": "https://arxiv.org/abs/2606.16871",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "XMedFusion: A Knowledge-Guided Multimodal Perception and Reasoning Framework for Autonomous Medical Systems",
+      "summary": "arXiv:2606.14766v1 Announce Type: cross \nAbstract: Autonomous medical and robotic systems increasingly rely on intelligent perception and reasoning capabilities to interpret visual data and support clinical decision making. Radiology report generation represents a critical component of such automate",
+      "url": "https://arxiv.org/abs/2606.14766",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
