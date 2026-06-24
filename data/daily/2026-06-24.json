@@ -1,0 +1,231 @@
+{
+  "date": "2026-06-24",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-06-24 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+      "summary": "arXiv:2606.23927v1 Announce Type: new \nAbstract: Agentic AI systems powered by large language models (LLMs) are rapidly evolving into autonomous decision-making systems, exposing attack vectors beyond those of traditional LLM vulnerabilities. Existing security evaluations are often tied to specific",
+      "url": "https://arxiv.org/abs/2606.23927",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
+      "summary": "arXiv:2606.23938v1 Announce Type: new \nAbstract: Driving VLA models incorporating Chain-of-Thought (CoT) reasoning are attractive because they leverage pretrained VLM representations and expose intermediate decisions in natural language, yet current rationales often lack the step-by-step decision se",
+      "url": "https://arxiv.org/abs/2606.23938",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Critique of Agent Model",
+      "summary": "arXiv:2606.23991v1 Announce Type: new \nAbstract: What is an agent? What constitutes agency? With the rise of Large Language Model (LLM) systems marketed as ``coding agents'', ``AI co-scientists'', and other ``agentic\" tools that promise to drive up productivity, and at the same time, ``existential\"",
+      "url": "https://arxiv.org/abs/2606.23991",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Safe and Generalizable Hierarchical Multi-Agent RL via Constraint Manifold Control",
+      "summary": "arXiv:2606.24010v1 Announce Type: new \nAbstract: Multi-agent systems are widely used in safety-critical applications that require coordinated behavior under strict safety constraints. Existing approaches face a fundamental trade-off: learning-based methods achieve strong empirical performance but la",
+      "url": "https://arxiv.org/abs/2606.24010",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Safe and Generalizable Hierarchical Multi-Agent RL via Constraint Manifold Control",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.24010"
+        },
+        {
+          "title": "From Task-Guided Conversational Graphs to Goal-Oriented Dialogue Runtimes",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.23797"
+        },
+        {
+          "title": "Welfarist Control Design -- How to fulfill the societal mandate in multi-agent control?",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.23931"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.23927"
+        },
+        {
+          "title": "Critique of Agent Model",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.23991"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Engineering Reliable Autonomous Systems: Challenges and Solutions",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.23760"
+        },
+        {
+          "title": "Maestro Order: A Model-Agnostic Orchestration Harness",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.23983"
+        }
+      ]
+    }
+  ],
+  "oss": [],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+      "summary": "arXiv:2606.23927v1 Announce Type: new \nAbstract: Agentic AI systems powered by large language models (LLMs) are rapidly evolving into autonomous decision-making systems, exposing attack vectors beyond those of traditional LLM vulnerabilities. Existing security evaluations are often tied to specific",
+      "url": "https://arxiv.org/abs/2606.23927",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
+      "summary": "arXiv:2606.23938v1 Announce Type: new \nAbstract: Driving VLA models incorporating Chain-of-Thought (CoT) reasoning are attractive because they leverage pretrained VLM representations and expose intermediate decisions in natural language, yet current rationales often lack the step-by-step decision se",
+      "url": "https://arxiv.org/abs/2606.23938",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Critique of Agent Model",
+      "summary": "arXiv:2606.23991v1 Announce Type: new \nAbstract: What is an agent? What constitutes agency? With the rise of Large Language Model (LLM) systems marketed as ``coding agents'', ``AI co-scientists'', and other ``agentic\" tools that promise to drive up productivity, and at the same time, ``existential\"",
+      "url": "https://arxiv.org/abs/2606.23991",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Safe and Generalizable Hierarchical Multi-Agent RL via Constraint Manifold Control",
+      "summary": "arXiv:2606.24010v1 Announce Type: new \nAbstract: Multi-agent systems are widely used in safety-critical applications that require coordinated behavior under strict safety constraints. Existing approaches face a fundamental trade-off: learning-based methods achieve strong empirical performance but la",
+      "url": "https://arxiv.org/abs/2606.24010",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
+      "summary": "arXiv:2606.24014v1 Announce Type: new \nAbstract: As AI systems are deployed across increasingly diverse and high-stakes settings, model alignment must generalize beyond the tasks and domains seen during training. This is especially important for reinforcement learning (RL), which can introduce unexp",
+      "url": "https://arxiv.org/abs/2606.24014",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Can Language Model Agents be Helpful Circuit Explainers in Mechanistic Interpretability?",
+      "summary": "arXiv:2606.24026v1 Announce Type: new \nAbstract: Mechanistic interpretability has made substantial progress in automatically localizing circuits, but explaining what localized components do remains labor-intensive and difficult to standardize. In this work, we study whether language model (LM) agent",
+      "url": "https://arxiv.org/abs/2606.24026",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Breaking the Filter Bubble: A Semantic Pareto-DQN Framework for Multi-Objective Recommendation",
+      "summary": "arXiv:2606.24042v1 Announce Type: new \nAbstract: Recommender systems often induce filter bubbles and semantic homogenization by monolithically optimizing for immediate user engagement. Standard single-objective models, including traditional Deep Q-Networks, are ill-equipped to navigate the trade-off",
+      "url": "https://arxiv.org/abs/2606.24042",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Ensemble Feature Selection and Harris Hawks Optimization for Explainable Mental Health Risk Prediction in Female Sex Workers",
+      "summary": "arXiv:2606.24047v1 Announce Type: new \nAbstract: One of the significant mental health issues affecting female sex workers (FSWs) is mental disorders, especially depression. Exposure to violence, stigma, and economic hardship further increases their psychological risk. Current machine learning (ML) m",
+      "url": "https://arxiv.org/abs/2606.24047",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Emergent Relational Order in LLM Agent Societies: From Collective Affect to Authority Stratification",
+      "summary": "arXiv:2606.23764v1 Announce Type: new \nAbstract: Fei Xiaotong's Differential Order Pattern characterizes rural society as egocentric and relationally graded, with cooperation attenuating over social distance. Although often treated as culturally specific, its mechanistic basis remains under-operatio",
+      "url": "https://arxiv.org/abs/2606.23764",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Decentralized Coordination of Autonomous Traffic Through Advanced Air Mobility Corridors",
+      "summary": "arXiv:2606.23832v1 Announce Type: new \nAbstract: The use of dedicated corridors for Advanced Air Mobility (AAM) traffic is one of the most commonly proposed pathways to integrating them into existing airspace operations. Most prior research has focused on the design of networks of AAM corridors and",
+      "url": "https://arxiv.org/abs/2606.23832",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Generating Realistic Individual Activity Schedules via Activity Location Allocation Based on Simulated Travel Times",
+      "summary": "arXiv:2606.24566v1 Announce Type: new \nAbstract: Individual level daily activity schedules are essential for a wide range of applications, including infectious disease control, urban transportation planning, and policy design. In practice, such schedules are typically generated by combining populati",
+      "url": "https://arxiv.org/abs/2606.24566",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Engineering Reliable Autonomous Systems: Challenges and Solutions",
+      "summary": "arXiv:2606.23760v1 Announce Type: cross \nAbstract: Engineering reliable autonomous systems is an important and growing topic in computer science. As autonomous systems become more prevalent, easy-to-use techniques for building them reliably are increasingly important.\n  This workshop report captures",
+      "url": "https://arxiv.org/abs/2606.23760",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "From Task-Guided Conversational Graphs to Goal-Oriented Dialogue Runtimes",
+      "summary": "arXiv:2606.23797v1 Announce Type: cross \nAbstract: Graph and multi-agent orchestration frameworks make production large language model (LLM) workflows practical, but they do not by themselves solve conversational continuity when users maintain several interdependent objectives. This conceptual syste",
+      "url": "https://arxiv.org/abs/2606.23797",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Welfarist Control Design -- How to fulfill the societal mandate in multi-agent control?",
+      "summary": "arXiv:2606.23931v1 Announce Type: cross \nAbstract: At the core of most socio-technical systems lies a scarce resource that is allocated among agents: highway lanes, public transit, road space, water rights, energy access, grid capacity, user attention, pollution rights, etc. With further automation",
+      "url": "https://arxiv.org/abs/2606.23931",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Maestro Order: A Model-Agnostic Orchestration Harness",
+      "summary": "arXiv:2606.23983v1 Announce Type: cross \nAbstract: A single forward pass of a capable model is a fast, fluent, and unreliable problem-solver: it is right often enough to be useful and wrong often enough to be dangerous; in language models, such confident errors are known as hallucinations. We presen",
+      "url": "https://arxiv.org/abs/2606.23983",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
