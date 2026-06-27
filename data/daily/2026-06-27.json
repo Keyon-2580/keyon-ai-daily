@@ -1,0 +1,291 @@
+{
+  "date": "2026-06-27",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-06-27 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Promptetheus – Trace, detect, and auto-repair AI agent failures",
+      "summary": "Article URL: https://github.com/obro79/promptetheus\nComments URL: https://news.ycombinator.com/item?id=48695176\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/obro79/promptetheus",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Coding agent harness written in native Golang with built-in file and Git viewer",
+      "summary": "Article URL: https://code.intellios.ai\nComments URL: https://news.ycombinator.com/item?id=48695050\nPoints: 1\n# Comments: 0",
+      "url": "https://code.intellios.ai",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "TUI email client in native Golang with LLM based drafting functions",
+      "summary": "Article URL: https://mail.intellios.ai\nComments URL: https://news.ycombinator.com/item?id=48694888\nPoints: 1\n# Comments: 0",
+      "url": "https://mail.intellios.ai",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Ask HN: MacBook vs. Dedicated GPU for LLM",
+      "summary": "For those who are using llms on macbook, Want to understand how macbook is different than dedicated GPU in running those models? and how to know how much a macbook is capable of running a model?\n\nComments URL: https://news.ycombinator.com/item?id=48694802\nPoints: 15\n# Comments: 20",
+      "url": "https://news.ycombinator.com/item?id=48694802",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Detecting and Controlling Sycophancy with Cascading Linear Features",
+      "summary": "arXiv:2606.26155v1 Announce Type: new \nAbstract: Interpreting and controlling model behaviors through activation steering methods requires many pairs of contrastive samples that clearly exhibit desired or undesired behavior. These data pairs determine the degree to which interpretability frameworks",
+      "url": "https://arxiv.org/abs/2606.26155",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Life After Benchmark Saturation: A Case Study of CORE-Bench",
+      "summary": "arXiv:2606.26158v1 Announce Type: new \nAbstract: When a benchmark's accuracy saturates, it is often retired and replaced with a more challenging version. We show that this approach privileges accuracy and misses the opportunity to study six other key dimensions of agent performance: construct validi",
+      "url": "https://arxiv.org/abs/2606.26158",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Refusal Lives Downstream of Persona in Chat Models",
+      "summary": "arXiv:2606.26161v1 Announce Type: new \nAbstract: Linear directions in activation space have been identified for both refusal and persona traits in instruction-tuned chat models, but the two have been studied as separate mechanisms. We show they interact: a compliant persona gates refusal. In Qwen2.5",
+      "url": "https://arxiv.org/abs/2606.26161",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "AlgoEvolve: LLM-driven Meta-evolution of Algorithmic Trading Programs",
+      "summary": "arXiv:2606.26173v1 Announce Type: new \nAbstract: Recent work shows that Large Language Models (LLMs) can act as semantic mutation operators for the evolutionary discovery of programs and proofs. Most current applications focus on static coding benchmarks. We extend this paradigm to algorithmic tradi",
+      "url": "https://arxiv.org/abs/2606.26173",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Show HN: I scanned 87 MCP servers for agent-authority hygiene – leaderboard",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://capframe.ai/leaderboard"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "Agentic Analysis for Agentic Infrastructure: An LLM-Powered Pipeline for Comparative Governance of DAO and Corporate AI Protocols",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.26203"
+        },
+        {
+          "title": "Knowledge-augmented Agentic AI for Mental Health Medication Information Seeking",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.26205"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Promptetheus – Trace, detect, and auto-repair AI agent failures",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://github.com/obro79/promptetheus"
+        },
+        {
+          "title": "Coding agent harness written in native Golang with built-in file and Git viewer",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://code.intellios.ai"
+        },
+        {
+          "title": "Life After Benchmark Saturation: A Case Study of CORE-Bench",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.26158"
+        },
+        {
+          "title": "AlgoEvolve: LLM-driven Meta-evolution of Algorithmic Trading Programs",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.26173"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "Promptetheus – Trace, detect, and auto-repair AI agent failures",
+      "summary": "Article URL: https://github.com/obro79/promptetheus\nComments URL: https://news.ycombinator.com/item?id=48695176\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/obro79/promptetheus",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Coding agent harness written in native Golang with built-in file and Git viewer",
+      "summary": "Article URL: https://code.intellios.ai\nComments URL: https://news.ycombinator.com/item?id=48695050\nPoints: 1\n# Comments: 0",
+      "url": "https://code.intellios.ai",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "TUI email client in native Golang with LLM based drafting functions",
+      "summary": "Article URL: https://mail.intellios.ai\nComments URL: https://news.ycombinator.com/item?id=48694888\nPoints: 1\n# Comments: 0",
+      "url": "https://mail.intellios.ai",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Ask HN: MacBook vs. Dedicated GPU for LLM",
+      "summary": "For those who are using llms on macbook, Want to understand how macbook is different than dedicated GPU in running those models? and how to know how much a macbook is capable of running a model?\n\nComments URL: https://news.ycombinator.com/item?id=48694802\nPoints: 15\n# Comments: 20",
+      "url": "https://news.ycombinator.com/item?id=48694802",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Join .agent – Pre-Register Your Domain Free",
+      "summary": "Article URL: https://agentcommunity.org/join\nComments URL: https://news.ycombinator.com/item?id=48693963\nPoints: 3\n# Comments: 2",
+      "url": "https://agentcommunity.org/join",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: I scanned 87 MCP servers for agent-authority hygiene – leaderboard",
+      "summary": "Article URL: https://capframe.ai/leaderboard\nComments URL: https://news.ycombinator.com/item?id=48693922\nPoints: 1\n# Comments: 3",
+      "url": "https://capframe.ai/leaderboard",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "PrismLib – semantic LLM cache and cluster mesh that cuts token spend",
+      "summary": "Article URL: https://github.com/insightitsGit/prismlib\nComments URL: https://news.ycombinator.com/item?id=48693843\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/insightitsGit/prismlib",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "I removed the vector database from my AI agent stack",
+      "summary": "Article URL: https://github.com/usemoss/moss\nComments URL: https://news.ycombinator.com/item?id=48693631\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/usemoss/moss",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [
+    {
+      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+      "summary": "https://archive.md/ArXuFhttps://www.nbcnews.com/tech/tech-news/us-government-gives-a...\n\nComments URL: https://news.ycombinator.com/item?id=48692995\nPoints: 307\n# Comments: 314",
+      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "research": [
+    {
+      "title": "Detecting and Controlling Sycophancy with Cascading Linear Features",
+      "summary": "arXiv:2606.26155v1 Announce Type: new \nAbstract: Interpreting and controlling model behaviors through activation steering methods requires many pairs of contrastive samples that clearly exhibit desired or undesired behavior. These data pairs determine the degree to which interpretability frameworks",
+      "url": "https://arxiv.org/abs/2606.26155",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Life After Benchmark Saturation: A Case Study of CORE-Bench",
+      "summary": "arXiv:2606.26158v1 Announce Type: new \nAbstract: When a benchmark's accuracy saturates, it is often retired and replaced with a more challenging version. We show that this approach privileges accuracy and misses the opportunity to study six other key dimensions of agent performance: construct validi",
+      "url": "https://arxiv.org/abs/2606.26158",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Refusal Lives Downstream of Persona in Chat Models",
+      "summary": "arXiv:2606.26161v1 Announce Type: new \nAbstract: Linear directions in activation space have been identified for both refusal and persona traits in instruction-tuned chat models, but the two have been studied as separate mechanisms. We show they interact: a compliant persona gates refusal. In Qwen2.5",
+      "url": "https://arxiv.org/abs/2606.26161",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "AlgoEvolve: LLM-driven Meta-evolution of Algorithmic Trading Programs",
+      "summary": "arXiv:2606.26173v1 Announce Type: new \nAbstract: Recent work shows that Large Language Models (LLMs) can act as semantic mutation operators for the evolutionary discovery of programs and proofs. Most current applications focus on static coding benchmarks. We extend this paradigm to algorithmic tradi",
+      "url": "https://arxiv.org/abs/2606.26173",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Agentic Analysis for Agentic Infrastructure: An LLM-Powered Pipeline for Comparative Governance of DAO and Corporate AI Protocols",
+      "summary": "arXiv:2606.26203v1 Announce Type: new \nAbstract: As AI agent protocols proliferate, the governance structures shaping their interoperability standards remain empirically underexamined. We introduce an LLM-powered comparative pipeline for large-scale governance discourse analysis, integrating automat",
+      "url": "https://arxiv.org/abs/2606.26203",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Knowledge-augmented Agentic AI for Mental Health Medication Information Seeking",
+      "summary": "arXiv:2606.26205v1 Announce Type: new \nAbstract: Patients increasingly seek medication information online, yet safety knowledge for psychiatric drugs is split between regulatory adverse-event records, which are authoritative but abstract, and patient narratives, which are experience-near but unvalid",
+      "url": "https://arxiv.org/abs/2606.26205",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Accelerating Skill Assessment in Chess: A Drift-Diffusion-Enhanced Elo Rating System",
+      "summary": "arXiv:2606.26267v1 Announce Type: new \nAbstract: Rating systems such as Elo serve as the gold standard for matchmaking in competitive chess. However, they inherently suffer from response lag due to their exclusive reliance on match outcomes, neglecting the granular quality of gameplay. Nevertheless,",
+      "url": "https://arxiv.org/abs/2606.26267",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Governing Actions, Not Agents: Institutional Attestation as a Governance Model for Autonomous AI Systems",
+      "summary": "arXiv:2606.26298v1 Announce Type: new \nAbstract: Autonomous AI agents may begin to perform consequential, irreversible actions such as clinical prescribing and production software deployment. This paper observes that human institutions have governed powerful autonomous actors not by monitoring their",
+      "url": "https://arxiv.org/abs/2606.26298",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
