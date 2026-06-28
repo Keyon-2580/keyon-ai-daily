@@ -1,0 +1,151 @@
+{
+  "date": "2026-06-28",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-06-28 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+      "summary": "Article URL: https://github.com/itsthelore/wayfinder-router\nComments URL: https://news.ycombinator.com/item?id=48704373\nPoints: 9\n# Comments: 0",
+      "url": "https://github.com/itsthelore/wayfinder-router",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: NextRole – multi-agent resume tailoring and interview prep",
+      "summary": "Article URL: https://github.com/tam159/next-role\nComments URL: https://news.ycombinator.com/item?id=48704340\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/tam159/next-role",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Improved LLM as a Judge Techniques",
+      "summary": "Article URL: https://arxiv.org/abs/2606.27226\nComments URL: https://news.ycombinator.com/item?id=48704006\nPoints: 2\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2606.27226",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Moumantai – self-hosted, agent-driven apps you can use on any device",
+      "summary": "Moumantai is a self-hosted runtime for creating personal \"mini-apps\": you define the app once, the server holds its state and logic (deterministic or powered by agent), and it can be accessed and rendered natively through a thin client on any device - phone, watch, browser, or an embedded board.Lik",
+      "url": "https://github.com/xiang-deng/moumantai",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Show HN: NextRole – multi-agent resume tailoring and interview prep",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://github.com/tam159/next-role"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": []
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Show HN: A benchmark for the failure modes of agent memory",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://github.com/Kausha3/agent-memory-bench"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+      "summary": "Article URL: https://github.com/itsthelore/wayfinder-router\nComments URL: https://news.ycombinator.com/item?id=48704373\nPoints: 9\n# Comments: 0",
+      "url": "https://github.com/itsthelore/wayfinder-router",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: NextRole – multi-agent resume tailoring and interview prep",
+      "summary": "Article URL: https://github.com/tam159/next-role\nComments URL: https://news.ycombinator.com/item?id=48704340\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/tam159/next-role",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Improved LLM as a Judge Techniques",
+      "summary": "Article URL: https://arxiv.org/abs/2606.27226\nComments URL: https://news.ycombinator.com/item?id=48704006\nPoints: 2\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2606.27226",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Moumantai – self-hosted, agent-driven apps you can use on any device",
+      "summary": "Moumantai is a self-hosted runtime for creating personal \"mini-apps\": you define the app once, the server holds its state and logic (deterministic or powered by agent), and it can be accessed and rendered natively through a thin client on any device - phone, watch, browser, or an embedded board.Lik",
+      "url": "https://github.com/xiang-deng/moumantai",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
+      "summary": "Hi HN!I built Bash4LLM+ because I wanted a minimal, transparent, and completely customizable way to interact with LLM APIs directly from my terminal, without having to spin up heavy Python virtual environments or pull in NPM packages on small VPS instances.It is written in pure Bash (4+) and its on",
+      "url": "https://github.com/kamaludu/bash4llm/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Agent Kits – Compliance Scanner",
+      "summary": "Article URL: https://www.agent-kits.com/scan\nComments URL: https://news.ycombinator.com/item?id=48702760\nPoints: 2\n# Comments: 0",
+      "url": "https://www.agent-kits.com/scan",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: KV-psi, using Linux PSI to to trim an LLM KV cache",
+      "summary": "I thought it'd be interesting to use  Linux PSI (Pressure Stall Information) for an LLM runtime to trim the KV cache. This is mainly useful imo for edge devices like the Jetson Orin super nano kit which have unified memory. I haven't benched much, but plan to do so more over time and see if I can m",
+      "url": "https://github.com/infiniteregrets/kv-psi",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: A benchmark for the failure modes of agent memory",
+      "summary": "Article URL: https://github.com/Kausha3/agent-memory-bench\nComments URL: https://news.ycombinator.com/item?id=48701901\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/Kausha3/agent-memory-bench",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [],
+  "research": [],
+  "china": []
+}
