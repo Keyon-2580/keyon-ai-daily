@@ -1,0 +1,359 @@
+{
+  "date": "2026-06-29",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-06-29 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Turning Strava data and gym photos into a training recap with my coding agent",
+      "summary": "Article URL: https://www.akashtandon.in/ai/2026-06-29-strava-photos-training-recap-coding-agent/\nComments URL: https://news.ycombinator.com/item?id=48715285\nPoints: 1\n# Comments: 0",
+      "url": "https://www.akashtandon.in/ai/2026-06-29-strava-photos-training-recap-coding-agent/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: AI agent for software user community support",
+      "summary": "https://seaticket.ai/solutions/software-user-community-suppo...\n\nComments URL: https://news.ycombinator.com/item?id=48715273\nPoints: 2\n# Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=48715273",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Lore – give your coding agent the decisions your team made",
+      "summary": "Article URL: https://github.com/itsthelore/rac-core\nComments URL: https://news.ycombinator.com/item?id=48714880\nPoints: 4\n# Comments: 0",
+      "url": "https://github.com/itsthelore/rac-core",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Teaching an LLM to Speak Vestaboard Note: Building Vestaboard AI",
+      "summary": "Article URL: https://corti.com/teaching-an-llm-to-speak-vestaboard-note-building-vestaboard-ai/\nComments URL: https://news.ycombinator.com/item?id=48714816\nPoints: 1\n# Comments: 0",
+      "url": "https://corti.com/teaching-an-llm-to-speak-vestaboard-note-building-vestaboard-ai/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "AI-Model Network: Concept, Current State and Future",
+      "summary": "arXiv:2606.27382v1 Announce Type: new \nAbstract: While the primary function of computers lies in computation and processing, the core value of the Internet is rooted in sharing and collaboration. Computers create the Internet, and the Internet empowers the value of computers. The rapid development o",
+      "url": "https://arxiv.org/abs/2606.27382",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "When Does Personality Composition Matter for Multi-Agent LLM Teams?",
+      "summary": "arXiv:2606.27443v1 Announce Type: new \nAbstract: Personality prompting shapes how large language models communicate, yet whether these behavioral shifts affect objective task outcomes remains under-explored. Prior work shows that agents prompted with low agreeableness produce adversarial language, w",
+      "url": "https://arxiv.org/abs/2606.27443",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning",
+      "summary": "arXiv:2606.27483v1 Announce Type: new \nAbstract: Large language model (LLM) agents have demonstrated strong capability in sequential decision-making, yet they remains fundamentally reactive in long-horizon tasks. Unlike humans who employ \"what-if\" reasoning to evaluate potential plans before commitm",
+      "url": "https://arxiv.org/abs/2606.27483",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Odyssey: Constructing Verifiable Local Truth-Preserving Foundation Models",
+      "summary": "arXiv:2606.27593v1 Announce Type: new \nAbstract: We introduce a categorical framework called ODYSSEY for constructing verifiable, local truth-preserving foundation models as compositions of foundries: building-block architectural components that specify a cover of local contexts, local representatio",
+      "url": "https://arxiv.org/abs/2606.27593",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "When Does Personality Composition Matter for Multi-Agent LLM Teams?",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.27443"
+        },
+        {
+          "title": "Delayed Verification Destabilizes Multi-Agent LLM Belief: Instability Thresholds and Optimal Corrector Placement",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.27409"
+        },
+        {
+          "title": "QueenBee Planner: Skill-Evolving Communication Topologies for Token-Efficient LLM Multi-Agent Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.27492"
+        },
+        {
+          "title": "GBC: Gradient-Based Connections for Optimizing Multi-Agent Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.28187"
+        },
+        {
+          "title": "MMAO: A Metabolic Multi-Agent Optimizer with Endogenous Resource Allocation for Continuous and Discrete Optimization",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.28109"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.27483"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "ToE: A Hierarchical and Explainable Claim Verification Framework with Dynamic Multi-source Evidence Retrieval and Aggregation",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.27736"
+        },
+        {
+          "title": "SidConArena: An Environment Evaluating Agents in Open-Ended,Positive-Sum Bargaining Game",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.27397"
+        },
+        {
+          "title": "Triadic Werewolf: A Jester Role for Multi-Hop Theory of Mind in LLMs",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.27909"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "Turning Strava data and gym photos into a training recap with my coding agent",
+      "summary": "Article URL: https://www.akashtandon.in/ai/2026-06-29-strava-photos-training-recap-coding-agent/\nComments URL: https://news.ycombinator.com/item?id=48715285\nPoints: 1\n# Comments: 0",
+      "url": "https://www.akashtandon.in/ai/2026-06-29-strava-photos-training-recap-coding-agent/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: AI agent for software user community support",
+      "summary": "https://seaticket.ai/solutions/software-user-community-suppo...\n\nComments URL: https://news.ycombinator.com/item?id=48715273\nPoints: 2\n# Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=48715273",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Lore – give your coding agent the decisions your team made",
+      "summary": "Article URL: https://github.com/itsthelore/rac-core\nComments URL: https://news.ycombinator.com/item?id=48714880\nPoints: 4\n# Comments: 0",
+      "url": "https://github.com/itsthelore/rac-core",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Teaching an LLM to Speak Vestaboard Note: Building Vestaboard AI",
+      "summary": "Article URL: https://corti.com/teaching-an-llm-to-speak-vestaboard-note-building-vestaboard-ai/\nComments URL: https://news.ycombinator.com/item?id=48714816\nPoints: 1\n# Comments: 0",
+      "url": "https://corti.com/teaching-an-llm-to-speak-vestaboard-note-building-vestaboard-ai/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Herdr: Agent multiplexer that lives in your terminal",
+      "summary": "Article URL: https://github.com/ogulcancelik/herdr\nComments URL: https://news.ycombinator.com/item?id=48714802\nPoints: 8\n# Comments: 0",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: Self hosting a modern LLM stack",
+      "summary": "Article URL: https://github.com/raiyanyahya/llmaker\nComments URL: https://news.ycombinator.com/item?id=48714397\nPoints: 5\n# Comments: 1",
+      "url": "https://github.com/raiyanyahya/llmaker",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: I Made a WebGPU Based Agent/Worlflow Explainer",
+      "summary": "Recently studying agent and workflow. Decided to spawn a /goal command on Claude code and made this.\n\nComments URL: https://news.ycombinator.com/item?id=48714073\nPoints: 2\n# Comments: 0",
+      "url": "https://tdu-naifen.github.io/AgentVisualization/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Google: An 8-minute step-by-step guide to building the smallest Agent loop",
+      "summary": "Article URL: https://twitter.com/Easycompany333/status/2071204465168769451\nComments URL: https://news.ycombinator.com/item?id=48713898\nPoints: 5\n# Comments: 2",
+      "url": "https://twitter.com/Easycompany333/status/2071204465168769451",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [
+    {
+      "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+      "summary": "Article URL: https://github.com/openai/codex/issues/2847\nComments URL: https://news.ycombinator.com/item?id=48706714\nPoints: 192\n# Comments: 124",
+      "url": "https://github.com/openai/codex/issues/2847",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "research": [
+    {
+      "title": "AI-Model Network: Concept, Current State and Future",
+      "summary": "arXiv:2606.27382v1 Announce Type: new \nAbstract: While the primary function of computers lies in computation and processing, the core value of the Internet is rooted in sharing and collaboration. Computers create the Internet, and the Internet empowers the value of computers. The rapid development o",
+      "url": "https://arxiv.org/abs/2606.27382",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "When Does Personality Composition Matter for Multi-Agent LLM Teams?",
+      "summary": "arXiv:2606.27443v1 Announce Type: new \nAbstract: Personality prompting shapes how large language models communicate, yet whether these behavioral shifts affect objective task outcomes remains under-explored. Prior work shows that agents prompted with low agreeableness produce adversarial language, w",
+      "url": "https://arxiv.org/abs/2606.27443",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning",
+      "summary": "arXiv:2606.27483v1 Announce Type: new \nAbstract: Large language model (LLM) agents have demonstrated strong capability in sequential decision-making, yet they remains fundamentally reactive in long-horizon tasks. Unlike humans who employ \"what-if\" reasoning to evaluate potential plans before commitm",
+      "url": "https://arxiv.org/abs/2606.27483",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Odyssey: Constructing Verifiable Local Truth-Preserving Foundation Models",
+      "summary": "arXiv:2606.27593v1 Announce Type: new \nAbstract: We introduce a categorical framework called ODYSSEY for constructing verifiable, local truth-preserving foundation models as compositions of foundries: building-block architectural components that specify a cover of local contexts, local representatio",
+      "url": "https://arxiv.org/abs/2606.27593",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums",
+      "summary": "arXiv:2606.27619v1 Announce Type: new \nAbstract: Dyslexic learners increasingly use artificial intelligence (AI) tools to support reading, writing, organisation, and study-related tasks. However, their lived experiences with these tools remain largely underexamined. This paper proposes DysLexLens, a",
+      "url": "https://arxiv.org/abs/2606.27619",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "MER-R1: Multimodal Emotion Reasoning via Slow-Fast Thinking Synergy",
+      "summary": "arXiv:2606.27652v1 Announce Type: new \nAbstract: We find that explicit reasoning does not necessarily translate into better multimodal emotion recognition (MER) accuracy, even though it makes predictions more interpretable. Specifically, for reasoning-based MLLMs, fast thinking by triggering direct",
+      "url": "https://arxiv.org/abs/2606.27652",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "ToE: A Hierarchical and Explainable Claim Verification Framework with Dynamic Multi-source Evidence Retrieval and Aggregation",
+      "summary": "arXiv:2606.27736v1 Announce Type: new \nAbstract: The rapid spread of fake news poses increasing threats to information ecosystems, especially as AI-generated misinformation under Generative Engine Optimization (GEO) poisoning allows adversarially crafted content to be systematically surfaced by retr",
+      "url": "https://arxiv.org/abs/2606.27736",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Towards Reliable and Robust LLM Planning: Symbolic Feedback-Driven Iterative Self-Refinement Framework",
+      "summary": "arXiv:2606.27757v1 Announce Type: new \nAbstract: Large language models (LLMs) have attracted widespread attention from academia and industry, yet their deployment raises critical security concerns regarding robustness and reliability. Planning, a core component of intelligent behavior, remains chall",
+      "url": "https://arxiv.org/abs/2606.27757",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "SidConArena: An Environment Evaluating Agents in Open-Ended,Positive-Sum Bargaining Game",
+      "summary": "arXiv:2606.27397v1 Announce Type: new \nAbstract: Evaluating LLM agents requires dynamic environments that go beyond static reasoning and zero-sum games. Real-world economic interaction is often open-ended and mixed-motive: agents must negotiate, create positive-sum surplus, compete for scarce assets",
+      "url": "https://arxiv.org/abs/2606.27397",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Delayed Verification Destabilizes Multi-Agent LLM Belief: Instability Thresholds and Optimal Corrector Placement",
+      "summary": "arXiv:2606.27409v1 Announce Type: new \nAbstract: Multi-agent large language model (LLM) systems often rely on verifier and critic agents to suppress hallucinations, but verification is delayed. During this delay, false claims can propagate through the agent network. We model this process as delayed",
+      "url": "https://arxiv.org/abs/2606.27409",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Glite ARF: Verifier-Driven Research with Parallel LLM Coding Agents",
+      "summary": "arXiv:2606.27416v1 Announce Type: new \nAbstract: LLM coding agents make it tempting to automate empirical research by delegating experiments to them directly, but naive delegation does not scale to large projects: low-rate instruction lapses compound into broken, irreproducible artefacts. To address",
+      "url": "https://arxiv.org/abs/2606.27416",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "QueenBee Planner: Skill-Evolving Communication Topologies for Token-Efficient LLM Multi-Agent Systems",
+      "summary": "arXiv:2606.27492v1 Announce Type: new \nAbstract: Large language model (LLM) multi-agent systems increasingly depend not only on how individual agents reason, but also on how agents are connected. This paper introduces QueenBee Planner, a framework that treats inter-agent communication topology as a",
+      "url": "https://arxiv.org/abs/2606.27492",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "GenWorld: Empirically Grounded Urban Simulation Infrastructure for Scalable LLM-Agent Studies",
+      "summary": "arXiv:2606.27650v1 Announce Type: new \nAbstract: LLM-agent simulation faces a joint grounding and scaling problem: agents should act in environments that reflect real urban constraints, yet direct online LLM calls for city-scale populations are computationally prohibitive. We present GenWorld, an em",
+      "url": "https://arxiv.org/abs/2606.27650",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "GBC: Gradient-Based Connections for Optimizing Multi-Agent Systems",
+      "summary": "arXiv:2606.28187v1 Announce Type: new \nAbstract: Multi-agent systems (MAS) built on large language models (LLMs) provide a promising framework for solving complex tasks through role specialization and structured interaction. However, their performance is often limited by miscoordination and, more fu",
+      "url": "https://arxiv.org/abs/2606.28187",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Triadic Werewolf: A Jester Role for Multi-Hop Theory of Mind in LLMs",
+      "summary": "arXiv:2606.27909v1 Announce Type: cross \nAbstract: Theory-of-mind evaluations of large language models typically use dyadic social-deduction games, where every observable cue points to a single hidden side, so a model with strong language priors can score well without ever simulating opponents' ince",
+      "url": "https://arxiv.org/abs/2606.27909",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "MMAO: A Metabolic Multi-Agent Optimizer with Endogenous Resource Allocation for Continuous and Discrete Optimization",
+      "summary": "arXiv:2606.28109v1 Announce Type: cross \nAbstract: Traditional meta-heuristics often rely on fixed population sizes, manually chosen search scales, and externally attached parameter-control modules. This paper presents the \\textit{Metabolic Multi-Agent Optimizer} (MMAO), a cross-domain optimization",
+      "url": "https://arxiv.org/abs/2606.28109",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
