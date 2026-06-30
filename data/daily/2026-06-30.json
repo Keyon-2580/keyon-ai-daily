@@ -1,0 +1,243 @@
+{
+  "date": "2026-06-30",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-06-30 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Recursive Self-Evolving Agents via Held-Out Selection",
+      "summary": "arXiv:2606.28374v1 Announce Type: new \nAbstract: LLM agents are increasingly improved without weight updates by evolving a natural-language artifact, such as reflections, workflows, playbooks, cheatsheets, or optimized prompts, that conditions a frozen policy. Such methods are typically reported as",
+      "url": "https://arxiv.org/abs/2606.28374",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Data and Evaluation Closed-Loop for Model Capability Enhancement",
+      "summary": "arXiv:2606.28471v1 Announce Type: new \nAbstract: Model capability is the central variable in LLM pre-training, yet is never observed directly: data shapes it prospectively, while evaluation reveals it only retrospectively, compressing samples, prompts, decoding, and scoring rules into one noisy scor",
+      "url": "https://arxiv.org/abs/2606.28471",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "GPTNT: Benchmarking Real-Time Collaboration Between Multimodal Agents on Keep Talking And Nobody Explodes",
+      "summary": "arXiv:2606.28514v1 Announce Type: new \nAbstract: Multimodal models are increasingly deployed to solve tasks collaboratively with humans or other artificial agents. Existing benchmarks show that these models possess many of the required component capabilities, but the conditions that coincide in coll",
+      "url": "https://arxiv.org/abs/2606.28514",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "IMCBench: A benchmark for multimodal LLMs in Image-grounded Medical Conversations",
+      "summary": "arXiv:2606.28556v1 Announce Type: new \nAbstract: Recent advances in large language models and vision-language models have enabled reasoning over multimodal data, offering opportunities for clinical applications such as decision support and triaging. However, existing medical AI benchmarks are fragme",
+      "url": "https://arxiv.org/abs/2606.28556",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Is Lying an Emergent Behaviour in LLMs? Evidence from Gaslighting AI agents in a Sustainability Game",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.28456"
+        },
+        {
+          "title": "A Fast Convergent Algorithm for Solving Non-convex Partially-Decoupled Generalized Nash Equilibrium Problems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.28617"
+        },
+        {
+          "title": "When Latent Agents Lie: KV-Cache Integrity in Multi-Agent LLM Collaboration",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.28958"
+        },
+        {
+          "title": "Minority Sentinel: When to Overturn Majority Voting in Multi-Agent LLM Debates",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.29270"
+        },
+        {
+          "title": "Sparse Sensor Placement in Multi-Agent Reinforcement Learning Control of Rayleigh-B\\'enard Convection",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.30238"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": []
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Data and Evaluation Closed-Loop for Model Capability Enhancement",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.28471"
+        },
+        {
+          "title": "GPTNT: Benchmarking Real-Time Collaboration Between Multimodal Agents on Keep Talking And Nobody Explodes",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.28514"
+        },
+        {
+          "title": "IMCBench: A benchmark for multimodal LLMs in Image-grounded Medical Conversations",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.28556"
+        }
+      ]
+    }
+  ],
+  "oss": [],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "Recursive Self-Evolving Agents via Held-Out Selection",
+      "summary": "arXiv:2606.28374v1 Announce Type: new \nAbstract: LLM agents are increasingly improved without weight updates by evolving a natural-language artifact, such as reflections, workflows, playbooks, cheatsheets, or optimized prompts, that conditions a frozen policy. Such methods are typically reported as",
+      "url": "https://arxiv.org/abs/2606.28374",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Data and Evaluation Closed-Loop for Model Capability Enhancement",
+      "summary": "arXiv:2606.28471v1 Announce Type: new \nAbstract: Model capability is the central variable in LLM pre-training, yet is never observed directly: data shapes it prospectively, while evaluation reveals it only retrospectively, compressing samples, prompts, decoding, and scoring rules into one noisy scor",
+      "url": "https://arxiv.org/abs/2606.28471",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "GPTNT: Benchmarking Real-Time Collaboration Between Multimodal Agents on Keep Talking And Nobody Explodes",
+      "summary": "arXiv:2606.28514v1 Announce Type: new \nAbstract: Multimodal models are increasingly deployed to solve tasks collaboratively with humans or other artificial agents. Existing benchmarks show that these models possess many of the required component capabilities, but the conditions that coincide in coll",
+      "url": "https://arxiv.org/abs/2606.28514",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "IMCBench: A benchmark for multimodal LLMs in Image-grounded Medical Conversations",
+      "summary": "arXiv:2606.28556v1 Announce Type: new \nAbstract: Recent advances in large language models and vision-language models have enabled reasoning over multimodal data, offering opportunities for clinical applications such as decision support and triaging. However, existing medical AI benchmarks are fragme",
+      "url": "https://arxiv.org/abs/2606.28556",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Search for Truth from Reasoning: A Dynamic Representation Editing Framework for Steering LLM Trajectories",
+      "summary": "arXiv:2606.28589v1 Announce Type: new \nAbstract: Current approaches to enhance Large Language Model (LLM) reasoning, such as Chain-of-Thought and \"Wait\" prompts, primarily encourage models to think more, yet often fail to guide them toward Truth. While Representation Editing (RepE) offers a intrinsi",
+      "url": "https://arxiv.org/abs/2606.28589",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Aristotelian Virtue Profiling of LLMs through Ethical Dilemmas",
+      "summary": "arXiv:2606.28683v1 Announce Type: new \nAbstract: Large Language Models (LLMs) often face ethical tradeoffs in which several responses may be defensible but express different priorities, such as fairness, honesty, courage, or restraint. We introduce VirtueMap, a framework for describing these pattern",
+      "url": "https://arxiv.org/abs/2606.28683",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "An AI agent for treatment reasoning over a biomedical tool universe",
+      "summary": "arXiv:2606.28692v1 Announce Type: new \nAbstract: Treatment reasoning underpins every therapeutic decision, integrating disease context, comorbidities, medications, contraindications, and evolving biomedical knowledge to select an appropriate therapy. It is inherently iterative: candidates are weighe",
+      "url": "https://arxiv.org/abs/2606.28692",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "COMPASS: Grounding Composition-Intent Guidance in Unified Multimodal Models",
+      "summary": "arXiv:2606.28696v1 Announce Type: new \nAbstract: Composition is a high-level visual intent that governs where subjects are placed and how a scene is organized, yet current unified multimodal models remain unreliable at fine-grained composition recognition and struggle to turn such intent into contro",
+      "url": "https://arxiv.org/abs/2606.28696",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Formation of Circular Directed Networks with Shared Link Costs",
+      "summary": "arXiv:2606.28382v1 Announce Type: new \nAbstract: This paper develops a noncooperative model of directed network formation in which agents create links to access valuable information while sharing the costs generated along the paths through which information is obtained. Each agent is endowed with a",
+      "url": "https://arxiv.org/abs/2606.28382",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Is Lying an Emergent Behaviour in LLMs? Evidence from Gaslighting AI agents in a Sustainability Game",
+      "summary": "arXiv:2606.28456v1 Announce Type: new \nAbstract: LLMs agents are increasingly used in multi-agent settings, yet their behaviour in sustainability games remains largely unexplored. This work investigates whether lying can emerge among LLM agents in a competitive sustainability game in which agents ar",
+      "url": "https://arxiv.org/abs/2606.28456",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "A Fast Convergent Algorithm for Solving Non-convex Partially-Decoupled Generalized Nash Equilibrium Problems",
+      "summary": "arXiv:2606.28617v1 Announce Type: new \nAbstract: Solving multi-agent optimal control problems in aerospace such as pursuit-evasion and contested space operations can be modeled as non-convex differential games for which, there are limited algorithms. In this work, a relaxation of generalized Nash Eq",
+      "url": "https://arxiv.org/abs/2606.28617",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "When Latent Agents Lie: KV-Cache Integrity in Multi-Agent LLM Collaboration",
+      "summary": "arXiv:2606.28958v1 Announce Type: new \nAbstract: LLM agents can share more than text. In some systems, an agent can send a short visible message while also passing its full KV-cache state to another model. This hidden state can help the final model combine evidence from several agents, but it is als",
+      "url": "https://arxiv.org/abs/2606.28958",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Metric Aggregation Divergence: A Hidden Validity Threat in Agent-Based Policy Optimization and a Contractual Remedy",
+      "summary": "arXiv:2606.29038v1 Announce Type: new \nAbstract: Metric aggregation divergence (MAD) is the silent inconsistency that arises when distinct pipeline stages in an agent-based model coupled with a multi-objective evolutionary algorithm (ABM+MOEA) independently re-implement how an outcome metric is extr",
+      "url": "https://arxiv.org/abs/2606.29038",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Minority Sentinel: When to Overturn Majority Voting in Multi-Agent LLM Debates",
+      "summary": "arXiv:2606.29270v1 Announce Type: new \nAbstract: Multi-Agent Debate (MAD) with Majority Voting is a dominant paradigm for improving LLM reasoning, yet its effectiveness rests on the Condorcet Jury Theorem's assumption of independent errors. Because contemporary LLMs share similar pretraining corpora",
+      "url": "https://arxiv.org/abs/2606.29270",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "ECHO: Learning Epistemically Adaptive Language Agents with Turn-Level Credit",
+      "summary": "arXiv:2606.29745v1 Announce Type: new \nAbstract: What does it mean for a language agent to be adaptive? Effective multi-turn agents must decide what information to seek, how to use new evidence, and when they are certain enough to act. We introduce Epistemic Decision Processes (EDPs), a belief-state",
+      "url": "https://arxiv.org/abs/2606.29745",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Sparse Sensor Placement in Multi-Agent Reinforcement Learning Control of Rayleigh-B\\'enard Convection",
+      "summary": "arXiv:2606.30238v1 Announce Type: new \nAbstract: This paper studies sparse sensor placement for control of Rayleigh-B\\'enard convection with multi-agent reinforcement learning. We train dense expert policies with windowed observations and distill sparse apprentice policies by supervised learning wit",
+      "url": "https://arxiv.org/abs/2606.30238",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
