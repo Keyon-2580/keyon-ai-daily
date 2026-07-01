@@ -1,0 +1,371 @@
+{
+  "date": "2026-07-01",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-07-01 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "LLM-style scaling laws hold for sensor data",
+      "summary": "Article URL: https://www.empirical.health/blog/llm-scaling-laws-hold-for-sensor-data/\nComments URL: https://news.ycombinator.com/item?id=48741774\nPoints: 3\n# Comments: 0",
+      "url": "https://www.empirical.health/blog/llm-scaling-laws-hold-for-sensor-data/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Sibyl – self-hosted cross-agent memory for AI coding agents",
+      "summary": "I realized last year that I needed a better shared substrate for all the parallel coding (and other) agents I run if I wanted all my ADHD agentically-engineered dreams to come true. It started off as a simple Kanban board for agents with a crawler and rag, but it's long since evolved into a high pe",
+      "url": "https://github.com/hyperb1iss/sibyl",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Niche LLM Spam on Bandcamp",
+      "summary": "Article URL: https://duckduckgo.com/?q=site%3Abandcamp.com+covers.pics\nComments URL: https://news.ycombinator.com/item?id=48741550\nPoints: 2\n# Comments: 1",
+      "url": "https://duckduckgo.com/?q=site%3Abandcamp.com+covers.pics",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Coding agent that compiles intent into deterministic DAG before running",
+      "summary": "Article URL: https://github.com/arman-jalili/rigorix-oss\nComments URL: https://news.ycombinator.com/item?id=48741332\nPoints: 3\n# Comments: 0",
+      "url": "https://github.com/arman-jalili/rigorix-oss",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "What Drives Interactive Improvement from Feedback?",
+      "summary": "arXiv:2606.30774v1 Announce Type: new \nAbstract: We study when natural-language feedback produces improvement beyond the gains obtainable from repeated attempts alone. In multi-turn language agent setting, higher final accuracy can reflect useful feedback, but it can also arise from resampling, form",
+      "url": "https://arxiv.org/abs/2606.30774",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Contrastive Reflection for Iterative Prompt Optimization",
+      "summary": "arXiv:2606.30840v1 Announce Type: new \nAbstract: LLM agents are becoming central to information retrieval: they issue retrieval queries, synthesize answers, and increasingly serve as judges for IR evaluation. Improving the prompts that control these agents is an optimization problem, but in applied",
+      "url": "https://arxiv.org/abs/2606.30840",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "How Can AI Find My Model? A Model-Finding Experimental Study Considering Data Formats, Embeddings, and Retrieval Strategies",
+      "summary": "arXiv:2606.30846v1 Announce Type: new \nAbstract: Discovering simulation models for reuse remains a fundamental challenge in Modeling and Simulation (M&S). When many models coexist, identifying those that align with a given modeling intent remains difficult. Recent advances in Artificial Intelligence",
+      "url": "https://arxiv.org/abs/2606.30846",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "BayesBench: Evaluating LLM Belief Trajectories Under Multi-Turn Evidence Accumulation",
+      "summary": "arXiv:2606.30850v1 Announce Type: new \nAbstract: Large language models (LLMs) are typically deployed in multi-turn conversations, where each turn provides new evidence that should reduce epistemic uncertainty about their environment. Acting rationally then requires inferring the unobserved quantitie",
+      "url": "https://arxiv.org/abs/2606.30850",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Investigating Multi-Agent Deliberation in Law",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.30906"
+        },
+        {
+          "title": "Why Solve It Twice? Hierarchical Accumulation of Skills for Transfer-Efficient ML Engineering",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.30911"
+        },
+        {
+          "title": "Governance Gaps in Agent Interoperability Protocols: What MCP, A2A, and ACP Cannot Express",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.31498"
+        },
+        {
+          "title": "Holonic Active Distillation for Scalable Multi-Agent Learning in Multi-Sensor Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.31578"
+        },
+        {
+          "title": "Analytic Cut in Epistemic Logics with Distributed Knowledge",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.31886"
+        },
+        {
+          "title": "Training Therapeutic Judges and Multi-Agent Systems for Human-Aligned Mental Health Support",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.30887"
+        },
+        {
+          "title": "Sampling-Based Coordination-Informed Multi-Objective Multi-Robot Reinforcement Learning",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.30893"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "Show HN: Sibyl – self-hosted cross-agent memory for AI coding agents",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://github.com/hyperb1iss/sibyl"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Contrastive Reflection for Iterative Prompt Optimization",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.30840"
+        },
+        {
+          "title": "How Can AI Find My Model? A Model-Finding Experimental Study Considering Data Formats, Embeddings, and Retrieval Strategies",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.30846"
+        },
+        {
+          "title": "BayesBench: Evaluating LLM Belief Trajectories Under Multi-Turn Evidence Accumulation",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2606.30850"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "LLM-style scaling laws hold for sensor data",
+      "summary": "Article URL: https://www.empirical.health/blog/llm-scaling-laws-hold-for-sensor-data/\nComments URL: https://news.ycombinator.com/item?id=48741774\nPoints: 3\n# Comments: 0",
+      "url": "https://www.empirical.health/blog/llm-scaling-laws-hold-for-sensor-data/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Sibyl – self-hosted cross-agent memory for AI coding agents",
+      "summary": "I realized last year that I needed a better shared substrate for all the parallel coding (and other) agents I run if I wanted all my ADHD agentically-engineered dreams to come true. It started off as a simple Kanban board for agents with a crawler and rag, but it's long since evolved into a high pe",
+      "url": "https://github.com/hyperb1iss/sibyl",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Niche LLM Spam on Bandcamp",
+      "summary": "Article URL: https://duckduckgo.com/?q=site%3Abandcamp.com+covers.pics\nComments URL: https://news.ycombinator.com/item?id=48741550\nPoints: 2\n# Comments: 1",
+      "url": "https://duckduckgo.com/?q=site%3Abandcamp.com+covers.pics",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Coding agent that compiles intent into deterministic DAG before running",
+      "summary": "Article URL: https://github.com/arman-jalili/rigorix-oss\nComments URL: https://news.ycombinator.com/item?id=48741332\nPoints: 3\n# Comments: 0",
+      "url": "https://github.com/arman-jalili/rigorix-oss",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Llmaker – spin up a working LLM app from a single prompt, right in your terminal",
+      "summary": "Article URL: https://github.com/raiyanyahya/llmaker\nComments URL: https://news.ycombinator.com/item?id=48740958\nPoints: 4\n# Comments: 0",
+      "url": "https://github.com/raiyanyahya/llmaker",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "OpenMontage: an open-source agent that edits real footage into video",
+      "summary": "Article URL: https://github.com/calesthio/OpenMontage\nComments URL: https://news.ycombinator.com/item?id=48740853\nPoints: 3\n# Comments: 0",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "We Built a Tool to Predict Runaway LLM Costs (Before They Kill Your Margins)",
+      "summary": "Article URL: https://the746th.substack.com/p/before-you-scale\nComments URL: https://news.ycombinator.com/item?id=48740136\nPoints: 2\n# Comments: 0",
+      "url": "https://the746th.substack.com/p/before-you-scale",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: TakoVM – open-source sandboxing for your agent's code",
+      "summary": "Article URL: https://github.com/Tako-Research/TakoVM\nComments URL: https://news.ycombinator.com/item?id=48740117\nPoints: 4\n# Comments: 0",
+      "url": "https://github.com/Tako-Research/TakoVM",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [
+    {
+      "title": "Google copybara: moving code between repositories",
+      "summary": "Article URL: https://github.com/google/copybara\nComments URL: https://news.ycombinator.com/item?id=48740698\nPoints: 130\n# Comments: 19",
+      "url": "https://github.com/google/copybara",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "research": [
+    {
+      "title": "What Drives Interactive Improvement from Feedback?",
+      "summary": "arXiv:2606.30774v1 Announce Type: new \nAbstract: We study when natural-language feedback produces improvement beyond the gains obtainable from repeated attempts alone. In multi-turn language agent setting, higher final accuracy can reflect useful feedback, but it can also arise from resampling, form",
+      "url": "https://arxiv.org/abs/2606.30774",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Contrastive Reflection for Iterative Prompt Optimization",
+      "summary": "arXiv:2606.30840v1 Announce Type: new \nAbstract: LLM agents are becoming central to information retrieval: they issue retrieval queries, synthesize answers, and increasingly serve as judges for IR evaluation. Improving the prompts that control these agents is an optimization problem, but in applied",
+      "url": "https://arxiv.org/abs/2606.30840",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "How Can AI Find My Model? A Model-Finding Experimental Study Considering Data Formats, Embeddings, and Retrieval Strategies",
+      "summary": "arXiv:2606.30846v1 Announce Type: new \nAbstract: Discovering simulation models for reuse remains a fundamental challenge in Modeling and Simulation (M&S). When many models coexist, identifying those that align with a given modeling intent remains difficult. Recent advances in Artificial Intelligence",
+      "url": "https://arxiv.org/abs/2606.30846",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "BayesBench: Evaluating LLM Belief Trajectories Under Multi-Turn Evidence Accumulation",
+      "summary": "arXiv:2606.30850v1 Announce Type: new \nAbstract: Large language models (LLMs) are typically deployed in multi-turn conversations, where each turn provides new evidence that should reduce epistemic uncertainty about their environment. Acting rationally then requires inferring the unobserved quantitie",
+      "url": "https://arxiv.org/abs/2606.30850",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "When Does Learning to Stop Help? A Cost-Aware Study of Early Exits in Reasoning Models",
+      "summary": "arXiv:2606.30852v1 Announce Type: new \nAbstract: Reasoning models spend different amounts of useful computation across instances, but it remains unclear when a learned stopping rule improves over simple confidence or convergence thresholds. We study this question with LearnStop, a hidden-state-free",
+      "url": "https://arxiv.org/abs/2606.30852",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Beyond expert users: agents should help users construct preferences, not just elicit them",
+      "summary": "arXiv:2606.30863v1 Announce Type: new \nAbstract: Agents typically assume an expert user -- one with well-formed preferences about what they want -- and default to clarifying questions whenever the task is underspecified. We argue this assumption is unrealistic. Users often lack the domain knowledge",
+      "url": "https://arxiv.org/abs/2606.30863",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Investigating Multi-Agent Deliberation in Law",
+      "summary": "arXiv:2606.30906v1 Announce Type: new \nAbstract: Artificial Intelligence is increasingly applied to the field of law, and has the potential to increase access to justice. One particular movement that is gaining traction is that of agentic AI, wherein AI agents, based on Large Language Models (LLMs)",
+      "url": "https://arxiv.org/abs/2606.30906",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Why Solve It Twice? Hierarchical Accumulation of Skills for Transfer-Efficient ML Engineering",
+      "summary": "arXiv:2606.30911v1 Announce Type: new \nAbstract: ML engineering agents waste compute rediscovering known techniques because every competition is a cold start. We present HASTE, a hierarchical multi-agent system that organizes cross-competition knowledge into three scope tiers (global, domain, and co",
+      "url": "https://arxiv.org/abs/2606.30911",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Governance Gaps in Agent Interoperability Protocols: What MCP, A2A, and ACP Cannot Express",
+      "summary": "arXiv:2606.31498v1 Announce Type: new \nAbstract: Agent interoperability protocols (MCP, A2A, ACP, ANP, and ERC-8004) have rapidly matured to enable identity, capability discovery, tool access, and message exchange between autonomous agents. However, as enterprises deploy heterogeneous agent fleets t",
+      "url": "https://arxiv.org/abs/2606.31498",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Holonic Active Distillation for Scalable Multi-Agent Learning in Multi-Sensor Systems",
+      "summary": "arXiv:2606.31578v1 Announce Type: new \nAbstract: The rapid expansion of sensor-based networks introduces major challenges in scalability, adaptability, and knowledge transfer, especially in open environments where new subsystems can dynamically join or leave. In this work, we propose a Holonic Activ",
+      "url": "https://arxiv.org/abs/2606.31578",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "ForecastAgentSearch: Towards a Multi-Expert Agent Search System for Geopolitical Event Forecasting",
+      "summary": "arXiv:2606.31665v1 Announce Type: new \nAbstract: Geopolitical event forecasting is a challenging task, as it requires understanding complex regional contexts, dynamic event signals, and uncertain future outcomes. Recent advances in large language model agents provide new opportunities for building f",
+      "url": "https://arxiv.org/abs/2606.31665",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Analytic Cut in Epistemic Logics with Distributed Knowledge",
+      "summary": "arXiv:2606.31886v1 Announce Type: new \nAbstract: Distributed knowledge is a notion of group knowledge studied in multi-agent epistemic logic. Semantically, the distributed knowledge of a group is interpreted via an accessibility relation given by the intersection of the epistemic accessibility relat",
+      "url": "https://arxiv.org/abs/2606.31886",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "MECoBench: A Systematic Study of Multimodal Agent Collaboration in Embodied Environments",
+      "summary": "arXiv:2606.31966v1 Announce Type: new \nAbstract: Recent multimodal large language models (MLLMs) have strong potential as embodied agents, but their ability to collaborate in visually grounded environments remains underexplored. To address this gap, we introduce MECoBench, a multimodal embodied coop",
+      "url": "https://arxiv.org/abs/2606.31966",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Emergent Culture in Minimal LLM Systems",
+      "summary": "arXiv:2606.30668v1 Announce Type: cross \nAbstract: What happens when LLM agents operate with no context outside a turn, minimal prompting, and simple tools? Inspired by swarm engineering, we give collectives of three agents the ability to send messages and manipulate a shared actively decaying text",
+      "url": "https://arxiv.org/abs/2606.30668",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Training Therapeutic Judges and Multi-Agent Systems for Human-Aligned Mental Health Support",
+      "summary": "arXiv:2606.30887v1 Announce Type: cross \nAbstract: Large language models show promise for mental health support, yet therapeutic quality improves only when evaluation functions as an actionable control signal rather than a passive metric. We introduce a framework that formulates therapeutic response",
+      "url": "https://arxiv.org/abs/2606.30887",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Sampling-Based Coordination-Informed Multi-Objective Multi-Robot Reinforcement Learning",
+      "summary": "arXiv:2606.30893v1 Announce Type: cross \nAbstract: Multi-robot systems must simultaneously optimize competing objectives while maintaining coordinated behavior. Existing multi-agent reinforcement learning approaches often rely on fixed or centralized coordination, which limits adaptability and viola",
+      "url": "https://arxiv.org/abs/2606.30893",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
