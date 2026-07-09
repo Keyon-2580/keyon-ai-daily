@@ -1,0 +1,350 @@
+{
+  "date": "2026-07-09",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-07-09 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "I Built the Ωmega Agent",
+      "summary": "Article URL: https://omegas.dev\nComments URL: https://news.ycombinator.com/item?id=48840801\nPoints: 2\n# Comments: 2",
+      "url": "https://omegas.dev",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Llama 2 LLM on DOS (2025)",
+      "summary": "Article URL: https://yeokhengmeng.com/2025/04/llama2-llm-on-dos/\nComments URL: https://news.ycombinator.com/item?id=48840660\nPoints: 2\n# Comments: 0",
+      "url": "https://yeokhengmeng.com/2025/04/llama2-llm-on-dos/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Auto compiles recorded LLM-agent behavior into verified WASM binaries",
+      "summary": "Article URL: https://github.com/RightNow-AI/auto\nComments URL: https://news.ycombinator.com/item?id=48840103\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/RightNow-AI/auto",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "I think I have LLM burnout",
+      "summary": "Article URL: https://www.alecscollon.com/blog/llm-burnout/\nComments URL: https://news.ycombinator.com/item?id=48839984\nPoints: 223\n# Comments: 162",
+      "url": "https://www.alecscollon.com/blog/llm-burnout/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
+      "summary": "arXiv:2607.06624v1 Announce Type: new \nAbstract: We present AgentLens, a production-assessed benchmark for interactive code agents. Most code-agent benchmarks reduce a run to a single bit -- did the task pass? -- but the people who actually use these agents experience the entire trajectory: how the",
+      "url": "https://arxiv.org/abs/2607.06624",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
+      "summary": "arXiv:2607.06720v1 Announce Type: new \nAbstract: Training large language models (LLMs) with extended reasoning has enabled in-context search, in which models iteratively generate, critique, and revise solution attempts. We provide a theoretical analysis of in-context search by modeling it as approxi",
+      "url": "https://arxiv.org/abs/2607.06720",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "LLM-powered reasoning in agent-based modeling",
+      "summary": "arXiv:2607.06757v1 Announce Type: new \nAbstract: Agent-based modeling (ABM) has the capability to model millions of individuals and their interactions, which is useful for policy making. However, ABMs have traditionally relied on static prior, which prevents the models from adapting to real-time cha",
+      "url": "https://arxiv.org/abs/2607.06757",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "QANTIS: Hardware-Calibrated Sequential POMDP Belief Updates on IBM Heron",
+      "summary": "arXiv:2607.06760v1 Announce Type: new \nAbstract: Autonomous systems under partial observability act on beliefs, not raw sensor events. QANTIS treats the quantum processor as a calibrated belief-update service in that loop: it receives a prior and an observation model, estimates the rare-event eviden",
+      "url": "https://arxiv.org/abs/2607.06760",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Multi-Agent Robotic Control with Onboard Vision-Language Models",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.07403"
+        },
+        {
+          "title": "Agent Delivery Engineering Predictive Reliability Framework",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.07689"
+        },
+        {
+          "title": "Operational Reframing and Approval-Framed Delegation in Multi-Agent LLM Safety",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.07097"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding fr",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://danluu.com/ai-coding/#llm-variance"
+        },
+        {
+          "title": "Evaluating SageMath-Augmented LLM Agents for Computational and Experimental Mathematics",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.06820"
+        },
+        {
+          "title": "The Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.06906"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Public LLM benchmarks are mostly garbage",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://grandpacad.com/en/blog/public-benchmarks-misled-me-opus-4-7"
+        },
+        {
+          "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.06624"
+        },
+        {
+          "title": "QANTIS: Hardware-Calibrated Sequential POMDP Belief Updates on IBM Heron",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.06760"
+        },
+        {
+          "title": "Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.06764"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "I Built the Ωmega Agent",
+      "summary": "Article URL: https://omegas.dev\nComments URL: https://news.ycombinator.com/item?id=48840801\nPoints: 2\n# Comments: 2",
+      "url": "https://omegas.dev",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Llama 2 LLM on DOS (2025)",
+      "summary": "Article URL: https://yeokhengmeng.com/2025/04/llama2-llm-on-dos/\nComments URL: https://news.ycombinator.com/item?id=48840660\nPoints: 2\n# Comments: 0",
+      "url": "https://yeokhengmeng.com/2025/04/llama2-llm-on-dos/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Auto compiles recorded LLM-agent behavior into verified WASM binaries",
+      "summary": "Article URL: https://github.com/RightNow-AI/auto\nComments URL: https://news.ycombinator.com/item?id=48840103\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/RightNow-AI/auto",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "I think I have LLM burnout",
+      "summary": "Article URL: https://www.alecscollon.com/blog/llm-burnout/\nComments URL: https://news.ycombinator.com/item?id=48839984\nPoints: 223\n# Comments: 162",
+      "url": "https://www.alecscollon.com/blog/llm-burnout/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Public LLM benchmarks are mostly garbage",
+      "summary": "Article URL: https://grandpacad.com/en/blog/public-benchmarks-misled-me-opus-4-7\nComments URL: https://news.ycombinator.com/item?id=48839720\nPoints: 2\n# Comments: 0",
+      "url": "https://grandpacad.com/en/blog/public-benchmarks-misled-me-opus-4-7",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "The neutral proof standard for consequential AI-agent actions",
+      "summary": "Article URL: https://github.com/Actenon\nComments URL: https://news.ycombinator.com/item?id=48837953\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/Actenon",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Istota, a multi-user AI agent and personal operating system",
+      "summary": "Article URL: https://istota.cynium.com/\nComments URL: https://news.ycombinator.com/item?id=48837553\nPoints: 3\n# Comments: 0",
+      "url": "https://istota.cynium.com/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding fr",
+      "summary": "Article URL: https://danluu.com/ai-coding/#llm-variance\nComments URL: https://news.ycombinator.com/item?id=48836951\nPoints: 18\n# Comments: 2",
+      "url": "https://danluu.com/ai-coding/#llm-variance",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
+      "summary": "arXiv:2607.06624v1 Announce Type: new \nAbstract: We present AgentLens, a production-assessed benchmark for interactive code agents. Most code-agent benchmarks reduce a run to a single bit -- did the task pass? -- but the people who actually use these agents experience the entire trajectory: how the",
+      "url": "https://arxiv.org/abs/2607.06624",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
+      "summary": "arXiv:2607.06720v1 Announce Type: new \nAbstract: Training large language models (LLMs) with extended reasoning has enabled in-context search, in which models iteratively generate, critique, and revise solution attempts. We provide a theoretical analysis of in-context search by modeling it as approxi",
+      "url": "https://arxiv.org/abs/2607.06720",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "LLM-powered reasoning in agent-based modeling",
+      "summary": "arXiv:2607.06757v1 Announce Type: new \nAbstract: Agent-based modeling (ABM) has the capability to model millions of individuals and their interactions, which is useful for policy making. However, ABMs have traditionally relied on static prior, which prevents the models from adapting to real-time cha",
+      "url": "https://arxiv.org/abs/2607.06757",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "QANTIS: Hardware-Calibrated Sequential POMDP Belief Updates on IBM Heron",
+      "summary": "arXiv:2607.06760v1 Announce Type: new \nAbstract: Autonomous systems under partial observability act on beliefs, not raw sensor events. QANTIS treats the quantum processor as a calibrated belief-update service in that loop: it receives a prior and an observation model, estimates the rare-event eviden",
+      "url": "https://arxiv.org/abs/2607.06760",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1",
+      "summary": "arXiv:2607.06764v1 Announce Type: new \nAbstract: Recent progress on ARC-AGI-1 from disclosed architectures has come broadly from two regimes: heavy test-time compute over frontier models (evolutionary search, exhaustive sampling, extended chain-of-thought), or benchmark-specific training in which sm",
+      "url": "https://arxiv.org/abs/2607.06764",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Evaluating SageMath-Augmented LLM Agents for Computational and Experimental Mathematics",
+      "summary": "arXiv:2607.06820v1 Announce Type: new \nAbstract: Recent advances in AI for Mathematics have focused largely on autoformalization and theorem proving, leaving the role of Computer Algebra Systems (CAS) in agentic LLM workflows underexplored. We propose a ReAct-style agentic setup that combines LLM re",
+      "url": "https://arxiv.org/abs/2607.06820",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "The Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI",
+      "summary": "arXiv:2607.06906v1 Announce Type: new \nAbstract: Agentic AI development today runs on token maxing: buying capability with tokens -- longer reasoning traces, more turns, wider tool payloads, bigger replayed contexts -- so tokens per task grow faster than task value. Falling per-token prices mask the",
+      "url": "https://arxiv.org/abs/2607.06906",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Grounding Spatial Relations in a Compact World Model: Instruction Leakage and a Goal-Free Dynamics Fix",
+      "summary": "arXiv:2607.06925v1 Announce Type: new \nAbstract: Compact world models that condition on a language goal promise to ground relations such as ``put the red block left of the blue block'' using a sparse set of explicit \\emph{reference anchors}. We ask when such references actually ground a relation, an",
+      "url": "https://arxiv.org/abs/2607.06925",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "A Large Language Model-Driven Agent-Based Modeling Framework with Multi-Round Communication for Simulating Vaccine Opinion Dynamics",
+      "summary": "arXiv:2607.07387v1 Announce Type: new \nAbstract: Recently, Large Language Models (LLMs) have been utilized in various applications of computational social science and provide the possibility to integrate such models into agent-based modeling to explore the cognitive processes. However, how specific",
+      "url": "https://arxiv.org/abs/2607.07387",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Multi-Agent Robotic Control with Onboard Vision-Language Models",
+      "summary": "arXiv:2607.07403v1 Announce Type: new \nAbstract: Vision Language Models (VLMs) and Vision Language Action (VLA) models have shown promise in robotic control. Yet, they face significant challenges regarding explainability, generalization, and compute requirements. This paper presents a Multi-Agent Sy",
+      "url": "https://arxiv.org/abs/2607.07403",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Stability and Convergence of Optimistic Exponential Weights with Asymmetric Step Sizes in Bimatrix Games",
+      "summary": "arXiv:2607.07517v1 Announce Type: new \nAbstract: We study bimatrix two-player games and investigate the last-iterate convergence and stability of equilibria for the iterates generated by the optimistic exponential weights method. In contrast to prior work, we allow the step sizes $\\eta_x$ and $\\eta_",
+      "url": "https://arxiv.org/abs/2607.07517",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Agent Delivery Engineering Predictive Reliability Framework",
+      "summary": "arXiv:2607.07689v1 Announce Type: new \nAbstract: Long-horizon LLM multi-agent systems face reliability risks invisible to infrastructure monitoring. We propose the ADE Predictive Reliability Framework (ADE-PRF), enabling proactive health trajectory prediction from passive degradation detection. ADE-",
+      "url": "https://arxiv.org/abs/2607.07689",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Progressive Crystallization: Turning Agent Exploration into Deterministic, Lower-Cost Workflows in Production",
+      "summary": "arXiv:2607.07052v1 Announce Type: cross \nAbstract: AI agents deployed for IT operations are typically permanent cost centers because every execution requires full LLM inference, even for previously solved problems. This paper introduces progressive crystallization, a lifecycle that treats agent expl",
+      "url": "https://arxiv.org/abs/2607.07052",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Operational Reframing and Approval-Framed Delegation in Multi-Agent LLM Safety",
+      "summary": "arXiv:2607.07097v1 Announce Type: cross \nAbstract: Safety evaluations of multi-agent LLM systems often compare a direct prompt with a planner-executor pipeline and report the difference as a single \"pipeline effect.\" We argue that this aggregate is difficult to interpret because it conflates three m",
+      "url": "https://arxiv.org/abs/2607.07097",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "From Atomic Actions to Standard Operating Procedures: Iterative Tool Optimization for Self-Evolving LLM Agents",
+      "summary": "arXiv:2607.07321v1 Announce Type: cross \nAbstract: Tool utilization enables Large Language Model (LLM) agents to interact with the real world and resolve complex tasks. However, existing agent frameworks predominantly rely on static toolsets composed of granular atomic actions (e.g., basic file I/O",
+      "url": "https://arxiv.org/abs/2607.07321",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
