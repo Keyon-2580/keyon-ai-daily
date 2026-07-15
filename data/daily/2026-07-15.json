@@ -1,0 +1,339 @@
+{
+  "date": "2026-07-15",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-07-15 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Using One Agent Across Multiple Machines",
+      "summary": "Article URL: https://syncless.ai/articles/let-syncless-across-your-environments\nComments URL: https://news.ycombinator.com/item?id=48916035\nPoints: 1\n# Comments: 0",
+      "url": "https://syncless.ai/articles/let-syncless-across-your-environments",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: AgentCall – turn any coding agent into a live meeting participant",
+      "summary": "Article URL: https://agentcall.dev\nComments URL: https://news.ycombinator.com/item?id=48915985\nPoints: 1\n# Comments: 0",
+      "url": "https://agentcall.dev",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Ptolemaic and LLM Architecture Compared (In 3D)",
+      "summary": "Article URL: https://celestial-llm-mirror.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=48915548\nPoints: 1\n# Comments: 0",
+      "url": "https://celestial-llm-mirror.vercel.app/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: I built an AI agent memory engine because Obsidian wasn't cutting it",
+      "summary": "Article URL: https://perseus.observer/blog/built-perseus-vault-obsidian-wasnt-cutting-it/\nComments URL: https://news.ycombinator.com/item?id=48915435\nPoints: 1\n# Comments: 0",
+      "url": "https://perseus.observer/blog/built-perseus-vault-obsidian-wasnt-cutting-it/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
+      "summary": "arXiv:2607.09664v1 Announce Type: new \nAbstract: To provide a structured and interpretable assessment, we decompose the image-based diagnosis into components following the Toulmin model of argumentation. This model consists of a claim, grounds, warrant, qualifier, rebuttal, and backing. Consider a c",
+      "url": "https://arxiv.org/abs/2607.09664",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
+      "summary": "arXiv:2607.09665v1 Announce Type: new \nAbstract: Prompt wrappers often differ only in formatting, yet they can change model scores enough to flip leaderboard conclusions. We study this variance under a token-controlled protocol and introduce two complementary metrics: the Format Sensitivity Index (F",
+      "url": "https://arxiv.org/abs/2607.09665",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are Tier-Dependent",
+      "summary": "arXiv:2607.09678v1 Announce Type: new \nAbstract: When LLM agents hand off information to one another, does the message format matter? Two literatures disagree: format-optimization work reports that structured messages cut cost without hurting accuracy, while format-restriction work finds that imposi",
+      "url": "https://arxiv.org/abs/2607.09678",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Boltzmann MapReduce: A Partition-Function Reduce for Forkable Sandboxes",
+      "summary": "arXiv:2607.09689v1 Announce Type: new \nAbstract: To leading order under local asymptotic normality (LAN), the confidence density a worker emits over a chunk of size $n$ is a Gibbs--Boltzmann measure $\\exp\\{-\\beta E(\\theta)\\}$ whose inverse temperature is the sample size, $\\beta=n$. Three consequence",
+      "url": "https://arxiv.org/abs/2607.09689",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Transfer Learning Across Policy Regimes in Adaptive Multi-Agent Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.09685"
+        },
+        {
+          "title": "Auditing Belief-Conditioned LLM Agents in Hidden-Information Social Deduction Games",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.10814"
+        },
+        {
+          "title": "Multi-Agent LLMs Fail to Explore Each Other",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.11250"
+        },
+        {
+          "title": "Multi-Agent Reinforcement Learning for C-V2X RAT Selection",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.11744"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "An Explainable Agentic System for Detection of Conversational Scams with Summary-Based Memory",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.11707"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.09665"
+        },
+        {
+          "title": "Interpreting Latent CoT Reasoning as Dynamical Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.09698"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "Using One Agent Across Multiple Machines",
+      "summary": "Article URL: https://syncless.ai/articles/let-syncless-across-your-environments\nComments URL: https://news.ycombinator.com/item?id=48916035\nPoints: 1\n# Comments: 0",
+      "url": "https://syncless.ai/articles/let-syncless-across-your-environments",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: AgentCall – turn any coding agent into a live meeting participant",
+      "summary": "Article URL: https://agentcall.dev\nComments URL: https://news.ycombinator.com/item?id=48915985\nPoints: 1\n# Comments: 0",
+      "url": "https://agentcall.dev",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Ptolemaic and LLM Architecture Compared (In 3D)",
+      "summary": "Article URL: https://celestial-llm-mirror.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=48915548\nPoints: 1\n# Comments: 0",
+      "url": "https://celestial-llm-mirror.vercel.app/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: I built an AI agent memory engine because Obsidian wasn't cutting it",
+      "summary": "Article URL: https://perseus.observer/blog/built-perseus-vault-obsidian-wasnt-cutting-it/\nComments URL: https://news.ycombinator.com/item?id=48915435\nPoints: 1\n# Comments: 0",
+      "url": "https://perseus.observer/blog/built-perseus-vault-obsidian-wasnt-cutting-it/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Legal AI, not a coding agent with scaffolding",
+      "summary": "Article URL: https://lexifina.com/blog/legal-ai-not-a-coding-agent-with-scaffolding\nComments URL: https://news.ycombinator.com/item?id=48914472\nPoints: 7\n# Comments: 0",
+      "url": "https://lexifina.com/blog/legal-ai-not-a-coding-agent-with-scaffolding",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
+      "summary": "Article URL: https://arxiv.org/abs/2607.05391\nComments URL: https://news.ycombinator.com/item?id=48914113\nPoints: 3\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2607.05391",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: Approv – human approval and a signed audit trail for AI agent actions",
+      "summary": "Hi HN, I’m a software engineer who’s been building AI agents for about 1.5 years.I’ve noticed that teams often give agents the ability to perform real tasks, such as refunding money, changing accounts, and writing to production databases, without involving a human in the process. When there is an a",
+      "url": "https://news.ycombinator.com/item?id=48912351",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "RemotePower 6.2 – self-hosted fleet manager, agent now a real service on Windows",
+      "summary": "Article URL: https://github.com/tyxak/remotepower/\nComments URL: https://news.ycombinator.com/item?id=48911986\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/tyxak/remotepower/",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
+      "summary": "arXiv:2607.09664v1 Announce Type: new \nAbstract: To provide a structured and interpretable assessment, we decompose the image-based diagnosis into components following the Toulmin model of argumentation. This model consists of a claim, grounds, warrant, qualifier, rebuttal, and backing. Consider a c",
+      "url": "https://arxiv.org/abs/2607.09664",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
+      "summary": "arXiv:2607.09665v1 Announce Type: new \nAbstract: Prompt wrappers often differ only in formatting, yet they can change model scores enough to flip leaderboard conclusions. We study this variance under a token-controlled protocol and introduce two complementary metrics: the Format Sensitivity Index (F",
+      "url": "https://arxiv.org/abs/2607.09665",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are Tier-Dependent",
+      "summary": "arXiv:2607.09678v1 Announce Type: new \nAbstract: When LLM agents hand off information to one another, does the message format matter? Two literatures disagree: format-optimization work reports that structured messages cut cost without hurting accuracy, while format-restriction work finds that imposi",
+      "url": "https://arxiv.org/abs/2607.09678",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Boltzmann MapReduce: A Partition-Function Reduce for Forkable Sandboxes",
+      "summary": "arXiv:2607.09689v1 Announce Type: new \nAbstract: To leading order under local asymptotic normality (LAN), the confidence density a worker emits over a chunk of size $n$ is a Gibbs--Boltzmann measure $\\exp\\{-\\beta E(\\theta)\\}$ whose inverse temperature is the sample size, $\\beta=n$. Three consequence",
+      "url": "https://arxiv.org/abs/2607.09689",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Interpreting Latent CoT Reasoning as Dynamical Systems",
+      "summary": "arXiv:2607.09698v1 Announce Type: new \nAbstract: Recent latent reasoning methods, such as CODI and COCONUT, face a fundamental interpretability problem: they maintain multiple superimposed candidate traces in the hidden space at each step, unlike explicit- CoT, which follows a single transparent rea",
+      "url": "https://arxiv.org/abs/2607.09698",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "YUKTI: From Natural-Language Situations to Robust, Verifiable Decisions An Uncertainty-Typed Proposition IR, Assumption-Robust Pareto Frontiers, and a Regret Certificate",
+      "summary": "arXiv:2607.09706v1 Announce Type: new \nAbstract: Language models turn a worded situation into a numeric plan, and the dominant pipelines (NL4Opt, OptiMUS, ORLM, OR-LLM-Agent) commit to a single objective and point-valued coefficients, then solve once. For decisions that allocate real budget, effort,",
+      "url": "https://arxiv.org/abs/2607.09706",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "GES-TSP: Graph Edge Sparsification for TSP",
+      "summary": "arXiv:2607.09708v1 Announce Type: new \nAbstract: Solving large-scale instances of the Traveling Salesman Problem (TSP) exactly is computationally expensive. Researchers often employ graph sparsification methods to improve computational efficiency. Traditional sparsification methods typically rely on",
+      "url": "https://arxiv.org/abs/2607.09708",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "The Verifier is the Curriculum: Execution-Gated Self-Distillation for Cross-Family Game Generation",
+      "summary": "arXiv:2607.09709v1 Announce Type: new \nAbstract: Post-training a code generator against a learned judge can optimize proxy features that raise the score without improving the artifact. We study the opposite signal: a deterministic, judge-free, ungameable filter -- whether a generated project launche",
+      "url": "https://arxiv.org/abs/2607.09709",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Transfer Learning Across Policy Regimes in Adaptive Multi-Agent Systems",
+      "summary": "arXiv:2607.09685v1 Announce Type: new \nAbstract: Policy models often assume that the relationship between a policy instrument and its outcome remains stable across institutional conditions. In adaptive socio-technical systems this assumption may fail: regulatory change can alter incentives, agents c",
+      "url": "https://arxiv.org/abs/2607.09685",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "RideGym: A Standardized Interface for Real-World Large-Scale Ride-Sharing System",
+      "summary": "arXiv:2607.10173v1 Announce Type: new \nAbstract: Ride-sharing has become an essential component of modern urban transportation and has attracted significant attention across computer science, transportation, and management science. While the field spans a broad range of problems, such as driver relo",
+      "url": "https://arxiv.org/abs/2607.10173",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Distributed Agent System: Fault-Tolerant Collaboration Among Embodied Agents",
+      "summary": "arXiv:2607.10811v1 Announce Type: new \nAbstract: AI engineering is shifting from passive text generation by large language models (LLMs) to agent-driven task execution, creating new reliability challenges for long-horizon tasks under resource constraints and environmental uncertainty. Conventional e",
+      "url": "https://arxiv.org/abs/2607.10811",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Auditing Belief-Conditioned LLM Agents in Hidden-Information Social Deduction Games",
+      "summary": "arXiv:2607.10814v1 Announce Type: new \nAbstract: Evaluating LLM agents in hidden-information multi-agent settings is hard: final outcomes are high-variance and rarely reveal why an agent decided as it did. We study this in a 9-player Werewolf environment where agents act under strict, code-level inf",
+      "url": "https://arxiv.org/abs/2607.10814",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Multi-Agent LLMs Fail to Explore Each Other",
+      "summary": "arXiv:2607.11250v1 Announce Type: new \nAbstract: Exploration is essential for reliable autonomy in multi-agent systems, yet it remains unclear whether large language model (LLM) agents can explore effectively when interacting with one another. We show that modern LLM agents fail to do so, often exhi",
+      "url": "https://arxiv.org/abs/2607.11250",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "An Explainable Agentic System for Detection of Conversational Scams with Summary-Based Memory",
+      "summary": "arXiv:2607.11707v1 Announce Type: new \nAbstract: Following the rapid progress of generative Artificial Intelligence, there is a growing threat posed by conversational scams. These scams often span over multiple weeks or months, gradually build trust and request for money or sensitive information. Ex",
+      "url": "https://arxiv.org/abs/2607.11707",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Multi-Agent Reinforcement Learning for C-V2X RAT Selection",
+      "summary": "arXiv:2607.11744v1 Announce Type: new \nAbstract: Vehicles are increasingly equipped with advanced V2X communication capabilities. While early V2X apps utilized services such as Cooperative Awareness Messages, recent developments have allowed more advanced applications including cooperative driving,",
+      "url": "https://arxiv.org/abs/2607.11744",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Forgetting Our Way to Shared Meaning: Effects of Forgetting on Conceptual Alignment in a Non-Partnership Coordination Game",
+      "summary": "arXiv:2607.11787v1 Announce Type: new \nAbstract: Shared meaning in language requires people to learn and agree on categories. We ask how characteristics of agents' memories change the emergence and evolution of shared meaning. Without a coordination game, models of conceptual semantics cannot explai",
+      "url": "https://arxiv.org/abs/2607.11787",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
