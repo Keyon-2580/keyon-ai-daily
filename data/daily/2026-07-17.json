@@ -1,0 +1,340 @@
+{
+  "date": "2026-07-17",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-07-17 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "What 10 autonomous film crews taught us about agent teamwork",
+      "summary": "Article URL: https://cloud.google.com/blog/topics/developers-practitioners/what-we-learned-about-agent-teamwork\nComments URL: https://news.ycombinator.com/item?id=48943193\nPoints: 1\n# Comments: 0",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/what-we-learned-about-agent-teamwork",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: PocketVeto is a Bluetooth-only AI agent remote control",
+      "summary": "I kept seeing those ESP32 toys where you plug it to your PC / Linux and have a touch screen change when Claude Code / Cursor / Codex is asking for some permission, but I didn't want to go that far. I also missed a way to remote control the agent chat when away from the computer. I glanced at my mob",
+      "url": "https://github.com/pocket-veto/pocket-veto",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Stop sending giant system prompts: treat LLM tokens as a scarce resource",
+      "summary": "Article URL: https://www.qolca.org/blog/stop-sending-giant-system-prompts\nComments URL: https://news.ycombinator.com/item?id=48942802\nPoints: 3\n# Comments: 0",
+      "url": "https://www.qolca.org/blog/stop-sending-giant-system-prompts",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Have you built an agent harness yet?",
+      "summary": "Article URL: https://alejandromp.com/development/blog/have-you-built-an-agent-harness-already/\nComments URL: https://news.ycombinator.com/item?id=48942706\nPoints: 2\n# Comments: 0",
+      "url": "https://alejandromp.com/development/blog/have-you-built-an-agent-harness-already/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
+      "summary": "arXiv:2607.13037v1 Announce Type: new \nAbstract: When a data contributor requests removal, model trainers face a practical gap: unlearning algorithms require a forget set, yet no tool can locate which training records belong to a given author. Existing provenance systems operate at file or dataset l",
+      "url": "https://arxiv.org/abs/2607.13037",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
+      "summary": "arXiv:2607.13049v1 Announce Type: new \nAbstract: Foundation models have given robots a sophisticated brain for complex decision-making, yet deploying that intelligence into a physical platform still demands tedious, expert-driven calibration. This deployment gap, the robot's spinal cord, remains a p",
+      "url": "https://arxiv.org/abs/2607.13049",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
+      "summary": "arXiv:2607.13069v1 Announce Type: new \nAbstract: Large language models produce chain-of-thought (CoT) reasoning that appears logically sound yet may not genuinely depend on its stated premises. We introduce interventional grounding audits, a black-box, step-level test of premise dependency: we inter",
+      "url": "https://arxiv.org/abs/2607.13069",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL",
+      "summary": "arXiv:2607.13073v1 Announce Type: new \nAbstract: Neuro-symbolic AI based on $IFOL_B$ is a way to combine neural learning and symbolic reasoning to overcome limitations of purely neural systems (like lack of interpretability and logical structure) with formal logical machinery for self-reference. In",
+      "url": "https://arxiv.org/abs/2607.13073",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": [
+        {
+          "title": "Self-Improvements in Modern Agentic Systems: A Survey",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.13104"
+        }
+      ]
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Show HN: Vektorgeist- A platform for AI operators and their agent's",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://vektorgeist.com/"
+        },
+        {
+          "title": "Learning Latency-Aware Orchestration for Multi-Agent Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.13359"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.13049"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Have you built an agent harness yet?",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://alejandromp.com/development/blog/have-you-built-an-agent-harness-already/"
+        },
+        {
+          "title": "Pezego-HITL: A policy-grounded large language model architecture for agricultural extension in Ghana",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.13934"
+        },
+        {
+          "title": "DevicesWorld: Benchmarking Cross-Device Agents in Heterogeneous Environments",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.13465"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "What 10 autonomous film crews taught us about agent teamwork",
+      "summary": "Article URL: https://cloud.google.com/blog/topics/developers-practitioners/what-we-learned-about-agent-teamwork\nComments URL: https://news.ycombinator.com/item?id=48943193\nPoints: 1\n# Comments: 0",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/what-we-learned-about-agent-teamwork",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: PocketVeto is a Bluetooth-only AI agent remote control",
+      "summary": "I kept seeing those ESP32 toys where you plug it to your PC / Linux and have a touch screen change when Claude Code / Cursor / Codex is asking for some permission, but I didn't want to go that far. I also missed a way to remote control the agent chat when away from the computer. I glanced at my mob",
+      "url": "https://github.com/pocket-veto/pocket-veto",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Stop sending giant system prompts: treat LLM tokens as a scarce resource",
+      "summary": "Article URL: https://www.qolca.org/blog/stop-sending-giant-system-prompts\nComments URL: https://news.ycombinator.com/item?id=48942802\nPoints: 3\n# Comments: 0",
+      "url": "https://www.qolca.org/blog/stop-sending-giant-system-prompts",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Have you built an agent harness yet?",
+      "summary": "Article URL: https://alejandromp.com/development/blog/have-you-built-an-agent-harness-already/\nComments URL: https://news.ycombinator.com/item?id=48942706\nPoints: 2\n# Comments: 0",
+      "url": "https://alejandromp.com/development/blog/have-you-built-an-agent-harness-already/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "SAM – An open-source AI agent that runs on your own machine",
+      "summary": "Article URL: https://github.com/richhabits/sam\nComments URL: https://news.ycombinator.com/item?id=48942440\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/richhabits/sam",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Weird but Effective LLM Tricks: Cache Tree and Tail Prompt Optimization",
+      "summary": "Article URL: https://github.com/orbsh/wiki/blob/main/tail-prompt-optimization-en.md\nComments URL: https://news.ycombinator.com/item?id=48942361\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/orbsh/wiki/blob/main/tail-prompt-optimization-en.md",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: ReasonGate- An explainable gate that blocks LLM prompt injection",
+      "summary": "Article URL: https://github.com/cgrtml/reasongate\nComments URL: https://news.ycombinator.com/item?id=48941051\nPoints: 6\n# Comments: 11",
+      "url": "https://github.com/cgrtml/reasongate",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: Vektorgeist- A platform for AI operators and their agent's",
+      "summary": "VektorGeist is a platform designed for AI operators to discover, share, and distribute AI resources in one place.\nThe platform brings together:\nAI tools\nMCP servers\nPrompts\nWorkflows\nTemplates\nAgents\nTechnical articles\nA community for collaboration\nRecent updates include selectable layouts, customi",
+      "url": "https://vektorgeist.com/",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
+      "summary": "arXiv:2607.13037v1 Announce Type: new \nAbstract: When a data contributor requests removal, model trainers face a practical gap: unlearning algorithms require a forget set, yet no tool can locate which training records belong to a given author. Existing provenance systems operate at file or dataset l",
+      "url": "https://arxiv.org/abs/2607.13037",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
+      "summary": "arXiv:2607.13049v1 Announce Type: new \nAbstract: Foundation models have given robots a sophisticated brain for complex decision-making, yet deploying that intelligence into a physical platform still demands tedious, expert-driven calibration. This deployment gap, the robot's spinal cord, remains a p",
+      "url": "https://arxiv.org/abs/2607.13049",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
+      "summary": "arXiv:2607.13069v1 Announce Type: new \nAbstract: Large language models produce chain-of-thought (CoT) reasoning that appears logically sound yet may not genuinely depend on its stated premises. We introduce interventional grounding audits, a black-box, step-level test of premise dependency: we inter",
+      "url": "https://arxiv.org/abs/2607.13069",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL",
+      "summary": "arXiv:2607.13073v1 Announce Type: new \nAbstract: Neuro-symbolic AI based on $IFOL_B$ is a way to combine neural learning and symbolic reasoning to overcome limitations of purely neural systems (like lack of interpretability and logical structure) with formal logical machinery for self-reference. In",
+      "url": "https://arxiv.org/abs/2607.13073",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Self-Improvements in Modern Agentic Systems: A Survey",
+      "summary": "arXiv:2607.13104v1 Announce Type: new \nAbstract: Self-improving autonomous agents are moving from research prototypes to deployed systems. The primary goal is controllable evolution, or adaptation, from experience with minimal or even no human input. This survey frames modern self-improving agents a",
+      "url": "https://arxiv.org/abs/2607.13104",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Improving Molecular Property Prediction in Small Language Models Using Graph-based Tools",
+      "summary": "arXiv:2607.13115v1 Announce Type: new \nAbstract: Small language models (SLMs) have shown promise for zero-shot molecular property prediction from SMILES strings, yet they often suffer from structural blindness because sequence representations under-specify key graph-topological cues. We propose a mo",
+      "url": "https://arxiv.org/abs/2607.13115",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents",
+      "summary": "arXiv:2607.13157v1 Announce Type: new \nAbstract: Agent memory is a systems problem for long-horizon agents. Practical deployments require retention of task state across extended conversations, recovery of user-specific facts and preferences across sessions, and accumulation of procedural knowledge f",
+      "url": "https://arxiv.org/abs/2607.13157",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Learning Safe Agent Behaviour from Human Preferences and Justifications via World Models",
+      "summary": "arXiv:2607.13172v1 Announce Type: new \nAbstract: We address the problem of safely training an agent policy and deploying a good and safe policy, in settings where the environment dynamics are unknown and no suitable reward function is available. In the context of safety-critical environments, we con",
+      "url": "https://arxiv.org/abs/2607.13172",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Learning Latency-Aware Orchestration for Multi-Agent Systems",
+      "summary": "arXiv:2607.13359v1 Announce Type: new \nAbstract: Multi-agent systems (MAS) coordinate multiple LLM-powered agents through structured workflows, gaining reasoning power but incurring high inference latency from multi-step execution and repeated model invocations. Existing orchestration methods primar",
+      "url": "https://arxiv.org/abs/2607.13359",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Equilibrium stability as a driver of cooperation among Q-learners",
+      "summary": "arXiv:2607.13607v1 Announce Type: new \nAbstract: Algorithmic collusion among pricing algorithms has raised concerns about sustained supra-competitive prices and their implications for social welfare. Existing work has largely focused on the probability that reinforcement-learning algorithms converge",
+      "url": "https://arxiv.org/abs/2607.13607",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Extending Liquid Rank Toward Multi-Source Reputation Aggregation",
+      "summary": "arXiv:2607.13615v1 Announce Type: new \nAbstract: In this paper, we present an extension of liquid rank reputation systems that enables the aggregation and blending of multiple heterogeneous reputation sources into a unified reputation score. The proposed framework supports the incorporation of exter",
+      "url": "https://arxiv.org/abs/2607.13615",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Social Simulations: from Agent-Based Modeling to Digital Twins",
+      "summary": "arXiv:2607.13693v1 Announce Type: new \nAbstract: This book chapter covers the evolution of social simulation from classical agent-based models, in which agents interact according to explicitly defined behavioral rules, to AI-enhanced simulations based on Large Language Models and, ultimately, Social",
+      "url": "https://arxiv.org/abs/2607.13693",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Pezego-HITL: A policy-grounded large language model architecture for agricultural extension in Ghana",
+      "summary": "arXiv:2607.13934v1 Announce Type: new \nAbstract: Large language models are increasingly deployed in agricultural decision-support settings, yet high-stakes crop protection in smallholder agriculture requires more than output-quality benchmarks. Over a two-year design and evaluation programme, we for",
+      "url": "https://arxiv.org/abs/2607.13934",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Stress-Sharing: A Bio-Inspired Approach to Decentralized Fault Repair in Modular Spacecraft",
+      "summary": "arXiv:2607.13444v1 Announce Type: cross \nAbstract: Structural damage in modular spacecraft can disrupt mechanical and communication connectivity, reducing system capability. Existing approaches rely on redundancy or preplanned reconfiguration and do not enable autonomous repair under local informati",
+      "url": "https://arxiv.org/abs/2607.13444",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "DevicesWorld: Benchmarking Cross-Device Agents in Heterogeneous Environments",
+      "summary": "arXiv:2607.13465v1 Announce Type: cross \nAbstract: LLM-based agents have rapidly improved at operating individual digital environments such as mobile applications, desktop systems, and smart homes. However, real-world user goals often span multiple devices: information may come from a phone, be proc",
+      "url": "https://arxiv.org/abs/2607.13465",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "A Deployed Hybrid Vehicle-in-the-Loop Platform for Validating Cooperative Perception",
+      "summary": "arXiv:2607.13806v1 Announce Type: cross \nAbstract: European safety regulation now permits a large share of automated-driving homologation evidence to be produced virtually, provided a validated physical-virtual facility generates it. We present a deployed hybrid Vehicle-in-the-Loop (ViL) platform th",
+      "url": "https://arxiv.org/abs/2607.13806",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
