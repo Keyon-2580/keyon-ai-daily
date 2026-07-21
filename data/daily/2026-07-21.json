@@ -1,0 +1,350 @@
+{
+  "date": "2026-07-21",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-07-21 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Hugging Face warns an autonomous AI agent hacked its network",
+      "summary": "Article URL: https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/\nComments URL: https://news.ycombinator.com/item?id=48987577\nPoints: 4\n# Comments: 0",
+      "url": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Malicious Agent Skills in the Wild",
+      "summary": "Article URL: https://arxiv.org/abs/2602.06547\nComments URL: https://news.ycombinator.com/item?id=48987510\nPoints: 2\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2602.06547",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Cosmonapse – an event-driven protocol for AI agent systems",
+      "summary": "Article URL: https://github.com/Cosmonapse/cosmonapse-core\nComments URL: https://news.ycombinator.com/item?id=48987399\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/Cosmonapse/cosmonapse-core",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Concentrate: LLM Gateway",
+      "summary": "Article URL: https://concentrate.ai\nComments URL: https://news.ycombinator.com/item?id=48987271\nPoints: 2\n# Comments: 0",
+      "url": "https://concentrate.ai",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Rater State Bias in RLHF Preference Data: An Audit Framework",
+      "summary": "arXiv:2607.16195v1 Announce Type: new \nAbstract: We identify a structured confound in Reinforcement Learning from Human Feedback (RLHF). Pairwise preference labels are intended to reflect the compared outputs, but they may also reflect the rater's state during annotation. Under sustained stressful o",
+      "url": "https://arxiv.org/abs/2607.16195",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Design and Validation of a Lightweight 1D CNN for Affective Touch Classification in Soft Plush Companions",
+      "summary": "arXiv:2607.16196v1 Announce Type: new \nAbstract: Soft, sensorized companions offer a physically safe and emotionally intuitive interface for socially assistive technologies, yet their deformability and multichannel tactile sensing complicate the robust interpretation of human affect. This study pres",
+      "url": "https://arxiv.org/abs/2607.16196",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Some Large Language Models Exhibit Consistent Risk Attitudes",
+      "summary": "arXiv:2607.16197v1 Announce Type: new \nAbstract: As artificial intelligence systems are deployed in open-ended, high-stakes settings, a critical dimension remains unmeasured: how perceived risk is translated into action. We test whether large language models (LLMs) exhibit systematic and consistent",
+      "url": "https://arxiv.org/abs/2607.16197",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "A Survey on GNN-based Link Prediction: Techniques, Applications, and Challenges",
+      "summary": "arXiv:2607.16198v1 Announce Type: new \nAbstract: Graph Neural Networks (GNNs) have emerged as the leading paradigm for link prediction, enabling the inference of missing connections and the anticipation of potential future links. However, existing reviews lack systematic exploration specifically tar",
+      "url": "https://arxiv.org/abs/2607.16198",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "PlanFlip: Attacking Multi-Agent LLM Systems via Planning-Phase Prompt Injection",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.16199"
+        },
+        {
+          "title": "Automated Hardware Validation Test Plan Generation for Large Scale AI Datacenter Platforms Using a Generative AI Multi-Agents Architecture",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.16388"
+        },
+        {
+          "title": "Laplacian Spectral Shaping for Non-Uniform Scaling Formation Control of Open Multi-Agent Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.16709"
+        },
+        {
+          "title": "The Optimization Trilemma: Efficiency, Comfort and Fairness in Decentralized Multi-agent Coordination",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.17311"
+        },
+        {
+          "title": "Value-Aware Prediction for Robust Multi-Agent Coordination Under Communication Loss",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.17914"
+        },
+        {
+          "title": "PRIME: Plasticity Recovery in Multi-Agent Environments for UAV-Assisted Emergency Communication Networks",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.17922"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": []
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Show HN: Relay – a self-hosted LLM gateway with eval-gated routing",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://github.com/llmrelay/relay"
+        },
+        {
+          "title": "Democratizing AI with Small Language Models: Structured Benchmarking and Parameter-Efficient Fine-Tuning for Local Deployment",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.16202"
+        },
+        {
+          "title": "A Digital Twin-Based Method for Evaluating Local Collective Tariffs in Distribution-Level Energy Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.17640"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "Hugging Face warns an autonomous AI agent hacked its network",
+      "summary": "Article URL: https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/\nComments URL: https://news.ycombinator.com/item?id=48987577\nPoints: 4\n# Comments: 0",
+      "url": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Malicious Agent Skills in the Wild",
+      "summary": "Article URL: https://arxiv.org/abs/2602.06547\nComments URL: https://news.ycombinator.com/item?id=48987510\nPoints: 2\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2602.06547",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Cosmonapse – an event-driven protocol for AI agent systems",
+      "summary": "Article URL: https://github.com/Cosmonapse/cosmonapse-core\nComments URL: https://news.ycombinator.com/item?id=48987399\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/Cosmonapse/cosmonapse-core",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Concentrate: LLM Gateway",
+      "summary": "Article URL: https://concentrate.ai\nComments URL: https://news.ycombinator.com/item?id=48987271\nPoints: 2\n# Comments: 0",
+      "url": "https://concentrate.ai",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Agent Search Engine – an independent index of 247 AI agents",
+      "summary": "Article URL: https://agentsearchengine.app\nComments URL: https://news.ycombinator.com/item?id=48986800\nPoints: 2\n# Comments: 0",
+      "url": "https://agentsearchengine.app",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: Vidmoat – a video editing pipeline any AI agent can operate",
+      "summary": "Article URL: https://www.vidmoat.com/\nComments URL: https://news.ycombinator.com/item?id=48986549\nPoints: 3\n# Comments: 0",
+      "url": "https://www.vidmoat.com/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "How Does an LLM Request and Response Cycle Work? A Full Walkthrough",
+      "summary": "Article URL: https://qainsights.com/how-does-an-llm-request-and-response-cycle-work-a-full-walkthrough/\nComments URL: https://news.ycombinator.com/item?id=48986298\nPoints: 4\n# Comments: 1",
+      "url": "https://qainsights.com/how-does-an-llm-request-and-response-cycle-work-a-full-walkthrough/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: Relay – a self-hosted LLM gateway with eval-gated routing",
+      "summary": "Article URL: https://github.com/llmrelay/relay\nComments URL: https://news.ycombinator.com/item?id=48986115\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/llmrelay/relay",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "Rater State Bias in RLHF Preference Data: An Audit Framework",
+      "summary": "arXiv:2607.16195v1 Announce Type: new \nAbstract: We identify a structured confound in Reinforcement Learning from Human Feedback (RLHF). Pairwise preference labels are intended to reflect the compared outputs, but they may also reflect the rater's state during annotation. Under sustained stressful o",
+      "url": "https://arxiv.org/abs/2607.16195",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Design and Validation of a Lightweight 1D CNN for Affective Touch Classification in Soft Plush Companions",
+      "summary": "arXiv:2607.16196v1 Announce Type: new \nAbstract: Soft, sensorized companions offer a physically safe and emotionally intuitive interface for socially assistive technologies, yet their deformability and multichannel tactile sensing complicate the robust interpretation of human affect. This study pres",
+      "url": "https://arxiv.org/abs/2607.16196",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Some Large Language Models Exhibit Consistent Risk Attitudes",
+      "summary": "arXiv:2607.16197v1 Announce Type: new \nAbstract: As artificial intelligence systems are deployed in open-ended, high-stakes settings, a critical dimension remains unmeasured: how perceived risk is translated into action. We test whether large language models (LLMs) exhibit systematic and consistent",
+      "url": "https://arxiv.org/abs/2607.16197",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "A Survey on GNN-based Link Prediction: Techniques, Applications, and Challenges",
+      "summary": "arXiv:2607.16198v1 Announce Type: new \nAbstract: Graph Neural Networks (GNNs) have emerged as the leading paradigm for link prediction, enabling the inference of missing connections and the anticipation of potential future links. However, existing reviews lack systematic exploration specifically tar",
+      "url": "https://arxiv.org/abs/2607.16198",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "PlanFlip: Attacking Multi-Agent LLM Systems via Planning-Phase Prompt Injection",
+      "summary": "arXiv:2607.16199v1 Announce Type: new \nAbstract: Multi-agent LLM systems increasingly rely on a Planner to decompose goals into sub-task sequences that downstream Executor and Critic agents execute and audit. We identify the planning phase as a critical attack surface: a single injection into the Pl",
+      "url": "https://arxiv.org/abs/2607.16199",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Deterministic Replay for AI Agent Systems",
+      "summary": "arXiv:2607.16200v1 Announce Type: new \nAbstract: AI agent systems that couple large language models (LLMs) with external tools and APIs are inherently non-deterministic: LLM sampling variance, external API state, CDN infrastructure headers, and execution-environment noise collectively prevent any pr",
+      "url": "https://arxiv.org/abs/2607.16200",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Generative Ontology Induction: Domain-Agnostic Schema Discovery from Document Corpora Using Large Language Models",
+      "summary": "arXiv:2607.16201v1 Announce Type: new \nAbstract: Ontology engineering remains a critical bottleneck in knowledge-intensive AI systems. Existing automated approaches either depend on predefined schemas, operate within narrow domains, or produce unstructured outputs unsuitable for downstream pipelines",
+      "url": "https://arxiv.org/abs/2607.16201",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Democratizing AI with Small Language Models: Structured Benchmarking and Parameter-Efficient Fine-Tuning for Local Deployment",
+      "summary": "arXiv:2607.16202v1 Announce Type: new \nAbstract: AI democratization is not primarily a question of matching frontier-scale generality; it is a question of whether capable models can be selected, audited, and specialized under hardware and governance constraints that ordinary institutions can actuall",
+      "url": "https://arxiv.org/abs/2607.16202",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Automated Hardware Validation Test Plan Generation for Large Scale AI Datacenter Platforms Using a Generative AI Multi-Agents Architecture",
+      "summary": "arXiv:2607.16388v1 Announce Type: new \nAbstract: Large-scale AI datacenter platforms comprise thousands of heterogeneous hardware components whose validation requires comprehensive fault injection test plans. Today these plans are authored manually: engineers review hardware self-healing validation",
+      "url": "https://arxiv.org/abs/2607.16388",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Laplacian Spectral Shaping for Non-Uniform Scaling Formation Control of Open Multi-Agent Systems",
+      "summary": "arXiv:2607.16709v1 Announce Type: new \nAbstract: Non-uniform scaling control enables a multi-agent formation to adjust its shape by compressing or stretching independently along different coordinate axes through inter-agent interactions, offering high flexibility in complex environments. The fundame",
+      "url": "https://arxiv.org/abs/2607.16709",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "When Is Heterogeneous Distance-Decay Facility Location Tractable? A Structural Classification, Exact Methods, and a Real-World Study",
+      "summary": "arXiv:2607.16764v1 Announce Type: new \nAbstract: We study continuous planar facility location in which a demand point's captured value decays with distance, with the per-point decay scale varying across points. This heterogeneity is ubiquitous yet underexploited, and one nearest-facility objective u",
+      "url": "https://arxiv.org/abs/2607.16764",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Auto Research for Materials: Auditable AI-Scientist Workflows with Held-Out Transfer",
+      "summary": "arXiv:2607.17100v1 Announce Type: new \nAbstract: An AI research agent can improve the score it sees without finding a modelling change that works on new materials. We ask a stricter question. After repeated experiments, does the selected change survive on data that never entered the loop, and can it",
+      "url": "https://arxiv.org/abs/2607.17100",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "The Optimization Trilemma: Efficiency, Comfort and Fairness in Decentralized Multi-agent Coordination",
+      "summary": "arXiv:2607.17311v1 Announce Type: new \nAbstract: The problem of fair multi-agent coordination in decentralized settings is one of the most pressing challenges for building efficient collaborative systems. Resource allocation is based on optimized collective arrangements accounting for agents' needs.",
+      "url": "https://arxiv.org/abs/2607.17311",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "A Digital Twin-Based Method for Evaluating Local Collective Tariffs in Distribution-Level Energy Systems",
+      "summary": "arXiv:2607.17640v1 Announce Type: new \nAbstract: This work addresses the need for engineering-grounded evaluation of implement-ed tariff mechanisms in distribution-level energy systems. A digital twin-based method is proposed for assessing local collective tariffs under realistic behavioral and infr",
+      "url": "https://arxiv.org/abs/2607.17640",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Value-Aware Prediction for Robust Multi-Agent Coordination Under Communication Loss",
+      "summary": "arXiv:2607.17914v1 Announce Type: new \nAbstract: Robust multi-agent coordination relies heavily on inter-agent communication, which is frequently disrupted by physical and environmental constraints in real-world deployments. To maintain operation during these intermittent communication failures, age",
+      "url": "https://arxiv.org/abs/2607.17914",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "PRIME: Plasticity Recovery in Multi-Agent Environments for UAV-Assisted Emergency Communication Networks",
+      "summary": "arXiv:2607.17922v1 Announce Type: new \nAbstract: Most reinforcement learning controllers for these networks assume stationary conditions, and the few that handle change react to the external environment while leaving the network's internal state unexamined. We show that sustained non-stationarity da",
+      "url": "https://arxiv.org/abs/2607.17922",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
