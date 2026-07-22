@@ -1,0 +1,389 @@
+{
+  "date": "2026-07-22",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-07-22 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "A simple API for offering your coding agent a smoke break",
+      "summary": "Article URL: https://smoke-break.pineapplefreefall.com\nComments URL: https://news.ycombinator.com/item?id=49001591\nPoints: 2\n# Comments: 0",
+      "url": "https://smoke-break.pineapplefreefall.com",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "How to Run a Multi-Agent Coding Workspace (2026)",
+      "summary": "Article URL: https://www.augmentcode.com/guides/how-to-run-a-multi-agent-coding-workspace\nComments URL: https://news.ycombinator.com/item?id=49000612\nPoints: 3\n# Comments: 0",
+      "url": "https://www.augmentcode.com/guides/how-to-run-a-multi-agent-coding-workspace",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "OpenBench – A benchmark for comparing coding-agent harnesses",
+      "summary": "Article URL: https://twitter.com/mattlam_/status/2079605387121049605\nComments URL: https://news.ycombinator.com/item?id=49000462\nPoints: 5\n# Comments: 0",
+      "url": "https://twitter.com/mattlam_/status/2079605387121049605",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Agent swarms are great for local AI",
+      "summary": "Article URL: https://jonready.com/blog/posts/agent-swarms-are-great-for-local-ai.html\nComments URL: https://news.ycombinator.com/item?id=49000388\nPoints: 3\n# Comments: 4",
+      "url": "https://jonready.com/blog/posts/agent-swarms-are-great-for-local-ai.html",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
+      "summary": "arXiv:2607.18239v1 Announce Type: new \nAbstract: Power-seeking defined as behaviors where AI systems acquire resources, evade oversight, or resist termination beyond task requirements is identified as a key driver of Loss of Control (LoC) risk. In this work, we introduce SysAdmin, a benchmark that p",
+      "url": "https://arxiv.org/abs/2607.18239",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Calibrated Selective Fact-Checking via Evidence Chain Evaluation",
+      "summary": "arXiv:2607.18240v1 Announce Type: new \nAbstract: Large language models (LLMs) can achieve strong fact-checking accuracy, yet forced binary decisions conceal a critical reliability problem: systems may issue confident verdicts even when supporting evidence is weak, sparse, or internally inconsistent.",
+      "url": "https://arxiv.org/abs/2607.18240",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data",
+      "summary": "arXiv:2607.18241v1 Announce Type: new \nAbstract: Large language models (LLMs) excel at analyzing individual documents but break down on exhaustive, cross-entity analytical questions over enterprise-scale datasets due to context overflow, loss of per-entity attribution, and linear latency from sequen",
+      "url": "https://arxiv.org/abs/2607.18241",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "AI Tool Discovery at Scale: All You Need is DNS",
+      "summary": "arXiv:2607.18242v1 Announce Type: new \nAbstract: The coming era of autonomous AI agents demands a discovery mechanism capable of navigating millions of tools, yet existing solutions buckle under O(N) complexity and centralized governance. Instead of building another fragile overlay, we propose ToolD",
+      "url": "https://arxiv.org/abs/2607.18242",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "How to Run a Multi-Agent Coding Workspace (2026)",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://www.augmentcode.com/guides/how-to-run-a-multi-agent-coding-workspace"
+        },
+        {
+          "title": "Decentralized Multi-agent Reinforcement Learning for Resilient Critical Infrastructures",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.18359"
+        },
+        {
+          "title": "Scalable Policy Optimization for Networked Multi-Agent Reinforcement Learning with Continuous State-Action Spaces",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.18554"
+        },
+        {
+          "title": "Strategy-Following Multi-Agent Deep Reinforcement Learning Considering Control Strategies Provided to Other Agents",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.18719"
+        },
+        {
+          "title": "A Self-Evolving Default Action for Cooperative Tasks with Continuous Action Space",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.18597"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "From Agent Failure Paths to Quantified Residual Risk: A Compositional Framework for Resilient Agentic AI",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.18243"
+        },
+        {
+          "title": "A Decision-Centered Reference Architecture for Trustworthy Agentic Commerce",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.18347"
+        },
+        {
+          "title": "Engineering Trustworthy Agentic AI for Critical Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.18548"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "OpenBench – A benchmark for comparing coding-agent harnesses",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://twitter.com/mattlam_/status/2079605387121049605"
+        },
+        {
+          "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.18239"
+        },
+        {
+          "title": "Calibrated Selective Fact-Checking via Evidence Chain Evaluation",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.18240"
+        },
+        {
+          "title": "SAAG: Structured Agent Assessment and Grounding",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.18245"
+        },
+        {
+          "title": "Broken Gates: Re-evaluating Web Bot Defenses in the Age of LLM Agents",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.18659"
+        },
+        {
+          "title": "OpenAI and Hugging Face address security incident during model evaluation",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "A simple API for offering your coding agent a smoke break",
+      "summary": "Article URL: https://smoke-break.pineapplefreefall.com\nComments URL: https://news.ycombinator.com/item?id=49001591\nPoints: 2\n# Comments: 0",
+      "url": "https://smoke-break.pineapplefreefall.com",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "How to Run a Multi-Agent Coding Workspace (2026)",
+      "summary": "Article URL: https://www.augmentcode.com/guides/how-to-run-a-multi-agent-coding-workspace\nComments URL: https://news.ycombinator.com/item?id=49000612\nPoints: 3\n# Comments: 0",
+      "url": "https://www.augmentcode.com/guides/how-to-run-a-multi-agent-coding-workspace",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "OpenBench – A benchmark for comparing coding-agent harnesses",
+      "summary": "Article URL: https://twitter.com/mattlam_/status/2079605387121049605\nComments URL: https://news.ycombinator.com/item?id=49000462\nPoints: 5\n# Comments: 0",
+      "url": "https://twitter.com/mattlam_/status/2079605387121049605",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Agent swarms are great for local AI",
+      "summary": "Article URL: https://jonready.com/blog/posts/agent-swarms-are-great-for-local-ai.html\nComments URL: https://news.ycombinator.com/item?id=49000388\nPoints: 3\n# Comments: 4",
+      "url": "https://jonready.com/blog/posts/agent-swarms-are-great-for-local-ai.html",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "I made ThoughtDAG – LLM as an editable graph, wires are the context",
+      "summary": "Article URL: https://github.com/chenxiachan/thoughtdag\nComments URL: https://news.ycombinator.com/item?id=49000216\nPoints: 4\n# Comments: 0",
+      "url": "https://github.com/chenxiachan/thoughtdag",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Do Skills Improve Coding Agent Accuracy?",
+      "summary": "Article URL: https://orcabot.com/labs/do-skills-improve-coding-agent-accuracy\nComments URL: https://news.ycombinator.com/item?id=49000144\nPoints: 2\n# Comments: 0",
+      "url": "https://orcabot.com/labs/do-skills-improve-coding-agent-accuracy",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Headroom - compress AI agent input for reduced token usage w/out harming output",
+      "summary": "Article URL: https://github.com/headroomlabs-ai/headroom\nComments URL: https://news.ycombinator.com/item?id=48999841\nPoints: 6\n# Comments: 0",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Lanyard SSH Agent Switchboard",
+      "summary": "Article URL: https://jwilger.github.io/lanyard-ssh-agent/\nComments URL: https://news.ycombinator.com/item?id=48999820\nPoints: 3\n# Comments: 0",
+      "url": "https://jwilger.github.io/lanyard-ssh-agent/",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [
+    {
+      "title": "OpenAI and Hugging Face address security incident during model evaluation",
+      "summary": "https://www.axios.com/2026/07/21/openai-says-hugging-face-br...See also Security incident disclosure – July 2026 - https://news.ycombinator.com/item?id=48956248 (9 comments)\n\nComments URL: https://news.ycombinator.com/item?id=48997548\nPoints: 847\n# Comments: 592",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+      "summary": "Article URL: https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63\nComments URL: https://news.ycombinator.com/item?id=48996652\nPoints: 189\n# Comments: 145",
+      "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "research": [
+    {
+      "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
+      "summary": "arXiv:2607.18239v1 Announce Type: new \nAbstract: Power-seeking defined as behaviors where AI systems acquire resources, evade oversight, or resist termination beyond task requirements is identified as a key driver of Loss of Control (LoC) risk. In this work, we introduce SysAdmin, a benchmark that p",
+      "url": "https://arxiv.org/abs/2607.18239",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Calibrated Selective Fact-Checking via Evidence Chain Evaluation",
+      "summary": "arXiv:2607.18240v1 Announce Type: new \nAbstract: Large language models (LLMs) can achieve strong fact-checking accuracy, yet forced binary decisions conceal a critical reliability problem: systems may issue confident verdicts even when supporting evidence is weak, sparse, or internally inconsistent.",
+      "url": "https://arxiv.org/abs/2607.18240",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data",
+      "summary": "arXiv:2607.18241v1 Announce Type: new \nAbstract: Large language models (LLMs) excel at analyzing individual documents but break down on exhaustive, cross-entity analytical questions over enterprise-scale datasets due to context overflow, loss of per-entity attribution, and linear latency from sequen",
+      "url": "https://arxiv.org/abs/2607.18241",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "AI Tool Discovery at Scale: All You Need is DNS",
+      "summary": "arXiv:2607.18242v1 Announce Type: new \nAbstract: The coming era of autonomous AI agents demands a discovery mechanism capable of navigating millions of tools, yet existing solutions buckle under O(N) complexity and centralized governance. Instead of building another fragile overlay, we propose ToolD",
+      "url": "https://arxiv.org/abs/2607.18242",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "From Agent Failure Paths to Quantified Residual Risk: A Compositional Framework for Resilient Agentic AI",
+      "summary": "arXiv:2607.18243v1 Announce Type: new \nAbstract: Agentic AI is crossing trust boundaries faster than current risk models can represent. Existing approaches provide one of two partial views. They either describe failure mechanisms without producing a transferable residual-risk estimate, or they produ",
+      "url": "https://arxiv.org/abs/2607.18243",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "SAAG: Structured Agent Assessment and Grounding",
+      "summary": "arXiv:2607.18245v1 Announce Type: new \nAbstract: Exact-match evaluation of agent-calling obscures qualitatively different failure modes: a model may select the right function yet hallucinate argument values, or satisfy a schema while choosing a agent for the wrong reason. Existing benchmarks collaps",
+      "url": "https://arxiv.org/abs/2607.18245",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Phionyx: A Deterministic AI Runtime Architecture with Structured State Management and Pre-Response Governance",
+      "summary": "arXiv:2607.18246v1 Announce Type: new \nAbstract: We present Phionyx, a deterministic AI runtime architecture derived from the broader Echoism interaction framework that introduces a governance-first approach to AI engineering: treating large language model (LLM) outputs as noisy sensor measurements",
+      "url": "https://arxiv.org/abs/2607.18246",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Integro-differential equations in angular stabilization of drone motion by distributed feedback control",
+      "summary": "arXiv:2607.18251v1 Announce Type: new \nAbstract: In this paper, we propose angular stabilization of drone motion using distributed feedback control in the form of an integral operator. It should be stressed that the memory of this integral operator could be unbounded. It is intuitively clear that la",
+      "url": "https://arxiv.org/abs/2607.18251",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Decentralized Multi-agent Reinforcement Learning for Resilient Critical Infrastructures",
+      "summary": "arXiv:2607.18359v1 Announce Type: new \nAbstract: Critical infrastructures are increasingly distributed, interdependent, and exposed to evolving disruptions, making resilience a central requirement for their operation and control. This paper argues that decentralized multi-agent reinforcement learnin",
+      "url": "https://arxiv.org/abs/2607.18359",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Scalable Policy Optimization for Networked Multi-Agent Reinforcement Learning with Continuous State-Action Spaces",
+      "summary": "arXiv:2607.18554v1 Announce Type: new \nAbstract: We develop the Continuous Distributed Coupled Policy Gradient (CDCPG) algorithm for cooperative reinforcement learning in networked Markov decision processes with continuous state and action spaces. Each agent maintains a local actor over a bounded gr",
+      "url": "https://arxiv.org/abs/2607.18554",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Strategy-Following Multi-Agent Deep Reinforcement Learning Considering Control Strategies Provided to Other Agents",
+      "summary": "arXiv:2607.18719v1 Announce Type: new \nAbstract: This study proposes a learning method for multi-agent systems that allows agents to be controlled through human manager instructions after learning and enables uninstructed agents to implicitly complement the overall work based on the actions of other",
+      "url": "https://arxiv.org/abs/2607.18719",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "A Decision-Centered Reference Architecture for Trustworthy Agentic Commerce",
+      "summary": "arXiv:2607.18347v1 Announce Type: cross \nAbstract: Agentic commerce extends agentic shopping into software agents that interpret policy, prepare checkout, generate transaction-facing language, and act under delegated payment authority. Protocols standardize external exchanges, but merchants still ne",
+      "url": "https://arxiv.org/abs/2607.18347",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Engineering Trustworthy Agentic AI for Critical Systems",
+      "summary": "arXiv:2607.18548v1 Announce Type: cross \nAbstract: Agentic artificial intelligence systems, capable of autonomous perception, planning, tool use, and multi-step action, are increasingly proposed for critical engineering domains where decisions carry physical, operational, or economic consequences. T",
+      "url": "https://arxiv.org/abs/2607.18548",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "A Self-Evolving Default Action for Cooperative Tasks with Continuous Action Space",
+      "summary": "arXiv:2607.18597v1 Announce Type: cross \nAbstract: Counterfactual credit assignment has proven effective in multi-agent reinforcement learning (MARL) for discrete action spaces, yet its extension to continuous-action cooperative tasks remains challenging. Existing methods that approximate the counte",
+      "url": "https://arxiv.org/abs/2607.18597",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Broken Gates: Re-evaluating Web Bot Defenses in the Age of LLM Agents",
+      "summary": "arXiv:2607.18659v1 Announce Type: cross \nAbstract: LLM-based browser agents are rapidly changing the threat landscape for web security. Unlike traditional automation frameworks that execute predefined scripts, these agents can autonomously navigate websites, reason about page content, and interact w",
+      "url": "https://arxiv.org/abs/2607.18659",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
