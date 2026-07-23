@@ -1,0 +1,369 @@
+{
+  "date": "2026-07-23",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-07-23 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Publicly verifiable receipts for AI agent actions, anchored to Bitcoin",
+      "summary": "Article URL: https://orphograph.com/lp/agent-receipts\nComments URL: https://news.ycombinator.com/item?id=49016832\nPoints: 1\n# Comments: 0",
+      "url": "https://orphograph.com/lp/agent-receipts",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Herdr-guard – Command policy for multi-agent terminals",
+      "summary": "Article URL: https://github.com/StructuPath/herdr-guard\nComments URL: https://news.ycombinator.com/item?id=49016348\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/StructuPath/herdr-guard",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Chinese AI's role in stopping rogue OpenAI agent shows cost of US guardrails",
+      "summary": "Article URL: https://www.reuters.com/legal/litigation/chinese-ais-role-stopping-rogue-openai-agent-shows-cost-us-guardrails-2026-07-22/\nComments URL: https://news.ycombinator.com/item?id=49015927\nPoints: 7\n# Comments: 0",
+      "url": "https://www.reuters.com/legal/litigation/chinese-ais-role-stopping-rogue-openai-agent-shows-cost-us-guardrails-2026-07-22/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Own the Loop: A Field Guide to Agent Harnesses",
+      "summary": "Article URL: https://twitter.com/aparnadhinak/status/2073079029624943040\nComments URL: https://news.ycombinator.com/item?id=49015660\nPoints: 3\n# Comments: 1",
+      "url": "https://twitter.com/aparnadhinak/status/2073079029624943040",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
+      "summary": "arXiv:2607.19349v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed as always-on online services, making efficient LLM serving a critical systems challenge. Achieving low latency and high throughput under volatile demand requires deep understanding of real-world s",
+      "url": "https://arxiv.org/abs/2607.19349",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience",
+      "summary": "arXiv:2607.19350v1 Announce Type: new \nAbstract: Financial institutions face significant challenges in detecting sophisticated money laundering patterns, such as smurfing and layering, due to extreme data imbalance (0.13% fraud rate) and evolving adversarial evasion tactics. This paper proposes Frau",
+      "url": "https://arxiv.org/abs/2607.19350",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks",
+      "summary": "arXiv:2607.19351v1 Announce Type: new \nAbstract: LLM-based multi-agent systems (LLM-MAS) are increasingly deployed in safety-critical applications, where adversaries inject malicious instructions through inter-agent communication to propagate harmful behaviors. Unlike static threats, these attacks a",
+      "url": "https://arxiv.org/abs/2607.19351",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX",
+      "summary": "arXiv:2607.19353v1 Announce Type: new \nAbstract: Confidential computing is becoming a practical deployment requirement for AI inference workloads that process sensitive inputs or protect proprietary model assets. However, the performance cost of enabling confidential execution for GPU-accelerated la",
+      "url": "https://arxiv.org/abs/2607.19353",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": [
+        {
+          "title": "Knowledge-Centric Self-Improvement",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.19592"
+        }
+      ]
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Herdr-guard – Command policy for multi-agent terminals",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://github.com/StructuPath/herdr-guard"
+        },
+        {
+          "title": "OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.19351"
+        },
+        {
+          "title": "CHMAS: A Coupled Hierarchical Framework for Multi-Agent Reinforcement Learning",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.19555"
+        },
+        {
+          "title": "Not Birds of a Feather: Personality-Based Partner Selection in LLM Agents",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.19785"
+        },
+        {
+          "title": "Dreamer-CPC: Message Learning with World Models for Decentralized Multi-agent Reinforcement Learning",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.19809"
+        },
+        {
+          "title": "Harnessing Disagreement: Detecting Correlated Agreement Blindness in Multi-Agent Triage",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.19899"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": []
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Own the Loop: A Field Guide to Agent Harnesses",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://twitter.com/aparnadhinak/status/2073079029624943040"
+        },
+        {
+          "title": "The Microsoft Agent Framework Harness is now released",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://devblogs.microsoft.com/agent-framework/the-microsoft-agent-framework-harness-is-now-released/"
+        },
+        {
+          "title": "Localmaxxing – Local LLM Inference Benchmarks",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://www.localmaxxing.com/en"
+        },
+        {
+          "title": "Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.19353"
+        },
+        {
+          "title": "Same Game, Different Story: A Minimal Conservative Strategic Robustness Benchmark for Large Language Model Agents",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.19670"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "Publicly verifiable receipts for AI agent actions, anchored to Bitcoin",
+      "summary": "Article URL: https://orphograph.com/lp/agent-receipts\nComments URL: https://news.ycombinator.com/item?id=49016832\nPoints: 1\n# Comments: 0",
+      "url": "https://orphograph.com/lp/agent-receipts",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Herdr-guard – Command policy for multi-agent terminals",
+      "summary": "Article URL: https://github.com/StructuPath/herdr-guard\nComments URL: https://news.ycombinator.com/item?id=49016348\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/StructuPath/herdr-guard",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Chinese AI's role in stopping rogue OpenAI agent shows cost of US guardrails",
+      "summary": "Article URL: https://www.reuters.com/legal/litigation/chinese-ais-role-stopping-rogue-openai-agent-shows-cost-us-guardrails-2026-07-22/\nComments URL: https://news.ycombinator.com/item?id=49015927\nPoints: 7\n# Comments: 0",
+      "url": "https://www.reuters.com/legal/litigation/chinese-ais-role-stopping-rogue-openai-agent-shows-cost-us-guardrails-2026-07-22/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Own the Loop: A Field Guide to Agent Harnesses",
+      "summary": "Article URL: https://twitter.com/aparnadhinak/status/2073079029624943040\nComments URL: https://news.ycombinator.com/item?id=49015660\nPoints: 3\n# Comments: 1",
+      "url": "https://twitter.com/aparnadhinak/status/2073079029624943040",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "The Microsoft Agent Framework Harness is now released",
+      "summary": "Article URL: https://devblogs.microsoft.com/agent-framework/the-microsoft-agent-framework-harness-is-now-released/\nComments URL: https://news.ycombinator.com/item?id=49015583\nPoints: 4\n# Comments: 0",
+      "url": "https://devblogs.microsoft.com/agent-framework/the-microsoft-agent-framework-harness-is-now-released/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: I built a scraping engine where the LLM writes configs, not code",
+      "summary": "Article URL: https://github.com/PxyUp/fitter\nComments URL: https://news.ycombinator.com/item?id=49015561\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/PxyUp/fitter",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Localmaxxing – Local LLM Inference Benchmarks",
+      "summary": "Article URL: https://www.localmaxxing.com/en\nComments URL: https://news.ycombinator.com/item?id=49015424\nPoints: 1\n# Comments: 1",
+      "url": "https://www.localmaxxing.com/en",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Local agent first AI search optimization tooling",
+      "summary": "Article URL: https://github.com/Canonry/canonry\nComments URL: https://news.ycombinator.com/item?id=49014880\nPoints: 4\n# Comments: 1",
+      "url": "https://github.com/Canonry/canonry",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
+      "summary": "arXiv:2607.19349v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed as always-on online services, making efficient LLM serving a critical systems challenge. Achieving low latency and high throughput under volatile demand requires deep understanding of real-world s",
+      "url": "https://arxiv.org/abs/2607.19349",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience",
+      "summary": "arXiv:2607.19350v1 Announce Type: new \nAbstract: Financial institutions face significant challenges in detecting sophisticated money laundering patterns, such as smurfing and layering, due to extreme data imbalance (0.13% fraud rate) and evolving adversarial evasion tactics. This paper proposes Frau",
+      "url": "https://arxiv.org/abs/2607.19350",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks",
+      "summary": "arXiv:2607.19351v1 Announce Type: new \nAbstract: LLM-based multi-agent systems (LLM-MAS) are increasingly deployed in safety-critical applications, where adversaries inject malicious instructions through inter-agent communication to propagate harmful behaviors. Unlike static threats, these attacks a",
+      "url": "https://arxiv.org/abs/2607.19351",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX",
+      "summary": "arXiv:2607.19353v1 Announce Type: new \nAbstract: Confidential computing is becoming a practical deployment requirement for AI inference workloads that process sensitive inputs or protect proprietary model assets. However, the performance cost of enabling confidential execution for GPU-accelerated la",
+      "url": "https://arxiv.org/abs/2607.19353",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "FormulaSPIN: Self-Play Fine-Tuning for Natural Language to Spreadsheet Formula Generation",
+      "summary": "arXiv:2607.19354v1 Announce Type: new \nAbstract: Spreadsheet applications are used by hundreds of millions worldwide, yet writing formulas remains a significant barrier. Existing approaches rely on static supervised data, which quickly saturates on limited annotations. In this paper, we introduce FO",
+      "url": "https://arxiv.org/abs/2607.19354",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Information Discernment in Large Language Models",
+      "summary": "arXiv:2607.19355v1 Announce Type: new \nAbstract: LLMs are increasingly used with external knowledge sources like the internet. Do they weigh information appropriately -- updating more for reliable sources (source discernment) and more when claims bring priors closer to the truth (truth discernment)?",
+      "url": "https://arxiv.org/abs/2607.19355",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "NEXUS: Structured Runtime Safety for Tool-Using LLM Agents",
+      "summary": "arXiv:2607.19356v1 Announce Type: new \nAbstract: Tool-using LLM agents increasingly execute high-impact actions, making runtime safety monitoring essential. We present NEXUS (Neural EXecution Utility and Safety), a structured-plan safety monitor that applies a formal intervention policy to select am",
+      "url": "https://arxiv.org/abs/2607.19356",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Stochastic Primal-Dual Decoding for Multiobjective Generative Recommender Systems",
+      "summary": "arXiv:2607.19357v1 Announce Type: new \nAbstract: Recent advances in recommender systems (RS) have shown substantial performance gains through generative modelling. In practice, recommendation often involves constructing slates -- ordered lists of items -- that must satisfy multiple objectives beyond",
+      "url": "https://arxiv.org/abs/2607.19357",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "CHMAS: A Coupled Hierarchical Framework for Multi-Agent Reinforcement Learning",
+      "summary": "arXiv:2607.19555v1 Announce Type: new \nAbstract: Multi-agent reinforcement learning (MARL) systems face fundamental\n  challenges in balancing global coordination with local execution\n  across different temporal scales. This paper introduces the Coupled\n  Hierarchical Multi-Agent System (CHMAS), a no",
+      "url": "https://arxiv.org/abs/2607.19555",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Same Game, Different Story: A Minimal Conservative Strategic Robustness Benchmark for Large Language Model Agents",
+      "summary": "arXiv:2607.19670v1 Announce Type: new \nAbstract: Large language model (LLM) agents increasingly operate in strategic settings where outcomes depend on the actions of other agents. This raises a reliability question: will a model choose consistently when the same incentives are presented through diff",
+      "url": "https://arxiv.org/abs/2607.19670",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Not Birds of a Feather: Personality-Based Partner Selection in LLM Agents",
+      "summary": "arXiv:2607.19785v1 Announce Type: new \nAbstract: Multi-agent LLM systems increasingly let one agent choose which other agents to work with, and agents are increasingly given personalities through personas. We test whether Big Five personality alone influences partner selection when capability is exp",
+      "url": "https://arxiv.org/abs/2607.19785",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Dreamer-CPC: Message Learning with World Models for Decentralized Multi-agent Reinforcement Learning",
+      "summary": "arXiv:2607.19809v1 Announce Type: new \nAbstract: In multi-agent reinforcement learning (MARL), inter-agent communication is effective for improving performance under partial observability. Representation learning-based approaches enable decentralized agents to learn messages grounded in their own ob",
+      "url": "https://arxiv.org/abs/2607.19809",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Harnessing Disagreement: Detecting Correlated Agreement Blindness in Multi-Agent Triage",
+      "summary": "arXiv:2607.19899v1 Announce Type: new \nAbstract: Disagreement-triggered escalation can create a structural blind spot in multi-agent arbitration: as base learners improve, they tend to converge, weakening safety monitoring where correlated failures concentrate. We term this correlated agreement blin",
+      "url": "https://arxiv.org/abs/2607.19899",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Knowledge-Centric Self-Improvement",
+      "summary": "arXiv:2607.19592v1 Announce Type: cross \nAbstract: Self-improving AI systems typically treat the agent as the object that improves, by optimizing prompts, workflows, harnesses, or even the agent's own code. This agent-centric view can make improvements expensive to maintain and difficult to transfer",
+      "url": "https://arxiv.org/abs/2607.19592",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Adaptive Capitulation: A Structural Failure Mode of LLM Responses in Vulnerability Contexts",
+      "summary": "arXiv:2607.19629v1 Announce Type: cross \nAbstract: Large language models operating in emotionally sensitive contexts face a structural trilemma: when users in vulnerable states request information that may reinforce maladaptive attribution, current response architectures resolve the tension through",
+      "url": "https://arxiv.org/abs/2607.19629",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Remote ID Spoofing-Aware Trajectory Planning for Small Unmanned Aerial Systems",
+      "summary": "arXiv:2607.19650v1 Announce Type: cross \nAbstract: This work presents a decentralized, spoofing-aware trajectory planning framework for small unmanned aerial systems operating under Remote Identification (RID) location spoofing attacks. Existing planners typically assume RID broadcasts are trustwort",
+      "url": "https://arxiv.org/abs/2607.19650",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
