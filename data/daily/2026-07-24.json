@@ -1,0 +1,382 @@
+{
+  "date": "2026-07-24",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-07-24 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Show HN: Deep Skill Finder – Find agent skills using real execution benchmarks",
+      "summary": "Article URL: https://www.meyo.life/skill\nComments URL: https://news.ycombinator.com/item?id=49030664\nPoints: 2\n# Comments: 0",
+      "url": "https://www.meyo.life/skill",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Harness Handbook – Making Agent Harnesses Understandable, Auditable and Editable",
+      "summary": "Article URL: https://ruhan-wang.github.io/Harness-Handbook/\nComments URL: https://news.ycombinator.com/item?id=49030598\nPoints: 4\n# Comments: 0",
+      "url": "https://ruhan-wang.github.io/Harness-Handbook/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Chrysalis Zero Trust Agent Registry",
+      "summary": "Article URL: https://baursoftware.com/zero-trust/chrysalis\nComments URL: https://news.ycombinator.com/item?id=49030178\nPoints: 1\n# Comments: 0",
+      "url": "https://baursoftware.com/zero-trust/chrysalis",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: CLI Coding Agent that runs on llamafile and/or GGUF",
+      "summary": "Article URL: https://github.com/kdeps/kdeps\nComments URL: https://news.ycombinator.com/item?id=49029939\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/kdeps/kdeps",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
+      "summary": "arXiv:2607.20452v1 Announce Type: new \nAbstract: Modern software quality assurance demands intelligent, autonomous systems capable of adaptive decision-making across distributed cloud environments. This paper presents AINTMA (Agentic Intelligent Test Management Architecture), a multi-agent agentic A",
+      "url": "https://arxiv.org/abs/2607.20452",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts",
+      "summary": "arXiv:2607.20462v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly integrated into clinical workflows, stressing the need for reliable traceability of model-generated output with watermarking. Yet, most watermarks are evaluated on general-purpose benchmarks, leaving domai",
+      "url": "https://arxiv.org/abs/2607.20462",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models",
+      "summary": "arXiv:2607.20463v1 Announce Type: new \nAbstract: This paper presents an AI-driven browser extension that identifies clickbait to help users avoid misleading Internet articles. Moving beyond traditional detection, the application employs a hybrid machine learning architecture that combines transforme",
+      "url": "https://arxiv.org/abs/2607.20463",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Stochastic Sampling is Epistemically Shallow: The Dimensionality Gap Between Temperature Variation and Model Diversity in LLMs",
+      "summary": "arXiv:2607.20464v1 Announce Type: new \nAbstract: When a language model gives different answers on repeated runs, does that variation reveal what it does not know? Self-consistency turns the variation into a per-question uncertainty estimate via majority voting. But does the same variation reveal cro",
+      "url": "https://arxiv.org/abs/2607.20464",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.20452"
+        },
+        {
+          "title": "pAI-Econ-claude: A Gated Human-in-the-Loop Multi-Agent Architecture for AI-Assisted Economic Theory Development",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.21268"
+        },
+        {
+          "title": "ChannelGuard: Safe Models Do Not Compose into Safe Multi-Agent Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.19430"
+        },
+        {
+          "title": "Human-in-the-Loop Large Language Model Framework for Identification of Cutaneous Immune-Related Adverse Events",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.20428"
+        },
+        {
+          "title": "Workload-Aware Caching for Multi-Agent Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.20495"
+        },
+        {
+          "title": "MKEvolve: A Modular Multi-Agent Framework for Kernel Code Generation",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.20501"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": []
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Show HN: Deep Skill Finder – Find agent skills using real execution benchmarks",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://www.meyo.life/skill"
+        },
+        {
+          "title": "Harness Handbook – Making Agent Harnesses Understandable, Auditable and Editable",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://ruhan-wang.github.io/Harness-Handbook/"
+        },
+        {
+          "title": "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.20462"
+        },
+        {
+          "title": "JAXBench: Benchmarking Autonomous TPU Kernel Optimization",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.20466"
+        },
+        {
+          "title": "InferenceBench: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.20468"
+        },
+        {
+          "title": "AppWorld-UL: Benchmarking Diverse Agent-User Interactions for Tool-Use",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.20536"
+        },
+        {
+          "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "Show HN: Deep Skill Finder – Find agent skills using real execution benchmarks",
+      "summary": "Article URL: https://www.meyo.life/skill\nComments URL: https://news.ycombinator.com/item?id=49030664\nPoints: 2\n# Comments: 0",
+      "url": "https://www.meyo.life/skill",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Harness Handbook – Making Agent Harnesses Understandable, Auditable and Editable",
+      "summary": "Article URL: https://ruhan-wang.github.io/Harness-Handbook/\nComments URL: https://news.ycombinator.com/item?id=49030598\nPoints: 4\n# Comments: 0",
+      "url": "https://ruhan-wang.github.io/Harness-Handbook/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Chrysalis Zero Trust Agent Registry",
+      "summary": "Article URL: https://baursoftware.com/zero-trust/chrysalis\nComments URL: https://news.ycombinator.com/item?id=49030178\nPoints: 1\n# Comments: 0",
+      "url": "https://baursoftware.com/zero-trust/chrysalis",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: CLI Coding Agent that runs on llamafile and/or GGUF",
+      "summary": "Article URL: https://github.com/kdeps/kdeps\nComments URL: https://news.ycombinator.com/item?id=49029939\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/kdeps/kdeps",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Middleware that catches when LLM conversations slowly drift off-topic",
+      "summary": "Article URL: https://github.com/ojki74/hallucinatoff\nComments URL: https://news.ycombinator.com/item?id=49029558\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/ojki74/hallucinatoff",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "A coding agent in 5 files, plus a skeptic that catches fake fixes",
+      "summary": "Article URL: https://github.com/Saivineeth147/skeptic\nComments URL: https://news.ycombinator.com/item?id=49028712\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/Saivineeth147/skeptic",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Agent Host Protocol",
+      "summary": "Article URL: https://microsoft.github.io/agent-host-protocol/\nComments URL: https://news.ycombinator.com/item?id=49028601\nPoints: 1\n# Comments: 0",
+      "url": "https://microsoft.github.io/agent-host-protocol/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Kalytera – tells you why your AI agent failed, not just that it did",
+      "summary": "Article URL: https://kalytera.dev/\nComments URL: https://news.ycombinator.com/item?id=49028390\nPoints: 1\n# Comments: 0",
+      "url": "https://kalytera.dev/",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [
+    {
+      "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
+      "summary": "OpenAI and Hugging Face address security incident during model evaluation - https://news.ycombinator.com/item?id=48997548 - July 2026 (1121 comments)\n\nComments URL: https://news.ycombinator.com/item?id=49015639\nPoints: 426\n# Comments: 347",
+      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "research": [
+    {
+      "title": "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
+      "summary": "arXiv:2607.20452v1 Announce Type: new \nAbstract: Modern software quality assurance demands intelligent, autonomous systems capable of adaptive decision-making across distributed cloud environments. This paper presents AINTMA (Agentic Intelligent Test Management Architecture), a multi-agent agentic A",
+      "url": "https://arxiv.org/abs/2607.20452",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts",
+      "summary": "arXiv:2607.20462v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly integrated into clinical workflows, stressing the need for reliable traceability of model-generated output with watermarking. Yet, most watermarks are evaluated on general-purpose benchmarks, leaving domai",
+      "url": "https://arxiv.org/abs/2607.20462",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models",
+      "summary": "arXiv:2607.20463v1 Announce Type: new \nAbstract: This paper presents an AI-driven browser extension that identifies clickbait to help users avoid misleading Internet articles. Moving beyond traditional detection, the application employs a hybrid machine learning architecture that combines transforme",
+      "url": "https://arxiv.org/abs/2607.20463",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Stochastic Sampling is Epistemically Shallow: The Dimensionality Gap Between Temperature Variation and Model Diversity in LLMs",
+      "summary": "arXiv:2607.20464v1 Announce Type: new \nAbstract: When a language model gives different answers on repeated runs, does that variation reveal what it does not know? Self-consistency turns the variation into a per-question uncertainty estimate via majority voting. But does the same variation reveal cro",
+      "url": "https://arxiv.org/abs/2607.20464",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "JAXBench: Benchmarking Autonomous TPU Kernel Optimization",
+      "summary": "arXiv:2607.20466v1 Announce Type: new \nAbstract: Rigorous benchmarks have driven progress in autonomous GPU kernel performance optimization by establishing a shared target to hillclimb on, but no equivalent exists for TPUs. We present JAXBench, a TPU-native benchmark suite for AI-generated kernel op",
+      "url": "https://arxiv.org/abs/2607.20466",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "DC-Leap: Training-Free Acceleration of dLLMs via Draft-Guided Contiguous Leaping Decoding",
+      "summary": "arXiv:2607.20467v1 Announce Type: new \nAbstract: While parallel decoding is central to the efficiency of Diffusion Large Language Models (dLLMs), current strategies are often hindered by overly conservative confidence thresholds. These thresholds, necessitated by the Joint Probability Dependence Err",
+      "url": "https://arxiv.org/abs/2607.20467",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "InferenceBench: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents",
+      "summary": "arXiv:2607.20468v1 Announce Type: new \nAbstract: AI agents are increasingly used to automate research and development tasks, yet existing benchmarks typically evaluate them on prescribed workflows or narrow action spaces. Even nominally open-ended tasks can often be solved by retrieving a well-known",
+      "url": "https://arxiv.org/abs/2607.20468",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "DecodeShare: Tracing the Shared Subspace of LLM Decode-Time Decisions",
+      "summary": "arXiv:2607.20469v1 Announce Type: new \nAbstract: Large language models (LLMs) handle many tasks with one set of parameters, but under KV-cached inference it is unclear what task-general structure, if any, is used at decode time rather than during prefill. We propose DecodeShare, a protocol that iden",
+      "url": "https://arxiv.org/abs/2607.20469",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "pAI-Econ-claude: A Gated Human-in-the-Loop Multi-Agent Architecture for AI-Assisted Economic Theory Development",
+      "summary": "arXiv:2607.21268v1 Announce Type: new \nAbstract: In many social-science research tasks, such as economics, LLM-based agents must produce outputs for which no cheap, task-complete, machine-readable correctness signal exists. This creates a distinctive reliability problem for multi-agent systems: how",
+      "url": "https://arxiv.org/abs/2607.21268",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "FedAgentKE: Federated Semantic Knowledge Evolution for Heterogeneous Agents",
+      "summary": "arXiv:2607.21361v1 Announce Type: new \nAbstract: Large language model (LLM)-based agents increasingly rely on reasoning, tool use, and iterative execution, yet existing agent frameworks still operate largely in isolation. While recent memory-based agent systems improve individual agents through loca",
+      "url": "https://arxiv.org/abs/2607.21361",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "ChannelGuard: Safe Models Do Not Compose into Safe Multi-Agent Systems",
+      "summary": "arXiv:2607.19430v1 Announce Type: cross \nAbstract: Multi-agent LLM applications chain a planner, worker agents, a verifier, and a synthesizer, and every hop between agents is an unmonitored channel through which an adversary can smuggle instructions. Existing defenses guard only the input boundary (",
+      "url": "https://arxiv.org/abs/2607.19430",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Human-in-the-Loop Large Language Model Framework for Identification of Cutaneous Immune-Related Adverse Events",
+      "summary": "arXiv:2607.20428v1 Announce Type: cross \nAbstract: This study evaluated a retrieval-augmented, multi-agent large language model (LLM)-driven, human-in-the-loop framework for detecting cutaneous immune-related adverse events (cirAEs) from clinical notes. Compared with unassisted manual review, the LL",
+      "url": "https://arxiv.org/abs/2607.20428",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Workload-Aware Caching for Multi-Agent Systems",
+      "summary": "arXiv:2607.20495v1 Announce Type: cross \nAbstract: Multi-agent systems decompose complex tasks into directed acyclic graphs (DAGs) of specialized agent executions, creating natural opportunities for caching intermediate results across queries. However, existing cache eviction policies treat all cach",
+      "url": "https://arxiv.org/abs/2607.20495",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "MKEvolve: A Modular Multi-Agent Framework for Kernel Code Generation",
+      "summary": "arXiv:2607.20501v1 Announce Type: cross \nAbstract: Despite rapid progress in LLM-based code generation, writing correct and performant kernels for hardware accelerators remains a key bottleneck in scaling modern ML workloads. We present MKEvolve (Modular Kernel Evolve), a framework that iteratively",
+      "url": "https://arxiv.org/abs/2607.20501",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "AppWorld-UL: Benchmarking Diverse Agent-User Interactions for Tool-Use",
+      "summary": "arXiv:2607.20536v1 Announce Type: cross \nAbstract: Tool-use agents that address day-to-day digital tasks such as ordering groceries must not only operate applications, but also interact with the user, e.g., to ask clarification questions, prompt for confirmation, and inform the user when the instruc",
+      "url": "https://arxiv.org/abs/2607.20536",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Bayesian uncertainty estimation improves clinical decision making in medical AI agents",
+      "summary": "arXiv:2607.20582v1 Announce Type: cross \nAbstract: Machine learning models for medical image analysis typically lack a reliable measure of confidence, limiting their use in ambiguous or atypical cases. Here we show that Monte Carlo dropout, applied to a multi-task chest-radiograph classifier (eight",
+      "url": "https://arxiv.org/abs/2607.20582",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
