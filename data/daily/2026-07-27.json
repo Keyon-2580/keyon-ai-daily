@@ -1,0 +1,276 @@
+{
+  "date": "2026-07-27",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-07-27 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "'Skynet Day' is now shorthand for OpenAI's agent going rogue",
+      "summary": "Article URL: https://fortune.com/2026/07/26/james-cameron-terminator-skynet-day-openai-ai-agent-hack-hugging-face/\nComments URL: https://news.ycombinator.com/item?id=49064713\nPoints: 2\n# Comments: 0",
+      "url": "https://fortune.com/2026/07/26/james-cameron-terminator-skynet-day-openai-ai-agent-hack-hugging-face/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Read what your remote agent wrote (Markdown/image) from Mac menu bar",
+      "summary": "I posted v1 of this app here and got great feedbacks (SSH port forwarding).Since then I added a 2nd part I now use a lot too: remote file browsing and markdown preview, without scp or a mount.When codex/claude prints a path to file, i can now paste it into the menu bar, and the markdown/images just",
+      "url": "https://lx2026.github.io/RelayBar/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "The Model Writes, the Judge Measures: Anatomy of an LLM Judge",
+      "summary": "Article URL: https://xinfer.ai/home/md/the-model-writes-the-judge-measures\nComments URL: https://news.ycombinator.com/item?id=49064396\nPoints: 1\n# Comments: 1",
+      "url": "https://xinfer.ai/home/md/the-model-writes-the-judge-measures",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: How I built a debugging tool, and the agent, using it, found bugs in it",
+      "summary": "This story might never have happened, even though I'd been carrying the idea for a debugger for a long time. There was no trigger. But one day a trigger appeared that was strong enough that I set the project aside to build the debugger and never suffer like that again.A bit of backstory: I'm buildi",
+      "url": "https://news.ycombinator.com/item?id=49064283",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Reliability-Contagion Feasibility in LLM Multi-Agent Networks",
+      "summary": "arXiv:2607.21912v1 Announce Type: new \nAbstract: Communication allows large language model agents to pool evidence, but it also creates paths along which an erroneous claim can spread. We formulate a correction-aware network model that tracks susceptible, exposed, infectious, and corrected agents an",
+      "url": "https://arxiv.org/abs/2607.21912",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "When Language Models Meet NeuroGraphs: Exploring Enhanced Agentic LLM Framework Towards Brain Network Analysis",
+      "summary": "arXiv:2607.22082v1 Announce Type: new \nAbstract: Brain network analysis is crucial for understanding cognition and neurological disorders, yet existing deep learning methods mainly treat connectome analysis as a graph-to-logit classification problem, offering limited explanatory reasoning. Large lan",
+      "url": "https://arxiv.org/abs/2607.22082",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Draining the Energy Commons: Self-Defeating Over-Appropriation as a Coordination Failure in Agentic LLM Collectives",
+      "summary": "arXiv:2607.22188v1 Announce Type: new \nAbstract: LLMs are increasingly deployed as agents that plan, use tools, and act over time. When they share persistent resources, such as compute pools or energy reserves, decisions by one agent affect the conditions faced by later agents. We study this coordin",
+      "url": "https://arxiv.org/abs/2607.22188",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Where FactsGo Missing: A LayerwiseTaxonomy and Per-Layer Attribution of Information Omissionin Air-Gapped LLM Agent Pipelines",
+      "summary": "arXiv:2607.22448v1 Announce Type: new \nAbstract: Air-gapped and on-premises deployments in regulated settings (clinical FHIR services, legal review, sovereign infrastructure) cannot call frontier APIs; they run quantized 4-8B models via llama.cpp or vLLM behind tool servers. The dominant reliability",
+      "url": "https://arxiv.org/abs/2607.22448",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Reliability-Contagion Feasibility in LLM Multi-Agent Networks",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.21912"
+        },
+        {
+          "title": "Predictive Lightweight MARL for Resilient Coverage in Sparse-Signaling Aerial Networks",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.22109"
+        },
+        {
+          "title": "Embodiment-Induced Coordination Regimes in Tabular Multi-Agent Q-Learning",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2601.17454"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "When Language Models Meet NeuroGraphs: Exploring Enhanced Agentic LLM Framework Towards Brain Network Analysis",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.22082"
+        },
+        {
+          "title": "Draining the Energy Commons: Self-Defeating Over-Appropriation as a Coordination Failure in Agentic LLM Collectives",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.22188"
+        },
+        {
+          "title": "TRACE-ROUTER: Task-Consistent and Adaptive Online Routing for Agentic AI",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.22465"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": []
+    }
+  ],
+  "oss": [
+    {
+      "title": "'Skynet Day' is now shorthand for OpenAI's agent going rogue",
+      "summary": "Article URL: https://fortune.com/2026/07/26/james-cameron-terminator-skynet-day-openai-ai-agent-hack-hugging-face/\nComments URL: https://news.ycombinator.com/item?id=49064713\nPoints: 2\n# Comments: 0",
+      "url": "https://fortune.com/2026/07/26/james-cameron-terminator-skynet-day-openai-ai-agent-hack-hugging-face/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Read what your remote agent wrote (Markdown/image) from Mac menu bar",
+      "summary": "I posted v1 of this app here and got great feedbacks (SSH port forwarding).Since then I added a 2nd part I now use a lot too: remote file browsing and markdown preview, without scp or a mount.When codex/claude prints a path to file, i can now paste it into the menu bar, and the markdown/images just",
+      "url": "https://lx2026.github.io/RelayBar/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "The Model Writes, the Judge Measures: Anatomy of an LLM Judge",
+      "summary": "Article URL: https://xinfer.ai/home/md/the-model-writes-the-judge-measures\nComments URL: https://news.ycombinator.com/item?id=49064396\nPoints: 1\n# Comments: 1",
+      "url": "https://xinfer.ai/home/md/the-model-writes-the-judge-measures",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: How I built a debugging tool, and the agent, using it, found bugs in it",
+      "summary": "This story might never have happened, even though I'd been carrying the idea for a debugger for a long time. There was no trigger. But one day a trigger appeared that was strong enough that I set the project aside to build the debugger and never suffer like that again.A bit of backstory: I'm buildi",
+      "url": "https://news.ycombinator.com/item?id=49064283",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Shepherd Model Gateway – Model-routing gateway for LLM deployments",
+      "summary": "Article URL: https://github.com/lightseekorg/smg\nComments URL: https://news.ycombinator.com/item?id=49063132\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/lightseekorg/smg",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "So-called 'Skynet Day' came too close to SF after rogue agent hacked a startup",
+      "summary": "Article URL: https://apnews.com/article/skynet-ai-terminator-artificial-intelligence-eb85da03a0161beaa5f3babc4331e93b\nComments URL: https://news.ycombinator.com/item?id=49063016\nPoints: 4\n# Comments: 0",
+      "url": "https://apnews.com/article/skynet-ai-terminator-artificial-intelligence-eb85da03a0161beaa5f3babc4331e93b",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: LX Coreutils – pipeable tools enhanced by small local / cheap LLM calls",
+      "summary": "Written in rust.\n\nComments URL: https://news.ycombinator.com/item?id=49062416\nPoints: 1\n# Comments: 1",
+      "url": "https://github.com/BrunkenClaas/lx",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "LLM Cliche Highlighter",
+      "summary": "Article URL: https://tools.simonwillison.net/llm-cliche-highlighter\nComments URL: https://news.ycombinator.com/item?id=49061434\nPoints: 3\n# Comments: 0",
+      "url": "https://tools.simonwillison.net/llm-cliche-highlighter",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "Reliability-Contagion Feasibility in LLM Multi-Agent Networks",
+      "summary": "arXiv:2607.21912v1 Announce Type: new \nAbstract: Communication allows large language model agents to pool evidence, but it also creates paths along which an erroneous claim can spread. We formulate a correction-aware network model that tracks susceptible, exposed, infectious, and corrected agents an",
+      "url": "https://arxiv.org/abs/2607.21912",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "When Language Models Meet NeuroGraphs: Exploring Enhanced Agentic LLM Framework Towards Brain Network Analysis",
+      "summary": "arXiv:2607.22082v1 Announce Type: new \nAbstract: Brain network analysis is crucial for understanding cognition and neurological disorders, yet existing deep learning methods mainly treat connectome analysis as a graph-to-logit classification problem, offering limited explanatory reasoning. Large lan",
+      "url": "https://arxiv.org/abs/2607.22082",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Draining the Energy Commons: Self-Defeating Over-Appropriation as a Coordination Failure in Agentic LLM Collectives",
+      "summary": "arXiv:2607.22188v1 Announce Type: new \nAbstract: LLMs are increasingly deployed as agents that plan, use tools, and act over time. When they share persistent resources, such as compute pools or energy reserves, decisions by one agent affect the conditions faced by later agents. We study this coordin",
+      "url": "https://arxiv.org/abs/2607.22188",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Where FactsGo Missing: A LayerwiseTaxonomy and Per-Layer Attribution of Information Omissionin Air-Gapped LLM Agent Pipelines",
+      "summary": "arXiv:2607.22448v1 Announce Type: new \nAbstract: Air-gapped and on-premises deployments in regulated settings (clinical FHIR services, legal review, sovereign infrastructure) cannot call frontier APIs; they run quantized 4-8B models via llama.cpp or vLLM behind tool servers. The dominant reliability",
+      "url": "https://arxiv.org/abs/2607.22448",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Equilibrium Causal Digital Twins: Validation, Transport, and Identification Limits",
+      "summary": "arXiv:2607.21667v1 Announce Type: cross \nAbstract: Digital twins are often used to predict how a system would respond to an intervention. In systems with feedback, a twin must reproduce an equilibrium counterfactual, and a twin developed in one domain may fail after mechanisms change. We study when",
+      "url": "https://arxiv.org/abs/2607.21667",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Predictive Lightweight MARL for Resilient Coverage in Sparse-Signaling Aerial Networks",
+      "summary": "arXiv:2607.22109v1 Announce Type: cross \nAbstract: This letter proposes the Predictive Lightweight Multi-Agent Reinforcement Learning (PL-MARL) framework to ensure resilient coverage in bandwidth-constrained UAV swarms. To counter coordination collapse caused by sparse signaling and information agin",
+      "url": "https://arxiv.org/abs/2607.22109",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "TRACE-ROUTER: Task-Consistent and Adaptive Online Routing for Agentic AI",
+      "summary": "arXiv:2607.22465v1 Announce Type: cross \nAbstract: Routing to select large language models (LLMs) with different cost-quality trade-offs has become a fundamental deployment feature of enterprise AI. Existing routers, primarily make independent routing decisions for each LLM call. However, agentic ap",
+      "url": "https://arxiv.org/abs/2607.22465",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Embodiment-Induced Coordination Regimes in Tabular Multi-Agent Q-Learning",
+      "summary": "arXiv:2601.17454v2 Announce Type: replace \nAbstract: Centralized value learning underlies a broad class of multi-agent reinforcement learning methods, but its claimed advantage is typically evaluated in settings that confound coordination structure with function approximation and partial observabili",
+      "url": "https://arxiv.org/abs/2601.17454",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
