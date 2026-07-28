@@ -1,0 +1,375 @@
+{
+  "date": "2026-07-28",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-07-28 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Architecting Persistent Memory for Multi-Agent System [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=lw52w7Pw86M\\\nComments URL: https://news.ycombinator.com/item?id=49078958\nPoints: 2\n# Comments: 0",
+      "url": "https://www.youtube.com/watch?v=lw52w7Pw86M\\",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: SeaTicket – AI agent that resolve GitHub and Discord issues",
+      "summary": "https://seaticket.ai/After maintaining Seafile, open-source file-sync software, since 2012. Somewhere across those fourteen years, \"go check if someone already reported this\" turned into one of the most common lines in our team chat. Because the same bug tended to show up multiple times. Nothing co",
+      "url": "https://news.ycombinator.com/item?id=49078625",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: RL bandits pick coding agent's context,Grok 4.5 out-fixes Fable 5",
+      "summary": "Article URL: https://github.com/VinvAI/VinvAI\nComments URL: https://news.ycombinator.com/item?id=49078217\nPoints: 3\n# Comments: 0",
+      "url": "https://github.com/VinvAI/VinvAI",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Don't ask an LLM for a confidence score",
+      "summary": "Article URL: https://justinflick.com/2026/07/27/llm-confidence-scores.html\nComments URL: https://news.ycombinator.com/item?id=49077443\nPoints: 9\n# Comments: 0",
+      "url": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Concept-based Visual Counterfactual Explanations with Diffusion Models",
+      "summary": "arXiv:2607.22544v1 Announce Type: new \nAbstract: Visual counterfactual explanations aim to answer \"what minimal change to this image would flip the model's prediction?\", and are increasingly important as vision models are deployed in safety-critical domains (e.g., medicine). Existing diffusion-based",
+      "url": "https://arxiv.org/abs/2607.22544",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "SeT-Diff: Towards Semantic Foundation Models for HPC Telemetry and Time-Series",
+      "summary": "arXiv:2607.22548v1 Announce Type: new \nAbstract: Data centers and their compute nodes require accurate and flexible digital twins capable of modeling the complex interplay of workloads, environmental parameters, and physical metrics. Current machine learning approaches for HPC and its telemetry typi",
+      "url": "https://arxiv.org/abs/2607.22548",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "QFoldAgent: An Autonomous Quantum Optimization Multi-Agent System for Protein Structure Prediction",
+      "summary": "arXiv:2607.22549v1 Announce Type: new \nAbstract: Hybrid quantum-classical protein structure prediction depends strongly on Hamiltonian penalty weights, yet existing lattice-based workflows typically fix these coefficients by hand and evaluate only very short fragments in simulation. We present QFold",
+      "url": "https://arxiv.org/abs/2607.22549",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Same Question, Different Answers: Evaluating LLM Reliability Beyond Accuracy",
+      "summary": "arXiv:2607.22554v1 Announce Type: new \nAbstract: Large language models (LLMs) often achieve strong accuracy on benchmarks, yet it remains unclear how reliably they apply this knowledge when the same question is phrased in different but equivalent ways. In this work, we study how model answers change",
+      "url": "https://arxiv.org/abs/2607.22554",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Architecting Persistent Memory for Multi-Agent System [video]",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://www.youtube.com/watch?v=lw52w7Pw86M\\"
+        },
+        {
+          "title": "QFoldAgent: An Autonomous Quantum Optimization Multi-Agent System for Protein Structure Prediction",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.22549"
+        },
+        {
+          "title": "Spectral Dynamics of Semantic Drift in Clinical Multi-Agent Language Model Networks",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.22758"
+        },
+        {
+          "title": "A Comparative Study of MCP and A2A for Inter-Agent Coordination in LLM-Based Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.23884"
+        },
+        {
+          "title": "Moral Hazard in Multi-Agent Language Models",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.23982"
+        },
+        {
+          "title": "Decentralised Consensus Learning Networks: SME Rotation Without Centralised Reward",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.24416"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "DeepLens Diagnosis Agent: Agentic Workflow Design Lets a Small Reasoning Model Compete with Frontier LLMs",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.22555"
+        },
+        {
+          "title": "Decentralized Granular Access Control for Agentic AI Systems in Critical Infrastructure",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.22611"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Measured LLM inference speeds on Apple Silicon, with raw data (CC BY 4.0)",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://macyou.co/benchmarks"
+        },
+        {
+          "title": "Show HN: Ami – A local, open-source agent that does your busywork across apps",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://github.com/NanoNets/ami"
+        },
+        {
+          "title": "Same Question, Different Answers: Evaluating LLM Reliability Beyond Accuracy",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.22554"
+        },
+        {
+          "title": "Codifying the Judge: Scalable Evaluation via Program Distillation",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.22561"
+        },
+        {
+          "title": "MulRobBench: A Decision-Level Benchmark for Safe and Security-Policy-Compliant Multimodal UAV Agents",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.23870"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "Architecting Persistent Memory for Multi-Agent System [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=lw52w7Pw86M\\\nComments URL: https://news.ycombinator.com/item?id=49078958\nPoints: 2\n# Comments: 0",
+      "url": "https://www.youtube.com/watch?v=lw52w7Pw86M\\",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: SeaTicket – AI agent that resolve GitHub and Discord issues",
+      "summary": "https://seaticket.ai/After maintaining Seafile, open-source file-sync software, since 2012. Somewhere across those fourteen years, \"go check if someone already reported this\" turned into one of the most common lines in our team chat. Because the same bug tended to show up multiple times. Nothing co",
+      "url": "https://news.ycombinator.com/item?id=49078625",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: RL bandits pick coding agent's context,Grok 4.5 out-fixes Fable 5",
+      "summary": "Article URL: https://github.com/VinvAI/VinvAI\nComments URL: https://news.ycombinator.com/item?id=49078217\nPoints: 3\n# Comments: 0",
+      "url": "https://github.com/VinvAI/VinvAI",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Don't ask an LLM for a confidence score",
+      "summary": "Article URL: https://justinflick.com/2026/07/27/llm-confidence-scores.html\nComments URL: https://news.ycombinator.com/item?id=49077443\nPoints: 9\n# Comments: 0",
+      "url": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Measured LLM inference speeds on Apple Silicon, with raw data (CC BY 4.0)",
+      "summary": "Article URL: https://macyou.co/benchmarks\nComments URL: https://news.ycombinator.com/item?id=49077193\nPoints: 6\n# Comments: 0",
+      "url": "https://macyou.co/benchmarks",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Manage Your Agent's Loadout with Dr Skill",
+      "summary": "Article URL: https://www.dbreunig.com/2026/07/24/manage-your-agent-s-loadout-with-dr-skill.html\nComments URL: https://news.ycombinator.com/item?id=49077030\nPoints: 2\n# Comments: 0",
+      "url": "https://www.dbreunig.com/2026/07/24/manage-your-agent-s-loadout-with-dr-skill.html",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: Ami – A local, open-source agent that does your busywork across apps",
+      "summary": "Hey everybody, sharing Ami on HN today.Ami is an open source, local-first agent harness that acts as your shadow worker and copilot chat. It ships with a graph memory.Here's what Ami does on its own -- connects to apps, data, repositories, tools with your personal tokens- Learns how you do tasks (e",
+      "url": "https://github.com/NanoNets/ami",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Distributing LLM Inference in DwarfStar",
+      "summary": "Article URL: https://antirez.com/news/167\nComments URL: https://news.ycombinator.com/item?id=49075625\nPoints: 2\n# Comments: 0",
+      "url": "https://antirez.com/news/167",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "Concept-based Visual Counterfactual Explanations with Diffusion Models",
+      "summary": "arXiv:2607.22544v1 Announce Type: new \nAbstract: Visual counterfactual explanations aim to answer \"what minimal change to this image would flip the model's prediction?\", and are increasingly important as vision models are deployed in safety-critical domains (e.g., medicine). Existing diffusion-based",
+      "url": "https://arxiv.org/abs/2607.22544",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "SeT-Diff: Towards Semantic Foundation Models for HPC Telemetry and Time-Series",
+      "summary": "arXiv:2607.22548v1 Announce Type: new \nAbstract: Data centers and their compute nodes require accurate and flexible digital twins capable of modeling the complex interplay of workloads, environmental parameters, and physical metrics. Current machine learning approaches for HPC and its telemetry typi",
+      "url": "https://arxiv.org/abs/2607.22548",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "QFoldAgent: An Autonomous Quantum Optimization Multi-Agent System for Protein Structure Prediction",
+      "summary": "arXiv:2607.22549v1 Announce Type: new \nAbstract: Hybrid quantum-classical protein structure prediction depends strongly on Hamiltonian penalty weights, yet existing lattice-based workflows typically fix these coefficients by hand and evaluate only very short fragments in simulation. We present QFold",
+      "url": "https://arxiv.org/abs/2607.22549",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Same Question, Different Answers: Evaluating LLM Reliability Beyond Accuracy",
+      "summary": "arXiv:2607.22554v1 Announce Type: new \nAbstract: Large language models (LLMs) often achieve strong accuracy on benchmarks, yet it remains unclear how reliably they apply this knowledge when the same question is phrased in different but equivalent ways. In this work, we study how model answers change",
+      "url": "https://arxiv.org/abs/2607.22554",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "DeepLens Diagnosis Agent: Agentic Workflow Design Lets a Small Reasoning Model Compete with Frontier LLMs",
+      "summary": "arXiv:2607.22555v1 Announce Type: new \nAbstract: Medical diagnosis is a multi-stage process: extract facts, consult knowledge, generate a differential analysis, and select the best diagnosis with explanations. Frontier LLMs are strong generalists, but single-shot prompting often yields brittle diagn",
+      "url": "https://arxiv.org/abs/2607.22555",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "MIITA: Memory-Induced Inference-Time Adaptation for Continual Learning with Small Language Models",
+      "summary": "arXiv:2607.22556v1 Announce Type: new \nAbstract: Continual learning (CL) is essential for small language models (SLMs) to adapt to evolving real-world needs in resource-constrained deployments. However, directly updating their limited parameter space causes catastrophic forgetting. While memory-base",
+      "url": "https://arxiv.org/abs/2607.22556",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Codifying the Judge: Scalable Evaluation via Program Distillation",
+      "summary": "arXiv:2607.22561v1 Announce Type: new \nAbstract: LLM-as-a-judge has become the standard for automated evaluation, but it suffers from high cost, significant latency, and opaque decisions -- limitations that undermine its scalability and reliability. We address these with a simple, efficient alternat",
+      "url": "https://arxiv.org/abs/2607.22561",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "SF-AMS: Strategic Forgetting for Structured Memory in LLM Agent",
+      "summary": "arXiv:2607.22562v1 Announce Type: new \nAbstract: Managing long-context dependencies remains a primary bottleneck in LLM agents, as redundant and irrelevant information can degrade multi-step reasoning. Strategic Forgetting for Agent Memory Systems (SF-AMS) is proposed as a framework for maintaining",
+      "url": "https://arxiv.org/abs/2607.22562",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Spectral Dynamics of Semantic Drift in Clinical Multi-Agent Language Model Networks",
+      "summary": "arXiv:2607.22758v1 Announce Type: new \nAbstract: The integration of iterative LLMs within multi-agent diagnostic frameworks requires a rigorous quantitative reevaluation of underlying communication topologies. Frequently used architectural paradigms depend on scale-free or small-world networks, assu",
+      "url": "https://arxiv.org/abs/2607.22758",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Emergent Behaviour in Financial Markets",
+      "summary": "arXiv:2607.23311v1 Announce Type: new \nAbstract: Some properties of so-called complex or collective systems can be observed to emerge from the interactions of elementary agents. This phenomenon, known as emergent behaviour, has long since been studied in the most diverse disciplines, with recent gro",
+      "url": "https://arxiv.org/abs/2607.23311",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "MulRobBench: A Decision-Level Benchmark for Safe and Security-Policy-Compliant Multimodal UAV Agents",
+      "summary": "arXiv:2607.23870v1 Announce Type: new \nAbstract: Smart-city airspace is transforming Uncrewed Aerial Vehicles (UAVs) from passive sensing platforms into cyber-physical decision makers that must follow operational rules under degraded observations and ambiguous language. Existing UAV and multimodal b",
+      "url": "https://arxiv.org/abs/2607.23870",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "A Comparative Study of MCP and A2A for Inter-Agent Coordination in LLM-Based Systems",
+      "summary": "arXiv:2607.23884v1 Announce Type: new \nAbstract: Recent industry practice has seen the rapid emergence of agentic systems composed of heterogeneous, tool- and LLM-mediated agent components, raising practical questions about inter-agent coordination and protocol design. This paper presents an impleme",
+      "url": "https://arxiv.org/abs/2607.23884",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Moral Hazard in Multi-Agent Language Models",
+      "summary": "arXiv:2607.23982v1 Announce Type: new \nAbstract: Cooperation can fail when socially valuable effort is costly, weakly observable, and mainly benefits others. Drawing on Holmstr\\\"om's team moral-hazard model, we introduce the Dialogue Moral Hazard Game, a controlled textual game that operationalizes",
+      "url": "https://arxiv.org/abs/2607.23982",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Decentralised Consensus Learning Networks: SME Rotation Without Centralised Reward",
+      "summary": "arXiv:2607.24416v1 Announce Type: new \nAbstract: Centralised reward signals dominate modern AI learning systems, but they impose a single external definition of correct or valuable knowledge. We present a decentralised, consensus-based multi-agent learning framework in which expertise emerges throug",
+      "url": "https://arxiv.org/abs/2607.24416",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Lexical discovery in unknown environments orchestrated by Large Language Models",
+      "summary": "arXiv:2607.22591v1 Announce Type: cross \nAbstract: Populations of autonomous agents deployed in unknown environments (e.g. planetary or deep-sea exploration) must develop shared vocabularies to refer to entities that have no name in any human language. We propose the Neuro-Symbolic Lexical Discovery",
+      "url": "https://arxiv.org/abs/2607.22591",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Decentralized Granular Access Control for Agentic AI Systems in Critical Infrastructure",
+      "summary": "arXiv:2607.22611v1 Announce Type: cross \nAbstract: The deployment of autonomous AI agents in production infrastructure introduces fundamental security challenges that traditional role-based access control (RBAC) models cannot address. Unlike deterministic automation, AI agents exhibit stochastic beh",
+      "url": "https://arxiv.org/abs/2607.22611",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
