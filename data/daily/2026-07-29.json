@@ -1,0 +1,377 @@
+{
+  "date": "2026-07-29",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-07-29 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Show HN: TrueDeck – open-source multi-agent terminal deck that abstracts memory",
+      "summary": "For the past year I've been using VScode as my terminal space, however with the constant friction of reopening sessions, managing different projects, and re-explaining context so agents stayed useful.TrueDesk was my answer.Of course aside from it being open source: Real CLIs side by side, multi-pan",
+      "url": "https://github.com/WutIsHummus/TrueDeck",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Marble – a model-agnostic agent harness for life sciences",
+      "summary": "Article URL: https://marble.glass.bio/\nComments URL: https://news.ycombinator.com/item?id=49092032\nPoints: 3\n# Comments: 0",
+      "url": "https://marble.glass.bio/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Anatomy of a frontier lab agent intrusion, replayed from 17,600 logged actions",
+      "summary": "Article URL: https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html\nComments URL: https://news.ycombinator.com/item?id=49091876\nPoints: 2\n# Comments: 0",
+      "url": "https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Agenthound – Offensive security framework for AI agent infrastructure",
+      "summary": "Article URL: https://github.com/adithyan-ak/agenthound\nComments URL: https://news.ycombinator.com/item?id=49091338\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/adithyan-ak/agenthound",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Do Models Fake Alignment Without Clear Consequences?",
+      "summary": "arXiv:2607.24758v1 Announce Type: new \nAbstract: Large language models are capable of recognizing evaluation contexts and altering their behavior to reflect evaluator expectations rather than typical deployment behaviors, a phenomenon known as alignment faking. The reasons why models fake alignment",
+      "url": "https://arxiv.org/abs/2607.24758",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
+      "summary": "arXiv:2607.24759v1 Announce Type: new \nAbstract: Research projects, educational efforts, and adjacent knowledge work accumulate findings, decisions, and reasoning that future collaborators rarely recover. The parts most useful to that work, including dead ends and walked-back claims, are routinely e",
+      "url": "https://arxiv.org/abs/2607.24759",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
+      "summary": "arXiv:2607.24762v1 Announce Type: new \nAbstract: Machine learning models are increasingly embedded in everyday software, and most of their runtime is spent in a small set of compute kernels such as matrix multiplication, convolution, and normalization. Optimizing these kernels is one of the most dir",
+      "url": "https://arxiv.org/abs/2607.24762",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models",
+      "summary": "arXiv:2607.24763v1 Announce Type: new \nAbstract: Masked diffusion language models (MDLMs) are advancing rapidly, yet the evaluation standards needed to reliably interpret their progress have not kept pace. Despite MDLMs becoming competitive with autoregressive language models, seven recent remasking",
+      "url": "https://arxiv.org/abs/2607.24763",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Show HN: TrueDeck – open-source multi-agent terminal deck that abstracts memory",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://github.com/WutIsHummus/TrueDeck"
+        },
+        {
+          "title": "SafeFlow: Semantic Information-Flow Control for Blocking Malicious Propagation in Multi-Agent Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.25255"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "Agentic AI-enabled discovery across large-scale sleep physiology",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.25175"
+        },
+        {
+          "title": "ARCHER: Agentic Rule and Compliance Harness for Executable Regulations",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.25566"
+        },
+        {
+          "title": "Towards a Systems Foundation for Agentic Cloud Management",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.25883"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Marble – a model-agnostic agent harness for life sciences",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://marble.glass.bio/"
+        },
+        {
+          "title": "Do Models Fake Alignment Without Clear Consequences?",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.24758"
+        },
+        {
+          "title": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.24762"
+        },
+        {
+          "title": "CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.24763"
+        },
+        {
+          "title": "CHILL-Harness: Counterfactual Harness Learning for Efficient Reasoning in Long-Horizon Agents",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.25825"
+        },
+        {
+          "title": "Aethel: A Reproducible Graph-Retrieval Framework for Multi-Hop Financial Diligence",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.24826"
+        },
+        {
+          "title": "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://github.com/jagg-ix/zil-lean"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "Show HN: TrueDeck – open-source multi-agent terminal deck that abstracts memory",
+      "summary": "For the past year I've been using VScode as my terminal space, however with the constant friction of reopening sessions, managing different projects, and re-explaining context so agents stayed useful.TrueDesk was my answer.Of course aside from it being open source: Real CLIs side by side, multi-pan",
+      "url": "https://github.com/WutIsHummus/TrueDeck",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Marble – a model-agnostic agent harness for life sciences",
+      "summary": "Article URL: https://marble.glass.bio/\nComments URL: https://news.ycombinator.com/item?id=49092032\nPoints: 3\n# Comments: 0",
+      "url": "https://marble.glass.bio/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Anatomy of a frontier lab agent intrusion, replayed from 17,600 logged actions",
+      "summary": "Article URL: https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html\nComments URL: https://news.ycombinator.com/item?id=49091876\nPoints: 2\n# Comments: 0",
+      "url": "https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Agenthound – Offensive security framework for AI agent infrastructure",
+      "summary": "Article URL: https://github.com/adithyan-ak/agenthound\nComments URL: https://news.ycombinator.com/item?id=49091338\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/adithyan-ak/agenthound",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Magpie, a CLI to Turn Your AI Agent into a Bookkeeper",
+      "summary": "Hi HN,Annoucing the release of Magpie, a CLI tool which turns your AI agent into an expert bookkeeper, based on Jaybase. (https://news.ycombinator.com/item?id=48999936)As someone who owns a small, tech business, I have very simple books. somewhere between 10-30 transactions a month, a few depreciat",
+      "url": "https://github.com/kyle-visner/magpie",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+      "summary": "Article URL: https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/\nComments URL: https://news.ycombinator.com/item?id=49090975\nPoints: 5\n# Comments: 2",
+      "url": "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "OpenAI Rogue Agent Hacked Account at Modal, Reuters Says",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-07-28/openai-rogue-agent-hacked-account-at-a-second-firm-reuters-says\nComments URL: https://news.ycombinator.com/item?id=49090943\nPoints: 4\n# Comments: 1",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/openai-rogue-agent-hacked-account-at-a-second-firm-reuters-says",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "OpenAI's rogue agent compromised an account at a second tech firm",
+      "summary": "Article URL: https://www.reuters.com/business/openais-rogue-agent-compromised-an-account-second-tech-firm-sources-say-2026-07-28/\nComments URL: https://news.ycombinator.com/item?id=49090435\nPoints: 5\n# Comments: 0",
+      "url": "https://www.reuters.com/business/openais-rogue-agent-compromised-an-account-second-tech-firm-sources-say-2026-07-28/",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [
+    {
+      "title": "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
+      "summary": "Google Zanzibar datalog lang lets you describe concepts and express how they are related. I generalize it to DSL you can use on Lean4 (and other languages) this lets you represent a knowledge base you can construct, store and evaluate, have it under git and improve without big engines or relaying o",
+      "url": "https://github.com/jagg-ix/zil-lean",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "research": [
+    {
+      "title": "Do Models Fake Alignment Without Clear Consequences?",
+      "summary": "arXiv:2607.24758v1 Announce Type: new \nAbstract: Large language models are capable of recognizing evaluation contexts and altering their behavior to reflect evaluator expectations rather than typical deployment behaviors, a phenomenon known as alignment faking. The reasons why models fake alignment",
+      "url": "https://arxiv.org/abs/2607.24758",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
+      "summary": "arXiv:2607.24759v1 Announce Type: new \nAbstract: Research projects, educational efforts, and adjacent knowledge work accumulate findings, decisions, and reasoning that future collaborators rarely recover. The parts most useful to that work, including dead ends and walked-back claims, are routinely e",
+      "url": "https://arxiv.org/abs/2607.24759",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
+      "summary": "arXiv:2607.24762v1 Announce Type: new \nAbstract: Machine learning models are increasingly embedded in everyday software, and most of their runtime is spent in a small set of compute kernels such as matrix multiplication, convolution, and normalization. Optimizing these kernels is one of the most dir",
+      "url": "https://arxiv.org/abs/2607.24762",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models",
+      "summary": "arXiv:2607.24763v1 Announce Type: new \nAbstract: Masked diffusion language models (MDLMs) are advancing rapidly, yet the evaluation standards needed to reliably interpret their progress have not kept pace. Despite MDLMs becoming competitive with autoregressive language models, seven recent remasking",
+      "url": "https://arxiv.org/abs/2607.24763",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models",
+      "summary": "arXiv:2607.24764v1 Announce Type: new \nAbstract: The rapid growth of online grocery shopping requires recommendation systems that capture cyclical purchasing behavior and diverse user intents. Traditional item-level methods face scalability and accuracy challenges, motivating category-level recommen",
+      "url": "https://arxiv.org/abs/2607.24764",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Crystalis: Progressive Nucleation and Semantic Annealing for Coordinated Multi-View Visualization Generation",
+      "summary": "arXiv:2607.24766v1 Announce Type: new \nAbstract: Large language models (LLMs) can generate individual charts, but coordinated multi-view visualizations (CMVs), where views share data flows and cross-view interactions, remain out of reach. Tight field-level coupling among data transformations, visual",
+      "url": "https://arxiv.org/abs/2607.24766",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "PATHFinder Agent for Tailored Prenatal Care",
+      "summary": "arXiv:2607.24768v1 Announce Type: new \nAbstract: Prenatal care is an important preventive service designed to improve outcomes for pregnant individuals. The American College of Obstetricians and Gynecologists (ACOG) recently introduced guidelines advocating tailored prenatal care, called PATH (Plan",
+      "url": "https://arxiv.org/abs/2607.24768",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "LLM Scheming Inversely Scales with Pretraining Language Coverage",
+      "summary": "arXiv:2607.24769v1 Announce Type: new \nAbstract: With the growing capabilities of frontier models, AI alignment becomes increasingly critical in high-risk deployment settings. While recent work has empirically demonstrated in-context scheming -- the covert pursuit of misaligned objectives while feig",
+      "url": "https://arxiv.org/abs/2607.24769",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Agentic AI-enabled discovery across large-scale sleep physiology",
+      "summary": "arXiv:2607.25175v1 Announce Type: new \nAbstract: Sleep occupies roughly one-third of human life, yet many aspects of its physiology remain poorly understood. Large polysomnography (PSG) datasets offer new opportunities to study sleep and its links to disease, but extracting insight from these record",
+      "url": "https://arxiv.org/abs/2607.25175",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "SafeFlow: Semantic Information-Flow Control for Blocking Malicious Propagation in Multi-Agent Systems",
+      "summary": "arXiv:2607.25255v1 Announce Type: new \nAbstract: Multi-agent systems improve capability through task decomposition and role specialization, but these same mechanisms introduce an important safety blind spot: a harmful objective can be fragmented into locally plausible subtasks, allowing malicious in",
+      "url": "https://arxiv.org/abs/2607.25255",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "CoRenew: A large language model agent-based policy simulation platform for multifamily residential redevelopment",
+      "summary": "arXiv:2607.25447v1 Announce Type: new \nAbstract: The difficulty of collective action remains a central challenge in the design of policies for multifamily residential redevelopment. Stakeholders continually adjust their decisions in response to evolving negotiation contexts and the reactions of othe",
+      "url": "https://arxiv.org/abs/2607.25447",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "ARCHER: Agentic Rule and Compliance Harness for Executable Regulations",
+      "summary": "arXiv:2607.25566v1 Announce Type: new \nAbstract: Verifying building compliance requires validating thousands of rules against large Building Information Modeling (BIM) designs, which is laborious, capital-intensive, and unscalable. Existing Automated Compliance Checkers (ACCs) are often difficult to",
+      "url": "https://arxiv.org/abs/2607.25566",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "CHILL-Harness: Counterfactual Harness Learning for Efficient Reasoning in Long-Horizon Agents",
+      "summary": "arXiv:2607.25825v1 Announce Type: new \nAbstract: Agent harnesses have become the operational infrastructure of modern large language model agents, coordinating context, tools, verification, and execution control to translate latent model capability into reliable long-horizon behavior. However, relia",
+      "url": "https://arxiv.org/abs/2607.25825",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Towards a Systems Foundation for Agentic Cloud Management",
+      "summary": "arXiv:2607.25883v1 Announce Type: new \nAbstract: Agentic cloud management is emerging as a practice to automate laborious operations, minimize toil, and improve responsiveness. Despite the rapid development of autonomous management agents, we argue that the fundamental missing piece is a systems fou",
+      "url": "https://arxiv.org/abs/2607.25883",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Aethel: A Reproducible Graph-Retrieval Framework for Multi-Hop Financial Diligence",
+      "summary": "arXiv:2607.24826v1 Announce Type: cross \nAbstract: Secondary private equity transactions require rapid synthesis of fragmented, unstructured financial disclosures, where critical metrics and their entity anchors are distributed across disjoint documents with limited lexical overlap. We present Aethe",
+      "url": "https://arxiv.org/abs/2607.24826",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Interactive Alignment",
+      "summary": "arXiv:2607.25019v1 Announce Type: cross \nAbstract: This paper studies the long-run alignment of interactive agents, including AI systems, teams, firms, and governments, with human welfare. It develops a farming game in which a population of agents makes planting, trading, and expansion decisions. Ag",
+      "url": "https://arxiv.org/abs/2607.25019",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
