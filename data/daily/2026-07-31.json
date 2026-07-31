@@ -1,0 +1,365 @@
+{
+  "date": "2026-07-31",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-07-31 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Fluent – Voice computer use agent for Windows (VLM and accessibility tree)",
+      "summary": "Article URL: https://fluentforall.com/\nComments URL: https://news.ycombinator.com/item?id=49118239\nPoints: 1\n# Comments: 1",
+      "url": "https://fluentforall.com/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Real Estate Agent Email List – 1.1M+ US Realtor Contacts",
+      "summary": "Buy a verified real estate agent email list for any US state. 1.1M+ realtor emails and phone numbers across all 50 states\n\nComments URL: https://news.ycombinator.com/item?id=49117758\nPoints: 1\n# Comments: 0",
+      "url": "https://www.usagentleads.com",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "ChatGPT Optimizes Its Agent Loop: Harness, API, and Inference",
+      "summary": "Article URL: https://blog.bytebytego.com/p/how-chatgpt-optimizes-its-agent-loop\nComments URL: https://news.ycombinator.com/item?id=49116960\nPoints: 4\n# Comments: 0",
+      "url": "https://blog.bytebytego.com/p/how-chatgpt-optimizes-its-agent-loop",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Pomi – standalone voice agent running on the Rabbit R1",
+      "summary": "Hey HN! \nI’m building Pomi, a standalone voice agent that, with a debut launch on the Rabbit R1. Here’s a 30-second video of me asking it for the weather in San Francisco: https://youtu.be/vxG5is_nNqUI started this project because I find the R1 unusually compelling as a piece of hardware: its small",
+      "url": "https://github.com/sidmohan0/pomi",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models",
+      "summary": "arXiv:2607.26119v1 Announce Type: new \nAbstract: Large reasoning models trained via reinforcement learning (RL) have been increasingly shown to outperform their supervised fine-tuned (SFT) counterparts on mathematical reasoning tasks; Yet the mechanistic basis for this advantage remains unclear. We",
+      "url": "https://arxiv.org/abs/2607.26119",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems",
+      "summary": "arXiv:2607.26120v1 Announce Type: new \nAbstract: Large Language Models (LLMs)-powered multi-agent systems are increasingly deployed in mixed-motive environments, where agents operate under asymmetric information and strategic deception due to conflicting or hidden objectives. In these settings, misa",
+      "url": "https://arxiv.org/abs/2607.26120",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science",
+      "summary": "arXiv:2607.26155v1 Announce Type: new \nAbstract: Clinical data-science agents must transform heterogeneous longitudinal records into auditable analyses, yet existing benchmarks largely isolate medical question answering, structured-table reasoning, or generic scientific repositories. We introduce CL",
+      "url": "https://arxiv.org/abs/2607.26155",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "When benchmark inferences do not compose: Projectibility in AI evaluation",
+      "summary": "arXiv:2607.26159v1 Announce Type: new \nAbstract: An AI benchmark result rarely reaches a consequential claim in one step. Evaluators generalize it to further cases, interpret it as evidence of capability, extrapolate it to new tasks, transport it to another system or site, and combine it with assump",
+      "url": "https://arxiv.org/abs/2607.26159",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.26120"
+        },
+        {
+          "title": "Scaling LLM-Driven Multi-Agent Systems: Design Principles and Architectural Scalability Analysis",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.27942"
+        },
+        {
+          "title": "$\\Sigma$-Mem: An Online Reliability Memory for LLM-based Multi-Agent Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.27958"
+        },
+        {
+          "title": "AgentRadio: Passive Awareness for Long-Horizon Multi-Agent Collaboration",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.28430"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "GoGoTB: Agentic RTL Verification with Specification-Grounded Coverage Closure",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.26181"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "ChatGPT Optimizes Its Agent Loop: Harness, API, and Inference",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://blog.bytebytego.com/p/how-chatgpt-optimizes-its-agent-loop"
+        },
+        {
+          "title": "ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.26155"
+        },
+        {
+          "title": "When benchmark inferences do not compose: Projectibility in AI evaluation",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.26159"
+        },
+        {
+          "title": "Position: Evaluation Scores Are Perishable Knowledge Claims",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.26191"
+        },
+        {
+          "title": "TraceCoder: Explainable and Auditable Code Generation with Position-Key Snippet Versioning",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2607.26307"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "Fluent – Voice computer use agent for Windows (VLM and accessibility tree)",
+      "summary": "Article URL: https://fluentforall.com/\nComments URL: https://news.ycombinator.com/item?id=49118239\nPoints: 1\n# Comments: 1",
+      "url": "https://fluentforall.com/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Real Estate Agent Email List – 1.1M+ US Realtor Contacts",
+      "summary": "Buy a verified real estate agent email list for any US state. 1.1M+ realtor emails and phone numbers across all 50 states\n\nComments URL: https://news.ycombinator.com/item?id=49117758\nPoints: 1\n# Comments: 0",
+      "url": "https://www.usagentleads.com",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "ChatGPT Optimizes Its Agent Loop: Harness, API, and Inference",
+      "summary": "Article URL: https://blog.bytebytego.com/p/how-chatgpt-optimizes-its-agent-loop\nComments URL: https://news.ycombinator.com/item?id=49116960\nPoints: 4\n# Comments: 0",
+      "url": "https://blog.bytebytego.com/p/how-chatgpt-optimizes-its-agent-loop",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Pomi – standalone voice agent running on the Rabbit R1",
+      "summary": "Hey HN! \nI’m building Pomi, a standalone voice agent that, with a debut launch on the Rabbit R1. Here’s a 30-second video of me asking it for the weather in San Francisco: https://youtu.be/vxG5is_nNqUI started this project because I find the R1 unusually compelling as a piece of hardware: its small",
+      "url": "https://github.com/sidmohan0/pomi",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Ask HN: What former \"must-have\" AI agent skills have you deprecated?",
+      "summary": "As LLMs get stronger, I'm pruning my agent skill library. I've removed multi-step workflows (like superpowers) and web wrappers (like Agent Browse) that base models now handle natively, which speeds up context and improves performance.Are you doing similar cleanup? What former go-to tools or skills",
+      "url": "https://news.ycombinator.com/item?id=49116411",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "LLM-style scaling laws hold for sensor data",
+      "summary": "Article URL: https://www.empirical.health/blog/llm-scaling-laws-hold-for-sensor-data/\nComments URL: https://news.ycombinator.com/item?id=49116007\nPoints: 1\n# Comments: 0",
+      "url": "https://www.empirical.health/blog/llm-scaling-laws-hold-for-sensor-data/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Instrument an LLM Agent with OpenTelemetry · TripleCloud Blog",
+      "summary": "Article URL: https://blog.triplecloud.tech/posts/instrument-llm-agent-opentelemetry\nComments URL: https://news.ycombinator.com/item?id=49115116\nPoints: 1\n# Comments: 0",
+      "url": "https://blog.triplecloud.tech/posts/instrument-llm-agent-opentelemetry",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Why prompt injection is still possible in LLM applications",
+      "summary": "Article URL: https://pantsyr.dev/blog/why-prompt-injection-is-still-possible-in-llm-applications/\nComments URL: https://news.ycombinator.com/item?id=49114699\nPoints: 1\n# Comments: 0",
+      "url": "https://pantsyr.dev/blog/why-prompt-injection-is-still-possible-in-llm-applications/",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [
+    {
+      "title": "Google will expand age checks on Android worldwide till the end of the year",
+      "summary": "Article URL: https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html\nComments URL: https://news.ycombinator.com/item?id=49107950\nPoints: 375\n# Comments: 461",
+      "url": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "research": [
+    {
+      "title": "Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models",
+      "summary": "arXiv:2607.26119v1 Announce Type: new \nAbstract: Large reasoning models trained via reinforcement learning (RL) have been increasingly shown to outperform their supervised fine-tuned (SFT) counterparts on mathematical reasoning tasks; Yet the mechanistic basis for this advantage remains unclear. We",
+      "url": "https://arxiv.org/abs/2607.26119",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems",
+      "summary": "arXiv:2607.26120v1 Announce Type: new \nAbstract: Large Language Models (LLMs)-powered multi-agent systems are increasingly deployed in mixed-motive environments, where agents operate under asymmetric information and strategic deception due to conflicting or hidden objectives. In these settings, misa",
+      "url": "https://arxiv.org/abs/2607.26120",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science",
+      "summary": "arXiv:2607.26155v1 Announce Type: new \nAbstract: Clinical data-science agents must transform heterogeneous longitudinal records into auditable analyses, yet existing benchmarks largely isolate medical question answering, structured-table reasoning, or generic scientific repositories. We introduce CL",
+      "url": "https://arxiv.org/abs/2607.26155",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "When benchmark inferences do not compose: Projectibility in AI evaluation",
+      "summary": "arXiv:2607.26159v1 Announce Type: new \nAbstract: An AI benchmark result rarely reaches a consequential claim in one step. Evaluators generalize it to further cases, interpret it as evidence of capability, extrapolate it to new tasks, transport it to another system or site, and combine it with assump",
+      "url": "https://arxiv.org/abs/2607.26159",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "GuideSkill: Evolving Executable LLM Agent Skills for Guideline-Grounded Clinical Reasoning",
+      "summary": "arXiv:2607.26160v1 Announce Type: new \nAbstract: Clinical practice guidelines (CPGs) encode diagnostic criteria, but LLM systems typically retrieve guideline text or absorb it through training rather than execute its rules. We introduce GuideSkill, an external reasoning layer that compiles disease-s",
+      "url": "https://arxiv.org/abs/2607.26160",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "GoGoTB: Agentic RTL Verification with Specification-Grounded Coverage Closure",
+      "summary": "arXiv:2607.26181v1 Announce Type: new \nAbstract: Functional verification dominates integrated circuit (IC) front-end engineering effort, and a single missed bug that escapes to silicon can trigger a costly respin. Recent large language models (LLMs) offer new opportunities to automate this process,",
+      "url": "https://arxiv.org/abs/2607.26181",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Position: Evaluation Scores Are Perishable Knowledge Claims",
+      "summary": "arXiv:2607.26191v1 Announce Type: new \nAbstract: Evaluation methodologies for language models increasingly combine multiple signals, from automated metrics and LLM-as-judge ratings to human assessments and benchmark suite results. When these signals are aggregated via averaging, evaluation confidenc",
+      "url": "https://arxiv.org/abs/2607.26191",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "TraceCoder: Explainable and Auditable Code Generation with Position-Key Snippet Versioning",
+      "summary": "arXiv:2607.26307v1 Announce Type: new \nAbstract: Contemporary LLM-based coding agents produce code as black-box outputs: the rationale behind each line is hidden, the evolution of the code through benchmark-driven repair is ephemeral, and post-hoc auditing is impossible. We present a code generation",
+      "url": "https://arxiv.org/abs/2607.26307",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Auditing Emergent LLM-Agent Collaboration through Cooperation-Obligation Coupling",
+      "summary": "arXiv:2607.27429v1 Announce Type: new \nAbstract: LLM-agent systems can solve complex tasks through dynamic self-organization and emergent cooperation. Auditing this process is essential because plausible intermediate or final outputs can conceal incomplete or unsupported work and poorly allocated re",
+      "url": "https://arxiv.org/abs/2607.27429",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Stop Shipping AI Agents on Faith: Capability Is Not Production Readiness",
+      "summary": "arXiv:2607.27677v1 Announce Type: new \nAbstract: AI agents are moving into production workflows where they retrieve information, call tools, maintain state, and act on behalf of users or organizations, but many release decisions still rely on capability signals, demos, or behavioral tests that do no",
+      "url": "https://arxiv.org/abs/2607.27677",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Scaling LLM-Driven Multi-Agent Systems: Design Principles and Architectural Scalability Analysis",
+      "summary": "arXiv:2607.27942v1 Announce Type: new \nAbstract: LLM-based multi-agent systems have the potential to enable collective intelligence and scale toward solving highly complex tasks through coordinated ensembles of specialized agents. However, despite their theoretical potential, the architectural desig",
+      "url": "https://arxiv.org/abs/2607.27942",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Argonaut: Interactive Visual Exploration for Distributed Optimization",
+      "summary": "arXiv:2607.27946v1 Announce Type: new \nAbstract: Distributed discrete-choice optimization in decentralized settings is often hard to explore and navigate: disentangling what other agents choose, how their choices are interdependent, and how they collectively reach a global objective quickly becomes",
+      "url": "https://arxiv.org/abs/2607.27946",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "$\\Sigma$-Mem: An Online Reliability Memory for LLM-based Multi-Agent Systems",
+      "summary": "arXiv:2607.27958v1 Announce Type: new \nAbstract: Memory is central to long-horizon LLM agents, yet existing memory systems primarily preserve interaction content rather than modeling which agents can be trusted and under what conditions. This limitation is particularly important in multi-agent syste",
+      "url": "https://arxiv.org/abs/2607.27958",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "VISA: A Structured Description Protocol for Agent-Based Simulation Models Towards Machine Reproducibility",
+      "summary": "arXiv:2607.28027v1 Announce Type: new \nAbstract: Agent-based models (ABMs) are difficult to reproduce: their behavior is spread across prose narratives, platform-specific code, and implicit assumptions, so that two readers routinely reconstruct different models from the same documentation. We presen",
+      "url": "https://arxiv.org/abs/2607.28027",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "AgentRadio: Passive Awareness for Long-Horizon Multi-Agent Collaboration",
+      "summary": "arXiv:2607.28430v1 Announce Type: new \nAbstract: Understanding large codebases is a long-horizon task for Large Language Model (LLM) agents: answering a single question can require building and running the software, tracing execution across files, and synthesizing evidence over tens of minutes. On S",
+      "url": "https://arxiv.org/abs/2607.28430",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Using Theory of Mind to Arbitrate between Social and Non-social Learning",
+      "summary": "arXiv:2607.28601v1 Announce Type: new \nAbstract: Social learning is a powerful mechanism through which agents learn about the world from others. However, humans sometimes choose direct experience over social learning, which can carry time and cognitive resource costs. How do people balance social an",
+      "url": "https://arxiv.org/abs/2607.28601",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
