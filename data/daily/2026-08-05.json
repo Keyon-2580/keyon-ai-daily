@@ -1,0 +1,250 @@
+{
+  "date": "2026-08-05",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-08-05 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
+      "summary": "arXiv:2608.02604v1 Announce Type: new \nAbstract: LLM-based agents are increasingly being deployed for data-related tasks, including data sense-making, exploration, and retrieval. However, their performance heavily depends on the clarity and completeness of data semantics. In practice, many field des",
+      "url": "https://arxiv.org/abs/2608.02604",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Self-Organising Digital Circuits",
+      "summary": "arXiv:2608.02606v1 Announce Type: new \nAbstract: Fault tolerance in classical computing has traditionally relied on static strategies like hardware redundancy and error-correcting codes. Biological systems, in contrast, exhibit adaptive plasticity, maintaining function through dynamic re-organisatio",
+      "url": "https://arxiv.org/abs/2608.02606",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and Sequential Temperature Scaling",
+      "summary": "arXiv:2608.02618v1 Announce Type: new \nAbstract: Recent studies have identified an ``Artificial Hivemind'' effect in Large Language Models (LLMs) causing models to converge on a narrow, homogenized consensus even for open questions. This semantic collapse limits the diversity of AI, resulting in hig",
+      "url": "https://arxiv.org/abs/2608.02618",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "PULSE: An Executable Contract Language for Spatiotemporal Knowledge Graph Engineering",
+      "summary": "arXiv:2608.02630v1 Announce Type: new \nAbstract: Knowledge graph engineering often distributes accepted state, observations, constraints, processes, and hypothetical scenarios across artifacts whose combined execution contract remains external. We present PULSE, an Object-Process-Methodology-inspire",
+      "url": "https://arxiv.org/abs/2608.02630",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Everyone Conforms, No One Believes: Pluralistic Ignorance in LLM Agent Populations",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.02758"
+        },
+        {
+          "title": "Emergence of Biased Consensus in Multi-Agent LLM Debates",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.02827"
+        },
+        {
+          "title": "SABRE: A Multi-Agent Approach for Selecting Out-of-Distribution Detectors Under a Budget",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.02959"
+        },
+        {
+          "title": "When Truth Is Distributed: Misinformation Derails Collective Fact Recovery in LLM-Based Multi-Agent Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.03421"
+        },
+        {
+          "title": "Group Perspective Matters: Regulating Debate Relationships Can Mitigate Blind Conformity in Multi-Agent Debate",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.03648"
+        },
+        {
+          "title": "An Actionable Diagnosis of Multilingual, Multi-Agent Planning Failures",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.03735"
+        },
+        {
+          "title": "History Matters: Meta-policy Delegation with Heterogeneous Multi-agent Reinforcement Learning",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.03833"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "Stateful Governance for Concurrent Agentic Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.02764"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.02604"
+        }
+      ]
+    }
+  ],
+  "oss": [],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
+      "summary": "arXiv:2608.02604v1 Announce Type: new \nAbstract: LLM-based agents are increasingly being deployed for data-related tasks, including data sense-making, exploration, and retrieval. However, their performance heavily depends on the clarity and completeness of data semantics. In practice, many field des",
+      "url": "https://arxiv.org/abs/2608.02604",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Self-Organising Digital Circuits",
+      "summary": "arXiv:2608.02606v1 Announce Type: new \nAbstract: Fault tolerance in classical computing has traditionally relied on static strategies like hardware redundancy and error-correcting codes. Biological systems, in contrast, exhibit adaptive plasticity, maintaining function through dynamic re-organisatio",
+      "url": "https://arxiv.org/abs/2608.02606",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and Sequential Temperature Scaling",
+      "summary": "arXiv:2608.02618v1 Announce Type: new \nAbstract: Recent studies have identified an ``Artificial Hivemind'' effect in Large Language Models (LLMs) causing models to converge on a narrow, homogenized consensus even for open questions. This semantic collapse limits the diversity of AI, resulting in hig",
+      "url": "https://arxiv.org/abs/2608.02618",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "PULSE: An Executable Contract Language for Spatiotemporal Knowledge Graph Engineering",
+      "summary": "arXiv:2608.02630v1 Announce Type: new \nAbstract: Knowledge graph engineering often distributes accepted state, observations, constraints, processes, and hypothetical scenarios across artifacts whose combined execution contract remains external. We present PULSE, an Object-Process-Methodology-inspire",
+      "url": "https://arxiv.org/abs/2608.02630",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "HyperAgent: Planning and Acting over Tool-Schema Hypergraphs for Tool-Use LLM Agents",
+      "summary": "arXiv:2608.02650v1 Announce Type: new \nAbstract: Large language model (LLM) agents increasingly rely on external tools to complete complex real-world tasks. However, reliable tool-use planning remains challenging due to the limitations of implicit reasoning and the evolving nature of real-world exec",
+      "url": "https://arxiv.org/abs/2608.02650",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Explainable AI for the EU Right to Explanation: A Systematic Review of the Law-XAI Translation Gap",
+      "summary": "arXiv:2608.02699v1 Announce Type: new \nAbstract: When algorithms make or influence consequential decisions---about loan eligibility, hiring, or healthcare---EU law grants affected individuals a Right to Explanation. Yet whether (and how) Explainable AI (XAI) can satisfy this right in practice remain",
+      "url": "https://arxiv.org/abs/2608.02699",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Predictive Set Theory: A Generative Framework for Cognitive Architecture with Operationalized Core Mechanisms",
+      "summary": "arXiv:2608.02704v1 Announce Type: new \nAbstract: Predictive processing theories portray the brain as a hierarchical prediction engine that minimizes prediction error, yet they lack operational definitions for the structure of a \"prediction,\" the standardized response to a prediction error, and the m",
+      "url": "https://arxiv.org/abs/2608.02704",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Towards a new paradigm of scientific discovery with socialized artificial intelligence",
+      "summary": "arXiv:2608.02775v1 Announce Type: new \nAbstract: Scientific discovery has advanced through successive transformations in the organization of knowledge. Observation and experimentation established the empirical foundations of science. Theory made it possible to derive general principles from particul",
+      "url": "https://arxiv.org/abs/2608.02775",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Everyone Conforms, No One Believes: Pluralistic Ignorance in LLM Agent Populations",
+      "summary": "arXiv:2608.02758v1 Announce Type: new \nAbstract: LLM-based multi-agent systems are increasingly used to simulate social dynamics, from opinion formation to collective decision-making. These simulations can reproduce certain social phenomena, but it is unknown whether they capture pluralistic ignoran",
+      "url": "https://arxiv.org/abs/2608.02758",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Stateful Governance for Concurrent Agentic Systems",
+      "summary": "arXiv:2608.02764v1 Announce Type: new \nAbstract: AI agents are moving from advisory interfaces into systems that execute consequential operations: issuing refunds, reserving scarce inventory, provisioning cloud resources, and initiating financial transfers. These workflows require governance over ef",
+      "url": "https://arxiv.org/abs/2608.02764",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Emergence of Biased Consensus in Multi-Agent LLM Debates",
+      "summary": "arXiv:2608.02827v1 Announce Type: new \nAbstract: Multi-agent LLM debates achieve strong performance on decision-making tasks as well as problem-solving benchmarks, yet their safety and fairness risks remain poorly understood. Notably, interaction can amplify the biases of single LLMs, raising concer",
+      "url": "https://arxiv.org/abs/2608.02827",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "SABRE: A Multi-Agent Approach for Selecting Out-of-Distribution Detectors Under a Budget",
+      "summary": "arXiv:2608.02959v1 Announce Type: new \nAbstract: Post-hoc out-of-distribution (OOD) detection for vision-language models assumes that a detector chosen on a benchmark stays reliable once deployed. We show this fails across domains: on a single frozen encoder, a detector that leads in one domain can",
+      "url": "https://arxiv.org/abs/2608.02959",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "When Truth Is Distributed: Misinformation Derails Collective Fact Recovery in LLM-Based Multi-Agent Systems",
+      "summary": "arXiv:2608.03421v1 Announce Type: new \nAbstract: LLM-based multi-agent systems promise effective collaborative reasoning, but communication may amplify local errors into collective risks. Existing evaluations emphasize final outcomes, leaving the reliability and propagation dynamics of distributed i",
+      "url": "https://arxiv.org/abs/2608.03421",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Group Perspective Matters: Regulating Debate Relationships Can Mitigate Blind Conformity in Multi-Agent Debate",
+      "summary": "arXiv:2608.03648v1 Announce Type: new \nAbstract: Multi-Agent Debate (MAD) improves the reasoning performance of Large Language Models (LLMs) through multi-round interaction. However, LLMs in MAD are highly susceptible to blind conformity. Existing individual evaluation methods, typically based on co",
+      "url": "https://arxiv.org/abs/2608.03648",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "An Actionable Diagnosis of Multilingual, Multi-Agent Planning Failures",
+      "summary": "arXiv:2608.03735v1 Announce Type: new \nAbstract: Multilingual multi-agent systems exhibit substantial degradation beyond English, yet prior work rarely identifies how task-critical information is lost when user requests are converted into executable plans. We study the planner in a multi-agent syste",
+      "url": "https://arxiv.org/abs/2608.03735",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "History Matters: Meta-policy Delegation with Heterogeneous Multi-agent Reinforcement Learning",
+      "summary": "arXiv:2608.03833v1 Announce Type: new \nAbstract: AI agents are expected to play an increasingly important role in future decision-making systems. In this paper, we consider collaborative systems composed of heterogeneous multi-agent systems (MAS), where their members have different capabilities and",
+      "url": "https://arxiv.org/abs/2608.03833",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
