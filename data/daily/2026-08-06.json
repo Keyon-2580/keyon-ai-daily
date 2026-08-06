@@ -1,0 +1,383 @@
+{
+  "date": "2026-08-06",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-08-06 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "AOHP: OS-Level Agent Harness for Personalized, Efficient and Secure Interaction",
+      "summary": "Article URL: https://arxiv.org/abs/2606.23449\nComments URL: https://news.ycombinator.com/item?id=49191616\nPoints: 1\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2606.23449",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Meta AI agent hacked external company during testing",
+      "summary": "Article URL: https://www.abc.net.au/news/2026-08-06/meta-ai-reports-agent-hacked-external-company-during-testing/107003246\nComments URL: https://news.ycombinator.com/item?id=49191551\nPoints: 2\n# Comments: 0",
+      "url": "https://www.abc.net.au/news/2026-08-06/meta-ai-reports-agent-hacked-external-company-during-testing/107003246",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "How to Give AI Agent a Memory That Survives the Session",
+      "summary": "Article URL: https://medium.com/@vektormemory/how-to-give-ai-agent-a-memory-that-survives-the-session-116f69c23eaf\nComments URL: https://news.ycombinator.com/item?id=49190975\nPoints: 1\n# Comments: 0",
+      "url": "https://medium.com/@vektormemory/how-to-give-ai-agent-a-memory-that-survives-the-session-116f69c23eaf",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Clank Cut – Let your coding agent make video walkthroughs",
+      "summary": "Hi HN, I made a mac desktop app which your coding agent can connect to and use ur mac to do the recording instead, as well as edit the video, add background music, clone my voice, and publish it to a bucket so ur agent can just automatically make and rerecord tutorials.I've ran into this issue a bu",
+      "url": "https://www.clankcut.com",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)",
+      "summary": "arXiv:2608.04012v1 Announce Type: new \nAbstract: Artificial intelligence systems are increasingly expected to operate over repeated cycles of interaction, adaptation, and update rather than through isolated one-shot outputs. This raises a fundamental theoretical question: can an AI system persist in",
+      "url": "https://arxiv.org/abs/2608.04012",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "The LLM Proposes, the Executive Disposes: A Self-Verifying Agent Instrument that Dissociates Commitment Drift from Binding Drift in Long-Horizon Agents",
+      "summary": "arXiv:2608.04066v1 Announce Type: new \nAbstract: How do you verify a long-horizon agent when its own state and self-reports are exactly what you cannot trust? We present an agent instrument built so that verification is structural rather than post-hoc. A deterministic Executive owns all belief; a la",
+      "url": "https://arxiv.org/abs/2608.04066",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Monte Carlo Tree Search for Table-to-Multimodal Report Generation",
+      "summary": "arXiv:2608.04071v1 Announce Type: new \nAbstract: Automatically generating professional multimodal reports comprising both textual analysis and visual charts from structured tabular data is a critical challenge in data intelligence. Existing methods suffer from fixed linear pipelines and isolated sub",
+      "url": "https://arxiv.org/abs/2608.04071",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables",
+      "summary": "arXiv:2608.04077v1 Announce Type: new \nAbstract: Evaluating financial AI agents requires criteria aligned with real professional work. Existing rubric methods typically derive criteria from task prompts or model outputs, overlooking tacit standards visible only in practitioner deliverables. We intro",
+      "url": "https://arxiv.org/abs/2608.04077",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Responsibility in Multi-Agent Sequential Decision-Making: Comparing Human Judgments to Formal Models of Causal Attribution",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.04318"
+        },
+        {
+          "title": "HELENA:Hierarchical Sparse Coordination over a Union of Complementary Topologies for MAS",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.04634"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "How to build an agent to automate your on-call",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://12gramsofcarbon.com/p/agentics-how-we-use-background-agents"
+        },
+        {
+          "title": "EDATracer: An Agentic Framework for Large-Scale EDA Artifact Analysis",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.04032"
+        },
+        {
+          "title": "CURATE: Leveraging LLM Agents to Compose, Catalog, and Deploy Reproducible Workflows",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.04270"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "AOHP: OS-Level Agent Harness for Personalized, Efficient and Secure Interaction",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://arxiv.org/abs/2606.23449"
+        },
+        {
+          "title": "Prime Agent a general-purpose coding harness. On ARC-AGI-3 scored 95.5%",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://x.com/PrimeIntellect/thread/2085087002769379520"
+        },
+        {
+          "title": "FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.04077"
+        },
+        {
+          "title": "FinPerMA: A Theory-Informed, Event-Grounded Personalized-Memory Benchmark for LLM Agents",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.04095"
+        },
+        {
+          "title": "BrainBench: Benchmarking Large Language Models for Comprehensive EEG Understanding",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.04156"
+        },
+        {
+          "title": "MatrAIx: Simulating the World with 8.3 Billion Persona Agents",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.04205"
+        },
+        {
+          "title": "Strategic Evaluation of Planning Strategies for LLM Agents in Cyber-Physical Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.04265"
+        },
+        {
+          "title": "Emergence of Reputation-Based Cooperation in LLM Agents",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.04507"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "AOHP: OS-Level Agent Harness for Personalized, Efficient and Secure Interaction",
+      "summary": "Article URL: https://arxiv.org/abs/2606.23449\nComments URL: https://news.ycombinator.com/item?id=49191616\nPoints: 1\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2606.23449",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Meta AI agent hacked external company during testing",
+      "summary": "Article URL: https://www.abc.net.au/news/2026-08-06/meta-ai-reports-agent-hacked-external-company-during-testing/107003246\nComments URL: https://news.ycombinator.com/item?id=49191551\nPoints: 2\n# Comments: 0",
+      "url": "https://www.abc.net.au/news/2026-08-06/meta-ai-reports-agent-hacked-external-company-during-testing/107003246",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "How to Give AI Agent a Memory That Survives the Session",
+      "summary": "Article URL: https://medium.com/@vektormemory/how-to-give-ai-agent-a-memory-that-survives-the-session-116f69c23eaf\nComments URL: https://news.ycombinator.com/item?id=49190975\nPoints: 1\n# Comments: 0",
+      "url": "https://medium.com/@vektormemory/how-to-give-ai-agent-a-memory-that-survives-the-session-116f69c23eaf",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Clank Cut – Let your coding agent make video walkthroughs",
+      "summary": "Hi HN, I made a mac desktop app which your coding agent can connect to and use ur mac to do the recording instead, as well as edit the video, add background music, clone my voice, and publish it to a bucket so ur agent can just automatically make and rerecord tutorials.I've ran into this issue a bu",
+      "url": "https://www.clankcut.com",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Prime Agent a general-purpose coding harness. On ARC-AGI-3 scored 95.5%",
+      "summary": "Article URL: https://x.com/PrimeIntellect/thread/2085087002769379520\nComments URL: https://news.ycombinator.com/item?id=49190818\nPoints: 2\n# Comments: 0",
+      "url": "https://x.com/PrimeIntellect/thread/2085087002769379520",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "How to build an agent to automate your on-call",
+      "summary": "Article URL: https://12gramsofcarbon.com/p/agentics-how-we-use-background-agents\nComments URL: https://news.ycombinator.com/item?id=49190814\nPoints: 2\n# Comments: 0",
+      "url": "https://12gramsofcarbon.com/p/agentics-how-we-use-background-agents",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Semantic Thermodynamics – 79% LLM token reduction via narrative constraints",
+      "summary": "Article URL: https://github.com/tauansloboda/semantic-thermodynamics\nComments URL: https://news.ycombinator.com/item?id=49190710\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/tauansloboda/semantic-thermodynamics",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Private LLM in a TEE, verified against Intel's root with no cloud in the chain",
+      "summary": "Article URL: https://505labs.com/blog/private-llm-inside-a-tee\nComments URL: https://news.ycombinator.com/item?id=49189950\nPoints: 2\n# Comments: 0",
+      "url": "https://505labs.com/blog/private-llm-inside-a-tee",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [
+    {
+      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+      "summary": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassa...https://www.reuters.com/business/google-shakes-up-ai-leaders...https://www.discoveryloop.com/, https://news.ycombinator.com/item?id=49184960https://twitter.com/JeffDean/status/2085034604172603724, https://xcancel.com/JeffDean/status/208",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "research": [
+    {
+      "title": "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)",
+      "summary": "arXiv:2608.04012v1 Announce Type: new \nAbstract: Artificial intelligence systems are increasingly expected to operate over repeated cycles of interaction, adaptation, and update rather than through isolated one-shot outputs. This raises a fundamental theoretical question: can an AI system persist in",
+      "url": "https://arxiv.org/abs/2608.04012",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "The LLM Proposes, the Executive Disposes: A Self-Verifying Agent Instrument that Dissociates Commitment Drift from Binding Drift in Long-Horizon Agents",
+      "summary": "arXiv:2608.04066v1 Announce Type: new \nAbstract: How do you verify a long-horizon agent when its own state and self-reports are exactly what you cannot trust? We present an agent instrument built so that verification is structural rather than post-hoc. A deterministic Executive owns all belief; a la",
+      "url": "https://arxiv.org/abs/2608.04066",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Monte Carlo Tree Search for Table-to-Multimodal Report Generation",
+      "summary": "arXiv:2608.04071v1 Announce Type: new \nAbstract: Automatically generating professional multimodal reports comprising both textual analysis and visual charts from structured tabular data is a critical challenge in data intelligence. Existing methods suffer from fixed linear pipelines and isolated sub",
+      "url": "https://arxiv.org/abs/2608.04071",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables",
+      "summary": "arXiv:2608.04077v1 Announce Type: new \nAbstract: Evaluating financial AI agents requires criteria aligned with real professional work. Existing rubric methods typically derive criteria from task prompts or model outputs, overlooking tacit standards visible only in practitioner deliverables. We intro",
+      "url": "https://arxiv.org/abs/2608.04077",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "FinPerMA: A Theory-Informed, Event-Grounded Personalized-Memory Benchmark for LLM Agents",
+      "summary": "arXiv:2608.04095v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly used as personalized assistants in high-stakes domains such as financial advising, yet it remains unclear whether they can maintain and update an individualized user model over long horizons. Existing",
+      "url": "https://arxiv.org/abs/2608.04095",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "BrainBench: Benchmarking Large Language Models for Comprehensive EEG Understanding",
+      "summary": "arXiv:2608.04156v1 Announce Type: new \nAbstract: Electroencephalography (EEG) analysis extends beyond assigning predefined labels to recordings; it requires workflows connecting natural-language instructions, signal processing, quantitative evidence, and scientific interpretation. We term this capab",
+      "url": "https://arxiv.org/abs/2608.04156",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Adversarially Robust Abductive Fusion of Pre-trained Transformer-based Perception Models",
+      "summary": "arXiv:2608.04190v1 Announce Type: new \nAbstract: Deploying pre-trained perception models in novel environments degrades their accuracy under distributional shift, and assembling them alone does not recover it: combiners such as majority voting trade recall for precision and are brittle to coordinate",
+      "url": "https://arxiv.org/abs/2608.04190",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "MatrAIx: Simulating the World with 8.3 Billion Persona Agents",
+      "summary": "arXiv:2608.04205v1 Announce Type: new \nAbstract: Human evaluation of AI systems and digital products is costly, slow, and difficult to scale. Offline evaluations are more scalable but often abstract away human diversity and interactive behavior. We therefore introduce MatrAIx, a population-scale sim",
+      "url": "https://arxiv.org/abs/2608.04205",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Strategic Evaluation of Planning Strategies for LLM Agents in Cyber-Physical Systems",
+      "summary": "arXiv:2608.04265v1 Announce Type: new \nAbstract: Evaluations of LLM planning agents largely ask whether a task succeeds or a declared plan is followed. In strategic cyber-physical systems, a stronger question is whether the planning architecture remains appropriate after autonomous participants resp",
+      "url": "https://arxiv.org/abs/2608.04265",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Responsibility in Multi-Agent Sequential Decision-Making: Comparing Human Judgments to Formal Models of Causal Attribution",
+      "summary": "arXiv:2608.04318v1 Announce Type: new \nAbstract: With the growing adoption of artificial intelligence in high-stakes decision-making, identifying the causes of outcomes--particularly failures--and determining who is responsible has become a critical concern. In this work, we examine how well formal",
+      "url": "https://arxiv.org/abs/2608.04318",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Continuous Improvement and Parallel Autonomous Exploration: An LLM-Agent Framework for Searching Large Solution Spaces",
+      "summary": "arXiv:2608.04341v1 Announce Type: new \nAbstract: We present a framework that gives LLM agents two mechanisms for searching large solution spaces autonomously. First, a leaderboard scored on held-out data acts as a reward signal that drives each agent to refine its solutions over repeated submissions",
+      "url": "https://arxiv.org/abs/2608.04341",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Emergence of Reputation-Based Cooperation in LLM Agents",
+      "summary": "arXiv:2608.04507v1 Announce Type: new \nAbstract: Can cooperation among large language model (LLM) agents be evolutionarily stable against free-rider invasion? We study an indirect reciprocity donation game where LLM agents observe behavioral traces and donate on a continuous scale. Strategies, repre",
+      "url": "https://arxiv.org/abs/2608.04507",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "HELENA:Hierarchical Sparse Coordination over a Union of Complementary Topologies for MAS",
+      "summary": "arXiv:2608.04634v1 Announce Type: new \nAbstract: LLM-based multi-agent systems (MAS) typically optimize a single topology, restricting reasoning to a narrow trajectory and limiting comprehensive analytical capacity. Naively merging multiple topologies into a composite graph introduces redundant nois",
+      "url": "https://arxiv.org/abs/2608.04634",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "EDATracer: An Agentic Framework for Large-Scale EDA Artifact Analysis",
+      "summary": "arXiv:2608.04032v1 Announce Type: cross \nAbstract: Modern chip design relies on electronic design automation (EDA) tools that generate large, heterogeneous artifacts, including source files, scripts, logs, netlists, and reports. Analyzing these artifacts is critical for debugging, optimization, and",
+      "url": "https://arxiv.org/abs/2608.04032",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Toward Uncertainty Quantification in Modern Art",
+      "summary": "arXiv:2608.04038v1 Announce Type: cross \nAbstract: Asked to animate the same modern artwork under different random seeds, a text to video model returns visibly different films, one reading per seed. Because modern art is ambiguous by intent, this disagreement is signal, not noise. Yet prevailing unc",
+      "url": "https://arxiv.org/abs/2608.04038",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "CURATE: Leveraging LLM Agents to Compose, Catalog, and Deploy Reproducible Workflows",
+      "summary": "arXiv:2608.04270v1 Announce Type: cross \nAbstract: Agentic code generation has shown promise in automating and accelerating software development by utilizing Large Language Models (LLMs) to generate, test, and deploy code. For engineers and scientists, such systems have the potential to accelerate t",
+      "url": "https://arxiv.org/abs/2608.04270",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
