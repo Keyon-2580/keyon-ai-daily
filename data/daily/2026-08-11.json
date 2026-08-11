@@ -1,0 +1,344 @@
+{
+  "date": "2026-08-11",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-08-11 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "How We Built Linear Agent",
+      "summary": "Article URL: https://linear.app/now/how-we-built-linear-agent\nComments URL: https://news.ycombinator.com/item?id=49252304\nPoints: 2\n# Comments: 0",
+      "url": "https://linear.app/now/how-we-built-linear-agent",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Multi-agent version control with reactive feedback",
+      "summary": "Article URL: https://lexifina.com/blog/adding-a-multi-agent-write-lock\nComments URL: https://news.ycombinator.com/item?id=49251347\nPoints: 1\n# Comments: 0",
+      "url": "https://lexifina.com/blog/adding-a-multi-agent-write-lock",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Opencodex, a free open-source coding agent for VSCode",
+      "summary": "Article URL: https://github.com/matonhp5108/Opencodex\nComments URL: https://news.ycombinator.com/item?id=49251269\nPoints: 5\n# Comments: 0",
+      "url": "https://github.com/matonhp5108/Opencodex",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Wanno – AI builder, cloud agent and infra for your apps",
+      "summary": "Article URL: https://wanno.dev/\nComments URL: https://news.ycombinator.com/item?id=49251152\nPoints: 1\n# Comments: 0",
+      "url": "https://wanno.dev/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning",
+      "summary": "arXiv:2608.06394v1 Announce Type: new \nAbstract: Multi-label node classification is an important yet challenging task in graph learning, where nodes exhibit multiple semantics simultaneously. Existing methods for multi-label node classification can effectively model multiple labels, while only consi",
+      "url": "https://arxiv.org/abs/2608.06394",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs",
+      "summary": "arXiv:2608.06398v1 Announce Type: new \nAbstract: Recent byte-level large language models (LLMs) have made tokenizer-free modeling increasingly competitive by grouping bytes into dynamically sized patches. However, existing byte-patch architectures still apply the same dense feed-forward computation",
+      "url": "https://arxiv.org/abs/2608.06398",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Experts Reward Models via Contribution Contrast",
+      "summary": "arXiv:2608.06400v1 Announce Type: new \nAbstract: Reward models are central to learning from human preferences, yet identifying what drives their predictions remains challenging. Recent sparse Mixture-of-Experts (MoE) reward models seek to improve interpretability by routing prompts to specialized ex",
+      "url": "https://arxiv.org/abs/2608.06400",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Interpretable Unsupervised Community Detection with LLM-Symbolized Structured Processes",
+      "summary": "arXiv:2608.06402v1 Announce Type: new \nAbstract: Community detection is a fundamental task in graph analytics that aims to identify cohesive groups of entities with similar behaviors or interests. Classic objective-driven methods struggle with complex graph structures, while deep-learning approaches",
+      "url": "https://arxiv.org/abs/2608.06402",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Multi-agent version control with reactive feedback",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://lexifina.com/blog/adding-a-multi-agent-write-lock"
+        },
+        {
+          "title": "Scalable Long-Horizon Planning with Staggered Updates for Lifelong MAPF",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.06702"
+        },
+        {
+          "title": "Why Study Emergent Behavior When You Can Regulate It? Aligning Multi-Agent Systems with Reward Prediction",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.07280"
+        },
+        {
+          "title": "A Multi-Agent Framework for Automated Coarse-Grained Molecular Dynamics of Polymers",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.06694"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "Show HN: Keen Code – an agentic-engineered coding agent",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://github.com/mochow13/keen-code"
+        },
+        {
+          "title": "ADIAS: Automated Design of Interactive Agentic Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.06410"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "EvoHarnessRL: Learning Self-Evolving Runtime Harness for Long-Horizon LLM Agents",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://arxiv.org/abs/2608.05446"
+        },
+        {
+          "title": "Can MLLMs Decode the Creative Leap? Introducing C4 for Cross-Concept Understanding",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.06501"
+        },
+        {
+          "title": "Evaluating XAI Support From A Hierarchical Reinforcement Learning Policy in Human-Agent Collaboration",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.06381"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "How We Built Linear Agent",
+      "summary": "Article URL: https://linear.app/now/how-we-built-linear-agent\nComments URL: https://news.ycombinator.com/item?id=49252304\nPoints: 2\n# Comments: 0",
+      "url": "https://linear.app/now/how-we-built-linear-agent",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Multi-agent version control with reactive feedback",
+      "summary": "Article URL: https://lexifina.com/blog/adding-a-multi-agent-write-lock\nComments URL: https://news.ycombinator.com/item?id=49251347\nPoints: 1\n# Comments: 0",
+      "url": "https://lexifina.com/blog/adding-a-multi-agent-write-lock",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Opencodex, a free open-source coding agent for VSCode",
+      "summary": "Article URL: https://github.com/matonhp5108/Opencodex\nComments URL: https://news.ycombinator.com/item?id=49251269\nPoints: 5\n# Comments: 0",
+      "url": "https://github.com/matonhp5108/Opencodex",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Wanno – AI builder, cloud agent and infra for your apps",
+      "summary": "Article URL: https://wanno.dev/\nComments URL: https://news.ycombinator.com/item?id=49251152\nPoints: 1\n# Comments: 0",
+      "url": "https://wanno.dev/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: AI Pulse a fake LED strip beside the macOS Dock that shows agent status",
+      "summary": "Hi HN!I run a few Claude Code sessions in parallel and kept cmd-tabbing around just to find out one of them had been sitting on a permission prompt for ten minutes. There's a hardware gadget I liked (called SidePulse.io) so before waiting to get my shipment I built the software version instead :DI",
+      "url": "https://github.com/leog/ai-pulse",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: Keen Code – an agentic-engineered coding agent",
+      "summary": "Hello community!I am here to share a coding agent I have built solo from scratch using agentic engineering. Written in Go, it's a proper coding agent, has features you expect from a useful agent for your daily work, with a minimal and simple UI.I have named it Keen Code. The repo is here: https://g",
+      "url": "https://github.com/mochow13/keen-code",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "EvoHarnessRL: Learning Self-Evolving Runtime Harness for Long-Horizon LLM Agents",
+      "summary": "Article URL: https://arxiv.org/abs/2608.05446\nComments URL: https://news.ycombinator.com/item?id=49249998\nPoints: 3\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2608.05446",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "The Great AI Illusion: Why Your Demo Works, but Your Enterprise Agent Fails",
+      "summary": "Article URL: https://allcloud.io/blog/the-great-ai-illusion-why-your-demo-works-but-your-enterprise-agent-fails/\nComments URL: https://news.ycombinator.com/item?id=49249686\nPoints: 2\n# Comments: 0",
+      "url": "https://allcloud.io/blog/the-great-ai-illusion-why-your-demo-works-but-your-enterprise-agent-fails/",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning",
+      "summary": "arXiv:2608.06394v1 Announce Type: new \nAbstract: Multi-label node classification is an important yet challenging task in graph learning, where nodes exhibit multiple semantics simultaneously. Existing methods for multi-label node classification can effectively model multiple labels, while only consi",
+      "url": "https://arxiv.org/abs/2608.06394",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs",
+      "summary": "arXiv:2608.06398v1 Announce Type: new \nAbstract: Recent byte-level large language models (LLMs) have made tokenizer-free modeling increasingly competitive by grouping bytes into dynamically sized patches. However, existing byte-patch architectures still apply the same dense feed-forward computation",
+      "url": "https://arxiv.org/abs/2608.06398",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Experts Reward Models via Contribution Contrast",
+      "summary": "arXiv:2608.06400v1 Announce Type: new \nAbstract: Reward models are central to learning from human preferences, yet identifying what drives their predictions remains challenging. Recent sparse Mixture-of-Experts (MoE) reward models seek to improve interpretability by routing prompts to specialized ex",
+      "url": "https://arxiv.org/abs/2608.06400",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Interpretable Unsupervised Community Detection with LLM-Symbolized Structured Processes",
+      "summary": "arXiv:2608.06402v1 Announce Type: new \nAbstract: Community detection is a fundamental task in graph analytics that aims to identify cohesive groups of entities with similar behaviors or interests. Classic objective-driven methods struggle with complex graph structures, while deep-learning approaches",
+      "url": "https://arxiv.org/abs/2608.06402",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "ADIAS: Automated Design of Interactive Agentic Systems",
+      "summary": "arXiv:2608.06410v1 Announce Type: new \nAbstract: Automated agent design improves agent harnesses through iterative revision, evaluation, and feedback summarization. Existing methods are largely candidate-centric: cross-round experience is organized around candidate agents, which leaves the repair pr",
+      "url": "https://arxiv.org/abs/2608.06410",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Learning to Predict Middle-Layer Attention in MLLMs for Visual Token Prunin",
+      "summary": "arXiv:2608.06411v1 Announce Type: new \nAbstract: Multimodal large language models (MLLMs) achieve strong performance across diverse vision-language tasks, but their efficiency is limited by the cost of processing numerous visual tokens. Visual token pruning can reduce this cost, but requires accurat",
+      "url": "https://arxiv.org/abs/2608.06411",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader",
+      "summary": "arXiv:2608.06474v1 Announce Type: new \nAbstract: Large language models increasingly generate complete websites from natural-language descriptions, and reinforcement learning has become a central approach to closing their remaining functional gap. This training regime is bottlenecked by reward design",
+      "url": "https://arxiv.org/abs/2608.06474",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Can MLLMs Decode the Creative Leap? Introducing C4 for Cross-Concept Understanding",
+      "summary": "arXiv:2608.06501v1 Announce Type: new \nAbstract: Creative capabilities of MLLMs matter in design, communication, education, and human--AI collaboration, yet remain difficult to evaluate because explicit targets and reward signals are scarce compared with accuracy-oriented tasks. Cross-concept unders",
+      "url": "https://arxiv.org/abs/2608.06501",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Scalable Long-Horizon Planning with Staggered Updates for Lifelong MAPF",
+      "summary": "arXiv:2608.06702v1 Announce Type: new \nAbstract: Lifelong Multi-Agent Path Finding (LMAPF) requires generating collision-free paths for large agent fleets under strict real-time constraints. Reactive frameworks such as PIBT and Enhanced PIBT (EPIBT) scale effortlessly to thousands of agents through",
+      "url": "https://arxiv.org/abs/2608.06702",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Why Study Emergent Behavior When You Can Regulate It? Aligning Multi-Agent Systems with Reward Prediction",
+      "summary": "arXiv:2608.07280v1 Announce Type: new \nAbstract: Multi-agent simulations are widely used to study complex social and ecological systems, where rich and often unexpected emergent behaviors arise from local interactions. A large body of prior work has focused on analyzing such emergent dynamics across",
+      "url": "https://arxiv.org/abs/2608.07280",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Learning Long-Term Educational Investment Policies under Residential Sorting",
+      "summary": "arXiv:2608.07295v1 Announce Type: new \nAbstract: Allocating public-school investment effectively and fairly is difficult when school access depends on residence. School improvements can raise nearby housing demand and prices, reshape enrollment, and potentially limit access for lower-income househol",
+      "url": "https://arxiv.org/abs/2608.07295",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Strategy-first synthesis planning for complex natural products",
+      "summary": "arXiv:2608.07454v1 Announce Type: new \nAbstract: The total synthesis of a complex molecule is among the most demanding intellectual and experimental feats in chemistry: a chemist must plan many steps ahead for how to assemble simple building blocks into an intricate target, devise backup strategies,",
+      "url": "https://arxiv.org/abs/2608.07454",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "The Theory of Strategic Evolution: Games with Endogenous Players and Strategic Replicators",
+      "summary": "arXiv:2512.07901v3 Announce Type: cross \nAbstract: Von Neumann founded both game theory and the theory of self-reproducing automata, but the two programs never merged. This paper provides the synthesis. The Theory of Strategic Evolution analyzes strategic replicators: entities that optimize under re",
+      "url": "https://arxiv.org/abs/2512.07901",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Evaluating XAI Support From A Hierarchical Reinforcement Learning Policy in Human-Agent Collaboration",
+      "summary": "arXiv:2608.06381v1 Announce Type: cross \nAbstract: Explainable AI (XAI) has shown promise for human-agent collaboration, yet results rely on hand-crafted policies in custom environments, limiting generalizability to state-of-the-art teaming research. We provide the first systematic evaluation of XAI",
+      "url": "https://arxiv.org/abs/2608.06381",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "A Multi-Agent Framework for Automated Coarse-Grained Molecular Dynamics of Polymers",
+      "summary": "arXiv:2608.06694v1 Announce Type: cross \nAbstract: Coarse-grained (CG) molecular dynamics extends polymer simulation beyond the scales accessible to all-atom (AA) methods, but bottom-up CG modeling is laborious. The CG resolution is a design choice, so a transferable parameter set is generally not a",
+      "url": "https://arxiv.org/abs/2608.06694",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
