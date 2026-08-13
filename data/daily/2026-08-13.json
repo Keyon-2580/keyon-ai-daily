@@ -1,0 +1,344 @@
+{
+  "date": "2026-08-13",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-08-13 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Show HN: Agent Memory Leaderboard – first public results for AI memory systems",
+      "summary": "We just released the first public results from the Agent Memory Leaderboard (AML).The first evaluation focuses on Text Memory across two tracks:- Open-source Methods\n- Commercial Products136 teams registered, and 69 representative memory frameworks completed the first evaluation.Commercial Products",
+      "url": "https://agentmemoryleaderboard.ai/leaderboard/academic/textual",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: I'm tired replying my social media visitors, I let AI agent handle it",
+      "summary": "Agle answers questions, handles complaints, completes tasks, books meetings, and routes important issues to me — automatically, 24/7.\n\nComments URL: https://news.ycombinator.com/item?id=49281335\nPoints: 1\n# Comments: 0",
+      "url": "https://www.agle.app/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Why your LLM ignores what you asked for",
+      "summary": "Article URL: https://github.com/CamjamPNG/skills\nComments URL: https://news.ycombinator.com/item?id=49280922\nPoints: 3\n# Comments: 0",
+      "url": "https://github.com/CamjamPNG/skills",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Use Dreams to create memories your AI agent can access",
+      "summary": "Article URL: https://davenporter.substack.com/p/give-an-agent-access-to-memories\nComments URL: https://news.ycombinator.com/item?id=49280149\nPoints: 4\n# Comments: 0",
+      "url": "https://davenporter.substack.com/p/give-an-agent-access-to-memories",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Closed-Loop LLM Co-Pilots for Digital Agriculture",
+      "summary": "arXiv:2608.09949v1 Announce Type: new \nAbstract: This study evaluates the application of Large Language Models (LLMs) in complex biological systems, evolving from data analysis to autonomous, AI-guided experimentation. The framework is driven by data from a 49-channel phytosensor network, encompassi",
+      "url": "https://arxiv.org/abs/2608.09949",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning",
+      "summary": "arXiv:2608.09967v1 Announce Type: new \nAbstract: Deep reinforcement learning (DRL) agents achieve strong performance in complex environments, yet their decision-making processes remain difficult to interpret. We introduce SPOT (Sampling Policy Observation Tree), a novel model-agnostic, sampling-base",
+      "url": "https://arxiv.org/abs/2608.09967",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "MIDAS: Mutual Information Disentanglement with Uncertainty-Aware Fusion for Incomplete Multimodal Sentiment Analysis",
+      "summary": "arXiv:2608.09986v1 Announce Type: new \nAbstract: Most existing multimodal sentiment analysis approaches assume access to complete multimodal inputs. However, real-world applications frequently encounter incomplete or corrupted modalities, posing a critical challenge. Although several methods have be",
+      "url": "https://arxiv.org/abs/2608.09986",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Towards Sustainable Artificial Intelligence: A Comprehensive Review and Comparative Analysis of Deep Learning Models' Carbon Footprint",
+      "summary": "arXiv:2608.09998v1 Announce Type: new \nAbstract: Artificial Intelligence (AI) and Machine Learning (ML) have become powerful tools for supporting and automating complex human tasks. Despite their benefits, growing attention has been directed toward their environmental implications, primarily due to",
+      "url": "https://arxiv.org/abs/2608.09998",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Automating and Scaling Behavioral Scientific Research on AI Agents",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.10030"
+        },
+        {
+          "title": "Beyond Cash Flows: A Multi-Agent AI Framework for Valuing Clinical-Stage, Cross-Border Biotechnology",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.10175"
+        },
+        {
+          "title": "ASCon: A Direction-Aware Reciprocal Agent--Step Contextualization Model for Failure Attribution in Multi-Agent Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.10646"
+        },
+        {
+          "title": "Who Are You Explaining To? A Multi-Agent System for Audience-Aware XAI Narratives",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.11033"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": []
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Show HN: Agent Memory Leaderboard – first public results for AI memory systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://agentmemoryleaderboard.ai/leaderboard/academic/textual"
+        },
+        {
+          "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://www.alphaxiv.org/abs/2608.09867"
+        },
+        {
+          "title": "Closed-Loop LLM Co-Pilots for Digital Agriculture",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.09949"
+        },
+        {
+          "title": "The Deliberative Deficit: An Empirical Critique of LLMs in Democratic Discourse",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.10186"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "Show HN: Agent Memory Leaderboard – first public results for AI memory systems",
+      "summary": "We just released the first public results from the Agent Memory Leaderboard (AML).The first evaluation focuses on Text Memory across two tracks:- Open-source Methods\n- Commercial Products136 teams registered, and 69 representative memory frameworks completed the first evaluation.Commercial Products",
+      "url": "https://agentmemoryleaderboard.ai/leaderboard/academic/textual",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: I'm tired replying my social media visitors, I let AI agent handle it",
+      "summary": "Agle answers questions, handles complaints, completes tasks, books meetings, and routes important issues to me — automatically, 24/7.\n\nComments URL: https://news.ycombinator.com/item?id=49281335\nPoints: 1\n# Comments: 0",
+      "url": "https://www.agle.app/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Why your LLM ignores what you asked for",
+      "summary": "Article URL: https://github.com/CamjamPNG/skills\nComments URL: https://news.ycombinator.com/item?id=49280922\nPoints: 3\n# Comments: 0",
+      "url": "https://github.com/CamjamPNG/skills",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Use Dreams to create memories your AI agent can access",
+      "summary": "Article URL: https://davenporter.substack.com/p/give-an-agent-access-to-memories\nComments URL: https://news.ycombinator.com/item?id=49280149\nPoints: 4\n# Comments: 0",
+      "url": "https://davenporter.substack.com/p/give-an-agent-access-to-memories",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "summary": "Article URL: https://www.alphaxiv.org/abs/2608.09867\nComments URL: https://news.ycombinator.com/item?id=49279815\nPoints: 5\n# Comments: 0",
+      "url": "https://www.alphaxiv.org/abs/2608.09867",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "DLLM: Minimal, clean coding agent built directly on llama.cpp without overhead",
+      "summary": "Article URL: https://github.com/DannyArends/DLLM\nComments URL: https://news.ycombinator.com/item?id=49279500\nPoints: 9\n# Comments: 2",
+      "url": "https://github.com/DannyArends/DLLM",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: Keep batch LLM jobs from starving interactive traffic (TypeScript)",
+      "summary": "Article URL: https://github.com/janbalangue/async-bulkhead-llm\nComments URL: https://news.ycombinator.com/item?id=49278841\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/janbalangue/async-bulkhead-llm",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "A simple fix for LLM tail latency",
+      "summary": "Article URL: https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/\nComments URL: https://news.ycombinator.com/item?id=49278732\nPoints: 1\n# Comments: 0",
+      "url": "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "Closed-Loop LLM Co-Pilots for Digital Agriculture",
+      "summary": "arXiv:2608.09949v1 Announce Type: new \nAbstract: This study evaluates the application of Large Language Models (LLMs) in complex biological systems, evolving from data analysis to autonomous, AI-guided experimentation. The framework is driven by data from a 49-channel phytosensor network, encompassi",
+      "url": "https://arxiv.org/abs/2608.09949",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning",
+      "summary": "arXiv:2608.09967v1 Announce Type: new \nAbstract: Deep reinforcement learning (DRL) agents achieve strong performance in complex environments, yet their decision-making processes remain difficult to interpret. We introduce SPOT (Sampling Policy Observation Tree), a novel model-agnostic, sampling-base",
+      "url": "https://arxiv.org/abs/2608.09967",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "MIDAS: Mutual Information Disentanglement with Uncertainty-Aware Fusion for Incomplete Multimodal Sentiment Analysis",
+      "summary": "arXiv:2608.09986v1 Announce Type: new \nAbstract: Most existing multimodal sentiment analysis approaches assume access to complete multimodal inputs. However, real-world applications frequently encounter incomplete or corrupted modalities, posing a critical challenge. Although several methods have be",
+      "url": "https://arxiv.org/abs/2608.09986",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Towards Sustainable Artificial Intelligence: A Comprehensive Review and Comparative Analysis of Deep Learning Models' Carbon Footprint",
+      "summary": "arXiv:2608.09998v1 Announce Type: new \nAbstract: Artificial Intelligence (AI) and Machine Learning (ML) have become powerful tools for supporting and automating complex human tasks. Despite their benefits, growing attention has been directed toward their environmental implications, primarily due to",
+      "url": "https://arxiv.org/abs/2608.09998",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "ReCBM: Uncertainty-Gated Relational Reasoning for Concept Bottleneck Models",
+      "summary": "arXiv:2608.10004v1 Announce Type: new \nAbstract: Concept Bottleneck Models (CBMs) provide an interpretable framework by grounding predictions in human-understandable concepts, enabling semantic inspection and test-time intervention. Recent variants have improved CBMs through richer concept represent",
+      "url": "https://arxiv.org/abs/2608.10004",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Automating and Scaling Behavioral Scientific Research on AI Agents",
+      "summary": "arXiv:2608.10030v1 Announce Type: new \nAbstract: As AI agents are increasingly deployed in complex environments, understanding their behaviors becomes critical. Yet behavioral scientific research on AI agents remains manual and labor-intensive. We introduce AEROBAT, the first multi-agent system to a",
+      "url": "https://arxiv.org/abs/2608.10030",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "CHORUS: Complementary Experts for High-Coverage Testbench Stimulus Generation",
+      "summary": "arXiv:2608.10090v1 Announce Type: new \nAbstract: Large language models (LLMs) have advanced code generation, where executable feedback provides a more reliable learning signal than textual imitation alone. Hardware verification is an important application of code generation and accounts for a substa",
+      "url": "https://arxiv.org/abs/2608.10090",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "MESA:Task-Adaptive Multi-Structure Evidence Selection for Long-Horizon Agent Memory",
+      "summary": "arXiv:2608.10108v1 Announce Type: new \nAbstract: Long-horizon agents accumulate trajectories spanning hundreds of interleaved reasoning, action, and observation steps, where answering a query may depend on evidence buried far back in the history. External memory stores such trajectories as structure",
+      "url": "https://arxiv.org/abs/2608.10108",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Beyond Cash Flows: A Multi-Agent AI Framework for Valuing Clinical-Stage, Cross-Border Biotechnology",
+      "summary": "arXiv:2608.10175v1 Announce Type: new \nAbstract: A new class of software systems is transforming investment analysis. Large language model agents assembled into collaborative team structures including analysts, researchers, and risk managers are increasingly deployed across financial markets. Yet cu",
+      "url": "https://arxiv.org/abs/2608.10175",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "The Deliberative Deficit: An Empirical Critique of LLMs in Democratic Discourse",
+      "summary": "arXiv:2608.10186v1 Announce Type: new \nAbstract: LLMs are increasingly deployed in settings that require collective reasoning on complex, value-laden problems. Confidence in these deployments rests largely on benchmarks for verifiable tasks (mathematics, coding, coordination games), yet many of thes",
+      "url": "https://arxiv.org/abs/2608.10186",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Not a Monolith: Lab-Level Divergence in the Cooperative Equilibria of Chinese Frontier LLM Agents",
+      "summary": "arXiv:2608.10262v1 Announce Type: new \nAbstract: Does the cooperative bias documented for Western frontier LLM agents extend to a different alignment lineage, and should the Chinese models that embody it be treated as a single bloc or as distinct laboratories? We study four frontier-tier Chinese mod",
+      "url": "https://arxiv.org/abs/2608.10262",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "ASCon: A Direction-Aware Reciprocal Agent--Step Contextualization Model for Failure Attribution in Multi-Agent Systems",
+      "summary": "arXiv:2608.10646v1 Announce Type: new \nAbstract: Failure attribution in LLM-based multi-agent systems (MAS) aims to answer who caused failures, when they occurred, and why by identifying responsible targets including faulty agents, erroneous steps, and failure modes. Existing methods have primarily",
+      "url": "https://arxiv.org/abs/2608.10646",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Reifying Research Logic: AI-Assisted Workflow Construction and Incremental Refinement for Quantitative Syntax",
+      "summary": "arXiv:2608.10662v1 Announce Type: new \nAbstract: Quantitative language research often depends on long chains of computational steps, yet the logic connecting those steps usually remains buried in scripts. This makes analyses harder to inspect, share, and revise than they need to be. Focusing on quan",
+      "url": "https://arxiv.org/abs/2608.10662",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Who Are You Explaining To? A Multi-Agent System for Audience-Aware XAI Narratives",
+      "summary": "arXiv:2608.11033v1 Announce Type: new \nAbstract: Feature-attribution methods such as SHAP provide useful evidence about individual model predictions, but their numerical outputs are rarely sufficient for audiences with different expertise, goals, and risks of misinterpretation. In medical AI, the sa",
+      "url": "https://arxiv.org/abs/2608.11033",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "TRIBE: Predicting Team Performance via Communication Behavior Ensembles",
+      "summary": "arXiv:2608.06926v1 Announce Type: cross \nAbstract: Designing autonomous agents that effectively assist human teams hinges on understanding team dynamics, often without task specific knowledge. We present TRIBE, a domain independent approach that reveals team behavioral dynamics invisible to traditio",
+      "url": "https://arxiv.org/abs/2608.06926",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Sheaf-Based Federated Representation Learning",
+      "summary": "arXiv:2608.10016v1 Announce Type: cross \nAbstract: Heterogeneous federated systems require agents to learn and exchange informative representations despite differences in data distributions, sensing modalities, model architectures, latent dimensionalities, and local learning objectives. To address t",
+      "url": "https://arxiv.org/abs/2608.10016",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
