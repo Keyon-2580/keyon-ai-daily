@@ -1,0 +1,339 @@
+{
+  "date": "2026-08-20",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-08-20 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "summary": "Article URL: https://arxiv.org/abs/2608.09867\nComments URL: https://news.ycombinator.com/item?id=49369654\nPoints: 1\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2608.09867",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Misconfigured Admin System Prompts Can Invert an LLM's Safety Layer",
+      "summary": "Article URL: https://medium.com/@aadvait.cr/how-misconfigured-admin-system-prompts-can-invert-every-single-llm-safety-layer-1085a1d79b55\nComments URL: https://news.ycombinator.com/item?id=49369538\nPoints: 1\n# Comments: 0",
+      "url": "https://medium.com/@aadvait.cr/how-misconfigured-admin-system-prompts-can-invert-every-single-llm-safety-layer-1085a1d79b55",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "The Arduino UNO Q is an almost perfect Hermes Agent host",
+      "summary": "I’ve wanted to try out Hermes agent for a while now but I never wanted to run it on my own personal machine. I thought about maybe using a hosted VPS but I wasn’t keen on the ongoing cost. Then I looked a recently acquired Arduino UNO Q. A weird arduino board that has an arduino on one side and Lin",
+      "url": "https://news.ycombinator.com/item?id=49368474",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Agent Swarms",
+      "summary": "Article URL: https://av.codes/blog/on-agent-swarms/\nComments URL: https://news.ycombinator.com/item?id=49368141\nPoints: 1\n# Comments: 0",
+      "url": "https://av.codes/blog/on-agent-swarms/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
+      "summary": "arXiv:2608.16890v1 Announce Type: new \nAbstract: Clinical trial programming -- transforming study protocols into analysis-ready datasets under CDISC standards -- is a bottleneck in regulatory submissions, yet LLM-based code generation fails catastrophically on this task: across 11 single-shot attemp",
+      "url": "https://arxiv.org/abs/2608.16890",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution",
+      "summary": "arXiv:2608.16891v1 Announce Type: new \nAbstract: Agentic AI systems request tool actions that can modify files, send messages, launch jobs, or change workflow state. This shifts the safety problem from harmful text generation to harmful operational side effects. Prompt-level governance can shape mod",
+      "url": "https://arxiv.org/abs/2608.16891",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "The Price of Thinking: Reasoning Effort as a Model-Specific API Contract",
+      "summary": "arXiv:2608.16956v1 Announce Type: new \nAbstract: API buyers purchase a dated contract, not a model name alone: the contract includes the requested and served model, reasoning-effort term or its omission, output rail, service product, prompt, and price schedule. We study the reasoning-effort term thr",
+      "url": "https://arxiv.org/abs/2608.16956",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "FedPref: Federated Preference Learning for Structured Radiology Report Extraction",
+      "summary": "arXiv:2608.16971v1 Announce Type: new \nAbstract: Radiology reports describe findings and locations in free text, but downstream search and analysis require these relations in a fixed schema. Learning this extraction requires labels that are unevenly distributed across institutions: smaller hospitals",
+      "url": "https://arxiv.org/abs/2608.16971",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Sabrix-bench: Fast MCP inspector and agent loop latency profiler in Rust",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://github.com/Pro-Kla/sabrix-bench"
+        },
+        {
+          "title": "WONDER: A Radio World Model-based Negotiation Framework for Multi-Agent UAV Coverage Optimization",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.16955"
+        },
+        {
+          "title": "Offline Multi-Agent Reinforcement Learning with a Physics-Informed World Model for Cooperative Mixed Traffic Control",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.17739"
+        },
+        {
+          "title": "A Theoretical Framework for Parallel Lifelong MAPF Using Group Decentralized Planning",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.17928"
+        },
+        {
+          "title": "MITRE-SAGE: A Multi-Agent Cybersecurity Question-Answering model",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.16921"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.16891"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://arxiv.org/abs/2608.09867"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "summary": "Article URL: https://arxiv.org/abs/2608.09867\nComments URL: https://news.ycombinator.com/item?id=49369654\nPoints: 1\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2608.09867",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Misconfigured Admin System Prompts Can Invert an LLM's Safety Layer",
+      "summary": "Article URL: https://medium.com/@aadvait.cr/how-misconfigured-admin-system-prompts-can-invert-every-single-llm-safety-layer-1085a1d79b55\nComments URL: https://news.ycombinator.com/item?id=49369538\nPoints: 1\n# Comments: 0",
+      "url": "https://medium.com/@aadvait.cr/how-misconfigured-admin-system-prompts-can-invert-every-single-llm-safety-layer-1085a1d79b55",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "The Arduino UNO Q is an almost perfect Hermes Agent host",
+      "summary": "I’ve wanted to try out Hermes agent for a while now but I never wanted to run it on my own personal machine. I thought about maybe using a hosted VPS but I wasn’t keen on the ongoing cost. Then I looked a recently acquired Arduino UNO Q. A weird arduino board that has an arduino on one side and Lin",
+      "url": "https://news.ycombinator.com/item?id=49368474",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Agent Swarms",
+      "summary": "Article URL: https://av.codes/blog/on-agent-swarms/\nComments URL: https://news.ycombinator.com/item?id=49368141\nPoints: 1\n# Comments: 0",
+      "url": "https://av.codes/blog/on-agent-swarms/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Collaborative Human Agent Protocol (CHAP)",
+      "summary": "Article URL: https://github.com/BrightbeamAI/chap\nComments URL: https://news.ycombinator.com/item?id=49367836\nPoints: 19\n# Comments: 3",
+      "url": "https://github.com/BrightbeamAI/chap",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Vibe-Kanban-Alternative – Classic AI agent Kanban with mem0 persistent memory",
+      "summary": "Article URL: https://github.com/flashlan/vibe-kanban-alternative\nComments URL: https://news.ycombinator.com/item?id=49367532\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/flashlan/vibe-kanban-alternative",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: I forked an agent stack and measured myself against it, losses included",
+      "summary": "Article URL: https://toolbay.ai/stack\nComments URL: https://news.ycombinator.com/item?id=49367151\nPoints: 1\n# Comments: 0",
+      "url": "https://toolbay.ai/stack",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Sabrix-bench: Fast MCP inspector and agent loop latency profiler in Rust",
+      "summary": "Article URL: https://github.com/Pro-Kla/sabrix-bench\nComments URL: https://news.ycombinator.com/item?id=49366379\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/Pro-Kla/sabrix-bench",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
+      "summary": "arXiv:2608.16890v1 Announce Type: new \nAbstract: Clinical trial programming -- transforming study protocols into analysis-ready datasets under CDISC standards -- is a bottleneck in regulatory submissions, yet LLM-based code generation fails catastrophically on this task: across 11 single-shot attemp",
+      "url": "https://arxiv.org/abs/2608.16890",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution",
+      "summary": "arXiv:2608.16891v1 Announce Type: new \nAbstract: Agentic AI systems request tool actions that can modify files, send messages, launch jobs, or change workflow state. This shifts the safety problem from harmful text generation to harmful operational side effects. Prompt-level governance can shape mod",
+      "url": "https://arxiv.org/abs/2608.16891",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "The Price of Thinking: Reasoning Effort as a Model-Specific API Contract",
+      "summary": "arXiv:2608.16956v1 Announce Type: new \nAbstract: API buyers purchase a dated contract, not a model name alone: the contract includes the requested and served model, reasoning-effort term or its omission, output rail, service product, prompt, and price schedule. We study the reasoning-effort term thr",
+      "url": "https://arxiv.org/abs/2608.16956",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "FedPref: Federated Preference Learning for Structured Radiology Report Extraction",
+      "summary": "arXiv:2608.16971v1 Announce Type: new \nAbstract: Radiology reports describe findings and locations in free text, but downstream search and analysis require these relations in a fixed schema. Learning this extraction requires labels that are unevenly distributed across institutions: smaller hospitals",
+      "url": "https://arxiv.org/abs/2608.16971",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "The Problem Is the Problem: Towards Scalable Mathematical Discovery",
+      "summary": "arXiv:2608.16977v1 Announce Type: new \nAbstract: AI systems are increasingly capable of contributing to mathematical research. In research practice, frontier-model reasoning is a limited resource, and expert mathematical review is even more sharply constrained. Allocating these scarce resources well",
+      "url": "https://arxiv.org/abs/2608.16977",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "SkillEffect: Checked Lowering for Memory-Bounded Agent Tools",
+      "summary": "arXiv:2608.17007v1 Announce Type: new \nAbstract: Agent Skills can specify procedural and resource obligations for tool use, and language models instantiate them as concrete programs. However, when models turn this guidance into code for existing tool interfaces, even a semantically correct program m",
+      "url": "https://arxiv.org/abs/2608.17007",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Memory Is Communication: The Frontier Between Remembering and Signaling",
+      "summary": "arXiv:2608.17053v1 Announce Type: new \nAbstract: A bounded agent may obtain information for a decision from its own past, from peers, or from both sources. Retaining task-relevant history can reduce later communication, while a peer message can supply what memory lacks. Under limits on both resource",
+      "url": "https://arxiv.org/abs/2608.17053",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "DiSCO: Defending text-to-image generation through distribution-guided contrastive prompt optimization",
+      "summary": "arXiv:2608.17067v1 Announce Type: new \nAbstract: As text-to-image generative models advance, they raise critical safety concerns, particularly the generation of Not-Safe-For-Work (NSFW) content such as violence and nudity, further exacerbated by red-teaming adversarial attacks. Existing defenses pre",
+      "url": "https://arxiv.org/abs/2608.17067",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "WONDER: A Radio World Model-based Negotiation Framework for Multi-Agent UAV Coverage Optimization",
+      "summary": "arXiv:2608.16955v1 Announce Type: new \nAbstract: Post-disaster damage to terrestrial infrastructure can disrupt wireless coverage,while Uncrewed Aerial Vehicle (UAV) swarms provide a promising solution for rapid restoration.However, due to the limitations in local geometry observations hidden radio",
+      "url": "https://arxiv.org/abs/2608.16955",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Adaptive Incentive Design in Dynamic Principal-Agent Problem via Kernelized Bandits",
+      "summary": "arXiv:2608.17614v1 Announce Type: new \nAbstract: We consider the dynamic principal-agent problem under asymmetric information, wherein a principal sequentially designs contracts to incentivize an agent with unknown preferences and hidden actions. A fundamental bottleneck in the existing literature i",
+      "url": "https://arxiv.org/abs/2608.17614",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Offline Multi-Agent Reinforcement Learning with a Physics-Informed World Model for Cooperative Mixed Traffic Control",
+      "summary": "arXiv:2608.17739v1 Announce Type: new \nAbstract: This study investigates cooperative control of connected and automated vehicles (CAVs) at partially observable highway bottlenecks in mixed traffic, aiming to mitigate congestion without relying on complete global traffic states or online trial-and-er",
+      "url": "https://arxiv.org/abs/2608.17739",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "A Theoretical Framework for Parallel Lifelong MAPF Using Group Decentralized Planning",
+      "summary": "arXiv:2608.17928v1 Announce Type: new \nAbstract: In the Lifelong Multi-Agent Path Finding (L-MAPF) problem, agents must repeatedly move from one destination to another while avoiding obstacles and inter-agent collisions. Widely regarded as one of the highest-performing solutions to this problem is t",
+      "url": "https://arxiv.org/abs/2608.17928",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Collective Counterfactual Planning: Coordination, Consent, and Verification under Representational Constraints",
+      "summary": "arXiv:2608.17932v1 Announce Type: new \nAbstract: Groups routinely complete projects that no single member can plan, execute, or verify alone. We propose a formal model of this phenomenon, Collective Counterfactual Planning (CCP), in which the binding limitation on each agent is neither capability, k",
+      "url": "https://arxiv.org/abs/2608.17932",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "CityReal: Human-Aligned Urban Behavior and City Dynamics Simulation with Large-Scale LLM Agents",
+      "summary": "arXiv:2608.16897v1 Announce Type: cross \nAbstract: Large-scale urban simulation plays a pivotal role in social science, traffic safety, and transportation policy. Recent work has shown that large language models, when prompted as agents, can generate lifelike daily routines at city scale. Yet these",
+      "url": "https://arxiv.org/abs/2608.16897",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "MITRE-SAGE: A Multi-Agent Cybersecurity Question-Answering model",
+      "summary": "arXiv:2608.16921v1 Announce Type: cross \nAbstract: Effective cybersecurity operations require timely and accurate analysis of large-scale heterogeneous security information; however, analysts increasingly struggle with information overload, alert fatigue, and time-constrained decision-making. Althou",
+      "url": "https://arxiv.org/abs/2608.16921",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "The Little Scientist: LLM Agent-Driven Discovery via the Scientific Method",
+      "summary": "arXiv:2608.16951v1 Announce Type: cross \nAbstract: What happens when you teach an LLM-based agent the scientific method?\n  Motivation: Scientific discovery emerges from cycles of hypothesis, implementation, empirical testing, and feedback. Can this process be automated? We approach automated algorit",
+      "url": "https://arxiv.org/abs/2608.16951",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
