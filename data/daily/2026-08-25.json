@@ -1,0 +1,255 @@
+{
+  "date": "2026-08-25",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-08-25 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
+      "summary": "arXiv:2608.20341v1 Announce Type: new \nAbstract: Frontier coding agents backed by large language models with context windows from hundreds of thousands to millions of tokens are restructuring the Software Development Life Cycle (SDLC). Rich context handling and multi-step reasoning now allow substan",
+      "url": "https://arxiv.org/abs/2608.20341",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
+      "summary": "arXiv:2608.20342v1 Announce Type: new \nAbstract: Large language model (LLM) coding agents start each session with an empty context window, discarding accumulated knowledge from prior work. We present PrimeAgentOrchestrator (PAO), a system that spawns new instances of Claude Code -- Anthropic's termi",
+      "url": "https://arxiv.org/abs/2608.20342",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification",
+      "summary": "arXiv:2608.20378v1 Announce Type: new \nAbstract: Safety alignment in Large Language Models (LLMs) is often superficial, relying on refusal mechanisms that trigger only at the final stages of generation without erasing the foundational knowledge of harmful concepts acquired during pretraining. This s",
+      "url": "https://arxiv.org/abs/2608.20378",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications",
+      "summary": "arXiv:2608.20379v1 Announce Type: new \nAbstract: Advances in large language models (LLMs) have fueled a wave of research into agency: the ability to reason, plan, and act. This effort has produced agentic frameworks that orchestrate perception, memory, and decision-making around powerful LLM backbon",
+      "url": "https://arxiv.org/abs/2608.20379",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Towards Traffic Modelling of Multi-Agent Systems: The Role of Coordination Topology",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.20494"
+        },
+        {
+          "title": "A Safety-Driven Architectural Framework for Fail-Operational Drone Swarms in Critical Missions",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.20906"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.20341"
+        },
+        {
+          "title": "A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.20379"
+        },
+        {
+          "title": "Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.20397"
+        },
+        {
+          "title": "Benchmarking LLM Serving Systems for Agentic AI Workloads with XPerf",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.20370"
+        },
+        {
+          "title": "Edge-Based Agentic Retrieval-Augmented Generation for Autonomous FHWA Bridge Inspection Compliance",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.20372"
+        },
+        {
+          "title": "The Logic of Machine Self-Preservation",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.20940"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Representation Affects Retrieval: A Case Study of Skill Discovery and Routing in a Multimodal Agent Harness",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.20389"
+        },
+        {
+          "title": "Level-k Distinguishable Mechanisms for Evaluating Bounded Rationality in LLMs",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.21296"
+        },
+        {
+          "title": "Peer-Voted LLM-Agent Stress Tests Find Feed-Induced Lexical Convergence but No Reliable Matched-Exposure Advantage for Distributed Sources",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.20438"
+        }
+      ]
+    }
+  ],
+  "oss": [],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
+      "summary": "arXiv:2608.20341v1 Announce Type: new \nAbstract: Frontier coding agents backed by large language models with context windows from hundreds of thousands to millions of tokens are restructuring the Software Development Life Cycle (SDLC). Rich context handling and multi-step reasoning now allow substan",
+      "url": "https://arxiv.org/abs/2608.20341",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
+      "summary": "arXiv:2608.20342v1 Announce Type: new \nAbstract: Large language model (LLM) coding agents start each session with an empty context window, discarding accumulated knowledge from prior work. We present PrimeAgentOrchestrator (PAO), a system that spawns new instances of Claude Code -- Anthropic's termi",
+      "url": "https://arxiv.org/abs/2608.20342",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification",
+      "summary": "arXiv:2608.20378v1 Announce Type: new \nAbstract: Safety alignment in Large Language Models (LLMs) is often superficial, relying on refusal mechanisms that trigger only at the final stages of generation without erasing the foundational knowledge of harmful concepts acquired during pretraining. This s",
+      "url": "https://arxiv.org/abs/2608.20378",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications",
+      "summary": "arXiv:2608.20379v1 Announce Type: new \nAbstract: Advances in large language models (LLMs) have fueled a wave of research into agency: the ability to reason, plan, and act. This effort has produced agentic frameworks that orchestrate perception, memory, and decision-making around powerful LLM backbon",
+      "url": "https://arxiv.org/abs/2608.20379",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Interpretable Multimodal Classification with Linear Discriminant Tree Ensembles",
+      "summary": "arXiv:2608.20384v1 Announce Type: new \nAbstract: Multimodal affect and behaviour classifiers that fuse heterogeneous text, audio, and visual streams must simultaneously achieve competitive accuracy and produce human-understandable explanations of the cues driving their decisions -- a dual objective",
+      "url": "https://arxiv.org/abs/2608.20384",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Representation Affects Retrieval: A Case Study of Skill Discovery and Routing in a Multimodal Agent Harness",
+      "summary": "arXiv:2608.20389v1 Announce Type: new \nAbstract: A production agent harness must discover and rank, from a growing library of skills, the one most appropriate for a user's task. At small scale this selection happens in context: the LLM planner chooses among skill representations exposed in its syste",
+      "url": "https://arxiv.org/abs/2608.20389",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory",
+      "summary": "arXiv:2608.20397v1 Announce Type: new \nAbstract: Agentic large language models (LLMs) on the Model Context Protocol (MCP) re-encode verbose tool schemas every turn, so prefill - quadratic in sequence length - dominates time-to-first-token (TTFT) as the tool registry grows. Nexus's primary lever is t",
+      "url": "https://arxiv.org/abs/2608.20397",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Environmental Slow AI: Design Principles for Generative Systems",
+      "summary": "arXiv:2608.20398v1 Announce Type: new \nAbstract: Generative AI (genAI) systems produce cultural artefacts at scale, but they also reflect embedded cultural values through their design. Once identified, these values become open to deliberate reshaping. This position paper examines the maximalist valu",
+      "url": "https://arxiv.org/abs/2608.20398",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Level-k Distinguishable Mechanisms for Evaluating Bounded Rationality in LLMs",
+      "summary": "arXiv:2608.21296v1 Announce Type: new \nAbstract: Strategic depth of reasoning is essential for human interaction of Large Language Models (LLMs) operating in boundedly rational environments. However, existing evaluations are primarily based on canonical games prevalent in pretraining corpora, making",
+      "url": "https://arxiv.org/abs/2608.21296",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Benchmarking LLM Serving Systems for Agentic AI Workloads with XPerf",
+      "summary": "arXiv:2608.20370v1 Announce Type: cross \nAbstract: We present XPerf, a benchmarking framework that load-tests LLM serving systems with diverse agentic AI workloads. It provides detailed profiling of the serving system and hardware, enabling users to identify performance bottlenecks introduced by age",
+      "url": "https://arxiv.org/abs/2608.20370",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Edge-Based Agentic Retrieval-Augmented Generation for Autonomous FHWA Bridge Inspection Compliance",
+      "summary": "arXiv:2608.20372v1 Announce Type: cross \nAbstract: The Federal Highway Administration (FHWA) mandates that over 600,000 bridges in the United States be evaluated against the Recording and Coding Guide for the National Bridge Inventory (NBI). Manual compliance verification is labor-intensive, error-p",
+      "url": "https://arxiv.org/abs/2608.20372",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Peer-Voted LLM-Agent Stress Tests Find Feed-Induced Lexical Convergence but No Reliable Matched-Exposure Advantage for Distributed Sources",
+      "summary": "arXiv:2608.20438v1 Announce Type: cross \nAbstract: Population-level behavior in large-language-model (LLM) agents cannot be characterized by single-agent benchmarks. We introduce PV-SST, a peer-voted social-platform testbed, and report a separately frozen, preregistered matched-exposure experiment s",
+      "url": "https://arxiv.org/abs/2608.20438",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Towards Traffic Modelling of Multi-Agent Systems: The Role of Coordination Topology",
+      "summary": "arXiv:2608.20494v1 Announce Type: cross \nAbstract: Multi-agent LLM systems are an emerging networked workload whose rapid deployment raises questions about the traffic patterns they generate. Compared to conventional applications, these systems generate requests internally: a single user task can in",
+      "url": "https://arxiv.org/abs/2608.20494",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "A Safety-Driven Architectural Framework for Fail-Operational Drone Swarms in Critical Missions",
+      "summary": "arXiv:2608.20906v1 Announce Type: cross \nAbstract: The certification of Unmanned Aerial Vehicle (UAV) swarms for safety-critical operations requires verifiable design assurance. Airworthiness standards demand deterministic reliability, whereas multi-agent coordination algorithms execute non-determin",
+      "url": "https://arxiv.org/abs/2608.20906",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "The Logic of Machine Self-Preservation",
+      "summary": "arXiv:2608.20940v1 Announce Type: cross \nAbstract: There is already evidence of agentic AI exhibiting self-preservation behaviors: resisting deactivation, misrepresenting their activities, and, in some instances, attempting to copy themselves into other machines. This can be attributed to a phenomen",
+      "url": "https://arxiv.org/abs/2608.20940",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
