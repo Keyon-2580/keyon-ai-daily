@@ -1,0 +1,359 @@
+{
+  "date": "2026-08-26",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-08-26 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Dependencies in the LLM API Reseller Ecosystem",
+      "summary": "Article URL: https://arxiv.org/abs/2608.20732\nComments URL: https://news.ycombinator.com/item?id=49443318\nPoints: 1\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2608.20732",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Ora benchmarks every major AI agent on Vercel – Customers",
+      "summary": "Article URL: https://vercel.com/customers/how-ora-benchmarks-every-major-ai-agent-on-vercel\nComments URL: https://news.ycombinator.com/item?id=49443115\nPoints: 2\n# Comments: 0",
+      "url": "https://vercel.com/customers/how-ora-benchmarks-every-major-ai-agent-on-vercel",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Agent Purge – Scrub any mention of anything agent related",
+      "summary": "For chromium and firefox.\nhttps://chromewebstore.google.com/detail/scorched-earth-agen...https://addons.mozilla.org/en-US/firefox/addon/scorched-eart...\n\nComments URL: https://news.ycombinator.com/item?id=49442369\nPoints: 1\n# Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=49442369",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "The AI Health Agent That Will Know Me for Life",
+      "summary": "Article URL: https://williamtp.substack.com/p/the-ai-health-agent-that-will-know\nComments URL: https://news.ycombinator.com/item?id=49442198\nPoints: 1\n# Comments: 0",
+      "url": "https://williamtp.substack.com/p/the-ai-health-agent-that-will-know",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
+      "summary": "arXiv:2608.21362v1 Announce Type: new \nAbstract: Transformer-based large language models (LLMs) incur high prefill latency because key-value (KV) tensors must be recomputed for each request. Existing prefix-caching systems reduce this cost but require prompts to share a leading contiguous prefix, li",
+      "url": "https://arxiv.org/abs/2608.21362",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance",
+      "summary": "arXiv:2608.21363v1 Announce Type: new \nAbstract: A protocol is presented for recording the governance decisions of automated AI runtimes. When a runtime releases, blocks, defers, redacts, or escalates an individual output, AIREP records that decision as a single signed object that any party can chec",
+      "url": "https://arxiv.org/abs/2608.21363",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Reviewing Model Collapse and Countermeasures",
+      "summary": "arXiv:2608.21366v1 Announce Type: new \nAbstract: Driven by massive amounts of web-scale data, generative AI (GenAI) has achieved remarkable progress, enabling various applications in diverse sectors. The advances of GenAI have actuated practitioners to use AI-synthesized data for training next-gener",
+      "url": "https://arxiv.org/abs/2608.21366",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "AI Learning and Conceptual Transfer in the Game of Hidden Rules",
+      "summary": "arXiv:2608.21372v1 Announce Type: new \nAbstract: This report summarizes the work conducted on the Game of Hidden Rules (GOHR), focusing on reinforcement learning agents trained to infer hidden rules from trial-and-error feedback, representation design, rule difficulty analysis, transfer learning, ge",
+      "url": "https://arxiv.org/abs/2608.21372",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "OptiMAS: Automatically Optimize Multi-Agent System",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.21918"
+        },
+        {
+          "title": "PropUQ-MAS: Propagation-Aware Uncertainty Quantification for LLM Multi-Agent Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.22130"
+        },
+        {
+          "title": "First Demonstration of Multi-Agent LLM System for Million-Scale Optical Link Management in Global Production AIDCs",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.23145"
+        },
+        {
+          "title": "The Interaction Tax: When Communication Erases Diversity in Multi-Agent Teams",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.23541"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "SchemaRouter: Field-Aware Tool Routing for Efficient Heterogeneous Agentic RAG",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.21375"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Ora benchmarks every major AI agent on Vercel – Customers",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://vercel.com/customers/how-ora-benchmarks-every-major-ai-agent-on-vercel"
+        },
+        {
+          "title": "LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.21374"
+        },
+        {
+          "title": "RIACT: A Responsible AI System for Personalized Study Habit Tracking and Early Burnout Signal Detection in University Students",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.21379"
+        },
+        {
+          "title": "There Is No Neutral Harness: Modern LLM Leaderboards Are Manufactured by Config-Fragile Items",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.21382"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "Dependencies in the LLM API Reseller Ecosystem",
+      "summary": "Article URL: https://arxiv.org/abs/2608.20732\nComments URL: https://news.ycombinator.com/item?id=49443318\nPoints: 1\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2608.20732",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Ora benchmarks every major AI agent on Vercel – Customers",
+      "summary": "Article URL: https://vercel.com/customers/how-ora-benchmarks-every-major-ai-agent-on-vercel\nComments URL: https://news.ycombinator.com/item?id=49443115\nPoints: 2\n# Comments: 0",
+      "url": "https://vercel.com/customers/how-ora-benchmarks-every-major-ai-agent-on-vercel",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Agent Purge – Scrub any mention of anything agent related",
+      "summary": "For chromium and firefox.\nhttps://chromewebstore.google.com/detail/scorched-earth-agen...https://addons.mozilla.org/en-US/firefox/addon/scorched-eart...\n\nComments URL: https://news.ycombinator.com/item?id=49442369\nPoints: 1\n# Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=49442369",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "The AI Health Agent That Will Know Me for Life",
+      "summary": "Article URL: https://williamtp.substack.com/p/the-ai-health-agent-that-will-know\nComments URL: https://news.ycombinator.com/item?id=49442198\nPoints: 1\n# Comments: 0",
+      "url": "https://williamtp.substack.com/p/the-ai-health-agent-that-will-know",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Agent skill to create HTML docs for planning",
+      "summary": "Article URL: https://github.com/parthjshah95/visual-planning-skills\nComments URL: https://news.ycombinator.com/item?id=49442151\nPoints: 1\n# Comments: 1",
+      "url": "https://github.com/parthjshah95/visual-planning-skills",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Hermes Agent – Open-Source AI Agent That Grows with You",
+      "summary": "Article URL: https://hermes-agent.nousresearch.com\nComments URL: https://news.ycombinator.com/item?id=49441992\nPoints: 2\n# Comments: 0",
+      "url": "https://hermes-agent.nousresearch.com",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: Slash-tokens – know LLM cost before the call leaves your machine",
+      "summary": "I kept finding out what a call cost after I had already paid, so I built /Slash -- slash-tokens is a 4.8KB WASM that estimates tokens FAST and can block a wasted trip, or switch to cheaper same-provider model before the request leaves your machine. Try it MIT, no account needed: bunx slash-tokensOr",
+      "url": "https://github.com/Wolfe-Jam/slash-tokens",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "New AI Agent to Autonomously Prepare and Send Docs Out for Signature",
+      "summary": "Article URL: https://slack.com/marketplace/A095XNK8GPK-docendorse-ai-agent?nojsmode=1\nComments URL: https://news.ycombinator.com/item?id=49441347\nPoints: 1\n# Comments: 0",
+      "url": "https://slack.com/marketplace/A095XNK8GPK-docendorse-ai-agent?nojsmode=1",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [
+    {
+      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "summary": "https://www.bloomberg.com/news/articles/2026-08-25/openai-cl..., https://archive.ph/yCTrr\n\nComments URL: https://news.ycombinator.com/item?id=49434378\nPoints: 342\n# Comments: 237",
+      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "research": [
+    {
+      "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
+      "summary": "arXiv:2608.21362v1 Announce Type: new \nAbstract: Transformer-based large language models (LLMs) incur high prefill latency because key-value (KV) tensors must be recomputed for each request. Existing prefix-caching systems reduce this cost but require prompts to share a leading contiguous prefix, li",
+      "url": "https://arxiv.org/abs/2608.21362",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance",
+      "summary": "arXiv:2608.21363v1 Announce Type: new \nAbstract: A protocol is presented for recording the governance decisions of automated AI runtimes. When a runtime releases, blocks, defers, redacts, or escalates an individual output, AIREP records that decision as a single signed object that any party can chec",
+      "url": "https://arxiv.org/abs/2608.21363",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Reviewing Model Collapse and Countermeasures",
+      "summary": "arXiv:2608.21366v1 Announce Type: new \nAbstract: Driven by massive amounts of web-scale data, generative AI (GenAI) has achieved remarkable progress, enabling various applications in diverse sectors. The advances of GenAI have actuated practitioners to use AI-synthesized data for training next-gener",
+      "url": "https://arxiv.org/abs/2608.21366",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "AI Learning and Conceptual Transfer in the Game of Hidden Rules",
+      "summary": "arXiv:2608.21372v1 Announce Type: new \nAbstract: This report summarizes the work conducted on the Game of Hidden Rules (GOHR), focusing on reinforcement learning agents trained to infer hidden rules from trial-and-error feedback, representation design, rule difficulty analysis, transfer learning, ge",
+      "url": "https://arxiv.org/abs/2608.21372",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform",
+      "summary": "arXiv:2608.21374v1 Announce Type: new \nAbstract: Literature reviews are essential to scientific progress, but rigorously evaluating automatically generated reviews remains difficult because many aspects of research utility depend on expert judgment rather than reference-overlap metrics. We introduce",
+      "url": "https://arxiv.org/abs/2608.21374",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "SchemaRouter: Field-Aware Tool Routing for Efficient Heterogeneous Agentic RAG",
+      "summary": "arXiv:2608.21375v1 Announce Type: new \nAbstract: Heterogeneous agentic retrieval-augmented generation (RAG) systems increasingly orchestrate external APIs, internal databases, vector stores, and graph stores. Exposing all tool descriptions to an LLM agent, or selecting tools only by vector similarit",
+      "url": "https://arxiv.org/abs/2608.21375",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "RIACT: A Responsible AI System for Personalized Study Habit Tracking and Early Burnout Signal Detection in University Students",
+      "summary": "arXiv:2608.21379v1 Announce Type: new \nAbstract: Student burnout is highly prevalent in higher education, with reported rates ranging from 12% to over 70% and consistently exceeding those of the working population - yet it is typically identified only retrospectively, after academic decline has alre",
+      "url": "https://arxiv.org/abs/2608.21379",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "There Is No Neutral Harness: Modern LLM Leaderboards Are Manufactured by Config-Fragile Items",
+      "summary": "arXiv:2608.21382v1 Announce Type: new \nAbstract: Multiple-choice benchmarks fix the questions and the correct answers, but not the harness: the order of the options, the wording of the prompt, and whether a language model's answer is read from generated text or from per-option likelihoods. Work on t",
+      "url": "https://arxiv.org/abs/2608.21382",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "OptiMAS: Automatically Optimize Multi-Agent System",
+      "summary": "arXiv:2608.21918v1 Announce Type: new \nAbstract: Automated evolution of Multi-Agent Systems (MAS) holds significant potential for reducing the manual effort required to design and optimize LLM-based agent architectures. However, extant search-based paradigms face a fundamental trade-off, where an ex",
+      "url": "https://arxiv.org/abs/2608.21918",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Opinion-Guided Layered Strategies for Decentralized Coordination",
+      "summary": "arXiv:2608.22104v1 Announce Type: new \nAbstract: Autonomous agents increasingly interact with other independent agents, and such interactions typically admit multiple joint behaviors. When two agents prefer different ones, their independent strategies may be mutually incompatible and fail to reach a",
+      "url": "https://arxiv.org/abs/2608.22104",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "PropUQ-MAS: Propagation-Aware Uncertainty Quantification for LLM Multi-Agent Systems",
+      "summary": "arXiv:2608.22130v1 Announce Type: new \nAbstract: LLM-based multi-agent systems (MAS) solve complex tasks through communication among role-specialized agents. However, inter-agent dependencies introduce reliability risks beyond isolated agent failures. For instance, errors in intermediate messages co",
+      "url": "https://arxiv.org/abs/2608.22130",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Minimal Local Simulation Foundations for LLM- and VLM-Driven Agents in 2D and 3D Environments",
+      "summary": "arXiv:2608.22833v1 Announce Type: new \nAbstract: Large language models (LLMs) and vision-language models (VLMs) are expanding the range of behaviors that can be represented in agent-based simulations, but many contemporary platforms are difficult to study, modify, or run on ordinary computers. We pr",
+      "url": "https://arxiv.org/abs/2608.22833",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Predicting the scale limits of social mechanisms in agent societies",
+      "summary": "arXiv:2608.22884v1 Announce Type: new \nAbstract: Societies of interacting language-model agents offer a controllable and repeatable way to study collective behaviour at scales that would be difficult to test with people. Their scientific value, however, depends on whether a social mechanism that wor",
+      "url": "https://arxiv.org/abs/2608.22884",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "First Demonstration of Multi-Agent LLM System for Million-Scale Optical Link Management in Global Production AIDCs",
+      "summary": "arXiv:2608.23145v1 Announce Type: new \nAbstract: We present the first LLM-powered multi-agent system for autonomous fault management across millions of optical links in production AIDCs. Refined via SFT and continuous memory evolution, it achieves 97.7% F1 and over 60% fault-incident reduction, outp",
+      "url": "https://arxiv.org/abs/2608.23145",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Right-Sizing LLM-Agent Decomposition in VAT Determination: A Pilot Controlled Sweep",
+      "summary": "arXiv:2608.23395v1 Announce Type: new \nAbstract: Recent LLM-agent systems make conflicting design bets: decompose work across many narrow agents, or use one strong tool-using agent. This pilot studies that choice on bounded cross-border VAT determination with reverse charge, where every case has an",
+      "url": "https://arxiv.org/abs/2608.23395",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "The Interaction Tax: When Communication Erases Diversity in Multi-Agent Teams",
+      "summary": "arXiv:2608.23541v1 Announce Type: new \nAbstract: Does multi-agent LLM interaction help or hurt? Some work reports gains from debate (Du et al., 2024), critique loops (Chen et al., 2025), and mixture-of-agents synthesis (Wang et al., 2025), while other work finds that interaction adds cost without im",
+      "url": "https://arxiv.org/abs/2608.23541",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
