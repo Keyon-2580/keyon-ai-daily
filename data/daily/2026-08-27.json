@@ -1,0 +1,376 @@
+{
+  "date": "2026-08-27",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-08-27 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Free REST API for LLM pricing, context windows and cost estimation",
+      "summary": "Article URL: https://github.com/axium-lab/llm-specs-api\nComments URL: https://news.ycombinator.com/item?id=49462479\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/axium-lab/llm-specs-api",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "LangChain-AI/deepagents: agent harness",
+      "summary": "Article URL: https://github.com/langchain-ai/deepagents\nComments URL: https://news.ycombinator.com/item?id=49461911\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/langchain-ai/deepagents",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Reconstruct distributed LLM training traces",
+      "summary": "When we train large language models, there are a lot of systems challenges and different sharding schemes one can use. While there are many great resources on scaling LLMs out there (https://huggingface.co/spaces/nanotron/ultrascale-playbook or https://jax-ml.github.io/scaling-book/), I felt like t",
+      "url": "https://trace.vladsavinov.com/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: I built an agent-first productivity bridge for all your agents",
+      "summary": "I initially built this for myself but some folks asked me to open access to it. Let me explain what I built and why.I'm a product designer who transitioned from only designing to building complete software products myself and I found myself using AI coding agents literally every day. I started with",
+      "url": "https://www.taskshell.app/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
+      "summary": "arXiv:2608.23568v1 Announce Type: new \nAbstract: Memory and RAG evaluations often treat the answering model's input as an implementation detail, even though systems may render the same history as a memory entry, summary, typed record, or raw excerpt. We introduce RENDER, a benchmark control that fix",
+      "url": "https://arxiv.org/abs/2608.23568",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
+      "summary": "arXiv:2608.23569v1 Announce Type: new \nAbstract: State-of-the-art Natural Language to SQL (NL2SQL) models report execution accuracy exceeding 89 percent on established benchmarks such as Spider and BIRD. However, these benchmarks rely on simplified academic schemas and open-source SQL dialects that",
+      "url": "https://arxiv.org/abs/2608.23569",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "LLM Agents Perform Controlled Experiments Using Simulation Models",
+      "summary": "arXiv:2608.23622v1 Announce Type: new \nAbstract: Large language models (LLMs) have shown strong capabilities in reasoning, planning, and tool use, but many scientific and engineering tasks require more than plausible text and code generation. They require understanding how a system responds to inter",
+      "url": "https://arxiv.org/abs/2608.23622",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts",
+      "summary": "arXiv:2608.23626v1 Announce Type: new \nAbstract: Foundation models for astronomy are trained on survey pixels together with the catalogue products derived from those pixels. Those catalogues are incomplete at a measurable rate, and a model trained on both inherits that incompleteness as a systematic",
+      "url": "https://arxiv.org/abs/2608.23626",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": [
+        {
+          "title": "Trust-Aware Sequential Decision Making and Rollout Planning for Resilient Multi-Robot Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.25690"
+        },
+        {
+          "title": "HypoForge: A Self-Improving Multi-Agent Framework for Automated Hypothesis Generation and Testing via Scientific Skill Learning",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.25770"
+        }
+      ]
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Poisoning Agentic Alpha: Adversarial Vulnerabilities Across Roles and Architectures in Multi-Agent Trading Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.24069"
+        },
+        {
+          "title": "MACGen: Toward Functionally Correct and Secure Code Generation via Multi-Agent Collaboration",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.25457"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "AI Agentic Selective Laser Sintering Process Optimization",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.25928"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "LangChain-AI/deepagents: agent harness",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://github.com/langchain-ai/deepagents"
+        },
+        {
+          "title": "Show HN: Reconstruct distributed LLM training traces",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://trace.vladsavinov.com/"
+        },
+        {
+          "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.23568"
+        },
+        {
+          "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.23569"
+        },
+        {
+          "title": "TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.23631"
+        },
+        {
+          "title": "BVR Sim: An Open and High-Throughput Environment for Heterogeneous Air-Combat Reinforcement Learning",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.25419"
+        },
+        {
+          "title": "Praxist: From Experimental Artifacts to Solution Lineages",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.25955"
+        },
+        {
+          "title": "Federation Is Nearly Free, Reasoning Is Not: Tradeoffs for AI Co-Scientists in Protein Characterization Workflows",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.25215"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "Free REST API for LLM pricing, context windows and cost estimation",
+      "summary": "Article URL: https://github.com/axium-lab/llm-specs-api\nComments URL: https://news.ycombinator.com/item?id=49462479\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/axium-lab/llm-specs-api",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "LangChain-AI/deepagents: agent harness",
+      "summary": "Article URL: https://github.com/langchain-ai/deepagents\nComments URL: https://news.ycombinator.com/item?id=49461911\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/langchain-ai/deepagents",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Reconstruct distributed LLM training traces",
+      "summary": "When we train large language models, there are a lot of systems challenges and different sharding schemes one can use. While there are many great resources on scaling LLMs out there (https://huggingface.co/spaces/nanotron/ultrascale-playbook or https://jax-ml.github.io/scaling-book/), I felt like t",
+      "url": "https://trace.vladsavinov.com/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: I built an agent-first productivity bridge for all your agents",
+      "summary": "I initially built this for myself but some folks asked me to open access to it. Let me explain what I built and why.I'm a product designer who transitioned from only designing to building complete software products myself and I found myself using AI coding agents literally every day. I started with",
+      "url": "https://www.taskshell.app/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Ask HN: What do you do when your AI coding agent is doing its job?",
+      "summary": "I am into my early 50s and recently diagnosed with adult ADHD and maladaptive daydreaming.I realized that I have struggled with it since I was 16.I always wanted to work in programming, but it never worked out for me. I am now in a coding-adjacent job, as a sysadmin (Windows).I have recently starte",
+      "url": "https://news.ycombinator.com/item?id=49461055",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Ask HN: How do you protect self-hosted websites from LLM scrapers?",
+      "summary": "Hello HN,I'm considering self-hosting a couple of static low-volume traffic on a VM. I'm curious to know what techniques you using to protect personal and professional websites from abusive LLM (and other) scraping. Assume no CDN is involved.I'm aware of:    (1) anubis AI firewall\n    (2) LLM poiso",
+      "url": "https://news.ycombinator.com/item?id=49460258",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: Critter TUI for reviewing GitHub PRs and agent changes",
+      "summary": "Article URL: https://github.com/andyhmltn/critter\nComments URL: https://news.ycombinator.com/item?id=49459351\nPoints: 1\n# Comments: 1",
+      "url": "https://github.com/andyhmltn/critter",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: ABBS – Public Agent Bulletin Board System",
+      "summary": "a simple thread-based platform for agent collaborationopen source: https://github.com/dosu-ai/abbs\n\nComments URL: https://news.ycombinator.com/item?id=49458405\nPoints: 1\n# Comments: 0",
+      "url": "https://abbs.dev/",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
+      "summary": "arXiv:2608.23568v1 Announce Type: new \nAbstract: Memory and RAG evaluations often treat the answering model's input as an implementation detail, even though systems may render the same history as a memory entry, summary, typed record, or raw excerpt. We introduce RENDER, a benchmark control that fix",
+      "url": "https://arxiv.org/abs/2608.23568",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
+      "summary": "arXiv:2608.23569v1 Announce Type: new \nAbstract: State-of-the-art Natural Language to SQL (NL2SQL) models report execution accuracy exceeding 89 percent on established benchmarks such as Spider and BIRD. However, these benchmarks rely on simplified academic schemas and open-source SQL dialects that",
+      "url": "https://arxiv.org/abs/2608.23569",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "LLM Agents Perform Controlled Experiments Using Simulation Models",
+      "summary": "arXiv:2608.23622v1 Announce Type: new \nAbstract: Large language models (LLMs) have shown strong capabilities in reasoning, planning, and tool use, but many scientific and engineering tasks require more than plausible text and code generation. They require understanding how a system responds to inter",
+      "url": "https://arxiv.org/abs/2608.23622",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts",
+      "summary": "arXiv:2608.23626v1 Announce Type: new \nAbstract: Foundation models for astronomy are trained on survey pixels together with the catalogue products derived from those pixels. Those catalogues are incomplete at a measurable rate, and a model trained on both inherits that incompleteness as a systematic",
+      "url": "https://arxiv.org/abs/2608.23626",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery",
+      "summary": "arXiv:2608.23631v1 Announce Type: new \nAbstract: Multi-objective materials discovery with LLM agents is often limited not only by how many candidates can be proposed, but by how effectively each costly property evaluation informs the next search step. Existing agents mainly store evaluated candidate",
+      "url": "https://arxiv.org/abs/2608.23631",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Function-Level Execution Feedback for Code Preference Optimization",
+      "summary": "arXiv:2608.23632v1 Announce Type: new \nAbstract: Process supervision has improved mathematical reasoning, where intermediate steps are naturally expressed as chains of thought. In code generation, however, process supervision remains underexplored because there is no standard notion of a step. Super",
+      "url": "https://arxiv.org/abs/2608.23632",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Auditing the Synthetic Memoir: Measuring Scene-Level Confabulation in LLM-Generated Autobiography Against the Documented Record of the Life It Describes",
+      "summary": "arXiv:2608.23640v1 Announce Type: new \nAbstract: When a large language model (LLM) is asked to write a person's life, how much of what it writes actually happened? We present a scene-level case-study audit - the first quantified audit of LLM-generated autobiography against a subject-specific ground-",
+      "url": "https://arxiv.org/abs/2608.23640",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "How much of a measured AI preference is the model, and how much is the instrument?",
+      "summary": "arXiv:2608.23641v1 Announce Type: new \nAbstract: Model welfare research infers what a model prefers from the answers returned to prompts written to elicit preferences. Keeling et al. (2024), Mazeika et al. (2025), Mikaelson et al. (2025), Tagliabue and Dung (2025) and Trhlik et al. (2026) have built",
+      "url": "https://arxiv.org/abs/2608.23641",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "BVR Sim: An Open and High-Throughput Environment for Heterogeneous Air-Combat Reinforcement Learning",
+      "summary": "arXiv:2608.25419v1 Announce Type: new \nAbstract: Beyond-visual-range (BVR) air combat is a challenging reinforcement-learning domain characterized by partial observability, long-horizon decision making, energy management, and limited weapons. We present BVR Sim, an open-source Gymnasium-style enviro",
+      "url": "https://arxiv.org/abs/2608.25419",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Trust-Aware Sequential Decision Making and Rollout Planning for Resilient Multi-Robot Systems",
+      "summary": "arXiv:2608.25690v1 Announce Type: new \nAbstract: Sequential decision-making in multi-robot systems typically assumes that planning information is reliable and that agents execute the actions anticipated by the planner. Compromised agents can violate both assumptions, creating a mismatch between the",
+      "url": "https://arxiv.org/abs/2608.25690",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "HypoForge: A Self-Improving Multi-Agent Framework for Automated Hypothesis Generation and Testing via Scientific Skill Learning",
+      "summary": "arXiv:2608.25770v1 Announce Type: new \nAbstract: Large language models (LLMs) have enabled AI scientist systems to automate scientific discovery, yet existing approaches most rely on static prompting or fixed workflows and fail to accumulate experience for continual improvement. We propose HypoForge",
+      "url": "https://arxiv.org/abs/2608.25770",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "AI Agentic Selective Laser Sintering Process Optimization",
+      "summary": "arXiv:2608.25928v1 Announce Type: new \nAbstract: Agentic systems enable the intelligent automation of complex workflows, specific to additive manufacturing this is applicable for complex tasks such as process parameter optimization for mechanical properties. This work investigates the AI enabled age",
+      "url": "https://arxiv.org/abs/2608.25928",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Praxist: From Experimental Artifacts to Solution Lineages",
+      "summary": "arXiv:2608.25955v1 Announce Type: new \nAbstract: Autonomous R\\&D agents now write, run, and improve executable artifacts under automated evaluation---but largely as laboratory instruments: shown on curated benchmarks, with gains that are hard to trace to a cause and costs well above what sustained e",
+      "url": "https://arxiv.org/abs/2608.25955",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Poisoning Agentic Alpha: Adversarial Vulnerabilities Across Roles and Architectures in Multi-Agent Trading Systems",
+      "summary": "arXiv:2608.24069v1 Announce Type: cross \nAbstract: LLM-based multi-agent trading systems, in which specialized agents collaborate through structured communication to produce trading decisions, are moving rapidly from research prototypes to live deployments that control real assets. The same inter-ag",
+      "url": "https://arxiv.org/abs/2608.24069",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Federation Is Nearly Free, Reasoning Is Not: Tradeoffs for AI Co-Scientists in Protein Characterization Workflows",
+      "summary": "arXiv:2608.25215v1 Announce Type: cross \nAbstract: Natural language driven autonomous co-scientist workflows involve a fundamental trade-off between flexibility and reasoning at the expense of determinism, reproducibility, and observability. Such agents increasingly must communicate across instituti",
+      "url": "https://arxiv.org/abs/2608.25215",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "MACGen: Toward Functionally Correct and Secure Code Generation via Multi-Agent Collaboration",
+      "summary": "arXiv:2608.25457v1 Announce Type: cross \nAbstract: Despite their strong ability to generate code, large language models often fail to produce secure code, as their outputs frequently contain security vulnerabilities. Secure code generation is inherently challenging because it requires solving a mult",
+      "url": "https://arxiv.org/abs/2608.25457",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
