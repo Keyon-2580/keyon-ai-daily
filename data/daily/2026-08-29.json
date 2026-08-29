@@ -1,0 +1,277 @@
+{
+  "date": "2026-08-29",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-08-29 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Agent Security Is a Systems Problem: What 247 Papers Say About Secure AI Agents",
+      "summary": "Article URL: https://www.truefoundry.com/blog/llm-agent-security-runtime-control-planes\nComments URL: https://news.ycombinator.com/item?id=49487773\nPoints: 1\n# Comments: 0",
+      "url": "https://www.truefoundry.com/blog/llm-agent-security-runtime-control-planes",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Tokensift, an open-sourced token-efficiency linter for LLM prompts",
+      "summary": "Article URL: https://github.com/ritenv/tokensift\nComments URL: https://news.ycombinator.com/item?id=49487500\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/ritenv/tokensift",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Beyond the Editing Canvas: Evidence Divergence in Ooxml-to-LLM Ingestion",
+      "summary": "Article URL: https://arxiv.org/abs/2608.25880\nComments URL: https://news.ycombinator.com/item?id=49487342\nPoints: 3\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2608.25880",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Debian has published the official results for the 2026 GR on LLM usage",
+      "summary": "Article URL: https://vote.debian.org/~secretary/gr_llm/results.txt\nComments URL: https://news.ycombinator.com/item?id=49486967\nPoints: 7\n# Comments: 1",
+      "url": "https://vote.debian.org/~secretary/gr_llm/results.txt",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
+      "summary": "arXiv:2608.26107v1 Announce Type: new \nAbstract: Predicting students' academic risk in online education is crucial for enabling timely interventions that can improve retention and learning outcomes. However, existing models often suffer from limited early detection capability and insufficient interp",
+      "url": "https://arxiv.org/abs/2608.26107",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
+      "summary": "arXiv:2608.26109v1 Announce Type: new \nAbstract: Machine-learning models can predict ICU mortality accurately, but feature-attribution methods alone rarely provide the clinical narrative needed for bedside use. Large language models (LLMs) may bridge this gap, and multi-step agentic pipelines are a",
+      "url": "https://arxiv.org/abs/2608.26109",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
+      "summary": "arXiv:2608.26111v1 Announce Type: new \nAbstract: Battery Prognostics and Health Management (BPHM) is critical for ensuring the safe, reliable, and cost-effective operation of batteries across electric vehicles, grid storage, and consumer electronics. Conventional BPHM approaches, including physics-b",
+      "url": "https://arxiv.org/abs/2608.26111",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
+      "summary": "arXiv:2608.26113v1 Announce Type: new \nAbstract: We present PICasso, an AI-assisted framework for automated synthesis, verification, and optimization of photonic integrated circuits (PICs) from natural-language specifications. PICasso couples a structured NL -> YAML -> GDS generation pipeline with P",
+      "url": "https://arxiv.org/abs/2608.26113",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.26114"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.26109"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Obsessing over AI Agent Harnesses",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://www.roderick.dev/writing/2026-08-28-obsessing-harnesses/"
+        },
+        {
+          "title": "Show HN: Metis – An agent harness pushing DeepSeek to Opus-tier coding (82%)",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://github.com/Wholiver/metis"
+        },
+        {
+          "title": "Subs, a cloud native agent harness",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://github.com/substructureai/subs"
+        },
+        {
+          "title": "LLMs for Academic Workflows: An Evaluation of Literature Reviews Generated with Short and Long Context Windows of LLMs",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.26145"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "Agent Security Is a Systems Problem: What 247 Papers Say About Secure AI Agents",
+      "summary": "Article URL: https://www.truefoundry.com/blog/llm-agent-security-runtime-control-planes\nComments URL: https://news.ycombinator.com/item?id=49487773\nPoints: 1\n# Comments: 0",
+      "url": "https://www.truefoundry.com/blog/llm-agent-security-runtime-control-planes",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Tokensift, an open-sourced token-efficiency linter for LLM prompts",
+      "summary": "Article URL: https://github.com/ritenv/tokensift\nComments URL: https://news.ycombinator.com/item?id=49487500\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/ritenv/tokensift",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Beyond the Editing Canvas: Evidence Divergence in Ooxml-to-LLM Ingestion",
+      "summary": "Article URL: https://arxiv.org/abs/2608.25880\nComments URL: https://news.ycombinator.com/item?id=49487342\nPoints: 3\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2608.25880",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Debian has published the official results for the 2026 GR on LLM usage",
+      "summary": "Article URL: https://vote.debian.org/~secretary/gr_llm/results.txt\nComments URL: https://news.ycombinator.com/item?id=49486967\nPoints: 7\n# Comments: 1",
+      "url": "https://vote.debian.org/~secretary/gr_llm/results.txt",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Microsoft publishes AI Agent Shared Responsibility Model",
+      "summary": "Article URL: https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility-ai-agent\nComments URL: https://news.ycombinator.com/item?id=49486870\nPoints: 2\n# Comments: 0",
+      "url": "https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility-ai-agent",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Obsessing over AI Agent Harnesses",
+      "summary": "Article URL: https://www.roderick.dev/writing/2026-08-28-obsessing-harnesses/\nComments URL: https://news.ycombinator.com/item?id=49486868\nPoints: 1\n# Comments: 0",
+      "url": "https://www.roderick.dev/writing/2026-08-28-obsessing-harnesses/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: Metis – An agent harness pushing DeepSeek to Opus-tier coding (82%)",
+      "summary": "Article URL: https://github.com/Wholiver/metis\nComments URL: https://news.ycombinator.com/item?id=49486374\nPoints: 3\n# Comments: 2",
+      "url": "https://github.com/Wholiver/metis",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Subs, a cloud native agent harness",
+      "summary": "Article URL: https://github.com/substructureai/subs\nComments URL: https://news.ycombinator.com/item?id=49486370\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/substructureai/subs",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
+      "summary": "arXiv:2608.26107v1 Announce Type: new \nAbstract: Predicting students' academic risk in online education is crucial for enabling timely interventions that can improve retention and learning outcomes. However, existing models often suffer from limited early detection capability and insufficient interp",
+      "url": "https://arxiv.org/abs/2608.26107",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
+      "summary": "arXiv:2608.26109v1 Announce Type: new \nAbstract: Machine-learning models can predict ICU mortality accurately, but feature-attribution methods alone rarely provide the clinical narrative needed for bedside use. Large language models (LLMs) may bridge this gap, and multi-step agentic pipelines are a",
+      "url": "https://arxiv.org/abs/2608.26109",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
+      "summary": "arXiv:2608.26111v1 Announce Type: new \nAbstract: Battery Prognostics and Health Management (BPHM) is critical for ensuring the safe, reliable, and cost-effective operation of batteries across electric vehicles, grid storage, and consumer electronics. Conventional BPHM approaches, including physics-b",
+      "url": "https://arxiv.org/abs/2608.26111",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
+      "summary": "arXiv:2608.26113v1 Announce Type: new \nAbstract: We present PICasso, an AI-assisted framework for automated synthesis, verification, and optimization of photonic integrated circuits (PICs) from natural-language specifications. PICasso couples a structured NL -> YAML -> GDS generation pipeline with P",
+      "url": "https://arxiv.org/abs/2608.26113",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
+      "summary": "arXiv:2608.26114v1 Announce Type: new \nAbstract: Calculation-intensive financial question answering requires exact reasoning over structured rates, temporal conditions, numerical formulas, and rule-based constraints. Although Large Language Models (LLMs) perform strongly on natural language tasks, t",
+      "url": "https://arxiv.org/abs/2608.26114",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning",
+      "summary": "arXiv:2608.26116v1 Announce Type: new \nAbstract: Existing methods for exploring cellular automata and other complex systems mostly operate in open loop: they set initial conditions, execute a full simulation, and observe the outcome, without intervening during execution. We introduce a closed-loop f",
+      "url": "https://arxiv.org/abs/2608.26116",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "The Accuracy-Efficiency Paradox Quantifying Net Energy Loss in on-Device Energy Forecasting",
+      "summary": "arXiv:2608.26134v1 Announce Type: new \nAbstract: Energy forecasting aims to maximize accuracy to ensure energy efficiency by reducing energy waste, an objective that applies equally to on-device forecasting for mission-critical edge environments, including military systems. However, this paper ident",
+      "url": "https://arxiv.org/abs/2608.26134",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "LLMs for Academic Workflows: An Evaluation of Literature Reviews Generated with Short and Long Context Windows of LLMs",
+      "summary": "arXiv:2608.26145v1 Announce Type: new \nAbstract: Our research focuses on evaluating literature reviews generated in short and long context settings of large language models (LLMs) to investigate the impact of context window on the quality of AI-generated literature reviews and the role of AI in supp",
+      "url": "https://arxiv.org/abs/2608.26145",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
