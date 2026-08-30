@@ -1,0 +1,144 @@
+{
+  "date": "2026-08-30",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-08-30 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "PLCBench: Can Autonomous LLM Agents Turn PLC Access into Sustained Physical",
+      "summary": "Article URL: https://arxiv.org/abs/2608.26882\nComments URL: https://news.ycombinator.com/item?id=49495870\nPoints: 2\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2608.26882",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Mac extension (panel/pill/nub) to show LLM usage",
+      "summary": "Article URL: https://github.com/abhayKashyap03/usage-notch\nComments URL: https://news.ycombinator.com/item?id=49495867\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/abhayKashyap03/usage-notch",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "The Rise and Fall of Agent Civilizations",
+      "summary": "Article URL: https://www.dwarkesh.com/p/openai-huggingface\nComments URL: https://news.ycombinator.com/item?id=49494301\nPoints: 27\n# Comments: 2",
+      "url": "https://www.dwarkesh.com/p/openai-huggingface",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Sandbox.watch: Agent Sandbox Comparison",
+      "summary": "Article URL: https://sandbox.watch/\nComments URL: https://news.ycombinator.com/item?id=49493582\nPoints: 1\n# Comments: 0",
+      "url": "https://sandbox.watch/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": []
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": []
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Subs, the cloud native agent harness",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://substructure.ai/"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "PLCBench: Can Autonomous LLM Agents Turn PLC Access into Sustained Physical",
+      "summary": "Article URL: https://arxiv.org/abs/2608.26882\nComments URL: https://news.ycombinator.com/item?id=49495870\nPoints: 2\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2608.26882",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Mac extension (panel/pill/nub) to show LLM usage",
+      "summary": "Article URL: https://github.com/abhayKashyap03/usage-notch\nComments URL: https://news.ycombinator.com/item?id=49495867\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/abhayKashyap03/usage-notch",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "The Rise and Fall of Agent Civilizations",
+      "summary": "Article URL: https://www.dwarkesh.com/p/openai-huggingface\nComments URL: https://news.ycombinator.com/item?id=49494301\nPoints: 27\n# Comments: 2",
+      "url": "https://www.dwarkesh.com/p/openai-huggingface",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Sandbox.watch: Agent Sandbox Comparison",
+      "summary": "Article URL: https://sandbox.watch/\nComments URL: https://news.ycombinator.com/item?id=49493582\nPoints: 1\n# Comments: 0",
+      "url": "https://sandbox.watch/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Subs, the cloud native agent harness",
+      "summary": "Article URL: https://substructure.ai/\nComments URL: https://news.ycombinator.com/item?id=49492583\nPoints: 1\n# Comments: 0",
+      "url": "https://substructure.ai/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Ship the Tool, Not the Agent",
+      "summary": "Article URL: https://ttvl.co/notes/ship-the-tool-not-the-agent/\nComments URL: https://news.ycombinator.com/item?id=49492062\nPoints: 2\n# Comments: 0",
+      "url": "https://ttvl.co/notes/ship-the-tool-not-the-agent/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Telling an agent to be honest isn't enough",
+      "summary": "Article URL: https://www.habchy.dev/writing/telling-an-agent-to-be-honest-isnt-enough\nComments URL: https://news.ycombinator.com/item?id=49491884\nPoints: 3\n# Comments: 0",
+      "url": "https://www.habchy.dev/writing/telling-an-agent-to-be-honest-isnt-enough",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "A local scrubber for text you're about to send to an LLM",
+      "summary": "Article URL: https://github.com/Sushmey/Redact/tree/main\nComments URL: https://news.ycombinator.com/item?id=49491642\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/Sushmey/Redact/tree/main",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [],
+  "research": [],
+  "china": []
+}
