@@ -1,0 +1,264 @@
+{
+  "date": "2026-08-31",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-08-31 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Infragrid: Turn screen recordings into agent workflows",
+      "summary": "Article URL: https://infragrid.ai\nComments URL: https://news.ycombinator.com/item?id=49506153\nPoints: 1\n# Comments: 0",
+      "url": "https://infragrid.ai",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Growtics – an AI growth agent that tells you what to do next",
+      "summary": "Article URL: https://growtics.io\nComments URL: https://news.ycombinator.com/item?id=49505111\nPoints: 1\n# Comments: 0",
+      "url": "https://growtics.io",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Steer: Deny or rewrite an AI agent's tool calls before they run",
+      "summary": "Article URL: https://github.com/amalucelli/steer\nComments URL: https://news.ycombinator.com/item?id=49505003\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/amalucelli/steer",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "HermOS – a local-first AI agent IDE",
+      "summary": "Article URL: https://hermos.is-a.dev/\nComments URL: https://news.ycombinator.com/item?id=49504833\nPoints: 2\n# Comments: 0",
+      "url": "https://hermos.is-a.dev/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "CareGraph: An Auditable Hybrid AI Framework for Evidence-Grounded Personalized Longitudinal Health Intelligence",
+      "summary": "arXiv:2608.27484v1 Announce Type: cross \nAbstract: Artificial intelligence is transforming personalized healthcare, yet fragmented clinical, self reported, and wearable evidence remains difficult to interpret and trace. We present CareGraph, an auditable hybrid AI framework that converts heterogeneo",
+      "url": "https://arxiv.org/abs/2608.27484",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Synthetic Linguistic Agency: How an Embodied Mortal Agent Learns Linguistic Affordances through Consequential Social Experience",
+      "summary": "arXiv:2608.27843v1 Announce Type: cross \nAbstract: Contemporary language models can converse fluently and influence human decisions, yet their exchanges do not enter a continuing, vulnerable life of their own. Linguistic-agency theory identifies this missing connection as linguistic agency and chara",
+      "url": "https://arxiv.org/abs/2608.27843",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "FedEHR-Agents: Federated Agentic Optimization for Automated EHR Modeling",
+      "summary": "arXiv:2608.27856v1 Announce Type: cross \nAbstract: Recent advances in large language models are enabling autonomous clinical agents to perform increasingly complex electronic health record (EHR) modeling workflows. However, agents deployed at individual hospitals remain constrained by institution-sp",
+      "url": "https://arxiv.org/abs/2608.27856",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "GOD: Govern, Observe, and Direct - A Real-Time Control Room for Agent Societies",
+      "summary": "arXiv:2608.27992v1 Announce Type: cross \nAbstract: Generative-agent systems are easier to start than to inspect. A run can contain many agents, locations, messages, commands, and model calls, yet the operator often gets either a finished replay or raw logs. That makes it hard to ask why an agent mov",
+      "url": "https://arxiv.org/abs/2608.27992",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": []
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "FedEHR-Agents: Federated Agentic Optimization for Automated EHR Modeling",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.27856"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Static Evaluation of Model Switching in LLM Agents Scores the Wrong World",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://arxiv.org/abs/2608.08239"
+        },
+        {
+          "title": "CareGraph: An Auditable Hybrid AI Framework for Evidence-Grounded Personalized Longitudinal Health Intelligence",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.27484"
+        },
+        {
+          "title": "Compared to What? A Human-Anchored Security Benchmark for LLM-Generated Infrastructure-as-Code",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.28021"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "Infragrid: Turn screen recordings into agent workflows",
+      "summary": "Article URL: https://infragrid.ai\nComments URL: https://news.ycombinator.com/item?id=49506153\nPoints: 1\n# Comments: 0",
+      "url": "https://infragrid.ai",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Growtics – an AI growth agent that tells you what to do next",
+      "summary": "Article URL: https://growtics.io\nComments URL: https://news.ycombinator.com/item?id=49505111\nPoints: 1\n# Comments: 0",
+      "url": "https://growtics.io",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Steer: Deny or rewrite an AI agent's tool calls before they run",
+      "summary": "Article URL: https://github.com/amalucelli/steer\nComments URL: https://news.ycombinator.com/item?id=49505003\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/amalucelli/steer",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "HermOS – a local-first AI agent IDE",
+      "summary": "Article URL: https://hermos.is-a.dev/\nComments URL: https://news.ycombinator.com/item?id=49504833\nPoints: 2\n# Comments: 0",
+      "url": "https://hermos.is-a.dev/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "The Shapes of Agent Memory – Files, Stores, and Experience",
+      "summary": "Article URL: https://pinglin.tw/blog/the-shapes-of-agent-memory/\nComments URL: https://news.ycombinator.com/item?id=49504689\nPoints: 2\n# Comments: 0",
+      "url": "https://pinglin.tw/blog/the-shapes-of-agent-memory/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Static Evaluation of Model Switching in LLM Agents Scores the Wrong World",
+      "summary": "Article URL: https://arxiv.org/abs/2608.08239\nComments URL: https://news.ycombinator.com/item?id=49504287\nPoints: 4\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2608.08239",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Give Your Coding Agent a Journal",
+      "summary": "Article URL: https://doug.sh/posts/give-your-coding-agent-a-journal/\nComments URL: https://news.ycombinator.com/item?id=49504189\nPoints: 6\n# Comments: 1",
+      "url": "https://doug.sh/posts/give-your-coding-agent-a-journal/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Debian developer resigns after corporate LLM use without disclosure wins vote",
+      "summary": "Article URL: https://lists.debian.org/debian-devel/2026/08/msg00318.html\nComments URL: https://news.ycombinator.com/item?id=49504083\nPoints: 10\n# Comments: 4",
+      "url": "https://lists.debian.org/debian-devel/2026/08/msg00318.html",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "CareGraph: An Auditable Hybrid AI Framework for Evidence-Grounded Personalized Longitudinal Health Intelligence",
+      "summary": "arXiv:2608.27484v1 Announce Type: cross \nAbstract: Artificial intelligence is transforming personalized healthcare, yet fragmented clinical, self reported, and wearable evidence remains difficult to interpret and trace. We present CareGraph, an auditable hybrid AI framework that converts heterogeneo",
+      "url": "https://arxiv.org/abs/2608.27484",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Synthetic Linguistic Agency: How an Embodied Mortal Agent Learns Linguistic Affordances through Consequential Social Experience",
+      "summary": "arXiv:2608.27843v1 Announce Type: cross \nAbstract: Contemporary language models can converse fluently and influence human decisions, yet their exchanges do not enter a continuing, vulnerable life of their own. Linguistic-agency theory identifies this missing connection as linguistic agency and chara",
+      "url": "https://arxiv.org/abs/2608.27843",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "FedEHR-Agents: Federated Agentic Optimization for Automated EHR Modeling",
+      "summary": "arXiv:2608.27856v1 Announce Type: cross \nAbstract: Recent advances in large language models are enabling autonomous clinical agents to perform increasingly complex electronic health record (EHR) modeling workflows. However, agents deployed at individual hospitals remain constrained by institution-sp",
+      "url": "https://arxiv.org/abs/2608.27856",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "GOD: Govern, Observe, and Direct - A Real-Time Control Room for Agent Societies",
+      "summary": "arXiv:2608.27992v1 Announce Type: cross \nAbstract: Generative-agent systems are easier to start than to inspect. A run can contain many agents, locations, messages, commands, and model calls, yet the operator often gets either a finished replay or raw logs. That makes it hard to ask why an agent mov",
+      "url": "https://arxiv.org/abs/2608.27992",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "FocusGen: Expanding Visual Design Exploration with a Simulated Focus Group of Persona Agents",
+      "summary": "arXiv:2608.28001v1 Announce Type: cross \nAbstract: Creative professionals rarely design for themselves--they design for audiences whose preferences they must anticipate. Yet current text-to-image exploration tools derive diversity entirely from the designer's own input--their prompts, their chosen d",
+      "url": "https://arxiv.org/abs/2608.28001",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Compared to What? A Human-Anchored Security Benchmark for LLM-Generated Infrastructure-as-Code",
+      "summary": "arXiv:2608.28021v1 Announce Type: cross \nAbstract: Large language models are increasingly used to author Infrastructure-as-Code (IaC), where a single insecure default can be deployed directly into production. Prior evaluations report raw vulnerability counts for model-generated IaC, but without a hu",
+      "url": "https://arxiv.org/abs/2608.28021",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Emergent aggregation from collective foraging",
+      "summary": "arXiv:2608.28046v1 Announce Type: cross \nAbstract: Collective behaviour in living systems is usually modelled as the outcome of a \\emph{direct} social drive: agents are rewarded, or hard-wired, to align with or approach their neighbours. Here we show that aggregation can instead emerge from an \\emph",
+      "url": "https://arxiv.org/abs/2608.28046",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Prove2Me: An Open Collaborative Platform for Scaling Math Formalization",
+      "summary": "arXiv:2608.28433v1 Announce Type: cross \nAbstract: Proof assistants such as Lean 4 promise the paradigm of formally verified mathematics, but large-scale formalization projects have faced major barriers to entry, including the need for expertise in formal verification (as well as the underlying math",
+      "url": "https://arxiv.org/abs/2608.28433",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
