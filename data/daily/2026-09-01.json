@@ -1,0 +1,262 @@
+{
+  "date": "2026-09-01",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-09-01 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation",
+      "summary": "arXiv:2608.28590v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents have shown promise for automating data-science workflows, yet their end-to-end performance depends critically on the agent harness that represents tasks, manages execution state, constrains output artifacts, and provi",
+      "url": "https://arxiv.org/abs/2608.28590",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Expert-validated STEM QA",
+      "summary": "arXiv:2608.28591v1 Announce Type: new \nAbstract: Recent advancements in AI are helping scientists achieve breakthroughs in fields such as mathematics, medicine, and materials sciences. New evaluation datasets for AI models contribute to such advancement in AI. In the STEM domain, frontier models hav",
+      "url": "https://arxiv.org/abs/2608.28591",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "A collective capability boundary in frontier large language models on guideline-conformant and case-specific oncology decision-making",
+      "summary": "arXiv:2608.28592v1 Announce Type: new \nAbstract: Large language models (LLMs) achieve high scores on medical knowledge examinations, yet real-world oncology is not a knowledge test--it is a sequence of guideline-pathway choices, escalation judgments, and commitments under uncertainty. Existing bench",
+      "url": "https://arxiv.org/abs/2608.28592",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Statutory AI: Aligning Large Language Models With Legal Norms",
+      "summary": "arXiv:2608.28593v1 Announce Type: new \nAbstract: With the increasing development of AI regulatory frameworks, ensuring that artificial intelligence systems, particularly generative models, operate in accordance with legal and ethical standards has become a critical priority. Existing proposals for A",
+      "url": "https://arxiv.org/abs/2608.28593",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Goal Staying Makes Sum-of-Costs Anonymous Multi-Agent Path Finding NP-Hard",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.28658"
+        },
+        {
+          "title": "Generalizable Multi-Agent Planning from Signal Temporal Logic Specifications via Diffusion",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.29490"
+        },
+        {
+          "title": "Harness-RL: Black-Box Reinforcement Learning with Action-Args Decoupling for Central-Agent Multi-Agent Harnesses",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.29641"
+        },
+        {
+          "title": "Evidence, Logic, and Compliance: Multi-Agent Structured Graph Reasoning with Expert Arbitration for Medical Referral",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.30938"
+        },
+        {
+          "title": "Cognitive Cells: A Compositional Framework for Populations of Small Language Models",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.28606"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "The Race between Agentic AI Capabilities and Data Quality Control in Online Surveys",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.28597"
+        },
+        {
+          "title": "ASTRA - Agentic System for Ticket Resolution and Analysis",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.28790"
+        },
+        {
+          "title": "AgenticRag-R1: Agentic Reinforcement Learning with Stack Memory for Multi-Step Reasoning, Retrieval and Memorizing",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.29622"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.28590"
+        },
+        {
+          "title": "Expert-validated STEM QA",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.28591"
+        },
+        {
+          "title": "Paper Pilot: A Human-in-the-Loop Expert System for Evidence-Traceable Scientific Manuscript Generation in Applied Sciences",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2608.28596"
+        }
+      ]
+    }
+  ],
+  "oss": [],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation",
+      "summary": "arXiv:2608.28590v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents have shown promise for automating data-science workflows, yet their end-to-end performance depends critically on the agent harness that represents tasks, manages execution state, constrains output artifacts, and provi",
+      "url": "https://arxiv.org/abs/2608.28590",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Expert-validated STEM QA",
+      "summary": "arXiv:2608.28591v1 Announce Type: new \nAbstract: Recent advancements in AI are helping scientists achieve breakthroughs in fields such as mathematics, medicine, and materials sciences. New evaluation datasets for AI models contribute to such advancement in AI. In the STEM domain, frontier models hav",
+      "url": "https://arxiv.org/abs/2608.28591",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "A collective capability boundary in frontier large language models on guideline-conformant and case-specific oncology decision-making",
+      "summary": "arXiv:2608.28592v1 Announce Type: new \nAbstract: Large language models (LLMs) achieve high scores on medical knowledge examinations, yet real-world oncology is not a knowledge test--it is a sequence of guideline-pathway choices, escalation judgments, and commitments under uncertainty. Existing bench",
+      "url": "https://arxiv.org/abs/2608.28592",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Statutory AI: Aligning Large Language Models With Legal Norms",
+      "summary": "arXiv:2608.28593v1 Announce Type: new \nAbstract: With the increasing development of AI regulatory frameworks, ensuring that artificial intelligence systems, particularly generative models, operate in accordance with legal and ethical standards has become a critical priority. Existing proposals for A",
+      "url": "https://arxiv.org/abs/2608.28593",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "From Question-First to Analyst-First: Domain-Expert Skills and Verified Knowledge Compilation for Proactive Enterprise Analytics",
+      "summary": "arXiv:2608.28594v1 Announce Type: new \nAbstract: Conversational analytics systems assume the user already has a well-formed question, leaving a non-expert facing a blank query box on an unfamiliar enterprise schema. Commercial 'proactive' tools narrow this gap only by detecting statistical anomalies",
+      "url": "https://arxiv.org/abs/2608.28594",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "The Signal in the Noise: An Auditable Reliability Layer for Biomedical Text Classification",
+      "summary": "arXiv:2608.28595v1 Announce Type: new \nAbstract: Biomedical NLP pipelines routinely presuppose clean input text, yet large-scale corpora assembled through automated PDF parsing harbour pervasive OCR-like artifacts, token splits and merges, hyphenation remnants, and character-level corruption, that s",
+      "url": "https://arxiv.org/abs/2608.28595",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Paper Pilot: A Human-in-the-Loop Expert System for Evidence-Traceable Scientific Manuscript Generation in Applied Sciences",
+      "summary": "arXiv:2608.28596v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly embedded in scientific workflows for literature analysis, drafting, and review. Existing systems advance autonomous discovery and manuscript generation, but do not resolve the governance problem that",
+      "url": "https://arxiv.org/abs/2608.28596",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "The Race between Agentic AI Capabilities and Data Quality Control in Online Surveys",
+      "summary": "arXiv:2608.28597v1 Announce Type: new \nAbstract: Online surveys are a foundational data collection instrument in a variety of fields, with attention checks serving as critical guardians of response quality. However, the rapid emergence of agentic AI (goal directed systems powered by a large language",
+      "url": "https://arxiv.org/abs/2608.28597",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Goal Staying Makes Sum-of-Costs Anonymous Multi-Agent Path Finding NP-Hard",
+      "summary": "arXiv:2608.28658v1 Announce Type: new \nAbstract: Anonymous Multi-Agent Path Finding (AMAPF) admits polynomial-time network-flow algorithms for several objectives, including makespan, total distance, and sum-of-costs (SoC) when agents disappear upon reaching goals. We show that standard goal-staying",
+      "url": "https://arxiv.org/abs/2608.28658",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "ASTRA - Agentic System for Ticket Resolution and Analysis",
+      "summary": "arXiv:2608.28790v1 Announce Type: new \nAbstract: Technical operations teams resolve large volumes of incidents by synthesizing fragmented evidence from ticket text, historical cases, system logs, and technical documentation. Existing automation often relies on monolithic generation without explicit",
+      "url": "https://arxiv.org/abs/2608.28790",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Generalizable Multi-Agent Planning from Signal Temporal Logic Specifications via Diffusion",
+      "summary": "arXiv:2608.29490v1 Announce Type: new \nAbstract: Multi-agent systems in the real-world (e.g., drone swarms, autonomous cars, warehouse robots) must satisfy rich, temporal tasks while avoiding collisions. Signal Temporal Logic (STL) elegantly encodes such objectives, but current STL planning methods",
+      "url": "https://arxiv.org/abs/2608.29490",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Forward-Deployed Full-Stack Engineering for Autonomous Cloud MLOps",
+      "summary": "arXiv:2608.29615v1 Announce Type: new \nAbstract: Across industries, machine-learning systems support applications ranging from prediction and anomaly detection to forecasting, optimization, and scheduling, yet operationalizing these systems requires coordinating application development, model pipeli",
+      "url": "https://arxiv.org/abs/2608.29615",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "AgenticRag-R1: Agentic Reinforcement Learning with Stack Memory for Multi-Step Reasoning, Retrieval and Memorizing",
+      "summary": "arXiv:2608.29622v1 Announce Type: new \nAbstract: Retrieval-Augmented Generation (RAG) improves the factuality of large language models (LLMs), yet existing RAG systems often struggle with complex, multi-step reasoning that requires adaptive retrieval and continuous revision of intermediate contexts.",
+      "url": "https://arxiv.org/abs/2608.29622",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Harness-RL: Black-Box Reinforcement Learning with Action-Args Decoupling for Central-Agent Multi-Agent Harnesses",
+      "summary": "arXiv:2608.29641v1 Announce Type: new \nAbstract: Large language model agents increasingly solve long-horizon tasks through multi-agent harnesses in which a central agent coordinates specialized sub-agents, tools, and environments. Training the central policy in such a harness raises two challenges.",
+      "url": "https://arxiv.org/abs/2608.29641",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Evidence, Logic, and Compliance: Multi-Agent Structured Graph Reasoning with Expert Arbitration for Medical Referral",
+      "summary": "arXiv:2608.30938v1 Announce Type: new \nAbstract: Medical referral (directing patients to the appropriate hospital department) is a complex decision-making process requiring the synthesis of multimodal data, including patient narratives, laboratory indicators, and radiology imaging. While Large Langu",
+      "url": "https://arxiv.org/abs/2608.30938",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Cognitive Cells: A Compositional Framework for Populations of Small Language Models",
+      "summary": "arXiv:2608.28606v1 Announce Type: cross \nAbstract: Recent work on large language models and agentic systems raises a basic question that current practice leaves open: how should artificial cognition be decomposed, measured, and composed? We propose studying multi-agent systems from a fixed unit we c",
+      "url": "https://arxiv.org/abs/2608.28606",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
