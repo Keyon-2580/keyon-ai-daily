@@ -1,0 +1,359 @@
+{
+  "date": "2026-09-03",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-09-03 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "What happens when your AI agent edits its own tests to pass?",
+      "summary": "Article URL: https://bartholomew.info/\nComments URL: https://news.ycombinator.com/item?id=49545935\nPoints: 2\n# Comments: 0",
+      "url": "https://bartholomew.info/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "How viable is LLM-assisted 3D modeling in Blender?",
+      "summary": "Article URL: https://twitter.com/louszbd/status/2093047548550525165\nComments URL: https://news.ycombinator.com/item?id=49545862\nPoints: 1\n# Comments: 0",
+      "url": "https://twitter.com/louszbd/status/2093047548550525165",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "An embodied, privacy-first AI agent that can control mobile apps via GUI",
+      "summary": "Article URL: https://plugos.net/plugclaw/\nComments URL: https://news.ycombinator.com/item?id=49545292\nPoints: 1\n# Comments: 0",
+      "url": "https://plugos.net/plugclaw/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Redactle LLM Leaderboard",
+      "summary": "I got nerd sniped and ran a bunch of evaluations to see how well models could play Redactle. It turns out Gemini flash is in a league of it's own in both performance and cost. It's able to one-shot every eval in a just a few seconds.\n\nComments URL: https://news.ycombinator.com/item?id=49544338\nPoin",
+      "url": "https://redactle.net/llm-leaderboard",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models",
+      "summary": "arXiv:2609.01611v1 Announce Type: new \nAbstract: Frontier large language models can often recognize when they are being evaluated, a capability known as evaluation awareness. If models behave differently in evaluations than in deployment, this undermines the validity of evaluation results, which are",
+      "url": "https://arxiv.org/abs/2609.01611",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI",
+      "summary": "arXiv:2609.01685v1 Announce Type: new \nAbstract: With the development of artificial intelligence (AI), the landscape of meta-ethics, which has largely centred on human ethics, faces pressures that may significantly reconfigure it. In particular, if future AI systems were to exhibit sufficiently inte",
+      "url": "https://arxiv.org/abs/2609.01685",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted Legal Logic",
+      "summary": "arXiv:2609.01741v1 Announce Type: new \nAbstract: Statutes are increasingly parsed by machines before people read them, and the parsers disagree: on Missouri's statutes, two independently written extractors diverge on numeric-threshold presence at a false-negative rate of 0.43. We ask what formal log",
+      "url": "https://arxiv.org/abs/2609.01741",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "When Does Information Sharing Improve Decentralized Discovery? Aggregation, Independent Rescue, and Equilibrium Selection",
+      "summary": "arXiv:2609.01814v1 Announce Type: new \nAbstract: Information sharing can improve a pooled estimate while eliminating independent rescue actions. This paper separates those effects in exact finite discovery models. A centralized action-budget profile shows that equal one-person accuracy can coexist w",
+      "url": "https://arxiv.org/abs/2609.01814",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "ArcticSwarm: Deferring Early Consensus in Long-Horizon Multi-Agent Research",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.01870"
+        },
+        {
+          "title": "Epistemic Sybil Resistance: Multiplying AI Agents Without Multiplying Evidence",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.01873"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "PRISM: An Agentic Multi-Model Architecture for Proactive Safety in Autonomous Transportation Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.01623"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Show HN: Redactle LLM Leaderboard",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://redactle.net/llm-leaderboard"
+        },
+        {
+          "title": "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.01611"
+        },
+        {
+          "title": "SSAKG 2.0: An Open-Source Package for Structural Associative Sequence Memory and Context-Based Retrieval",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.01849"
+        },
+        {
+          "title": "The Memory Trust Gap: Capability-Dependent Failures in Persistent-Memory Agents",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.01852"
+        },
+        {
+          "title": "Harness Engineering in LLM Tool Use via Agent-Native Reusable Tool Primitives",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.01736"
+        },
+        {
+          "title": "Agents That Model Agents: Five Principles Toward a Theory of Mind for 6G Networks",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.01779"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "What happens when your AI agent edits its own tests to pass?",
+      "summary": "Article URL: https://bartholomew.info/\nComments URL: https://news.ycombinator.com/item?id=49545935\nPoints: 2\n# Comments: 0",
+      "url": "https://bartholomew.info/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "How viable is LLM-assisted 3D modeling in Blender?",
+      "summary": "Article URL: https://twitter.com/louszbd/status/2093047548550525165\nComments URL: https://news.ycombinator.com/item?id=49545862\nPoints: 1\n# Comments: 0",
+      "url": "https://twitter.com/louszbd/status/2093047548550525165",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "An embodied, privacy-first AI agent that can control mobile apps via GUI",
+      "summary": "Article URL: https://plugos.net/plugclaw/\nComments URL: https://news.ycombinator.com/item?id=49545292\nPoints: 1\n# Comments: 0",
+      "url": "https://plugos.net/plugclaw/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Redactle LLM Leaderboard",
+      "summary": "I got nerd sniped and ran a bunch of evaluations to see how well models could play Redactle. It turns out Gemini flash is in a league of it's own in both performance and cost. It's able to one-shot every eval in a just a few seconds.\n\nComments URL: https://news.ycombinator.com/item?id=49544338\nPoin",
+      "url": "https://redactle.net/llm-leaderboard",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: CoOS – desktop app where an agent builds your CRM/ERP as local plugins",
+      "summary": "Article URL: https://pirol.ai/\nComments URL: https://news.ycombinator.com/item?id=49543931\nPoints: 2\n# Comments: 0",
+      "url": "https://pirol.ai/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Ontologies catch untrustworthy LLM claims",
+      "summary": "Article URL: https://antithetical-labs.com/blog/the-judge-liked-it-better/\nComments URL: https://news.ycombinator.com/item?id=49543771\nPoints: 2\n# Comments: 0",
+      "url": "https://antithetical-labs.com/blog/the-judge-liked-it-better/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference",
+      "summary": "Article URL: https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference/\nComments URL: https://news.ycombinator.com/item?id=49543221\nPoints: 1\n# Comments: 0",
+      "url": "https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Inspect, test, and debug your website with an AI agent connected to Safari",
+      "summary": "Article URL: https://developer.apple.com/documentation/safari-developer-tools/connecting-an-ai-agent-to-safari\nComments URL: https://news.ycombinator.com/item?id=49542797\nPoints: 2\n# Comments: 0",
+      "url": "https://developer.apple.com/documentation/safari-developer-tools/connecting-an-ai-agent-to-safari",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [
+    {
+      "title": "Google avoids a breakup of its ad tech business",
+      "summary": "https://archive.ph/rlAbYhttps://www.reuters.com/legal/litigation/google-defeats-us-b...\n\nComments URL: https://news.ycombinator.com/item?id=49537131\nPoints: 323\n# Comments: 237",
+      "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "research": [
+    {
+      "title": "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models",
+      "summary": "arXiv:2609.01611v1 Announce Type: new \nAbstract: Frontier large language models can often recognize when they are being evaluated, a capability known as evaluation awareness. If models behave differently in evaluations than in deployment, this undermines the validity of evaluation results, which are",
+      "url": "https://arxiv.org/abs/2609.01611",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI",
+      "summary": "arXiv:2609.01685v1 Announce Type: new \nAbstract: With the development of artificial intelligence (AI), the landscape of meta-ethics, which has largely centred on human ethics, faces pressures that may significantly reconfigure it. In particular, if future AI systems were to exhibit sufficiently inte",
+      "url": "https://arxiv.org/abs/2609.01685",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted Legal Logic",
+      "summary": "arXiv:2609.01741v1 Announce Type: new \nAbstract: Statutes are increasingly parsed by machines before people read them, and the parsers disagree: on Missouri's statutes, two independently written extractors diverge on numeric-threshold presence at a false-negative rate of 0.43. We ask what formal log",
+      "url": "https://arxiv.org/abs/2609.01741",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "When Does Information Sharing Improve Decentralized Discovery? Aggregation, Independent Rescue, and Equilibrium Selection",
+      "summary": "arXiv:2609.01814v1 Announce Type: new \nAbstract: Information sharing can improve a pooled estimate while eliminating independent rescue actions. This paper separates those effects in exact finite discovery models. A centralized action-budget profile shows that equal one-person accuracy can coexist w",
+      "url": "https://arxiv.org/abs/2609.01814",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Induction and Inquiry via Probabilistic Reasoning over Language and Code",
+      "summary": "arXiv:2609.01815v1 Announce Type: new \nAbstract: How humans grow and maintain abstract knowledge from the sparse, streaming noisy data of experience is a longstanding challenge in cognitive science. Any computational account must satisfy at least three desiderata: It must be (1) data-efficient and c",
+      "url": "https://arxiv.org/abs/2609.01815",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Architecting Conversational Data Systems for Stateless LLM APIs: The Hydration Proxy Pattern",
+      "summary": "arXiv:2609.01834v1 Announce Type: new \nAbstract: As enterprise platforms transition to conversational reasoning interfaces, the stateless nature of LLM APIs creates an architectural gap. While statelessness enables horizontal scalability for AI providers, it forces client applications to manage the",
+      "url": "https://arxiv.org/abs/2609.01834",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "SSAKG 2.0: An Open-Source Package for Structural Associative Sequence Memory and Context-Based Retrieval",
+      "summary": "arXiv:2609.01849v1 Announce Type: new \nAbstract: This article presents SSAKG 2.0, an open-source software package for constructing and operating Structural Sequential Associative Knowledge Graphs (SSAKGs). An SSAKG represents objects as graph vertices and ordered sequences as structural patterns of",
+      "url": "https://arxiv.org/abs/2609.01849",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "The Memory Trust Gap: Capability-Dependent Failures in Persistent-Memory Agents",
+      "summary": "arXiv:2609.01852v1 Announce Type: new \nAbstract: Persistent memory supports personalized agents, but a stale stored fact can override current authoritative evidence without warning. We study when this harm begins as model capability changes. We evaluate a frozen, closed-set, action-scored benchmark",
+      "url": "https://arxiv.org/abs/2609.01852",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "PRISM: An Agentic Multi-Model Architecture for Proactive Safety in Autonomous Transportation Systems",
+      "summary": "arXiv:2609.01623v1 Announce Type: new \nAbstract: Autonomous and intelligent transportation systems operate in complex urban environments where safety depends on interactions among vehicle behavior, environmental conditions, and vulnerable road users (VRUs) such as pedestrians and cyclists. Most adva",
+      "url": "https://arxiv.org/abs/2609.01623",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Differential Games for Compositional Handling of Competing Control Tasks",
+      "summary": "arXiv:2609.01838v1 Announce Type: new \nAbstract: We introduce a novel Divide and Conquer control design methodology leveraging differential games in single-agent, multi-objective dynamical systems. The proposed framework associates each control objective with a virtual input and establishes a non-co",
+      "url": "https://arxiv.org/abs/2609.01838",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "ArcticSwarm: Deferring Early Consensus in Long-Horizon Multi-Agent Research",
+      "summary": "arXiv:2609.01870v1 Announce Type: new \nAbstract: Multi-agent systems have shown strong performance in domains with reliable verifiers such as coding, where multi-parallel candidate generation selected by a verifier is effective. However, such pipelines would not generalize to open-ended, long-horizo",
+      "url": "https://arxiv.org/abs/2609.01870",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "RideSkill: A Hierarchical Algorithm for Generalized Ride Sharing with LLM-Driven Automatic Evolution",
+      "summary": "arXiv:2609.02250v1 Announce Type: new \nAbstract: Ride-sharing, which allows multiple passengers with different origin-destination (OD) pairs to share a single vehicle, is a challenging operational problem, as it requires orders with different OD pairs to be efficiently bundled and assigned to vehicl",
+      "url": "https://arxiv.org/abs/2609.02250",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Competitive Market Behavior of LLMs",
+      "summary": "arXiv:2609.02580v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed as economic agents, yet there is little evidence whether LLM agents are suited for participating in market mechanisms designed for humans, and whether these mechanisms deliver desired outcomes whe",
+      "url": "https://arxiv.org/abs/2609.02580",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Harness Engineering in LLM Tool Use via Agent-Native Reusable Tool Primitives",
+      "summary": "arXiv:2609.01736v1 Announce Type: cross \nAbstract: Large language models (LLMs) augmented with external tools have demonstrated remarkable capability in solving complex real-world tasks. However, existing approaches suffer from two key challenges: brittle multi-step and multi-turn reasoning caused b",
+      "url": "https://arxiv.org/abs/2609.01736",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Agents That Model Agents: Five Principles Toward a Theory of Mind for 6G Networks",
+      "summary": "arXiv:2609.01779v1 Announce Type: cross \nAbstract: Future 6G networks will rely on Large Language Model (LLM) agents to manage the Radio Access Network (RAN). However, current architectures assume inter-agent messages convey objective facts. A message is instead a \\emph{trace} of the sender's reason",
+      "url": "https://arxiv.org/abs/2609.01779",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Epistemic Sybil Resistance: Multiplying AI Agents Without Multiplying Evidence",
+      "summary": "arXiv:2609.01873v1 Announce Type: cross \nAbstract: Multi-agent AI systems improve inference by spawning agents and synthesizing reports. But another agent is not another observation: apparently independent reports may descend from the same evidence, and genuinely independent evidence can produce nea",
+      "url": "https://arxiv.org/abs/2609.01873",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
