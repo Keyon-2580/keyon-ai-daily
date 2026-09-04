@@ -1,0 +1,363 @@
+{
+  "date": "2026-09-04",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-09-04 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "An open ad protocol for LLM inference",
+      "summary": "Article URL: https://github.com/musa92/uap\nComments URL: https://news.ycombinator.com/item?id=49560582\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/musa92/uap",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "There are many agent harnesses, but this one is mine",
+      "summary": "Article URL: https://earendil.com/posts/there-are-many-agent-harnesses-but-this-one-is-mine/\nComments URL: https://news.ycombinator.com/item?id=49558275\nPoints: 2\n# Comments: 0",
+      "url": "https://earendil.com/posts/there-are-many-agent-harnesses-but-this-one-is-mine/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Generate a Claude Code or Codex agent fleet from one HTML file",
+      "summary": "Article URL: https://github.com/bob-codedaptive/fleet-generator\nComments URL: https://news.ycombinator.com/item?id=49558161\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/bob-codedaptive/fleet-generator",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Ask HN: Is there a test for measuring cognitive affects from LLM usage?",
+      "summary": "A part of me feels like I may be loosing my ability to think.Is there a test I can periodically do to see how my cognitive abilities are being affected by my AI usage all day?\n\nComments URL: https://news.ycombinator.com/item?id=49557687\nPoints: 5\n# Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=49557687",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
+      "summary": "arXiv:2609.02981v1 Announce Type: new \nAbstract: Artificial intelligence is changing the form of applied English materials from fixed paper sequences to adaptive learning systems that can diagnose learners, recommend tasks, and provide formative feedback. This paper studies the structure and applica",
+      "url": "https://arxiv.org/abs/2609.02981",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "MasterControl Seventeen Every Time",
+      "summary": "arXiv:2609.03209v1 Announce Type: new \nAbstract: We study a governed approach to enterprise analytics: a language model interprets the question, while deterministic policy selects and runs a pre-approved analytical program that returns both results and evidence. We show that this restriction can rem",
+      "url": "https://arxiv.org/abs/2609.03209",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Speculative Macro Commit for Faster Tool-Using Agents",
+      "summary": "arXiv:2609.03236v1 Announce Type: new \nAbstract: Tool-using LLM agents spend wall-clock time not only on model inference but also in serial action--observation turns, where each tool call, environment transition, and observation can delay subsequent decisions. We introduce \\textbf{Speculative Macro",
+      "url": "https://arxiv.org/abs/2609.03236",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
+      "summary": "arXiv:2609.03340v1 Announce Type: new \nAbstract: Distributed LLM-agent teams can read the latest shared facts and still act on an obsolete plan. A planner may derive an action from requirement $r_3$, another agent may commit $r_4$, and an executor may receive $r_4$ without replacing the plan derived",
+      "url": "https://arxiv.org/abs/2609.03340",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Dude: A Dual-Detection Multi-Agent System for Paper-Code Discrepancy Detection",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.03416"
+        },
+        {
+          "title": "Towards Scaling Reinforcement Learning to Massive Populations: Learning Mean-Field Representations",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.02928"
+        },
+        {
+          "title": "LLM-Guided Reinforcement Learning for Adaptive NPC Behavior in Multi-Agent Combat Games",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.02931"
+        },
+        {
+          "title": "You Can't Escape Your Own Activations : Evaluation Awareness and Multi-Agent Monitoring",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.03035"
+        },
+        {
+          "title": "The Civilization Framework: Sovereign-Anchored Communication Between Personal Multi-Agent Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.03425"
+        },
+        {
+          "title": "The Illusion of Independent Quorums: Epistemic Fault Domains and Correlated Cognitive Failures in Agentic Quorums",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.02925"
+        },
+        {
+          "title": "Privacy-Preserving Topology-Guided Safety for LLM-Based Multi-Agent Systems via Federated Graph Learning",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.02967"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "Where Reliability Lives: Experimental Localisation of Behavioural Properties in an Agent System",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.03192"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "There are many agent harnesses, but this one is mine",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://earendil.com/posts/there-are-many-agent-harnesses-but-this-one-is-mine/"
+        },
+        {
+          "title": "A look at coding agent benchmarks, and what may be interesting next",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://tuneloop.io/blog/coding-agent-benchmarks"
+        },
+        {
+          "title": "DuplexSpeechBench-IFEval: Evaluating Implicit Instruction Following in Full-Duplex Voice Agents",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.03423"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "An open ad protocol for LLM inference",
+      "summary": "Article URL: https://github.com/musa92/uap\nComments URL: https://news.ycombinator.com/item?id=49560582\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/musa92/uap",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "There are many agent harnesses, but this one is mine",
+      "summary": "Article URL: https://earendil.com/posts/there-are-many-agent-harnesses-but-this-one-is-mine/\nComments URL: https://news.ycombinator.com/item?id=49558275\nPoints: 2\n# Comments: 0",
+      "url": "https://earendil.com/posts/there-are-many-agent-harnesses-but-this-one-is-mine/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Generate a Claude Code or Codex agent fleet from one HTML file",
+      "summary": "Article URL: https://github.com/bob-codedaptive/fleet-generator\nComments URL: https://news.ycombinator.com/item?id=49558161\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/bob-codedaptive/fleet-generator",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Ask HN: Is there a test for measuring cognitive affects from LLM usage?",
+      "summary": "A part of me feels like I may be loosing my ability to think.Is there a test I can periodically do to see how my cognitive abilities are being affected by my AI usage all day?\n\nComments URL: https://news.ycombinator.com/item?id=49557687\nPoints: 5\n# Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=49557687",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "A look at coding agent benchmarks, and what may be interesting next",
+      "summary": "Article URL: https://tuneloop.io/blog/coding-agent-benchmarks\nComments URL: https://news.ycombinator.com/item?id=49557251\nPoints: 3\n# Comments: 0",
+      "url": "https://tuneloop.io/blog/coding-agent-benchmarks",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Ask HN: Why don't LLM APIs have a first-class test mode?",
+      "summary": "Context: At work, we’re getting ready to stress-test a chatbot for scalability.One fairly obvious issue came up: if our load tests exercise the real OpenAI/Claude APIs, a scalability test can quickly turn into a token-spending test.Fair enough. We shouldn’t burn real inference just to test whether",
+      "url": "https://news.ycombinator.com/item?id=49556909",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Ask HN: How do you gate an autonomous coding agent's shell access?",
+      "summary": "I've been giving coding agents more autonomy lately, letting them run shell commands unattended for longer stretches, and I don't have a good answer for how people actually gate that beyond \"run it in a container and hope.\" A container limits blast radius but doesn't stop the agent from reading a s",
+      "url": "https://news.ycombinator.com/item?id=49556858",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Rogue Agent Framework",
+      "summary": "Article URL: https://github.com/thooton/rogue\nComments URL: https://news.ycombinator.com/item?id=49556510\nPoints: 1\n# Comments: 2",
+      "url": "https://github.com/thooton/rogue",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
+      "summary": "arXiv:2609.02981v1 Announce Type: new \nAbstract: Artificial intelligence is changing the form of applied English materials from fixed paper sequences to adaptive learning systems that can diagnose learners, recommend tasks, and provide formative feedback. This paper studies the structure and applica",
+      "url": "https://arxiv.org/abs/2609.02981",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "MasterControl Seventeen Every Time",
+      "summary": "arXiv:2609.03209v1 Announce Type: new \nAbstract: We study a governed approach to enterprise analytics: a language model interprets the question, while deterministic policy selects and runs a pre-approved analytical program that returns both results and evidence. We show that this restriction can rem",
+      "url": "https://arxiv.org/abs/2609.03209",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Speculative Macro Commit for Faster Tool-Using Agents",
+      "summary": "arXiv:2609.03236v1 Announce Type: new \nAbstract: Tool-using LLM agents spend wall-clock time not only on model inference but also in serial action--observation turns, where each tool call, environment transition, and observation can delay subsequent decisions. We introduce \\textbf{Speculative Macro",
+      "url": "https://arxiv.org/abs/2609.03236",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
+      "summary": "arXiv:2609.03340v1 Announce Type: new \nAbstract: Distributed LLM-agent teams can read the latest shared facts and still act on an obsolete plan. A planner may derive an action from requirement $r_3$, another agent may commit $r_4$, and an executor may receive $r_4$ without replacing the plan derived",
+      "url": "https://arxiv.org/abs/2609.03340",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant",
+      "summary": "arXiv:2609.03402v1 Announce Type: new \nAbstract: Artificial intelligence (AI) teaching assistants powered by large language models (LLMs) offer scalable educational support but often provide limited personalization. This study presents a prompt-engineering-based framework for personalizing general-p",
+      "url": "https://arxiv.org/abs/2609.03402",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Caught in the Story: Narrative Captivity in Multi-turn LLMs Conversation",
+      "summary": "arXiv:2609.03407v1 Announce Type: new \nAbstract: People increasingly turn to large language models (LLMs) for everyday advice, making ethically charged interpersonal problems a practical moral-advisory context. Most prior work has studied this context through single-turn judgments or pressure-laden",
+      "url": "https://arxiv.org/abs/2609.03407",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Dude: A Dual-Detection Multi-Agent System for Paper-Code Discrepancy Detection",
+      "summary": "arXiv:2609.03416v1 Announce Type: new \nAbstract: LLM-empowered paper-code discrepancy detection has received growing concern since the scaling of research submissions exceeds the manual review capability. However, the limited context capacity and one-sided discrepancy detection of existing single-ag",
+      "url": "https://arxiv.org/abs/2609.03416",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "DuplexSpeechBench-IFEval: Evaluating Implicit Instruction Following in Full-Duplex Voice Agents",
+      "summary": "arXiv:2609.03423v1 Announce Type: new \nAbstract: Full-duplex voice agents must continuously decide when to listen, backchannel, interrupt, handle speech overlaps, take the floor, and yield. Existing benchmarks largely test these behaviors through explicit turn-management instructions, while deployed",
+      "url": "https://arxiv.org/abs/2609.03423",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Towards Scaling Reinforcement Learning to Massive Populations: Learning Mean-Field Representations",
+      "summary": "arXiv:2609.02928v1 Announce Type: new \nAbstract: Modern multi-agent systems are increasingly deployed at scale over large populations of agents in settings such as ad-auctions, traffic routing, and recommendation systems. The dominant approach in such settings is to optimize each agent's policy inde",
+      "url": "https://arxiv.org/abs/2609.02928",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "LLM-Guided Reinforcement Learning for Adaptive NPC Behavior in Multi-Agent Combat Games",
+      "summary": "arXiv:2609.02931v1 Announce Type: new \nAbstract: Scripted and rule-based non-player characters (NPCs) in combat video games often exhibit predictable behaviors that experienced players can exploit, while reinforcement learning (RL) agents typically retain a fixed policy after training and cannot rea",
+      "url": "https://arxiv.org/abs/2609.02931",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "You Can't Escape Your Own Activations : Evaluation Awareness and Multi-Agent Monitoring",
+      "summary": "arXiv:2609.03035v1 Announce Type: new \nAbstract: LLM agents are increasingly deployed in multi-agent systems, where they can collude while keeping their actions benign. Output monitors designed to detect such collusions can be fooled by obfuscation and steganography, motivating the use of probes tra",
+      "url": "https://arxiv.org/abs/2609.03035",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Where Reliability Lives: Experimental Localisation of Behavioural Properties in an Agent System",
+      "summary": "arXiv:2609.03192v1 Announce Type: new \nAbstract: Reliability claims about agentic systems implicitly locate each property somewhere: in the model, or in the machinery around it. We built a system where that location is an experimental question. The subject is a persistent simulated settlement whose",
+      "url": "https://arxiv.org/abs/2609.03192",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "The Civilization Framework: Sovereign-Anchored Communication Between Personal Multi-Agent Systems",
+      "summary": "arXiv:2609.03425v1 Announce Type: new \nAbstract: Humans are the transport layer between AI systems, losing context at every hop. We present the Civilization Framework, whose addressable party is the civilization, not the agent (one human sovereign, a persistent ledger, and interchangeable agents), a",
+      "url": "https://arxiv.org/abs/2609.03425",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "The Illusion of Independent Quorums: Epistemic Fault Domains and Correlated Cognitive Failures in Agentic Quorums",
+      "summary": "arXiv:2609.02925v1 Announce Type: cross \nAbstract: Multi-agent quorums are widely used to authorize high-stakes infrastructure and policy mutations, yet distinct reviewers often share upstream telemetry, documents, or tool backends. When upstream inputs fail, multiple votes collapse onto a single co",
+      "url": "https://arxiv.org/abs/2609.02925",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Privacy-Preserving Topology-Guided Safety for LLM-Based Multi-Agent Systems via Federated Graph Learning",
+      "summary": "arXiv:2609.02967v1 Announce Type: cross \nAbstract: Topology-guided safeguards for LLM-based multi-agent systems (MAS) train a GNN over the inter-agent communication graph to localize risky agents and intervene on the topology---but they assume one operator can pool all labeled traces. Across organiz",
+      "url": "https://arxiv.org/abs/2609.02967",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "From Euclidean to Graph-Structured Data: A Survey of Collaborative Learning",
+      "summary": "arXiv:2609.02984v1 Announce Type: cross \nAbstract: The conventional approach to machine learning, that is, collecting data, training models, and performing inference in a single location, faces fundamental limitations, including scalability and privacy, that restrict its applicability. To address th",
+      "url": "https://arxiv.org/abs/2609.02984",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
