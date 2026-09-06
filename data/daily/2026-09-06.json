@@ -1,0 +1,152 @@
+{
+  "date": "2026-09-06",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-09-06 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "LLM-as-a-Verifier",
+      "summary": "Article URL: https://github.com/llm-as-a-verifier/llm-as-a-verifier\nComments URL: https://news.ycombinator.com/item?id=49583167\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/llm-as-a-verifier/llm-as-a-verifier",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "BLLM / ALLM – before and after LLM",
+      "summary": "Shall we start indicating the time as \"before llm\" and \"after llm\"? I've just talked with someone who wants to break into the industry and i've wrote something like \"i have few collogues who entered through contributing to open source, but it was before LLMs\".LLMs seem to be such big thing and thei",
+      "url": "https://news.ycombinator.com/item?id=49583058",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Routed: Local, zero-token hybrid router for AI agent skills (<20ms)",
+      "summary": "Article URL: https://github.com/bshea-1/Routed\nComments URL: https://news.ycombinator.com/item?id=49582923\nPoints: 2\n# Comments: 1",
+      "url": "https://github.com/bshea-1/Routed",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Accelerating LLM Inference with Lossless Speculative Decoding Algorithms (2025)",
+      "summary": "Article URL: https://arxiv.org/abs/2502.05202\nComments URL: https://news.ycombinator.com/item?id=49582850\nPoints: 1\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2502.05202",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": []
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": []
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": []
+    }
+  ],
+  "oss": [
+    {
+      "title": "LLM-as-a-Verifier",
+      "summary": "Article URL: https://github.com/llm-as-a-verifier/llm-as-a-verifier\nComments URL: https://news.ycombinator.com/item?id=49583167\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/llm-as-a-verifier/llm-as-a-verifier",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "BLLM / ALLM – before and after LLM",
+      "summary": "Shall we start indicating the time as \"before llm\" and \"after llm\"? I've just talked with someone who wants to break into the industry and i've wrote something like \"i have few collogues who entered through contributing to open source, but it was before LLMs\".LLMs seem to be such big thing and thei",
+      "url": "https://news.ycombinator.com/item?id=49583058",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Routed: Local, zero-token hybrid router for AI agent skills (<20ms)",
+      "summary": "Article URL: https://github.com/bshea-1/Routed\nComments URL: https://news.ycombinator.com/item?id=49582923\nPoints: 2\n# Comments: 1",
+      "url": "https://github.com/bshea-1/Routed",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Accelerating LLM Inference with Lossless Speculative Decoding Algorithms (2025)",
+      "summary": "Article URL: https://arxiv.org/abs/2502.05202\nComments URL: https://news.ycombinator.com/item?id=49582850\nPoints: 1\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2502.05202",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "How to make your agent do its own support",
+      "summary": "Article URL: https://mmoustafa.com/blog/2026/09/05/how-to-make-your-agent-do-its-own-support/\nComments URL: https://news.ycombinator.com/item?id=49582381\nPoints: 2\n# Comments: 0",
+      "url": "https://mmoustafa.com/blog/2026/09/05/how-to-make-your-agent-do-its-own-support/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: OpenMonitor – vendor neutral web monitoring cloud agent",
+      "summary": "Article URL: https://www.openmonitor.website/\nComments URL: https://news.ycombinator.com/item?id=49581999\nPoints: 3\n# Comments: 0",
+      "url": "https://www.openmonitor.website/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Clove: Agent Skills for Mac",
+      "summary": "Article URL: https://www.kshv.me/clove\nComments URL: https://news.ycombinator.com/item?id=49581717\nPoints: 1\n# Comments: 0",
+      "url": "https://www.kshv.me/clove",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+      "summary": "Article URL: https://github.com/okf-memory/okf-agent-memory\nComments URL: https://news.ycombinator.com/item?id=49581240\nPoints: 54\n# Comments: 18",
+      "url": "https://github.com/okf-memory/okf-agent-memory",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [
+    {
+      "title": "Chrome again exempts Google from user site data settings",
+      "summary": "Article URL: https://lapcatsoftware.com/articles/2026/9/1.html\nComments URL: https://news.ycombinator.com/item?id=49581870\nPoints: 224\n# Comments: 35",
+      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Discovery of a new OpenAI agent message board",
+      "summary": "https://www.reuters.com/world/europe/openai-agents-hijacked-...\n\nComments URL: https://news.ycombinator.com/item?id=49563355\nPoints: 2153\n# Comments: 1531",
+      "url": "https://collusion.wiki/",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "research": [],
+  "china": []
+}
