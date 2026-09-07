@@ -1,0 +1,244 @@
+{
+  "date": "2026-09-07",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-09-07 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "EXAONE Forecast for Finance",
+      "summary": "arXiv:2609.04239v1 Announce Type: new \nAbstract: This technical report presents EXAONE Forecast for Finance (EXAONE Finance), a financial time series (TS) foundation model (TSFM) tailored to financial forecasting. Recent TSFMs achieve strong zero-shot performance through large-scale pretraining. How",
+      "url": "https://arxiv.org/abs/2609.04239",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
+      "summary": "arXiv:2609.04286v1 Announce Type: new \nAbstract: Artificial intelligence in recruitment has shifted the object being automated from profile pairs and ranked lists to multi-stage workflows that retrieve evidence, compare candidates, and support or execute actions. This systematized narrative review t",
+      "url": "https://arxiv.org/abs/2609.04286",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation",
+      "summary": "arXiv:2609.04298v1 Announce Type: new \nAbstract: Evaluating agents on the growing number of agentic benchmarks is challenging because they often require complex environments and agent integrations. We introduce Harbor Adapters, a unified evaluation infrastructure for agentic benchmarks. Our work mak",
+      "url": "https://arxiv.org/abs/2609.04298",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Data-Optimized Contingency Screening: A Machine Learning Approach to Power System Security",
+      "summary": "arXiv:2609.04300v1 Announce Type: new \nAbstract: Ensuring the security of the power system is essential for stability and reliability, especially in the event of disruption. Effective classification of contingency in power systems enables proactive decision-making and mitigates large-scale breakdown",
+      "url": "https://arxiv.org/abs/2609.04300",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "At Equal Inference Cost, Multi-Agent Structure Does Not Beat a Single Frozen Agent",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.04217"
+        },
+        {
+          "title": "Online Change-point Detection for Cooperative Multi-Agent Reinforcement Learning",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.05298"
+        },
+        {
+          "title": "Trust-Aware Adaptive Disclosure for Inference Privacy Preservation in Multi-Agent Networks",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.05340"
+        },
+        {
+          "title": "Reviewer Capability Governs Rejection Targeting, Not Repair Skill: Evidence from LLM Execute-Review-Revise Pipelines",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.04270"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.04298"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.04286"
+        },
+        {
+          "title": "Multi-dimensional Bias in Modeling Multi-dimensional Preferences: Evaluating the Ability of Synthetic Agents to Replace Human Participants in Conjoint Experiments",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.04243"
+        },
+        {
+          "title": "EVOHARNESSBENCH: Can Your Agents Keep Pace with an Evolving Harness?",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.04280"
+        }
+      ]
+    }
+  ],
+  "oss": [],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "EXAONE Forecast for Finance",
+      "summary": "arXiv:2609.04239v1 Announce Type: new \nAbstract: This technical report presents EXAONE Forecast for Finance (EXAONE Finance), a financial time series (TS) foundation model (TSFM) tailored to financial forecasting. Recent TSFMs achieve strong zero-shot performance through large-scale pretraining. How",
+      "url": "https://arxiv.org/abs/2609.04239",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
+      "summary": "arXiv:2609.04286v1 Announce Type: new \nAbstract: Artificial intelligence in recruitment has shifted the object being automated from profile pairs and ranked lists to multi-stage workflows that retrieve evidence, compare candidates, and support or execute actions. This systematized narrative review t",
+      "url": "https://arxiv.org/abs/2609.04286",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation",
+      "summary": "arXiv:2609.04298v1 Announce Type: new \nAbstract: Evaluating agents on the growing number of agentic benchmarks is challenging because they often require complex environments and agent integrations. We introduce Harbor Adapters, a unified evaluation infrastructure for agentic benchmarks. Our work mak",
+      "url": "https://arxiv.org/abs/2609.04298",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Data-Optimized Contingency Screening: A Machine Learning Approach to Power System Security",
+      "summary": "arXiv:2609.04300v1 Announce Type: new \nAbstract: Ensuring the security of the power system is essential for stability and reliability, especially in the event of disruption. Effective classification of contingency in power systems enables proactive decision-making and mitigates large-scale breakdown",
+      "url": "https://arxiv.org/abs/2609.04300",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Iris: Climbing to the Search Frontier",
+      "summary": "arXiv:2609.04304v1 Announce Type: new \nAbstract: We present Iris-mini and Iris-pro, two search agents trained at the 35B-A3B and 397B-A17B scales, together with the data pipeline and training recipe behind them. Tasks are reverse-constructed from the hyperlink structure of a web corpus: we author mu",
+      "url": "https://arxiv.org/abs/2609.04304",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "A Removal Based Approach to Improve LLM Faithfulness at Test-Time",
+      "summary": "arXiv:2609.04343v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used for consequential decisions, making their explanations an important tool for auditing model behavior. Unfortunately, these explanations can be unfaithful, failing to reflect the actual reasoning under",
+      "url": "https://arxiv.org/abs/2609.04343",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Why Better Models Can Create Riskier Systems: Evidence from LLM Agents in Financial Markets",
+      "summary": "arXiv:2609.04373v1 Announce Type: new \nAbstract: Large language models (LLMs) are being deployed at scale in consequential real-world systems, from financial markets to content moderation to hiring. We show that improving individual model capability can degrade rather than improve system-level outco",
+      "url": "https://arxiv.org/abs/2609.04373",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Corporate Language Model (CLM): Transforming Tacit and Fragmented Enterprise Knowledge into a Sovereign, Auditable, and Executable Corporate Intelligence Layer",
+      "summary": "arXiv:2609.04377v1 Announce Type: new \nAbstract: Enterprise AI deployments fail not from model inadequacy, but because organizations lack a structured substrate encoding how they decide, negotiate, and execute. Generic LLMs carry no firm-specific ontological priors; RAG remains brittle, with no path",
+      "url": "https://arxiv.org/abs/2609.04377",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "At Equal Inference Cost, Multi-Agent Structure Does Not Beat a Single Frozen Agent",
+      "summary": "arXiv:2609.04217v1 Announce Type: new \nAbstract: Multi-agent LLM pipelines, such as Planner-Executor-Critic teams, often report gains over single agents, but these gains usually come with higher inference cost because the team makes multiple model calls per environment step. Existing automated metho",
+      "url": "https://arxiv.org/abs/2609.04217",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Multi-dimensional Bias in Modeling Multi-dimensional Preferences: Evaluating the Ability of Synthetic Agents to Replace Human Participants in Conjoint Experiments",
+      "summary": "arXiv:2609.04243v1 Announce Type: new \nAbstract: Despite growing interest in using LLMs to add robustness or reduce data-collection costs in survey experiments, their efficacy in conjoint design---an increasingly popular method in political science---remains underexplored. This paper addresses that",
+      "url": "https://arxiv.org/abs/2609.04243",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "EVOHARNESSBENCH: Can Your Agents Keep Pace with an Evolving Harness?",
+      "summary": "arXiv:2609.04280v1 Announce Type: new \nAbstract: Modern LLM-based agents operate through a harness of tools, reusable skills, and specialist agents that shapes what they observe and what they can do. In practice, this harness continually evolves as new capabilities are added. We introduce EVOHARNESS",
+      "url": "https://arxiv.org/abs/2609.04280",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Abstraction Agent",
+      "summary": "arXiv:2609.04303v1 Announce Type: new \nAbstract: Information abstraction, which groups strategically similar private states into a tractable number of buckets, is essential for scaling game-solving algorithms to large imperfect-information games. Constructing effective abstractions, however, has tra",
+      "url": "https://arxiv.org/abs/2609.04303",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Online Change-point Detection for Cooperative Multi-Agent Reinforcement Learning",
+      "summary": "arXiv:2609.05298v1 Announce Type: new \nAbstract: Cooperative multi-agent reinforcement learning (MARL) systems rely on past experience for learning coordinated behaviour, but this experience may become unreliable if the environment or task objective changes during training. In such cases, agents fir",
+      "url": "https://arxiv.org/abs/2609.05298",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Trust-Aware Adaptive Disclosure for Inference Privacy Preservation in Multi-Agent Networks",
+      "summary": "arXiv:2609.05340v1 Announce Type: new \nAbstract: Agent based systems are increasingly deployed in information critical systems including healthcare management systems, and smart grids. In this paper, we consider a multi-agent system where each agent has a latent goal that needs to be kept hidden fro",
+      "url": "https://arxiv.org/abs/2609.05340",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Reviewer Capability Governs Rejection Targeting, Not Repair Skill: Evidence from LLM Execute-Review-Revise Pipelines",
+      "summary": "arXiv:2609.04270v1 Announce Type: cross \nAbstract: Multi-agent LLM pipelines increasingly assign roles, including execution and verification, to models of different capability tiers. This is done because running a flagship model at every stage is expensive. Previous literature has established that v",
+      "url": "https://arxiv.org/abs/2609.04270",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Game-Theoretic Drone Swarm Defense: A Case Study in Applied Differential Game Theory",
+      "summary": "arXiv:2609.04394v1 Announce Type: cross \nAbstract: This technical report is a study of the use of differential game (DG) theory to solve the target-assignment and midcourse guidance problems of drone swarms tasked with intercepting opposing swarms in defense of high-value assets. The game-theoretic",
+      "url": "https://arxiv.org/abs/2609.04394",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
