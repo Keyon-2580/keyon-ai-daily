@@ -1,0 +1,137 @@
+{
+  "date": "2026-09-09",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-09-09 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Meta launches Muse, a personal AI agent",
+      "summary": "Article URL: https://apps.apple.com/us/app/muse-from-meta/id6760173601\nComments URL: https://news.ycombinator.com/item?id=49620331\nPoints: 1\n# Comments: 1",
+      "url": "https://apps.apple.com/us/app/muse-from-meta/id6760173601",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "HAE logged where the seconds go in coding-agent turn (TTFT vs. decode vs. tools)",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=49619830\nPoints: 1\n# Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=49619830",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Agent on your landing page, in one script tag, with generative UI",
+      "summary": "Article URL: https://trimly.demos.guuey.com/?tour=live\nComments URL: https://news.ycombinator.com/item?id=49618582\nPoints: 1\n# Comments: 0",
+      "url": "https://trimly.demos.guuey.com/?tour=live",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Mastra Agent Factory",
+      "summary": "Article URL: https://mastra.ai/factory\nComments URL: https://news.ycombinator.com/item?id=49618568\nPoints: 1\n# Comments: 0",
+      "url": "https://mastra.ai/factory",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": []
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": []
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": []
+    }
+  ],
+  "oss": [
+    {
+      "title": "Meta launches Muse, a personal AI agent",
+      "summary": "Article URL: https://apps.apple.com/us/app/muse-from-meta/id6760173601\nComments URL: https://news.ycombinator.com/item?id=49620331\nPoints: 1\n# Comments: 1",
+      "url": "https://apps.apple.com/us/app/muse-from-meta/id6760173601",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "HAE logged where the seconds go in coding-agent turn (TTFT vs. decode vs. tools)",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=49619830\nPoints: 1\n# Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=49619830",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Agent on your landing page, in one script tag, with generative UI",
+      "summary": "Article URL: https://trimly.demos.guuey.com/?tour=live\nComments URL: https://news.ycombinator.com/item?id=49618582\nPoints: 1\n# Comments: 0",
+      "url": "https://trimly.demos.guuey.com/?tour=live",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Mastra Agent Factory",
+      "summary": "Article URL: https://mastra.ai/factory\nComments URL: https://news.ycombinator.com/item?id=49618568\nPoints: 1\n# Comments: 0",
+      "url": "https://mastra.ai/factory",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "What nobody tells you about writing agent skills",
+      "summary": "Article URL: https://newsletter.posthog.com/p/what-nobody-tells-you-about-writing\nComments URL: https://news.ycombinator.com/item?id=49618142\nPoints: 4\n# Comments: 0",
+      "url": "https://newsletter.posthog.com/p/what-nobody-tells-you-about-writing",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Agent Canvas",
+      "summary": "Article URL: https://www.openhands.dev/blog/introducing-agent-canvas\nComments URL: https://news.ycombinator.com/item?id=49617451\nPoints: 1\n# Comments: 0",
+      "url": "https://www.openhands.dev/blog/introducing-agent-canvas",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: Browser LLM Fit",
+      "summary": "Auto-detect client hardware capabilities and match against in-browser AI models across WebGPU, WASM, and ONNX Runtime.GH: https://github.com/hemanth/browser-llm-fit\n\nComments URL: https://news.ycombinator.com/item?id=49617427\nPoints: 1\n# Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=49617427",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Ask HN: What is your best Agent Skill?",
+      "summary": "Skills have been a thing for a while now, what are some of the best skills people have found that actually work well?The only one I have found gets regular mileage is grill-me from Matt Pocock.\n\nComments URL: https://news.ycombinator.com/item?id=49617027\nPoints: 1\n# Comments: 2",
+      "url": "https://news.ycombinator.com/item?id=49617027",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [],
+  "research": [],
+  "china": []
+}
