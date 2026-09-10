@@ -1,0 +1,365 @@
+{
+  "date": "2026-09-10",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-09-10 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Busabase for DeepSeek Harness: An Agent database that runs apps and skills",
+      "summary": "Article URL: https://github.com/busabase/busabase-dsh-plugin\nComments URL: https://news.ycombinator.com/item?id=49637501\nPoints: 4\n# Comments: 0",
+      "url": "https://github.com/busabase/busabase-dsh-plugin",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Can LLM Agents Infer World Models? Evidence from Agentic Automata Learning",
+      "summary": "Article URL: https://arxiv.org/abs/2606.16576\nComments URL: https://news.ycombinator.com/item?id=49637469\nPoints: 3\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2606.16576",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes",
+      "summary": "Article URL: https://hugovergnes.github.io/little-lm-3-8b/\nComments URL: https://news.ycombinator.com/item?id=49637435\nPoints: 35\n# Comments: 5",
+      "url": "https://hugovergnes.github.io/little-lm-3-8b/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Spacefast: Hosting for Agent Publishing",
+      "summary": "Article URL: https://spacefast.com/\nComments URL: https://news.ycombinator.com/item?id=49636992\nPoints: 1\n# Comments: 0",
+      "url": "https://spacefast.com/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models",
+      "summary": "arXiv:2609.05437v1 Announce Type: new \nAbstract: Previous AI alignment efforts have focused primarily on first-order social norms -- teaching models what is socially acceptable or unacceptable (e.g., `do not steal'). However, social intelligence depends not only on norm recognition, but also on anti",
+      "url": "https://arxiv.org/abs/2609.05437",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "CriticGen: Generation-Aware Evaluation as Actionable Feedback",
+      "summary": "arXiv:2609.05439v1 Announce Type: new \nAbstract: Current evaluation methods for large language models are coarse-grained and decoupled from generation, producing generic explanations that fail to provide actionable feedback for model improvement. We propose CriticGen, a fine-grained, generation-awar",
+      "url": "https://arxiv.org/abs/2609.05439",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
+      "summary": "arXiv:2609.05441v1 Announce Type: new \nAbstract: Long-term memory for LLM agents is evaluated today by conversational recall benchmarks (LoCoMo, LongMemEval), which measure question answering over dialogue history, not whether remembered facts change what a tool-using agent does. We present MERIT (M",
+      "url": "https://arxiv.org/abs/2609.05441",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "AutoFyn Technical Report: Non-Parametric Expert Iteration for Long-Horizon Agents",
+      "summary": "arXiv:2609.05446v1 Announce Type: new \nAbstract: We introduce AutoFyn, an agent harness inspired by the Expert Iteration algorithm, adapting a frozen model across many rounds by updating persistent state from verified reward signals rather than model weights. Each round begins from a fresh model ses",
+      "url": "https://arxiv.org/abs/2609.05446",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Who Are They to Each Other? Multi-Agent Reasoning for Speaker Relationship Inference",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.09628"
+        },
+        {
+          "title": "CompEvo: Competition-Induced Evolution for Multi-Agent in News-Driven Time Series Forecasting",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.09195"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "Can LLM Agents Infer World Models? Evidence from Agentic Automata Learning",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://arxiv.org/abs/2606.16576"
+        },
+        {
+          "title": "Glyph: A Multi-Strategy Agentic System for Column Description and Sensitivity-Ontology Tagging of Enterprise Data Catalogs",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.10430"
+        },
+        {
+          "title": "Agentic AI-enabled Semantic Commissioning of a Cognitive Digital Twin for Reconfigurable Manufacturing",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.09503"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Busabase for DeepSeek Harness: An Agent database that runs apps and skills",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://github.com/busabase/busabase-dsh-plugin"
+        },
+        {
+          "title": "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.05437"
+        },
+        {
+          "title": "CriticGen: Generation-Aware Evaluation as Actionable Feedback",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.05439"
+        },
+        {
+          "title": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.05441"
+        },
+        {
+          "title": "AutoFyn Technical Report: Non-Parametric Expert Iteration for Long-Horizon Agents",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.05446"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "Busabase for DeepSeek Harness: An Agent database that runs apps and skills",
+      "summary": "Article URL: https://github.com/busabase/busabase-dsh-plugin\nComments URL: https://news.ycombinator.com/item?id=49637501\nPoints: 4\n# Comments: 0",
+      "url": "https://github.com/busabase/busabase-dsh-plugin",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Can LLM Agents Infer World Models? Evidence from Agentic Automata Learning",
+      "summary": "Article URL: https://arxiv.org/abs/2606.16576\nComments URL: https://news.ycombinator.com/item?id=49637469\nPoints: 3\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2606.16576",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes",
+      "summary": "Article URL: https://hugovergnes.github.io/little-lm-3-8b/\nComments URL: https://news.ycombinator.com/item?id=49637435\nPoints: 35\n# Comments: 5",
+      "url": "https://hugovergnes.github.io/little-lm-3-8b/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Spacefast: Hosting for Agent Publishing",
+      "summary": "Article URL: https://spacefast.com/\nComments URL: https://news.ycombinator.com/item?id=49636992\nPoints: 1\n# Comments: 0",
+      "url": "https://spacefast.com/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Agent Router: Powerful traffic handling for agent builders",
+      "summary": "Article URL: https://aaif.io/blog/agent-router-powerful-traffic-handling-for-agent-builders\nComments URL: https://news.ycombinator.com/item?id=49636686\nPoints: 1\n# Comments: 0",
+      "url": "https://aaif.io/blog/agent-router-powerful-traffic-handling-for-agent-builders",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
+      "summary": "Article URL: https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/\nComments URL: https://news.ycombinator.com/item?id=49636345\nPoints: 174\n# Comments: 6",
+      "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: Botbin – Pastebin for AI agent artifacts",
+      "summary": "Article URL: https://botbin.io/\nComments URL: https://news.ycombinator.com/item?id=49636340\nPoints: 2\n# Comments: 0",
+      "url": "https://botbin.io/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "I Let an AI Agent Hack All My Gadgets–and I'd Do It Again",
+      "summary": "Article URL: https://www.wired.com/story/i-used-ai-to-hack-my-home-network/\nComments URL: https://news.ycombinator.com/item?id=49636193\nPoints: 4\n# Comments: 0",
+      "url": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [
+    {
+      "title": "How I advertise malicious software on Google Ads",
+      "summary": "Article URL: https://xlii.space/eng/malicious-software-on-google-ads/\nComments URL: https://news.ycombinator.com/item?id=49624856\nPoints: 379\n# Comments: 224",
+      "url": "https://xlii.space/eng/malicious-software-on-google-ads/",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "research": [
+    {
+      "title": "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models",
+      "summary": "arXiv:2609.05437v1 Announce Type: new \nAbstract: Previous AI alignment efforts have focused primarily on first-order social norms -- teaching models what is socially acceptable or unacceptable (e.g., `do not steal'). However, social intelligence depends not only on norm recognition, but also on anti",
+      "url": "https://arxiv.org/abs/2609.05437",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "CriticGen: Generation-Aware Evaluation as Actionable Feedback",
+      "summary": "arXiv:2609.05439v1 Announce Type: new \nAbstract: Current evaluation methods for large language models are coarse-grained and decoupled from generation, producing generic explanations that fail to provide actionable feedback for model improvement. We propose CriticGen, a fine-grained, generation-awar",
+      "url": "https://arxiv.org/abs/2609.05439",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
+      "summary": "arXiv:2609.05441v1 Announce Type: new \nAbstract: Long-term memory for LLM agents is evaluated today by conversational recall benchmarks (LoCoMo, LongMemEval), which measure question answering over dialogue history, not whether remembered facts change what a tool-using agent does. We present MERIT (M",
+      "url": "https://arxiv.org/abs/2609.05441",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "AutoFyn Technical Report: Non-Parametric Expert Iteration for Long-Horizon Agents",
+      "summary": "arXiv:2609.05446v1 Announce Type: new \nAbstract: We introduce AutoFyn, an agent harness inspired by the Expert Iteration algorithm, adapting a frozen model across many rounds by updating persistent state from verified reward signals rather than model weights. Each round begins from a fresh model ses",
+      "url": "https://arxiv.org/abs/2609.05446",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Damage-Aware Bandit Pruning for Vision and Language Transformers",
+      "summary": "arXiv:2609.05448v1 Announce Type: new \nAbstract: Structured post-training pruning of transformers requires selecting complete functional units whose suppression causes limited degradation. We formulate structured-unit selection for language and vision transformers as a damage-aware multi-armed bandi",
+      "url": "https://arxiv.org/abs/2609.05448",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Compiling VGDL into Causal Models",
+      "summary": "arXiv:2609.05459v1 Announce Type: new \nAbstract: Reinforcement learning and large language models often struggle to accurately capture the causal mechanics of game environments. Standard reinforcement learning agents tend to rely on spurious correlations, while large language models are prone to hal",
+      "url": "https://arxiv.org/abs/2609.05459",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "ARC-Bench: Closed-Loop Replanning Masks Broken Action Ranking in Frozen JEPA World Models",
+      "summary": "arXiv:2609.05461v1 Announce Type: new \nAbstract: Reward-free latent world models plan by scoring candidate actions with distances in a frozen latent space: an action is preferred if its predicted future embedding lands closer to the goal embedding. This silently assumes that latent closeness is acti",
+      "url": "https://arxiv.org/abs/2609.05461",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "RAPID: Reliability-Aware Pair Importance Distillation",
+      "summary": "arXiv:2609.05481v1 Announce Type: new \nAbstract: Inter example relational distillation transfers a teacher's representation geometry by matching relations among examples within a mini batch. Computing all pairs has quadratic complexity in the batch size, whereas uniform subsampling may use a limited",
+      "url": "https://arxiv.org/abs/2609.05481",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Scores Alone Do Not Prove Discovery: The Discovery Certification Protocol for Auditing AI Research Agents",
+      "summary": "arXiv:2609.09219v1 Announce Type: new \nAbstract: AI research agents combine prior knowledge, public sources, and experimental feedback to produce useful results. The Discovery Certification Protocol (DCP) turns claims about these results into executable recovery and feedback tests. Gate 1 validates",
+      "url": "https://arxiv.org/abs/2609.09219",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Who Are They to Each Other? Multi-Agent Reasoning for Speaker Relationship Inference",
+      "summary": "arXiv:2609.09628v1 Announce Type: new \nAbstract: Inferring speaker relationships from spoken conversations is an important step towards socially aware speech understanding. However, this task remains underexplored, and supervised modeling is costly to train and scale. At the same time, existing infe",
+      "url": "https://arxiv.org/abs/2609.09628",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Glyph: A Multi-Strategy Agentic System for Column Description and Sensitivity-Ontology Tagging of Enterprise Data Catalogs",
+      "summary": "arXiv:2609.10430v1 Announce Type: new \nAbstract: Enterprise data lakes accumulate tables faster than human stewards can document or classify them, leaving columns with missing descriptions and unassigned governance labels. This documentation debt undermines data discovery, access control, and regula",
+      "url": "https://arxiv.org/abs/2609.10430",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "CompEvo: Competition-Induced Evolution for Multi-Agent in News-Driven Time Series Forecasting",
+      "summary": "arXiv:2609.09195v1 Announce Type: cross \nAbstract: News-driven time series forecasting uses evolving textual events together with historical observations to predict future values, supporting applications such as market risk monitoring and resource scheduling. In multi-agent settings, two challenges",
+      "url": "https://arxiv.org/abs/2609.09195",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Smart Adaptive Computing Across the Continuum: LLMs in IoT-Edge-Cloud Resource Management",
+      "summary": "arXiv:2609.09348v1 Announce Type: cross \nAbstract: Managing resources across IoT, edge, and cloud layers calls for continuous, context-aware decisions under constraints that rarely stay fixed. Deep reinforcement learning (DRL) handles this class of problems well, and large language models (LLMs) are",
+      "url": "https://arxiv.org/abs/2609.09348",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Networked Admissibility-Preserving Control for Directed Safe Coordination",
+      "summary": "arXiv:2609.09384v1 Announce Type: cross \nAbstract: This paper addresses safety-critical coordination for scalar agents whose distributed commands are implemented through constrained physical-input dynamics. Agents communicate over a fixed weighted digraph with a directed spanning tree, while their o",
+      "url": "https://arxiv.org/abs/2609.09384",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Agentic AI-enabled Semantic Commissioning of a Cognitive Digital Twin for Reconfigurable Manufacturing",
+      "summary": "arXiv:2609.09503v1 Announce Type: cross \nAbstract: Rapid bespoke commissioning of the Cognitive Digital Twin (CDT) is a major challenge in reconfigurable manufacturing. Traditional digital twin (DT) construction methods primarily focus on geometric reconstruction, often neglecting the deep semantic",
+      "url": "https://arxiv.org/abs/2609.09503",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "UnitBoost: Managing Compound LLM Systems with a Merge Operator, Not a Model",
+      "summary": "arXiv:2609.09815v1 Announce Type: cross \nAbstract: Compound LLM systems often solve a coordination problem by adding a higher-level LLM. The resulting meta-agent reads workers' outputs, writes the final answer, allocates later calls, and decides when to stop. It is expressive, but it also concentrat",
+      "url": "https://arxiv.org/abs/2609.09815",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
