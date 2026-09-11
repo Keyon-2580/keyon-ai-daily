@@ -1,0 +1,379 @@
+{
+  "date": "2026-09-11",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-09-11 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "FinOps for LLM – Leanroute Team wrote a blog",
+      "summary": "I found this is probably the simplest and realistic (no fluff) take on FinOps for LLMs. \nhttps://leanroute.dev/blog/finops-for-llm-spend-three-axes-of-cost-variance\n\nComments URL: https://news.ycombinator.com/item?id=49653424\nPoints: 1\n# Comments: 2",
+      "url": "https://news.ycombinator.com/item?id=49653424",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "What happens when you unplug the coding agent from the cloud",
+      "summary": "Article URL: https://littletheta.com/field-notes/seventy-minutes-of-nothing\nComments URL: https://news.ycombinator.com/item?id=49653230\nPoints: 1\n# Comments: 0",
+      "url": "https://littletheta.com/field-notes/seventy-minutes-of-nothing",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "BasedAgents: Give your idle AI agent a paying job",
+      "summary": "Article URL: https://basedagents.ai/tasks\nComments URL: https://news.ycombinator.com/item?id=49653106\nPoints: 3\n# Comments: 4",
+      "url": "https://basedagents.ai/tasks",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "LLM Visualizer – Build a Transformer from Scratch",
+      "summary": "Article URL: https://jayvisaria.github.io/LLM-Visualizer/#/dashboard\nComments URL: https://news.ycombinator.com/item?id=49652996\nPoints: 11\n# Comments: 4",
+      "url": "https://jayvisaria.github.io/LLM-Visualizer/#/dashboard",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
+      "summary": "arXiv:2609.09203v1 Announce Type: new \nAbstract: Existing benchmarks for autonomous AI scientists evaluate only final outputs---generated code, hypotheses, or papers---yet discard the reasoning process by which those outputs were obtained. This makes it impossible to audit scientific methodology, di",
+      "url": "https://arxiv.org/abs/2609.09203",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Adaptive Entangled Game Modules in Artificial General Intelligence",
+      "summary": "arXiv:2609.09226v1 Announce Type: new \nAbstract: We introduce a probability-wave framework for modeling the collective behavior of interacting adaptive agents, deriving testable eigenmodes through a generalized behavioral intelligence (GBI) nonlocal probability-wave equation. This framework captures",
+      "url": "https://arxiv.org/abs/2609.09226",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks",
+      "summary": "arXiv:2609.09233v1 Announce Type: new \nAbstract: How can language model agents effectively leverage libraries of reusable knowledge to solve long-horizon tasks? Recent work has increasingly focused on agent skills: reusable capabilities represented as skill packages, i.e., multi-file bundles contain",
+      "url": "https://arxiv.org/abs/2609.09233",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions",
+      "summary": "arXiv:2609.09306v1 Announce Type: new \nAbstract: This paper investigates the hypothesis that the first-order structure of physical interactions, i.e. gradients or Jacobians, characterizes the structure of phenomenal experience. It does so in an idealized world inhabited by neural networks, Gradland,",
+      "url": "https://arxiv.org/abs/2609.09306",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.10939"
+        },
+        {
+          "title": "But How Would AI Agents Run a Town's Economy?",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.11108"
+        },
+        {
+          "title": "ORCH: Organizational Principles Enable Collective Intelligence in Embodied AI",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.11737"
+        },
+        {
+          "title": "When Agents Disagree: Bayesian Backward Reasoning as a Label-Free Anchor for Multi-Agent Collective Decision-Making",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.11709"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.09233"
+        },
+        {
+          "title": "Tapes Together Strong: The Co-evolution of Computation and Cooperation",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.10817"
+        },
+        {
+          "title": "Defining AI Agents: A Compendium of Criteria, Metrics, and Benchmarks",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.11018"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "SAGG – failover gateway for cheap LLM providers",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://api.privatedeskai.com/benchmarks"
+        },
+        {
+          "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.09203"
+        },
+        {
+          "title": "Finishing the Task Is Not Enough: Evaluating Agent Resilience and Considerate Participation under Accumulating Challenge",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.10724"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "FinOps for LLM – Leanroute Team wrote a blog",
+      "summary": "I found this is probably the simplest and realistic (no fluff) take on FinOps for LLMs. \nhttps://leanroute.dev/blog/finops-for-llm-spend-three-axes-of-cost-variance\n\nComments URL: https://news.ycombinator.com/item?id=49653424\nPoints: 1\n# Comments: 2",
+      "url": "https://news.ycombinator.com/item?id=49653424",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "What happens when you unplug the coding agent from the cloud",
+      "summary": "Article URL: https://littletheta.com/field-notes/seventy-minutes-of-nothing\nComments URL: https://news.ycombinator.com/item?id=49653230\nPoints: 1\n# Comments: 0",
+      "url": "https://littletheta.com/field-notes/seventy-minutes-of-nothing",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "BasedAgents: Give your idle AI agent a paying job",
+      "summary": "Article URL: https://basedagents.ai/tasks\nComments URL: https://news.ycombinator.com/item?id=49653106\nPoints: 3\n# Comments: 4",
+      "url": "https://basedagents.ai/tasks",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "LLM Visualizer – Build a Transformer from Scratch",
+      "summary": "Article URL: https://jayvisaria.github.io/LLM-Visualizer/#/dashboard\nComments URL: https://news.ycombinator.com/item?id=49652996\nPoints: 11\n# Comments: 4",
+      "url": "https://jayvisaria.github.io/LLM-Visualizer/#/dashboard",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Algo-Trading-Skills - 501 agent skills for trading infrastructure",
+      "summary": "Article URL: https://github.com/HimanshuJ16/Algo-Trading-Skills\nComments URL: https://news.ycombinator.com/item?id=49652907\nPoints: 8\n# Comments: 4",
+      "url": "https://github.com/HimanshuJ16/Algo-Trading-Skills",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "SAGG – failover gateway for cheap LLM providers",
+      "summary": "Article URL: https://api.privatedeskai.com/benchmarks\nComments URL: https://news.ycombinator.com/item?id=49652778\nPoints: 1\n# Comments: 0",
+      "url": "https://api.privatedeskai.com/benchmarks",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: OpenMuse – an Open Source alternative to Meta's personal agent",
+      "summary": "Article URL: https://github.com/diggerhq/openmuse/\nComments URL: https://news.ycombinator.com/item?id=49652769\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/diggerhq/openmuse/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: Kern Agent – See inside your agent's brain",
+      "summary": "Article URL: https://github.com/oguzbilgic/kern-ai\nComments URL: https://news.ycombinator.com/item?id=49652648\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/oguzbilgic/kern-ai",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [
+    {
+      "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c8r6y4me2g6o\nComments URL: https://news.ycombinator.com/item?id=49652105\nPoints: 162\n# Comments: 128",
+      "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "OpenAI Agents API",
+      "summary": "Article URL: https://developers.openai.com/api/docs/guides/agents-api/overview\nComments URL: https://news.ycombinator.com/item?id=49649213\nPoints: 199\n# Comments: 120",
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "summary": "https://mathstodon.xyz/@andreasthom/117240536885387540https://mathstodon.xyz/@andreasthom/117240537520615623https://x.com/ValerioCapraro/status/2097791836269977996, https://xcancel.com/ValerioCapraro/status/209779183626997799...https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/po...\n\nCommen",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "research": [
+    {
+      "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
+      "summary": "arXiv:2609.09203v1 Announce Type: new \nAbstract: Existing benchmarks for autonomous AI scientists evaluate only final outputs---generated code, hypotheses, or papers---yet discard the reasoning process by which those outputs were obtained. This makes it impossible to audit scientific methodology, di",
+      "url": "https://arxiv.org/abs/2609.09203",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Adaptive Entangled Game Modules in Artificial General Intelligence",
+      "summary": "arXiv:2609.09226v1 Announce Type: new \nAbstract: We introduce a probability-wave framework for modeling the collective behavior of interacting adaptive agents, deriving testable eigenmodes through a generalized behavioral intelligence (GBI) nonlocal probability-wave equation. This framework captures",
+      "url": "https://arxiv.org/abs/2609.09226",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks",
+      "summary": "arXiv:2609.09233v1 Announce Type: new \nAbstract: How can language model agents effectively leverage libraries of reusable knowledge to solve long-horizon tasks? Recent work has increasingly focused on agent skills: reusable capabilities represented as skill packages, i.e., multi-file bundles contain",
+      "url": "https://arxiv.org/abs/2609.09233",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions",
+      "summary": "arXiv:2609.09306v1 Announce Type: new \nAbstract: This paper investigates the hypothesis that the first-order structure of physical interactions, i.e. gradients or Jacobians, characterizes the structure of phenomenal experience. It does so in an idealized world inhabited by neural networks, Gradland,",
+      "url": "https://arxiv.org/abs/2609.09306",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "An Autonomous GeoAI Agent for Arctic Eco-Navigation",
+      "summary": "arXiv:2609.09374v1 Announce Type: new \nAbstract: Arctic maritime navigation is becoming increasingly important as changing sea-ice conditions expand seasonal accessibility while simultaneously introducing substantial operational, environmental, and community risks. Arctic route planning is inherentl",
+      "url": "https://arxiv.org/abs/2609.09374",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "The Menu Is an Execution Prior: State-Path Tool Menus for Online Agents",
+      "summary": "arXiv:2609.09395v1 Announce Type: new \nAbstract: Language models act through tools, yet practical agents face libraries containing thousands of interfaces. We introduce the tool menu as the short, ordered subset of available tools shown to an agent before execution. The agent can call only tools in",
+      "url": "https://arxiv.org/abs/2609.09395",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Decision-Focused Active Learning for Scale-Aware Critical-Materials Recovery",
+      "summary": "arXiv:2609.09413v1 Announce Type: new \nAbstract: Choosing a recovery process for scale-up requires connecting laboratory results with product requirements, process costs, and scale effects. We analyze records from Pacific Northwest National Laboratory's Computer Intelligence for Critical Element Rec",
+      "url": "https://arxiv.org/abs/2609.09413",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration",
+      "summary": "arXiv:2609.09418v1 Announce Type: new \nAbstract: World Action Models (WAMs) couple predictive world modeling with action generation, allowing anticipated future states to guide agent behavior. Although WAMs are rapidly advancing embodied AI, general-purpose counterparts remain largely unexplored in",
+      "url": "https://arxiv.org/abs/2609.09418",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Tapes Together Strong: The Co-evolution of Computation and Cooperation",
+      "summary": "arXiv:2609.10817v1 Announce Type: new \nAbstract: How does cooperation evolve in complex agentic systems? Prior work in evolutionary game theory studies why individuals are incentivized to cooperate by isolating social interactions from the physical costs of behavior, while artificial life models tra",
+      "url": "https://arxiv.org/abs/2609.10817",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training",
+      "summary": "arXiv:2609.10939v1 Announce Type: new \nAbstract: Clinical education must prepare medical students to conduct safe and coherent patient interviews under conditions of uncertainty. Traditional standardized patient (SP) training is resource-intensive and difficult to scale. We developed a scaffolding-o",
+      "url": "https://arxiv.org/abs/2609.10939",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "But How Would AI Agents Run a Town's Economy?",
+      "summary": "arXiv:2609.11108v1 Announce Type: new \nAbstract: We placed 100 memory-equipped large language model (LLM) agents in charge of a closed, money-conserving spatial economy on real Pokhara Lakeside geography (earning wages, running businesses, setting prices) and ran this multi-agent simulation for up t",
+      "url": "https://arxiv.org/abs/2609.11108",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "ORCH: Organizational Principles Enable Collective Intelligence in Embodied AI",
+      "summary": "arXiv:2609.11737v1 Announce Type: new \nAbstract: Collective intelligence depends not only on the capabilities of individual members, but also on how those members are organized. Yet artificial multi-agent systems are typically assembled using fixed organizational structures, even when the physical t",
+      "url": "https://arxiv.org/abs/2609.11737",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Finishing the Task Is Not Enough: Evaluating Agent Resilience and Considerate Participation under Accumulating Challenge",
+      "summary": "arXiv:2609.10724v1 Announce Type: cross \nAbstract: Sustained deployment of generative AI agents requires more than isolated task success. Agents must remain useful across repeated interactions, changing conditions, and dependencies on people within shared workflows, especially as technical, human, a",
+      "url": "https://arxiv.org/abs/2609.10724",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Defining AI Agents: A Compendium of Criteria, Metrics, and Benchmarks",
+      "summary": "arXiv:2609.11018v1 Announce Type: cross \nAbstract: The term agent in artificial intelligence lacks a standard definition, complicating the evaluation, comparison, and reproducibility of AI agent research. We address this ambiguity through a survey organized around five dimensions of agenticness: env",
+      "url": "https://arxiv.org/abs/2609.11018",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "From Document Silos to Process Intelligence: A Multi-Layer Knowledge Graph for CMC Process Development",
+      "summary": "arXiv:2609.11493v1 Announce Type: cross \nAbstract: Chemistry, Manufacturing and Controls (CMC) process development generates an enormous body of technical information across a multi-stage, knowledge-intensive continuum from drug discovery to commercial manufacturing. This knowledge is traditionally",
+      "url": "https://arxiv.org/abs/2609.11493",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "When Agents Disagree: Bayesian Backward Reasoning as a Label-Free Anchor for Multi-Agent Collective Decision-Making",
+      "summary": "arXiv:2609.11709v1 Announce Type: cross \nAbstract: When multiple LLM agents yield conflicting answers, the decision-making process dictates whether agent diversity improves performance or merely compounds shared errors. Existing collective decision-making methods, including voting, electoral rules,",
+      "url": "https://arxiv.org/abs/2609.11709",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
