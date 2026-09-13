@@ -1,0 +1,144 @@
+{
+  "date": "2026-09-13",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-09-13 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Booting straight into a local LLM (no linux) on my Raspberry Pi",
+      "summary": "Article URL: https://www.xda-developers.com/raspberry-pi-boots-straight-into-local-llm/\nComments URL: https://news.ycombinator.com/item?id=49678542\nPoints: 6\n# Comments: 0",
+      "url": "https://www.xda-developers.com/raspberry-pi-boots-straight-into-local-llm/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "A full-duplex AI phone agent that listens while speaking",
+      "summary": "Article URL: https://www.famulor.io\nComments URL: https://news.ycombinator.com/item?id=49677986\nPoints: 3\n# Comments: 0",
+      "url": "https://www.famulor.io",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Free Agent – Amp",
+      "summary": "Article URL: https://ampcode.com/news/free-agent\nComments URL: https://news.ycombinator.com/item?id=49677100\nPoints: 7\n# Comments: 0",
+      "url": "https://ampcode.com/news/free-agent",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Determinstic LLM inference for lowest price Gemma 4, with Windows XP",
+      "summary": "Article URL: https://www.tokendelivery.ai/\nComments URL: https://news.ycombinator.com/item?id=49674280\nPoints: 6\n# Comments: 1",
+      "url": "https://www.tokendelivery.ai/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": []
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": []
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "You Didn't Deploy the AI Agent You Evaluated",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://www.anuclei.com/blog/you-didnt-deploy-the-agent-you-evaluated"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "Booting straight into a local LLM (no linux) on my Raspberry Pi",
+      "summary": "Article URL: https://www.xda-developers.com/raspberry-pi-boots-straight-into-local-llm/\nComments URL: https://news.ycombinator.com/item?id=49678542\nPoints: 6\n# Comments: 0",
+      "url": "https://www.xda-developers.com/raspberry-pi-boots-straight-into-local-llm/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "A full-duplex AI phone agent that listens while speaking",
+      "summary": "Article URL: https://www.famulor.io\nComments URL: https://news.ycombinator.com/item?id=49677986\nPoints: 3\n# Comments: 0",
+      "url": "https://www.famulor.io",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Free Agent – Amp",
+      "summary": "Article URL: https://ampcode.com/news/free-agent\nComments URL: https://news.ycombinator.com/item?id=49677100\nPoints: 7\n# Comments: 0",
+      "url": "https://ampcode.com/news/free-agent",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Determinstic LLM inference for lowest price Gemma 4, with Windows XP",
+      "summary": "Article URL: https://www.tokendelivery.ai/\nComments URL: https://news.ycombinator.com/item?id=49674280\nPoints: 6\n# Comments: 1",
+      "url": "https://www.tokendelivery.ai/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "You Didn't Deploy the AI Agent You Evaluated",
+      "summary": "Article URL: https://www.anuclei.com/blog/you-didnt-deploy-the-agent-you-evaluated\nComments URL: https://news.ycombinator.com/item?id=49674222\nPoints: 4\n# Comments: 0",
+      "url": "https://www.anuclei.com/blog/you-didnt-deploy-the-agent-you-evaluated",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Agent Scan Skill Inspector",
+      "summary": "Article URL: https://labs.snyk.io/experiments/skill-scan/\nComments URL: https://news.ycombinator.com/item?id=49673686\nPoints: 3\n# Comments: 0",
+      "url": "https://labs.snyk.io/experiments/skill-scan/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Orcrist: A Coding Agent using LLM state machines",
+      "summary": "Article URL: https://github.com/simone20a/Orcrist\nComments URL: https://news.ycombinator.com/item?id=49673528\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/simone20a/Orcrist",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "ASU: One CLI that shows how much of your agent subscription is left",
+      "summary": "Article URL: https://chaosguru.substack.com/p/introducing-asu\nComments URL: https://news.ycombinator.com/item?id=49672725\nPoints: 1\n# Comments: 0",
+      "url": "https://chaosguru.substack.com/p/introducing-asu",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [],
+  "research": [],
+  "china": []
+}
