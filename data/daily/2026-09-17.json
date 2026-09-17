@@ -1,0 +1,238 @@
+{
+  "date": "2026-09-17",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-09-17 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records",
+      "summary": "arXiv:2609.17631v1 Announce Type: new \nAbstract: AI-assisted claims can appear authoritative when evidence, analysis, human authorization, presentation, and correction history refer to different states. Provenance, attestation, and transparency expose history but alone do not specify the publication",
+      "url": "https://arxiv.org/abs/2609.17631",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents",
+      "summary": "arXiv:2609.17632v1 Announce Type: new \nAbstract: Large language model (LLM) trading agents can combine market data, news, and executable analysis, but their behavior is often controlled by static hand-written tool-use policies that are fixed before deployment. This limits their ability to adapt how",
+      "url": "https://arxiv.org/abs/2609.17632",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "One Color Preprocessing Improves DSATUR",
+      "summary": "arXiv:2609.17633v1 Announce Type: new \nAbstract: The Graph Coloring Problem (GCP) is NP-hard and DSATUR stands as one of the fastest heuristics for it despite producing colorings that typically use more colors than state-of-the-art coloring algorithms. We propose SSLD (Semidefinite Spectral Learning",
+      "url": "https://arxiv.org/abs/2609.17633",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Physics-Constrained Digital Twins for Sensor Integrity in Urban Pedestrian Flow: Detecting Stealthy False Data Injection with Conformal Guarantees",
+      "summary": "arXiv:2609.17635v1 Announce Type: new \nAbstract: City pedestrian counting systems now feed economic indicators, planning decisions and safety operations, yet the twins built on top of them treat the incoming stream as ground truth. We study what happens when it is not. We formalise stealthy false da",
+      "url": "https://arxiv.org/abs/2609.17635",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Social Laws for Multi-agent Coordination in Stochastic Environments",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.18929"
+        },
+        {
+          "title": "One Axis, No Brake: Self-Knowledge Limits the Filtering of Harmful Peer Conformity in LLMs",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.18998"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "Where Should Agents Live? Energy-Memory Characterization of Agentic AI for the Edge-Cloud Continuum",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.18283"
+        },
+        {
+          "title": "Compositional Policy Violations: When Step-Level Compliance Fails In Agentic AI Workflows",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.18820"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "CapMem: A Benchmark for Caption-Based Episodic Memory in Egocentric Video",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.17688"
+        },
+        {
+          "title": "GraphEcho: Structural Redundancy and Evidence Provenance in LLM Graph Agents",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.17695"
+        },
+        {
+          "title": "ERPBench: A State-Grounded Evaluation Paradigm for Computer-Use Agents in Enterprise Software",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.17885"
+        }
+      ]
+    }
+  ],
+  "oss": [],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records",
+      "summary": "arXiv:2609.17631v1 Announce Type: new \nAbstract: AI-assisted claims can appear authoritative when evidence, analysis, human authorization, presentation, and correction history refer to different states. Provenance, attestation, and transparency expose history but alone do not specify the publication",
+      "url": "https://arxiv.org/abs/2609.17631",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents",
+      "summary": "arXiv:2609.17632v1 Announce Type: new \nAbstract: Large language model (LLM) trading agents can combine market data, news, and executable analysis, but their behavior is often controlled by static hand-written tool-use policies that are fixed before deployment. This limits their ability to adapt how",
+      "url": "https://arxiv.org/abs/2609.17632",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "One Color Preprocessing Improves DSATUR",
+      "summary": "arXiv:2609.17633v1 Announce Type: new \nAbstract: The Graph Coloring Problem (GCP) is NP-hard and DSATUR stands as one of the fastest heuristics for it despite producing colorings that typically use more colors than state-of-the-art coloring algorithms. We propose SSLD (Semidefinite Spectral Learning",
+      "url": "https://arxiv.org/abs/2609.17633",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Physics-Constrained Digital Twins for Sensor Integrity in Urban Pedestrian Flow: Detecting Stealthy False Data Injection with Conformal Guarantees",
+      "summary": "arXiv:2609.17635v1 Announce Type: new \nAbstract: City pedestrian counting systems now feed economic indicators, planning decisions and safety operations, yet the twins built on top of them treat the incoming stream as ground truth. We study what happens when it is not. We formalise stealthy false da",
+      "url": "https://arxiv.org/abs/2609.17635",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "What You Can't See Is Still What You Learn: A Preregistered Sixty-Society Confirmation That Evidence Masking Drives Compositional Generalization",
+      "summary": "arXiv:2609.17637v1 Announce Type: new \nAbstract: Restricting what a module can read may improve what a system learns to compute. We test this in a preregistered confirmation with sixty four-cell systems sharing a frozen language-model backbone and communicating through learned continuous packets. Fi",
+      "url": "https://arxiv.org/abs/2609.17637",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "CapMem: A Benchmark for Caption-Based Episodic Memory in Egocentric Video",
+      "summary": "arXiv:2609.17688v1 Announce Type: new \nAbstract: Wearable assistants require episodic memory over egocentric video, yet current vision-language models face bounded frame budgets, growing visual-token costs, and long-context retrieval failures. Under these practical constraints, we study whether text",
+      "url": "https://arxiv.org/abs/2609.17688",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "GraphEcho: Structural Redundancy and Evidence Provenance in LLM Graph Agents",
+      "summary": "arXiv:2609.17695v1 Announce Type: new \nAbstract: A large language model (LLM) agent can follow more graph paths without acquiring more independent evidence. GraphEcho tests whether agents mistake these repeated encounters for additional corroboration. The benchmark varies path counts and evidential",
+      "url": "https://arxiv.org/abs/2609.17695",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "GVD: Governed Versioning and Deduplication for Document Repositories",
+      "summary": "arXiv:2609.17696v1 Announce Type: new \nAbstract: Document repositories evolve continuously. Guidelines and policies are revised, superseded, and re-uploaded, so the same content recurs in different wording and newer versions refine or contradict earlier ones. These inconsistencies belong to the grow",
+      "url": "https://arxiv.org/abs/2609.17696",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "ABM-SIRTEM: A Hybrid Agent-Based and Epidemiological Model for Pandemic Response",
+      "summary": "arXiv:2609.18223v1 Announce Type: new \nAbstract: The COVID-19 pandemic has had profound impacts on global health, social structures, and economies. It disproportionately affected lower socioeconomic groups and those reliant on interaction-based jobs. Regulatory bodies faced the challenge of designin",
+      "url": "https://arxiv.org/abs/2609.18223",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Social Laws for Multi-agent Coordination in Stochastic Environments",
+      "summary": "arXiv:2609.18929v1 Announce Type: new \nAbstract: In multi-agent environments, coordinating agents to prevent interference and ensure robust individual performance is a critical challenge. Previous research on social laws for multi-agent systems has primarily focused on deterministic, goal-based sett",
+      "url": "https://arxiv.org/abs/2609.18929",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Set-membership localization of intermittent RF sources using a fleet of collaborating UAVs",
+      "summary": "arXiv:2609.17797v1 Announce Type: cross \nAbstract: This paper proposes a set-membership approach (SMA) to localize radio frequency (RF) sources observed by a collaborating fleet of Unmanned Aerial Vehicles (UAVs). Considering frequency-separable RF transmitters with intermittent and periodic emissio",
+      "url": "https://arxiv.org/abs/2609.17797",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Investigating Adversarial Robustness of Heterogeneous Cooperative Perception",
+      "summary": "arXiv:2609.17856v1 Announce Type: cross \nAbstract: Heterogeneous cooperative perception (CP) enables connected vehicles with diverse sensor setups to share spatial awareness via compact feature maps, where receivers reconcile these maps using learned translation modules for fusion and inference. Pri",
+      "url": "https://arxiv.org/abs/2609.17856",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "ERPBench: A State-Grounded Evaluation Paradigm for Computer-Use Agents in Enterprise Software",
+      "summary": "arXiv:2609.17885v1 Announce Type: cross \nAbstract: Computer-use agents that operate through screenshots and simulated actions are advancing rapidly, yet their evaluation remains anchored to general desktop and web tasks. Enterprise Resource Planning (ERP) systems run the finance, procurement, invent",
+      "url": "https://arxiv.org/abs/2609.17885",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Where Should Agents Live? Energy-Memory Characterization of Agentic AI for the Edge-Cloud Continuum",
+      "summary": "arXiv:2609.18283v1 Announce Type: cross \nAbstract: As telecommunication networks evolve toward autonomous 5G-Advanced and 6G operations, agentic artificial intelligence (AI) workflows, where large language models (LLMs) execute multi-step reasoning, invoke diagnostic tools, retrieve domain knowledge",
+      "url": "https://arxiv.org/abs/2609.18283",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Compositional Policy Violations: When Step-Level Compliance Fails In Agentic AI Workflows",
+      "summary": "arXiv:2609.18820v1 Announce Type: cross \nAbstract: Agentic workflows now make consequential decisions in regulated settings, and the governance placed around them is almost entirely step-scoped: input-output classifiers, per turn rails, and span-level evaluators. The policies organizations actually",
+      "url": "https://arxiv.org/abs/2609.18820",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "One Axis, No Brake: Self-Knowledge Limits the Filtering of Harmful Peer Conformity in LLMs",
+      "summary": "arXiv:2609.18998v1 Announce Type: cross \nAbstract: Multi-agent LLM systems are expected to be more reliable because agents can catch each other's mistakes. But peer pressure cuts both ways: the same correction that fixes a wrong answer can overturn a right one. The tempting safeguard is a brake that",
+      "url": "https://arxiv.org/abs/2609.18998",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
