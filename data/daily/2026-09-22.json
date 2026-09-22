@@ -1,0 +1,338 @@
+{
+  "date": "2026-09-22",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-09-22 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Agent Disco at the Edge",
+      "summary": "Article URL: https://edgedisco.com/\nComments URL: https://news.ycombinator.com/item?id=49797109\nPoints: 1\n# Comments: 0",
+      "url": "https://edgedisco.com/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Jev introduces a new shape of LLM",
+      "summary": "Article URL: https://simonwillison.net/2026/Sep/21/jev/\nComments URL: https://news.ycombinator.com/item?id=49796843\nPoints: 6\n# Comments: 0",
+      "url": "https://simonwillison.net/2026/Sep/21/jev/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Doyouok – Agent-free heartbeat monitoring for cron jobs and workflows",
+      "summary": "Article URL: https://doyouok.com/\nComments URL: https://news.ycombinator.com/item?id=49796714\nPoints: 1\n# Comments: 1",
+      "url": "https://doyouok.com/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: An honest comparison of the Agent Harness vs. six alternatives",
+      "summary": "Article URL: https://time2magic.com/agent-harness\nComments URL: https://news.ycombinator.com/item?id=49796157\nPoints: 1\n# Comments: 0",
+      "url": "https://time2magic.com/agent-harness",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
+      "summary": "arXiv:2609.20971v1 Announce Type: new \nAbstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prompt before generation begins. Sparse block selection can reduce this cost, but a block centroid may hide a highly releva",
+      "url": "https://arxiv.org/abs/2609.20971",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
+      "summary": "arXiv:2609.20974v1 Announce Type: new \nAbstract: In Mixture-of-Experts language models, the router typically selects and weights experts based on the token's hidden state, utilizing limited contextual information. We propose Attention-Aware Routing (AAR), which augments the router with temporal and",
+      "url": "https://arxiv.org/abs/2609.20974",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
+      "summary": "arXiv:2609.20981v1 Announce Type: new \nAbstract: Autoregressive (AR) models suffer from local greediness, while diffusion language models (DLMs) often lack the strict causal structure required for reasoning. To combine the advantages and overcome the drawbacks of the dual, we propose Causal Latent R",
+      "url": "https://arxiv.org/abs/2609.20981",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
+      "summary": "arXiv:2609.21061v1 Announce Type: new \nAbstract: Automatic target recognition (ATR) with synthetic aperture sonar (SAS) supports advanced naval capabilities, but deep learning is constrained by scarce target imagery, background clutter, and human-in-the-loop assessment. We adapt DINOv3 Vision Transf",
+      "url": "https://arxiv.org/abs/2609.21061",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "From Certain Doom to Survival: Agent-Driven Self-Governance in LLM Agent Societies",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.22600"
+        },
+        {
+          "title": "A Task-Oriented Multi-Agent Framework for Complex Wearable Health Analysis",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.24107"
+        },
+        {
+          "title": "Mixed-integer flow formulations for motion planning and decision-making of networked multi-agent systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.24474"
+        },
+        {
+          "title": "Hierarchical Bayesian optimization of an aircraft-based multi-agent system-of-systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.22130"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": []
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Show HN: An honest comparison of the Agent Harness vs. six alternatives",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://time2magic.com/agent-harness"
+        },
+        {
+          "title": "Clinician-Grounded Quality Assurance for AI-Assisted Psychiatric Intake",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.21149"
+        },
+        {
+          "title": "A Pinch of SFT, A Dash of RL: When Reinforcement Learning Helps Long-Horizon Advertising Agents",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.22194"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "Agent Disco at the Edge",
+      "summary": "Article URL: https://edgedisco.com/\nComments URL: https://news.ycombinator.com/item?id=49797109\nPoints: 1\n# Comments: 0",
+      "url": "https://edgedisco.com/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Jev introduces a new shape of LLM",
+      "summary": "Article URL: https://simonwillison.net/2026/Sep/21/jev/\nComments URL: https://news.ycombinator.com/item?id=49796843\nPoints: 6\n# Comments: 0",
+      "url": "https://simonwillison.net/2026/Sep/21/jev/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Doyouok – Agent-free heartbeat monitoring for cron jobs and workflows",
+      "summary": "Article URL: https://doyouok.com/\nComments URL: https://news.ycombinator.com/item?id=49796714\nPoints: 1\n# Comments: 1",
+      "url": "https://doyouok.com/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: An honest comparison of the Agent Harness vs. six alternatives",
+      "summary": "Article URL: https://time2magic.com/agent-harness\nComments URL: https://news.ycombinator.com/item?id=49796157\nPoints: 1\n# Comments: 0",
+      "url": "https://time2magic.com/agent-harness",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "A 7B fact-checker beat 30B LLM reviewers and deleted no true claims",
+      "summary": "Article URL: https://openteams.com/llm-review-reliability/\nComments URL: https://news.ycombinator.com/item?id=49796056\nPoints: 4\n# Comments: 0",
+      "url": "https://openteams.com/llm-review-reliability/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Something bugs me about AGI AI LLM, what if we back paddled 1000 year",
+      "summary": "Article URL: https://shatteringtheabyss.substack.com/p/llm-agi-god-congratulations-humanity\nComments URL: https://news.ycombinator.com/item?id=49795990\nPoints: 2\n# Comments: 2",
+      "url": "https://shatteringtheabyss.substack.com/p/llm-agi-god-congratulations-humanity",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "First NetHack Ascension by an LLM",
+      "summary": "Article URL: https://www.hardfought.org/userdata/C/CodexDelver/nethack/dumplog/1788964024.nh.html\nComments URL: https://news.ycombinator.com/item?id=49795393\nPoints: 3\n# Comments: 0",
+      "url": "https://www.hardfought.org/userdata/C/CodexDelver/nethack/dumplog/1788964024.nh.html",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "A skills library for every agent",
+      "summary": "Article URL: https://www.notion.com/blog/a-skills-library-for-every-agent\nComments URL: https://news.ycombinator.com/item?id=49795099\nPoints: 1\n# Comments: 0",
+      "url": "https://www.notion.com/blog/a-skills-library-for-every-agent",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
+      "summary": "arXiv:2609.20971v1 Announce Type: new \nAbstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prompt before generation begins. Sparse block selection can reduce this cost, but a block centroid may hide a highly releva",
+      "url": "https://arxiv.org/abs/2609.20971",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
+      "summary": "arXiv:2609.20974v1 Announce Type: new \nAbstract: In Mixture-of-Experts language models, the router typically selects and weights experts based on the token's hidden state, utilizing limited contextual information. We propose Attention-Aware Routing (AAR), which augments the router with temporal and",
+      "url": "https://arxiv.org/abs/2609.20974",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
+      "summary": "arXiv:2609.20981v1 Announce Type: new \nAbstract: Autoregressive (AR) models suffer from local greediness, while diffusion language models (DLMs) often lack the strict causal structure required for reasoning. To combine the advantages and overcome the drawbacks of the dual, we propose Causal Latent R",
+      "url": "https://arxiv.org/abs/2609.20981",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
+      "summary": "arXiv:2609.21061v1 Announce Type: new \nAbstract: Automatic target recognition (ATR) with synthetic aperture sonar (SAS) supports advanced naval capabilities, but deep learning is constrained by scarce target imagery, background clutter, and human-in-the-loop assessment. We adapt DINOv3 Vision Transf",
+      "url": "https://arxiv.org/abs/2609.21061",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
+      "summary": "arXiv:2609.21096v1 Announce Type: new \nAbstract: In this work, we examine the topology of information flow patterns within attention graphs to effectively distinguish hallucinated from non-hallucinated responses. We analyze the Forman-Ricci curvature to identify structural patterns indicating inform",
+      "url": "https://arxiv.org/abs/2609.21096",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Decoupling Internal Representational Changes and Causal Importance in Fine-Tuned Large Language Models",
+      "summary": "arXiv:2609.21113v1 Announce Type: new \nAbstract: Fine-tuning has emerged as a widely adopted approach for adapting LLMs to a variety of downstream tasks. However, how it reshapes their internal mechanisms remains poorly understood. To address this, we investigate how fine-tuning alters internal repr",
+      "url": "https://arxiv.org/abs/2609.21113",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "TinyCeNN-LM: Quality-Gated Conversion of Pretrained Attention with CeNN-Inspired Cellular-Recurrent Layers",
+      "summary": "arXiv:2609.21139v1 Announce Type: new \nAbstract: Replacing attention in a pretrained language model is a compatibility problem: a plausible substitute may alter representations expected by later layers. TinyCeNN-LM introduces a \\emph{quality-gated post-training conversion} framework using CeNN-inspi",
+      "url": "https://arxiv.org/abs/2609.21139",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Clinician-Grounded Quality Assurance for AI-Assisted Psychiatric Intake",
+      "summary": "arXiv:2609.21149v1 Announce Type: new \nAbstract: Before patients can use AI-assisted psychiatric intake systems, health systems need practical ways to routinely evaluate these tools against their clinical standards for quality assurance. Because clinicians may use different intake styles, evaluation",
+      "url": "https://arxiv.org/abs/2609.21149",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "From Certain Doom to Survival: Agent-Driven Self-Governance in LLM Agent Societies",
+      "summary": "arXiv:2609.22600v1 Announce Type: new \nAbstract: Multi-agent LLM systems are increasingly evaluated in social dilemmas, but most work treats governance as imposed by the experimenter, expressed rhetorically, or restricted to a fixed menu of mechanisms. We introduce GovSim-SelfGovern, an extension of",
+      "url": "https://arxiv.org/abs/2609.22600",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "When Does Communication Help? Beyond Spectral Descriptions of Collective Intelligence",
+      "summary": "arXiv:2609.23310v1 Announce Type: new \nAbstract: Communication can bring agents into agreement while making their decisions worse. We identify two limits of aggregate descriptions of communication gain in distributed inference. First, stable linear systems with fixed evidence, network and readout ca",
+      "url": "https://arxiv.org/abs/2609.23310",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "A Task-Oriented Multi-Agent Framework for Complex Wearable Health Analysis",
+      "summary": "arXiv:2609.24107v1 Announce Type: new \nAbstract: Wearable health questions often combine data retrieval, longitudinal analysis, and health advice over structured records. Prompting a single large language model with a complete record and a composite query obscures whether every request is executed a",
+      "url": "https://arxiv.org/abs/2609.24107",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Mixed-integer flow formulations for motion planning and decision-making of networked multi-agent systems",
+      "summary": "arXiv:2609.24474v1 Announce Type: new \nAbstract: This work investigates the use of flow-based connectivity maintenance constraints in mixed-integer linear programming (MILP) trajectory planning and decision-making models for networked multi-agent systems (MAS). We integrate flow-based encodings for",
+      "url": "https://arxiv.org/abs/2609.24474",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Perception-Aware Communication Middleware for Distributed Visual Perception in UAV Swarms",
+      "summary": "arXiv:2609.24964v1 Announce Type: new \nAbstract: Unmanned Aerial Vehicle (UAV) swarms increasingly support safety-critical applications that rely on distributed visual perception. Meeting the low-latency requirements of these applications can require perception models to execute within the swarm on",
+      "url": "https://arxiv.org/abs/2609.24964",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Beyond the Text: Verifying That Agent-Written Papers Are Backed by Their Artifacts",
+      "summary": "arXiv:2609.22111v1 Announce Type: cross \nAbstract: Large language model agents are increasingly capable of conducting research autonomously, producing research documents alongside the code and experiments that ostensibly support them. Yet whether the reported findings are consistently supported by c",
+      "url": "https://arxiv.org/abs/2609.22111",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Hierarchical Bayesian optimization of an aircraft-based multi-agent system-of-systems",
+      "summary": "arXiv:2609.22130v1 Announce Type: cross \nAbstract: Developing innovative system architectures increasingly relies on advanced modeling and optimization techniques to frame the architecting process and define the corresponding computational problems. For complex System-of-Systems (SoS), high-fidelity",
+      "url": "https://arxiv.org/abs/2609.22130",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "A Pinch of SFT, A Dash of RL: When Reinforcement Learning Helps Long-Horizon Advertising Agents",
+      "summary": "arXiv:2609.22194v1 Announce Type: cross \nAbstract: Enterprise analytics agents solve long-horizon tool-use problems over distributed business data, requiring retrieval, reasoning, API calls, code execution, and adaptation to intermediate observations. Supervised fine-tuning (SFT) calibrates tool syn",
+      "url": "https://arxiv.org/abs/2609.22194",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
