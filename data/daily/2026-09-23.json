@@ -1,0 +1,350 @@
+{
+  "date": "2026-09-23",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-09-23 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Show HN: Kern.md – Single-session long-running agent",
+      "summary": "Article URL: https://github.com/oguzbilgic/kern-ai/blob/master/templates/KERN.md\nComments URL: https://news.ycombinator.com/item?id=49811492\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/oguzbilgic/kern-ai/blob/master/templates/KERN.md",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Agent-browser equivalent for desktop and mobile apps",
+      "summary": "Article URL: https://agent-device.dev\nComments URL: https://news.ycombinator.com/item?id=49811189\nPoints: 1\n# Comments: 0",
+      "url": "https://agent-device.dev",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Emergent Collusion in Long-Horizon LLM Agent Interaction",
+      "summary": "Article URL: https://arxiv.org/abs/2609.24967\nComments URL: https://news.ycombinator.com/item?id=49811171\nPoints: 1\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2609.24967",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Measuring behavioral signals of LLM through psychometric profiling",
+      "summary": "Article URL: https://arxiv.org/abs/2609.22934\nComments URL: https://news.ycombinator.com/item?id=49811024\nPoints: 1\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2609.22934",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models",
+      "summary": "arXiv:2609.22161v1 Announce Type: new \nAbstract: Medical large language models are commonly trained on mixtures of didactic data (e.g., textbooks) and clinical data (e.g., patient records), yet how these data types differentially shape model capabilities remains unclear. We address this issue with t",
+      "url": "https://arxiv.org/abs/2609.22161",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "An Affordable AI-Integrated Smart Cane for Multimodal Mobility Assistance of Visually Impaired Users",
+      "summary": "arXiv:2609.22277v1 Announce Type: new \nAbstract: Visual impairment affects over 2.2 billion people worldwide, yet conventional white canes cannot detect elevated hazards or provide semantic environmental context. Existing AI-assisted navigation systems typically rely on expensive hardware or cloud c",
+      "url": "https://arxiv.org/abs/2609.22277",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "PAANI : On Device Visual Evidence Fusion and Explainable Guidance for River Robot Simulation",
+      "summary": "arXiv:2609.22353v1 Announce Type: new \nAbstract: Mobile river monitoring robots must interpret obstacles and water boundaries that geographic waypoints alone cannot describe. On resource constrained platforms, converting imperfect visual predictions into timely and inspectable guidance is a distinct",
+      "url": "https://arxiv.org/abs/2609.22353",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Social Influence and the Allocation of Scientific Attention in AI Populations",
+      "summary": "arXiv:2609.22408v1 Announce Type: new \nAbstract: AI systems are becoming participants in the evaluation and use of scientific research. They encounter citation counts, download statistics and lists of popular articles developed around human readers, but the collective consequences of these signals f",
+      "url": "https://arxiv.org/abs/2609.22408",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Tipping Points in LLM-Based Multi-Agent Systems: Stance on Climate Change Action",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.25432"
+        },
+        {
+          "title": "Calibration Is Not Verification: Falsifiability-Aware Conformal Routing for Mixture-of-Agents",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.25959"
+        },
+        {
+          "title": "MATES: Learning Multi-Agent Interactions by Transforming Observations for Frozen Single-Agent Policies",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.26010"
+        },
+        {
+          "title": "The Fleet Is the Model: Engineering Collective Intelligence with Fusion-MoA Pioneer R1",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.26080"
+        },
+        {
+          "title": "Behavior is Not Enough: A Mechanism-Based Evaluation of Social Norm Emergence in LLM Societies",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.26481"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": []
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Show HN: Making agent decisions better and traceable",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://news.ycombinator.com/item?id=49810838"
+        },
+        {
+          "title": "Social Influence and the Allocation of Scientific Attention in AI Populations",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.22408"
+        },
+        {
+          "title": "Replication Without Persistence in Hosted LLMs: Measurement Sensitivity in Action-Time Belief Evaluation",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.22478"
+        },
+        {
+          "title": "When Does Execution Provenance Help Agent Memory Retrieval?",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.25913"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "Show HN: Kern.md – Single-session long-running agent",
+      "summary": "Article URL: https://github.com/oguzbilgic/kern-ai/blob/master/templates/KERN.md\nComments URL: https://news.ycombinator.com/item?id=49811492\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/oguzbilgic/kern-ai/blob/master/templates/KERN.md",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Agent-browser equivalent for desktop and mobile apps",
+      "summary": "Article URL: https://agent-device.dev\nComments URL: https://news.ycombinator.com/item?id=49811189\nPoints: 1\n# Comments: 0",
+      "url": "https://agent-device.dev",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Emergent Collusion in Long-Horizon LLM Agent Interaction",
+      "summary": "Article URL: https://arxiv.org/abs/2609.24967\nComments URL: https://news.ycombinator.com/item?id=49811171\nPoints: 1\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2609.24967",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Measuring behavioral signals of LLM through psychometric profiling",
+      "summary": "Article URL: https://arxiv.org/abs/2609.22934\nComments URL: https://news.ycombinator.com/item?id=49811024\nPoints: 1\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2609.22934",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Don't Trust. Verify. Offline, Sub-Millisecond Agent Verification with ANS",
+      "summary": "Article URL: https://www.godaddy.com/resources/news/dont-trust-verify-offline-sub-millisecond-agent-verification-with-ans\nComments URL: https://news.ycombinator.com/item?id=49810933\nPoints: 2\n# Comments: 0",
+      "url": "https://www.godaddy.com/resources/news/dont-trust-verify-offline-sub-millisecond-agent-verification-with-ans",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: Making agent decisions better and traceable",
+      "summary": "Hey all,I'm building Mubit to help agents make better decisions.Mubit is an agent decision attribution and calibration platform per user at scale.Each user's interaction affects the way agents make decisions and they usually get cluttered over time. Mubit helps you see the decisions an agent made (",
+      "url": "https://news.ycombinator.com/item?id=49810838",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "The new CC, an AI agent built for families",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/\nComments URL: https://news.ycombinator.com/item?id=49809806\nPoints: 42\n# Comments: 50",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: Jade Email. Unlimited emails for your domain plus AI Agent support",
+      "summary": "Hello HN!I've spent the last 4 years building Jade.email, an email service, and it's now better than any email service I've used. I'm incredibly proud of it and have a small group of paying customers already.It's similar to SimpleLogin where you get unlimited emails for your domain on the fly. The",
+      "url": "https://jade.email/",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models",
+      "summary": "arXiv:2609.22161v1 Announce Type: new \nAbstract: Medical large language models are commonly trained on mixtures of didactic data (e.g., textbooks) and clinical data (e.g., patient records), yet how these data types differentially shape model capabilities remains unclear. We address this issue with t",
+      "url": "https://arxiv.org/abs/2609.22161",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "An Affordable AI-Integrated Smart Cane for Multimodal Mobility Assistance of Visually Impaired Users",
+      "summary": "arXiv:2609.22277v1 Announce Type: new \nAbstract: Visual impairment affects over 2.2 billion people worldwide, yet conventional white canes cannot detect elevated hazards or provide semantic environmental context. Existing AI-assisted navigation systems typically rely on expensive hardware or cloud c",
+      "url": "https://arxiv.org/abs/2609.22277",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "PAANI : On Device Visual Evidence Fusion and Explainable Guidance for River Robot Simulation",
+      "summary": "arXiv:2609.22353v1 Announce Type: new \nAbstract: Mobile river monitoring robots must interpret obstacles and water boundaries that geographic waypoints alone cannot describe. On resource constrained platforms, converting imperfect visual predictions into timely and inspectable guidance is a distinct",
+      "url": "https://arxiv.org/abs/2609.22353",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Social Influence and the Allocation of Scientific Attention in AI Populations",
+      "summary": "arXiv:2609.22408v1 Announce Type: new \nAbstract: AI systems are becoming participants in the evaluation and use of scientific research. They encounter citation counts, download statistics and lists of popular articles developed around human readers, but the collective consequences of these signals f",
+      "url": "https://arxiv.org/abs/2609.22408",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Learning 3D biophysical cell properties from 2D images and cell-population statistics",
+      "summary": "arXiv:2609.22410v1 Announce Type: new \nAbstract: Inferring 3D cellular properties from 2D microscopy is difficult when a reference instrument reports only population statistics rather than labels for individual cells. Here we develop a population-supervised framework that maps single 2D red-cell ima",
+      "url": "https://arxiv.org/abs/2609.22410",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Goal-driven Variant Categorization",
+      "summary": "arXiv:2609.22475v1 Announce Type: new \nAbstract: Process discovery rarely yields a single coherent process structure. For analysis, a common step is to cluster process variants based on structural similarity and then assign business meaning to the resulting groups. Since these partitions are not der",
+      "url": "https://arxiv.org/abs/2609.22475",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Replication Without Persistence in Hosted LLMs: Measurement Sensitivity in Action-Time Belief Evaluation",
+      "summary": "arXiv:2609.22478v1 Announce Type: new \nAbstract: Behavioural evaluations of hosted language models can vary because the evaluated service, the measurement instrument, or both differ across runs. We separate three validation questions: whether a prior finding recurs on fresh data under its historical",
+      "url": "https://arxiv.org/abs/2609.22478",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "The Wisdom of Artificial Deliberative Crowds",
+      "summary": "arXiv:2609.22497v1 Announce Type: new \nAbstract: The aggregation of many lay estimates often outperforms individual expert judgment, a phenomenon known as the wisdom of crowds. While this is usually attributed to the independence of estimates, an even stronger effect arises through deliberation: ave",
+      "url": "https://arxiv.org/abs/2609.22497",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Indirect tipping: a social attack surface in AI agent populations",
+      "summary": "arXiv:2609.25194v1 Announce Type: new \nAbstract: As generative AI agents are deployed at scale, safety will depend not only on technical safeguards and individual model design, but also on collective equilibria that determine how agent populations process information, prioritize actions, and respond",
+      "url": "https://arxiv.org/abs/2609.25194",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Tipping Points in LLM-Based Multi-Agent Systems: Stance on Climate Change Action",
+      "summary": "arXiv:2609.25432v1 Announce Type: new \nAbstract: Because significant action to counter global warming requires massive public support, it is important to understand the dynamics of public opinion on climate issues. Of special interest are social tipping points, as revealed by large-scale effects of",
+      "url": "https://arxiv.org/abs/2609.25432",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "When Does Execution Provenance Help Agent Memory Retrieval?",
+      "summary": "arXiv:2609.25913v1 Announce Type: new \nAbstract: A language agent's execution history can exceed its context window, requiring its memory system to retrieve complete supporting evidence under a hard token budget. Evidence may span multiple execution events, yet conventional retrievers use fixed toke",
+      "url": "https://arxiv.org/abs/2609.25913",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Governed AI-Agent Coordination for Dementia Care: Architecture, Safety Contracts, and Evidence-Derived Workflow Verification",
+      "summary": "arXiv:2609.25956v1 Announce Type: new \nAbstract: Dementia care increasingly involves connected sensors, medication devices, electronic records, and assistive technologies. Interoperability can transport observations but cannot maintain an accountable care state, reconcile evidence, determine who may",
+      "url": "https://arxiv.org/abs/2609.25956",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Calibration Is Not Verification: Falsifiability-Aware Conformal Routing for Mixture-of-Agents",
+      "summary": "arXiv:2609.25959v1 Announce Type: new \nAbstract: Multi-agent language systems often treat agreement as evidence, yet heterogeneous agents can jointly repeat an unsupported claim or omit a correct specialist fact. We introduce C-MoA, an agreement-based conformal filter that turns inter-agent semantic",
+      "url": "https://arxiv.org/abs/2609.25959",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "MATES: Learning Multi-Agent Interactions by Transforming Observations for Frozen Single-Agent Policies",
+      "summary": "arXiv:2609.26010v1 Announce Type: new \nAbstract: Multi-agent reinforcement learning (MARL) commonly trains decentralized policies from scratch, requiring agents to acquire individual task competence and coordination simultaneously. Yet many multi-agent problems admit a compatible single-agent counte",
+      "url": "https://arxiv.org/abs/2609.26010",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "The Fleet Is the Model: Engineering Collective Intelligence with Fusion-MoA Pioneer R1",
+      "summary": "arXiv:2609.26080v1 Announce Type: new \nAbstract: The model exposed to an application need not be a single checkpoint; it can be a governed fleet. Existing serving systems manage checkpoints and replicas, while multi-agent frameworks compose model calls without defining a stable collective identity,",
+      "url": "https://arxiv.org/abs/2609.26080",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Behavior is Not Enough: A Mechanism-Based Evaluation of Social Norm Emergence in LLM Societies",
+      "summary": "arXiv:2609.26481v1 Announce Type: new \nAbstract: Social norms cannot be identified from behavior alone: the same cooperative equilibrium may reflect shared expectations, strategic incentives, or simple imitation. Yet in multi-agent large language model systems, prior work largely treats behavioral c",
+      "url": "https://arxiv.org/abs/2609.26481",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
