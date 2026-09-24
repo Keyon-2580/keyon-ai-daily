@@ -1,0 +1,247 @@
+{
+  "date": "2026-09-24",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-09-24 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse",
+      "summary": "arXiv:2609.26836v1 Announce Type: new \nAbstract: Agentic AI systems are increasingly adopting automated pipelines that integrate multiple tools. While prior research and benchmarks have studied about task success and task completion of these agentic systems, the research about agent to tool interact",
+      "url": "https://arxiv.org/abs/2609.26836",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity",
+      "summary": "arXiv:2609.26891v1 Announce Type: new \nAbstract: Modern language-model agents are built around the \\textit{agent loop}, where the LLM is placed in an environment exposing a set of tools, and the LLM has full control over the workflow by alternating between tool calls and observing their output. Howe",
+      "url": "https://arxiv.org/abs/2609.26891",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents",
+      "summary": "arXiv:2609.26911v1 Announce Type: new \nAbstract: A single locally plausible tool call can derail an otherwise successful agent trajectory. Suspicion alone does not justify intervention, because the replacement itself can introduce the very failure verification is meant to prevent. We introduce TwinC",
+      "url": "https://arxiv.org/abs/2609.26911",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Building Socio-Affective Artificial Intelligence for Interactive Multi-Agent Simulations",
+      "summary": "arXiv:2609.26927v1 Announce Type: new \nAbstract: The objective of this article is to provide design principles and a software architecture for enabling interaction between humans and multiple agents in simulated dynamic worlds. This connects the current era of general artificial intelligence (AI/AGI",
+      "url": "https://arxiv.org/abs/2609.26927",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": [
+        {
+          "title": "Reinforcement Learning with Decomposed Subtasks",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.27035"
+        }
+      ]
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Building Socio-Affective Artificial Intelligence for Interactive Multi-Agent Simulations",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.26927"
+        },
+        {
+          "title": "Anchor and Perturb: Lazy Agent Remediation by Exploration Injection",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.27365"
+        },
+        {
+          "title": "What Confidence Routing Is Actually Doing: Auditing Routing, Calibration, and Commitment in Multi-Agent Deliberation",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.27822"
+        },
+        {
+          "title": "Compliant with Local Controls, Collectively Discriminatory. A Governance Architecture for Multi-Agent AI in Regulated Finance",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.27994"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.26836"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.26891"
+        }
+      ]
+    }
+  ],
+  "oss": [],
+  "voices": [],
+  "industry": [
+    {
+      "title": "Australia says OpenAI agent hacked into government website",
+      "summary": "Article URL: https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411\nComments URL: https://news.ycombinator.com/item?id=49825024\nPoints: 89\n# Comments: 59",
+      "url": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "research": [
+    {
+      "title": "Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse",
+      "summary": "arXiv:2609.26836v1 Announce Type: new \nAbstract: Agentic AI systems are increasingly adopting automated pipelines that integrate multiple tools. While prior research and benchmarks have studied about task success and task completion of these agentic systems, the research about agent to tool interact",
+      "url": "https://arxiv.org/abs/2609.26836",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity",
+      "summary": "arXiv:2609.26891v1 Announce Type: new \nAbstract: Modern language-model agents are built around the \\textit{agent loop}, where the LLM is placed in an environment exposing a set of tools, and the LLM has full control over the workflow by alternating between tool calls and observing their output. Howe",
+      "url": "https://arxiv.org/abs/2609.26891",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents",
+      "summary": "arXiv:2609.26911v1 Announce Type: new \nAbstract: A single locally plausible tool call can derail an otherwise successful agent trajectory. Suspicion alone does not justify intervention, because the replacement itself can introduce the very failure verification is meant to prevent. We introduce TwinC",
+      "url": "https://arxiv.org/abs/2609.26911",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Building Socio-Affective Artificial Intelligence for Interactive Multi-Agent Simulations",
+      "summary": "arXiv:2609.26927v1 Announce Type: new \nAbstract: The objective of this article is to provide design principles and a software architecture for enabling interaction between humans and multiple agents in simulated dynamic worlds. This connects the current era of general artificial intelligence (AI/AGI",
+      "url": "https://arxiv.org/abs/2609.26927",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Which Objectives Need a Dial? Predicting Objective Conflict and Covering Trade-offs in Steerable Pluralistic Alignment",
+      "summary": "arXiv:2609.26929v1 Announce Type: new \nAbstract: People hold diverse, sometimes conflicting values, so no single aligned model can satisfy everyone. Pluralistic alignment therefore calls for steerable models that can balance competing objectives differently. Multi-Objective Direct Preference Optimiz",
+      "url": "https://arxiv.org/abs/2609.26929",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Escaping Python Dependency Hell: A Hybrid Replay-and-Repair Pipeline for Python Dependency Resolution",
+      "summary": "arXiv:2609.26952v1 Announce Type: new \nAbstract: Dependency conflicts in Python ecosystems arise from incompatible version constraints, missing packages, and undocumented compatibility relationships, causing many real-world code snippets to fail at execution. This paper presents PLLM+, a hybrid depe",
+      "url": "https://arxiv.org/abs/2609.26952",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Same evidence, different judgments: Evidence noncommutative in vision/speech-text conflicts",
+      "summary": "arXiv:2609.26986v1 Announce Type: new \nAbstract: For multimodal large language models, when images or speech conflict with accompanying text, measured text reliance can entangle modality preference with evidence position. Earlier studies of text bias often used a fixed evidence order or moved task i",
+      "url": "https://arxiv.org/abs/2609.26986",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Reinforcement Learning with Decomposed Subtasks",
+      "summary": "arXiv:2609.27035v1 Announce Type: new \nAbstract: Group Relative Policy Optimization (GRPO) and related policy-gradient methods for training language model agents collapse an entire multi-turn rollout into a single scalar trajectory reward before it enters the policy update. When the task composes di",
+      "url": "https://arxiv.org/abs/2609.27035",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "SkillApt: Learning When to Activate Agent Skills from Counterfactual Evidence",
+      "summary": "arXiv:2609.26863v1 Announce Type: new \nAbstract: Large language model agents increasingly retrieve reusable Skills and inject them into the active context. However, a retrieved Skill can be relevant yet unnecessary, costly, or even harmful in the current execution state. We present SkillApt, a post-",
+      "url": "https://arxiv.org/abs/2609.26863",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Anchor and Perturb: Lazy Agent Remediation by Exploration Injection",
+      "summary": "arXiv:2609.27365v1 Announce Type: new \nAbstract: Anchor and Perturb (AnP) is a lightweight framework that resolves multi-agent coordination failures by decoupling exploratory variance injection from recurrent manifold stability. Existing remediation strategies predominantly alter mixing network arch",
+      "url": "https://arxiv.org/abs/2609.27365",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "KITE: Scaling Jev Population Experiments with Sparse Flagship Calibration",
+      "summary": "arXiv:2609.27535v1 Announce Type: new \nAbstract: KITE queries a typed behavioral kernel once per unique state, then executes populations of any size from the table with event-keyed randomness and common random numbers. An expensive flagship model is reserved for sparse paired anchors that estimate i",
+      "url": "https://arxiv.org/abs/2609.27535",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Agent-Based Modeling of Systems of Systems",
+      "summary": "arXiv:2609.27573v1 Announce Type: new \nAbstract: This paper deals with the generic modeling of systems of systems (SoSs) using agent-based modeling. SoSs are large-scale systems, including numerous-possibly heterogeneous-interacting component systems evolving in a dynamic environment. The aim of thi",
+      "url": "https://arxiv.org/abs/2609.27573",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "What Confidence Routing Is Actually Doing: Auditing Routing, Calibration, and Commitment in Multi-Agent Deliberation",
+      "summary": "arXiv:2609.27822v1 Announce Type: new \nAbstract: A common multi-agent design asks agents to report confidence and lets the highest-scoring agent speak next, implicitly using one scalar both to route the conversation and to estimate uncertainty. We audit this confidence-routed broadcast protocol by s",
+      "url": "https://arxiv.org/abs/2609.27822",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Compliant with Local Controls, Collectively Discriminatory. A Governance Architecture for Multi-Agent AI in Regulated Finance",
+      "summary": "arXiv:2609.27994v1 Announce Type: new \nAbstract: Financial institutions are beginning to deploy agentic workflows in credit, fraud, collections, compliance, and operational control. Governance remains largely component-centric: each model or agent is specified, tested, authorized, and monitored loca",
+      "url": "https://arxiv.org/abs/2609.27994",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Connectivity Preservation and Graph Stretching in Range-Only Swarm Dispersion",
+      "summary": "arXiv:2609.28190v1 Announce Type: new \nAbstract: We study connectivity-preserving finite-jump dispersion of anonymous, identical, and oblivious agents under an idealized range-only sensing model. Each agent measures only the distances to its visible neighbors, without bearings, identifiers, communic",
+      "url": "https://arxiv.org/abs/2609.28190",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Impact-Time Guidance via Normal Contraction to a Time-to-Go Isochron",
+      "summary": "arXiv:2609.26906v1 Announce Type: cross \nAbstract: We develop a contraction-based perspective on impact-time guidance that augments a baseline homing command with a timing bias. The proposed perspective treats the prescribed schedule as a moving time-to-go isochron and regulates motion normal to tha",
+      "url": "https://arxiv.org/abs/2609.26906",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
