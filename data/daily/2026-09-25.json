@@ -1,0 +1,249 @@
+{
+  "date": "2026-09-25",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-09-25 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
+      "summary": "arXiv:2609.28475v1 Announce Type: new \nAbstract: Forecasting agents increasingly combine language-model reasoning, retrieval, ensembling, and calibration, but it remains unclear when each behavior should be trusted. We study this question on ForecastBench-style binary forecasting tasks, treating the",
+      "url": "https://arxiv.org/abs/2609.28475",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split",
+      "summary": "arXiv:2609.28506v1 Announce Type: new \nAbstract: TW3Cast is a time-series forecasting system that reaches position 3 of 130 entries on the GIFT-Eval benchmark by mean MASE rank, as of 2026-09-14. The two entries above it belong to the leaderboard's agentic category, multi-step systems that use agent",
+      "url": "https://arxiv.org/abs/2609.28506",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "PAWS: Policy-driven Agentic World Simulation",
+      "summary": "arXiv:2609.28547v1 Announce Type: new \nAbstract: Policy interventions propagate through public communication, institutional decisions, and stakeholder responses, yet datasets for financial multi-agent simulation rarely connect these processes to temporally aligned historical evidence. We introduce P",
+      "url": "https://arxiv.org/abs/2609.28547",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Pistis Technical Report",
+      "summary": "arXiv:2609.28554v1 Announce Type: new \nAbstract: We introduce the Pistis model family, comprising 27B- and 9B-parameter multimodal large language models built on Qwen3.6 and Qwen3.5, respectively, and developed through a general and scalable post-training framework. The framework first establishes a",
+      "url": "https://arxiv.org/abs/2609.28554",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "PAWS: Policy-driven Agentic World Simulation",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.28547"
+        },
+        {
+          "title": "Multi-Agent Debate for Explainable Trading: Reasoning, Consensus, and Performance in Simulated Markets",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.29701"
+        },
+        {
+          "title": "REAT: A Reflective Experience-Augmented Tutoring Framework for Multi-turn Mathematical Instruction",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.29804"
+        },
+        {
+          "title": "Codetta: High-Capacity, Keyless, and Undetectable Multi-Agent Collusion",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.28900"
+        },
+        {
+          "title": "AlphaDiverse: Post-Training Local Quantitative Research Agents for Diverse Exploration in Alpha Factor Mining",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.29014"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.28506"
+        },
+        {
+          "title": "BaseCamp --- An Agentic AI Framework for Automating DNA Sequencing Data Pipelines",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.28557"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.28475"
+        },
+        {
+          "title": "DEEPO: Dual-Entropy Enhanced Policy Optimization for Hallucination in MLLMs",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.28570"
+        },
+        {
+          "title": "TWIST: A Proposed Benchmark for Intervention Quality in Conversational Memory, with a Human-Validated Draft-Alignment",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.28575"
+        }
+      ]
+    }
+  ],
+  "oss": [],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
+      "summary": "arXiv:2609.28475v1 Announce Type: new \nAbstract: Forecasting agents increasingly combine language-model reasoning, retrieval, ensembling, and calibration, but it remains unclear when each behavior should be trusted. We study this question on ForecastBench-style binary forecasting tasks, treating the",
+      "url": "https://arxiv.org/abs/2609.28475",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split",
+      "summary": "arXiv:2609.28506v1 Announce Type: new \nAbstract: TW3Cast is a time-series forecasting system that reaches position 3 of 130 entries on the GIFT-Eval benchmark by mean MASE rank, as of 2026-09-14. The two entries above it belong to the leaderboard's agentic category, multi-step systems that use agent",
+      "url": "https://arxiv.org/abs/2609.28506",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "PAWS: Policy-driven Agentic World Simulation",
+      "summary": "arXiv:2609.28547v1 Announce Type: new \nAbstract: Policy interventions propagate through public communication, institutional decisions, and stakeholder responses, yet datasets for financial multi-agent simulation rarely connect these processes to temporally aligned historical evidence. We introduce P",
+      "url": "https://arxiv.org/abs/2609.28547",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Pistis Technical Report",
+      "summary": "arXiv:2609.28554v1 Announce Type: new \nAbstract: We introduce the Pistis model family, comprising 27B- and 9B-parameter multimodal large language models built on Qwen3.6 and Qwen3.5, respectively, and developed through a general and scalable post-training framework. The framework first establishes a",
+      "url": "https://arxiv.org/abs/2609.28554",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "BaseCamp --- An Agentic AI Framework for Automating DNA Sequencing Data Pipelines",
+      "summary": "arXiv:2609.28557v1 Announce Type: new \nAbstract: DNA sequencing pipelines, spanning quality control, alignment, variant calling, and annotation, are now reliably executed by workflow management systems that orchestrate established bioinformatics tools at scale. What remains manual is the decision la",
+      "url": "https://arxiv.org/abs/2609.28557",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "DEEPO: Dual-Entropy Enhanced Policy Optimization for Hallucination in MLLMs",
+      "summary": "arXiv:2609.28570v1 Announce Type: new \nAbstract: Reinforcement learning (RL) is widely used to sharpen reasoning in multimodal large language models (MLLMs), yet its effect on hallucination is uneven. We trace this to two weak points in the \\emph{correction chain} from reward to parameter update. At",
+      "url": "https://arxiv.org/abs/2609.28570",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "TWIST: A Proposed Benchmark for Intervention Quality in Conversational Memory, with a Human-Validated Draft-Alignment",
+      "summary": "arXiv:2609.28575v1 Announce Type: new \nAbstract: Long-conversation memory benchmarks increasingly test recall and prompted knowledge updates, and recent work studies evolving user beliefs and memory state. TWIST is a proposed benchmark suite for a complementary, unmeasured property: intervention qua",
+      "url": "https://arxiv.org/abs/2609.28575",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Adversarial Closed-Loop Curriculum for Evolving Role-Playing Agents",
+      "summary": "arXiv:2609.28609v1 Announce Type: new \nAbstract: Role-playing agents based on large language models have been widely applied in areas such as personalized assistance and social simulation. Recent RL methods typically train on a fixed scenario pool collected before learning begins. This creates a dis",
+      "url": "https://arxiv.org/abs/2609.28609",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Towards Trustworthy Biological Alignment in TabPFN-Probed Pathology Foundation Models",
+      "summary": "arXiv:2609.29523v1 Announce Type: new \nAbstract: Histology and transcriptomics provide complementary views of tissue biology, capturing spatial morphology and molecular activity, respectively. Pathology foundation models (PFMs) learn rich morphological representations from H&E images, yet strong dow",
+      "url": "https://arxiv.org/abs/2609.29523",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Multi-Agent Debate for Explainable Trading: Reasoning, Consensus, and Performance in Simulated Markets",
+      "summary": "arXiv:2609.29701v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used for financial decision-making, yet it remains unclear whether improvements in reasoning quality translate into better economic outcomes. We investigate this question using a multi-agent debate framewo",
+      "url": "https://arxiv.org/abs/2609.29701",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "REAT: A Reflective Experience-Augmented Tutoring Framework for Multi-turn Mathematical Instruction",
+      "summary": "arXiv:2609.29804v1 Announce Type: new \nAbstract: Current Large Language Models (LLMs) excel at solving complex mathematical problems, yet this proficiency does not inherently translate into effective tutoring. While advanced LLM tutors may leverage multi-agent frameworks or fine-tuning, most still l",
+      "url": "https://arxiv.org/abs/2609.29804",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Progressive Skill Discovery as Access Control for Tool-Using LLM Agents: Structural Governance through Role-Scoped Capability Delivery",
+      "summary": "arXiv:2609.28693v1 Announce Type: cross \nAbstract: Large Language Model (LLM) agents struggle to scale safely when exposed to vast enterprise toolsets. Providing an agent with access to every internal tool leads to oversized context windows, degraded tool selection, and severe governance vulnerabili",
+      "url": "https://arxiv.org/abs/2609.28693",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Codetta: High-Capacity, Keyless, and Undetectable Multi-Agent Collusion",
+      "summary": "arXiv:2609.28900v1 Announce Type: cross \nAbstract: Multi-agent systems built on large language models (LLMs) are increasingly deployed in high-stakes settings such as finance, healthcare, and software engineering, where agents coordinate through natural-language messages. The same channels, however,",
+      "url": "https://arxiv.org/abs/2609.28900",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "AlphaDiverse: Post-Training Local Quantitative Research Agents for Diverse Exploration in Alpha Factor Mining",
+      "summary": "arXiv:2609.29014v1 Announce Type: cross \nAbstract: Large language model (LLM)-based multi-agent systems can automate alpha factor mining, but their reliance on external APIs limits control over cost, availability, and confidentiality. Long research loops also tend to revisit a few successful economi",
+      "url": "https://arxiv.org/abs/2609.29014",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "AI-Moderated Interviews for Market Research and Digital Twins Calibration",
+      "summary": "arXiv:2609.29143v1 Announce Type: cross \nAbstract: AI-moderated interviews are emerging as a scalable market-research method for generating consumer insights and building consumer \"digital twins.\" Yet it remains unclear whether they match human-moderated interviews or improve on simpler, static data",
+      "url": "https://arxiv.org/abs/2609.29143",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
