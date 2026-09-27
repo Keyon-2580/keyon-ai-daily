@@ -1,0 +1,158 @@
+{
+  "date": "2026-09-27",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-09-27 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "The Perfect Crime: LLM Agents Can Easily Tamper with Their Own Traces",
+      "summary": "Article URL: https://perfect-crime.ai/\nComments URL: https://news.ycombinator.com/item?id=49863792\nPoints: 1\n# Comments: 0",
+      "url": "https://perfect-crime.ai/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "LLM Agents Can Easily Tamper with Their Own Traces",
+      "summary": "Article URL: https://arxiv.org/abs/2609.30266\nComments URL: https://news.ycombinator.com/item?id=49863521\nPoints: 2\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2609.30266",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: PeerTalk.ai - Let your agent talk to a friend's agent",
+      "summary": "Little experiment I've been cooking up.I often find myself wanting to do one of the following:- Get my agent and a someone else's agent to agree on something, after we've been discussing the same topic in different threads- Give someone temporary access to talk to one of my agents for a specific pu",
+      "url": "https://peertalk.ai",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "LLM Policies: Progress at All Costs",
+      "summary": "Article URL: https://diegoe.be/2026/09/25/llm-policies-progress-at-all-costs/\nComments URL: https://news.ycombinator.com/item?id=49862192\nPoints: 2\n# Comments: 0",
+      "url": "https://diegoe.be/2026/09/25/llm-policies-progress-at-all-costs/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": []
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": []
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "The Perfect Crime: LLM Agents Can Easily Tamper with Their Own Traces",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://perfect-crime.ai/"
+        },
+        {
+          "title": "LLM Agents Can Easily Tamper with Their Own Traces",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://arxiv.org/abs/2609.30266"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "The Perfect Crime: LLM Agents Can Easily Tamper with Their Own Traces",
+      "summary": "Article URL: https://perfect-crime.ai/\nComments URL: https://news.ycombinator.com/item?id=49863792\nPoints: 1\n# Comments: 0",
+      "url": "https://perfect-crime.ai/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "LLM Agents Can Easily Tamper with Their Own Traces",
+      "summary": "Article URL: https://arxiv.org/abs/2609.30266\nComments URL: https://news.ycombinator.com/item?id=49863521\nPoints: 2\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2609.30266",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: PeerTalk.ai - Let your agent talk to a friend's agent",
+      "summary": "Little experiment I've been cooking up.I often find myself wanting to do one of the following:- Get my agent and a someone else's agent to agree on something, after we've been discussing the same topic in different threads- Give someone temporary access to talk to one of my agents for a specific pu",
+      "url": "https://peertalk.ai",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "LLM Policies: Progress at All Costs",
+      "summary": "Article URL: https://diegoe.be/2026/09/25/llm-policies-progress-at-all-costs/\nComments URL: https://news.ycombinator.com/item?id=49862192\nPoints: 2\n# Comments: 0",
+      "url": "https://diegoe.be/2026/09/25/llm-policies-progress-at-all-costs/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Detailed Guide to Agent Memory",
+      "summary": "I wrote a detailed guide to agent memory from the perspective of a builder in the space that has been doing it for 3 years. Hope you like it, and would love to hear feedback.\n\nComments URL: https://news.ycombinator.com/item?id=49861765\nPoints: 3\n# Comments: 0",
+      "url": "https://www.cognee.ai/agent-memory",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Ask HN: Any books, list of papers, or articles to understand LLM's",
+      "summary": "I have some basic ml background from college. I know how neural nets, backprop, and attention work vaguely.I want to study LLMs and keep up with the modern research and literature including thinking, model training techniques, etc. Do yall have any suggestions on where to start?\n\nComments URL: http",
+      "url": "https://news.ycombinator.com/item?id=49861324",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Solus Linux Adopts Formal AI and LLM Contribution Policy",
+      "summary": "Article URL: https://linuxiac.com/solus-linux-adopts-formal-ai-and-llm-contribution-policy/\nComments URL: https://news.ycombinator.com/item?id=49861170\nPoints: 1\n# Comments: 0",
+      "url": "https://linuxiac.com/solus-linux-adopts-formal-ai-and-llm-contribution-policy/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Foreman: An agent supervisor and software factory foreman",
+      "summary": "Article URL: https://github.com/thruwire/foreman\nComments URL: https://news.ycombinator.com/item?id=49860753\nPoints: 3\n# Comments: 0",
+      "url": "https://github.com/thruwire/foreman",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [
+    {
+      "title": "OpenAI agents tried to bruteforce a UN website's API fields",
+      "summary": "Article URL: https://swarmcha.se/posts/openai-unctad\nComments URL: https://news.ycombinator.com/item?id=49862299\nPoints: 57\n# Comments: 36",
+      "url": "https://swarmcha.se/posts/openai-unctad",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "research": [],
+  "china": []
+}
