@@ -1,0 +1,266 @@
+{
+  "date": "2026-09-29",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-09-29 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Show HN: Caffold – The same agent workspace on desktop, foldable, tablet, phone",
+      "summary": "Hello, Caffold is an open-source, self-hosted workspace for coding agents.\nYou can continue the same work across desktop, foldable, tablet, and phone.I started building it for myself in late June. It was initially only for Codex. I got a Galaxy Z Fold8 in early August and started using Caffold much",
+      "url": "https://github.com/panarch/caffold",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Meta's New Muse AI Agent Read My Private Messages. I Never Asked It To",
+      "summary": "Article URL: https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202\nComments URL: https://news.ycombinator.com/item?id=49887186\nPoints: 3\n# Comments: 1",
+      "url": "https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Talktome - let your AI Agent call you",
+      "summary": "I built TalkToMe, an open-source macOS app that lets an agent call you from its current session. You answer, talk, and hear its replies. The agent keeps its tools, files, and history.It works with Codex (Tested extensively, quite smooth), Claude Code (not tested heavily), Hermes, and other agents t",
+      "url": "https://github.com/rohanprichard/talktome",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "AI agent memory can be poisoned – and later treated as the user's own past",
+      "summary": "Article URL: https://www.astraobscura.net/2026/09/28/the-memory-that-wasnt-yours/\nComments URL: https://news.ycombinator.com/item?id=49887024\nPoints: 2\n# Comments: 0",
+      "url": "https://www.astraobscura.net/2026/09/28/the-memory-that-wasnt-yours/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
+      "summary": "arXiv:2609.30291v1 Announce Type: new \nAbstract: The purpose of this article is to highlight the central role of autonomous systems as the ultimate stage in the development of AI, to explain the underlying technical challenges that require a combination of connectionist AI and symbolic AI, and to in",
+      "url": "https://arxiv.org/abs/2609.30291",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
+      "summary": "arXiv:2609.30325v1 Announce Type: new \nAbstract: Agents are increasingly deployed with real autonomy in web application and network penetration testing, where a single out-of-scope action can breach a client's engagement boundary. Existing offensive-security benchmarks measure raw hacking capability",
+      "url": "https://arxiv.org/abs/2609.30325",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess",
+      "summary": "arXiv:2609.30328v1 Announce Type: new \nAbstract: When one language model judges whether another's code is correct, it does not report the absence of evidence. It returns a confident verdict with reasoning attached, indistinguishable from a verdict it had grounds for. Multi-agent verification, which",
+      "url": "https://arxiv.org/abs/2609.30328",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol",
+      "summary": "arXiv:2609.30341v1 Announce Type: new \nAbstract: Data Spaces enable sovereign and governed data sharing across organizational boundaries, but their integration with AI agents remains challenging due to mismatches between probabilistic language model interactions and policy-driven data infrastructure",
+      "url": "https://arxiv.org/abs/2609.30341",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.30328"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": []
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.30325"
+        },
+        {
+          "title": "A Synthetic Ground-Truth Framework for the Evaluation of Explainable AI Methods",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.30397"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "Show HN: Caffold – The same agent workspace on desktop, foldable, tablet, phone",
+      "summary": "Hello, Caffold is an open-source, self-hosted workspace for coding agents.\nYou can continue the same work across desktop, foldable, tablet, and phone.I started building it for myself in late June. It was initially only for Codex. I got a Galaxy Z Fold8 in early August and started using Caffold much",
+      "url": "https://github.com/panarch/caffold",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Meta's New Muse AI Agent Read My Private Messages. I Never Asked It To",
+      "summary": "Article URL: https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202\nComments URL: https://news.ycombinator.com/item?id=49887186\nPoints: 3\n# Comments: 1",
+      "url": "https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Talktome - let your AI Agent call you",
+      "summary": "I built TalkToMe, an open-source macOS app that lets an agent call you from its current session. You answer, talk, and hear its replies. The agent keeps its tools, files, and history.It works with Codex (Tested extensively, quite smooth), Claude Code (not tested heavily), Hermes, and other agents t",
+      "url": "https://github.com/rohanprichard/talktome",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "AI agent memory can be poisoned – and later treated as the user's own past",
+      "summary": "Article URL: https://www.astraobscura.net/2026/09/28/the-memory-that-wasnt-yours/\nComments URL: https://news.ycombinator.com/item?id=49887024\nPoints: 2\n# Comments: 0",
+      "url": "https://www.astraobscura.net/2026/09/28/the-memory-that-wasnt-yours/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "We found 24 Android vulnerabilities using our open source AI security agent",
+      "summary": "Article URL: https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/\nComments URL: https://news.ycombinator.com/item?id=49886609\nPoints: 8\n# Comments: 2",
+      "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: Corral kill every command your agent starts",
+      "summary": "This summer I got to intern on the backend of an AI agent and I noticed that it would run commands like tail -f or some random background jobs and exit without terminating any of these. I got curious and looked up how Claude Code handles stuff like this, and it turns out they have similar problems.",
+      "url": "https://github.com/Cardinal44/corral",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "What is the best LLM for turbo charging code?",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=49886362\nPoints: 2\n# Comments: 2",
+      "url": "https://news.ycombinator.com/item?id=49886362",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "LLM makes decisions to raise its training scores, and ignore user directives",
+      "summary": "Article URL: https://joinhandshake.com/research/ai/deepswe-reward-hacking/\nComments URL: https://news.ycombinator.com/item?id=49886206\nPoints: 3\n# Comments: 1",
+      "url": "https://joinhandshake.com/research/ai/deepswe-reward-hacking/",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [
+    {
+      "title": "Updated Google Maps shows destruction of the city of Rafah",
+      "summary": "Article URL: https://twitter.com/AliAbunimah/status/2103890594137309425\nComments URL: https://news.ycombinator.com/item?id=49879645\nPoints: 408\n# Comments: 222",
+      "url": "https://twitter.com/AliAbunimah/status/2103890594137309425",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "research": [
+    {
+      "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
+      "summary": "arXiv:2609.30291v1 Announce Type: new \nAbstract: The purpose of this article is to highlight the central role of autonomous systems as the ultimate stage in the development of AI, to explain the underlying technical challenges that require a combination of connectionist AI and symbolic AI, and to in",
+      "url": "https://arxiv.org/abs/2609.30291",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
+      "summary": "arXiv:2609.30325v1 Announce Type: new \nAbstract: Agents are increasingly deployed with real autonomy in web application and network penetration testing, where a single out-of-scope action can breach a client's engagement boundary. Existing offensive-security benchmarks measure raw hacking capability",
+      "url": "https://arxiv.org/abs/2609.30325",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess",
+      "summary": "arXiv:2609.30328v1 Announce Type: new \nAbstract: When one language model judges whether another's code is correct, it does not report the absence of evidence. It returns a confident verdict with reasoning attached, indistinguishable from a verdict it had grounds for. Multi-agent verification, which",
+      "url": "https://arxiv.org/abs/2609.30328",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol",
+      "summary": "arXiv:2609.30341v1 Announce Type: new \nAbstract: Data Spaces enable sovereign and governed data sharing across organizational boundaries, but their integration with AI agents remains challenging due to mismatches between probabilistic language model interactions and policy-driven data infrastructure",
+      "url": "https://arxiv.org/abs/2609.30341",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems",
+      "summary": "arXiv:2609.30383v1 Announce Type: new \nAbstract: A skill is a modular package of natural-language instructions, executable scripts, and reference resources that an agent can load at runtime to extend its capabilities for a specific task. Skill-based agent systems therefore enable flexible reuse of t",
+      "url": "https://arxiv.org/abs/2609.30383",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "A Synthetic Ground-Truth Framework for the Evaluation of Explainable AI Methods",
+      "summary": "arXiv:2609.30397v1 Announce Type: new \nAbstract: Evaluating explainable Artificial Intelligence (XAI) methods is a challenging task due to the lack of reliable evaluation procedures and, in particular, the absence of ground truth explanations. In the literature, existing evaluation approaches typica",
+      "url": "https://arxiv.org/abs/2609.30397",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Predicting Transmembrane Protein Topology from 3D Structure",
+      "summary": "arXiv:2609.30446v1 Announce Type: new \nAbstract: This paper presents a novel approach to infer protein topology using the state-of-the-art graph neural network (GNN), SchNet. The model is trained on the same dataset used to develop the recent DeepTMHMM model with 5-fold cross-validation. Unlike the",
+      "url": "https://arxiv.org/abs/2609.30446",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Spectral Feedback for Test-Time Alignment of Protein Diffusion Models",
+      "summary": "arXiv:2609.30456v1 Announce Type: new \nAbstract: Reward maximization alignment methods for discrete diffusion models have primarily focused on steering the reverse process, either by influencing token logits or by selecting favorable sequences at intermediate steps. These approaches largely treat in",
+      "url": "https://arxiv.org/abs/2609.30456",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
