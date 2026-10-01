@@ -1,0 +1,352 @@
+{
+  "date": "2026-10-01",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-10-01 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Show HN: Miniagent – Free coding agent, no installation required",
+      "summary": "Article URL: https://miniagent.sh\nComments URL: https://news.ycombinator.com/item?id=49918384\nPoints: 1\n# Comments: 0",
+      "url": "https://miniagent.sh",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Vietnam Tender Intelligence – gov procurement data, AI-agent ready",
+      "summary": "Article URL: https://apify.com/donerightlabs/tender-intelligence\nComments URL: https://news.ycombinator.com/item?id=49917863\nPoints: 2\n# Comments: 0",
+      "url": "https://apify.com/donerightlabs/tender-intelligence",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Flet agent got eyes and ears",
+      "summary": "Article URL: https://flet.dev/blog/flet-agent-got-eyes-and-ears/\nComments URL: https://news.ycombinator.com/item?id=49917440\nPoints: 3\n# Comments: 0",
+      "url": "https://flet.dev/blog/flet-agent-got-eyes-and-ears/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "A local Workday job agent – rule-based resume tailoring, no AI",
+      "summary": "Article URL: https://github.com/daliparthi/personal-job-agent\nComments URL: https://news.ycombinator.com/item?id=49917403\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/daliparthi/personal-job-agent",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation",
+      "summary": "arXiv:2609.38282v1 Announce Type: new \nAbstract: Vision-language models may rewrite anomalous text in images into linguistically plausible expressions, compromising OCR transcription faithfulness. Sequence-level task rewards and local teacher guidance are complementary, but guidance from the same te",
+      "url": "https://arxiv.org/abs/2609.38282",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
+      "summary": "arXiv:2609.38288v1 Announce Type: new \nAbstract: We present AREX-2, an effort to advance the self-improving capability of LLM agents, which we define as the ability to iteratively refine a solution at test time. This ability rests on two complementary capabilities: reflection, which produces a solut",
+      "url": "https://arxiv.org/abs/2609.38288",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "MoFlow: Multi-Objective Agentic Workflow Generation",
+      "summary": "arXiv:2609.38294v1 Announce Type: new \nAbstract: We study the generation of agentic workflows that jointly optimize multiple objectives, such as accuracy, cost, latency, robustness, and consistency. Existing methods for workflow generation typically optimize accuracy alone or a weighted sum of objec",
+      "url": "https://arxiv.org/abs/2609.38294",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "AI Agents are Vulnerable to Radicalization",
+      "summary": "arXiv:2609.38296v1 Announce Type: new \nAbstract: Large language models (LLMs) can influence people's beliefs, yet little is known about whether and how they can manipulate each other. To investigate this, we simulate conversations between two agents: a target LLM that role-plays a human persona base",
+      "url": "https://arxiv.org/abs/2609.38296",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": [
+        {
+          "title": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.38288"
+        },
+        {
+          "title": "From Solo to Social Learning: Characterizing Recursive Social Improvement in LLMs",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.38516"
+        },
+        {
+          "title": "CollabFlow: Recursive Self-Improvement of Agent Collaboration",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.38662"
+        }
+      ]
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Absorbing State Phase Transitions in Multi-Agent Search",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.38327"
+        },
+        {
+          "title": "PANDA: A Decentralized Architecture with Flexible Orchestration for Scalable, Fault-Tolerant Multi-Agent Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.38482"
+        },
+        {
+          "title": "Where Do Multi-Agent Systems Fail? Evidence-Grounded Diagnosis of Collective Mechanisms",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.38761"
+        },
+        {
+          "title": "Fast and Scalable Multi-Agent Distribution Matching via Partitioned Optimal Transport",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.38960"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "MoFlow: Multi-Objective Agentic Workflow Generation",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.38294"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Recursive Organization Improvement: A Modeling Specification for Human--Agent Organizations",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2609.38643"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "Show HN: Miniagent – Free coding agent, no installation required",
+      "summary": "Article URL: https://miniagent.sh\nComments URL: https://news.ycombinator.com/item?id=49918384\nPoints: 1\n# Comments: 0",
+      "url": "https://miniagent.sh",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Vietnam Tender Intelligence – gov procurement data, AI-agent ready",
+      "summary": "Article URL: https://apify.com/donerightlabs/tender-intelligence\nComments URL: https://news.ycombinator.com/item?id=49917863\nPoints: 2\n# Comments: 0",
+      "url": "https://apify.com/donerightlabs/tender-intelligence",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Flet agent got eyes and ears",
+      "summary": "Article URL: https://flet.dev/blog/flet-agent-got-eyes-and-ears/\nComments URL: https://news.ycombinator.com/item?id=49917440\nPoints: 3\n# Comments: 0",
+      "url": "https://flet.dev/blog/flet-agent-got-eyes-and-ears/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "A local Workday job agent – rule-based resume tailoring, no AI",
+      "summary": "Article URL: https://github.com/daliparthi/personal-job-agent\nComments URL: https://news.ycombinator.com/item?id=49917403\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/daliparthi/personal-job-agent",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "AXFeedback – an agent that tests your devtools quickstart on a schedule",
+      "summary": "Article URL: https://axfeedback.dev\nComments URL: https://news.ycombinator.com/item?id=49917356\nPoints: 1\n# Comments: 0",
+      "url": "https://axfeedback.dev",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Polytoken is a local-first AI coding agent daemon",
+      "summary": "Article URL: https://docs.polytoken.dev/introduction/\nComments URL: https://news.ycombinator.com/item?id=49917210\nPoints: 1\n# Comments: 0",
+      "url": "https://docs.polytoken.dev/introduction/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Universal Modder: Let Any AI Coding Agent Mod Almost Any PC Game",
+      "summary": "Article URL: https://github.com/rehan-remade/universal-modder\nComments URL: https://news.ycombinator.com/item?id=49917116\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/rehan-remade/universal-modder",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Aw1-breaker: Sub-0.02ms AST circuit breaker for Python AI agent tools",
+      "summary": "Article URL: https://github.com/MvikManners/aw1-circuit-breaker\nComments URL: https://news.ycombinator.com/item?id=49916877\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/MvikManners/aw1-circuit-breaker",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation",
+      "summary": "arXiv:2609.38282v1 Announce Type: new \nAbstract: Vision-language models may rewrite anomalous text in images into linguistically plausible expressions, compromising OCR transcription faithfulness. Sequence-level task rewards and local teacher guidance are complementary, but guidance from the same te",
+      "url": "https://arxiv.org/abs/2609.38282",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
+      "summary": "arXiv:2609.38288v1 Announce Type: new \nAbstract: We present AREX-2, an effort to advance the self-improving capability of LLM agents, which we define as the ability to iteratively refine a solution at test time. This ability rests on two complementary capabilities: reflection, which produces a solut",
+      "url": "https://arxiv.org/abs/2609.38288",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "MoFlow: Multi-Objective Agentic Workflow Generation",
+      "summary": "arXiv:2609.38294v1 Announce Type: new \nAbstract: We study the generation of agentic workflows that jointly optimize multiple objectives, such as accuracy, cost, latency, robustness, and consistency. Existing methods for workflow generation typically optimize accuracy alone or a weighted sum of objec",
+      "url": "https://arxiv.org/abs/2609.38294",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "AI Agents are Vulnerable to Radicalization",
+      "summary": "arXiv:2609.38296v1 Announce Type: new \nAbstract: Large language models (LLMs) can influence people's beliefs, yet little is known about whether and how they can manipulate each other. To investigate this, we simulate conversations between two agents: a target LLM that role-plays a human persona base",
+      "url": "https://arxiv.org/abs/2609.38296",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "CARAT: Do Materials LLMs Reason or Recite?",
+      "summary": "arXiv:2609.38340v1 Announce Type: new \nAbstract: When a materials LLM answers a question about crystal structure, does it reason from the structure or copy an answer already printed in its input? Accuracy cannot tell: a structural description often prints the very field it is scored against. CARAT h",
+      "url": "https://arxiv.org/abs/2609.38340",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Examining Variation in How Guided AI Tutors Resolve Student Impasses",
+      "summary": "arXiv:2609.38346v1 Announce Type: new \nAbstract: When a student is stuck, a tutor faces the assistance dilemma: help given too early can hinder productive struggle, while help withheld too long leaves the student in a frustrating, persistent impasse (i.e., wheel spinning). Generative AI tutors incre",
+      "url": "https://arxiv.org/abs/2609.38346",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Beyond Mode Collapse: Generating Diverse Synthetic Expert Conversations via Generative Flow Networks",
+      "summary": "arXiv:2609.38359v1 Announce Type: new \nAbstract: High quality synthetic data is central to post training LLMs for adaptive AI applications that represent the diverse expert strategies and decisions in conversations. Prompting LLMs directly or conditioning them on end use scenarios yields low diversi",
+      "url": "https://arxiv.org/abs/2609.38359",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Can an AI Agent Rediscover a Blaschke-Curve Invariant?",
+      "summary": "arXiv:2609.38369v1 Announce Type: new \nAbstract: We study generalized Blaschke curves as a controlled environment for AI-assisted mathematical rediscovery. For one fixed degree-four Blaschke product, an agent receives numerical coordinates of the six pair-lines determined by each of 80 boundary conf",
+      "url": "https://arxiv.org/abs/2609.38369",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Absorbing State Phase Transitions in Multi-Agent Search",
+      "summary": "arXiv:2609.38327v1 Announce Type: new \nAbstract: Nontrivial dynamics can emerge in large language model (LLM)-based multi-agent systems, and preliminary evidence exists that formalisms from statistical mechanics can be effective at modeling and predicting such behaviors. In parallel, designing multi",
+      "url": "https://arxiv.org/abs/2609.38327",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "PANDA: A Decentralized Architecture with Flexible Orchestration for Scalable, Fault-Tolerant Multi-Agent Systems",
+      "summary": "arXiv:2609.38482v1 Announce Type: new \nAbstract: Existing architectures for LLM-based multi-agent systems (MAS) cannot reliably and efficiently solve multi-step tasks at scale: they struggle to support large numbers of agents and concurrent tasks, tolerate failures, govern agent interactions, and ac",
+      "url": "https://arxiv.org/abs/2609.38482",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "From Solo to Social Learning: Characterizing Recursive Social Improvement in LLMs",
+      "summary": "arXiv:2609.38516v1 Announce Type: new \nAbstract: Large language models (LLMs) can now improve themselves by revising the instructions they follow, and LLM agents are increasingly orchestrated to work together on complex problems. However, self-improvement methods typically optimize one system at a t",
+      "url": "https://arxiv.org/abs/2609.38516",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Recursive Organization Improvement: A Modeling Specification for Human--Agent Organizations",
+      "summary": "arXiv:2609.38643v1 Announce Type: new \nAbstract: Stronger AI agents do not automatically produce better organizations: teams must also learn which work arrangements to retain and when to reconsider them. We propose a modeling specification for recursive organization improvement and evaluate it throu",
+      "url": "https://arxiv.org/abs/2609.38643",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "CollabFlow: Recursive Self-Improvement of Agent Collaboration",
+      "summary": "arXiv:2609.38662v1 Announce Type: new \nAbstract: Recursive self-improvement (RSI) lets a system improve from its own outcomes; in LLM-based multi-agent systems, Agents refine one another within a task, and outcomes improve how they collaborate across tasks. However, existing multi-agent collaboratio",
+      "url": "https://arxiv.org/abs/2609.38662",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Where Do Multi-Agent Systems Fail? Evidence-Grounded Diagnosis of Collective Mechanisms",
+      "summary": "arXiv:2609.38761v1 Announce Type: new \nAbstract: When a multi-agent system answers correctly, it is tempting to conclude that its agents shared, checked, and used information as intended. Yet a system can break one of its collective mechanisms, the rules that govern how agents route, admit, store, a",
+      "url": "https://arxiv.org/abs/2609.38761",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Fast and Scalable Multi-Agent Distribution Matching via Partitioned Optimal Transport",
+      "summary": "arXiv:2609.38960v1 Announce Type: new \nAbstract: This paper presents a scalable optimal-transport-based framework for terminal distribution matching in multi-agent systems. While optimal transport provides a natural way to measure distributional mismatch and assign agents to a desired spatial distri",
+      "url": "https://arxiv.org/abs/2609.38960",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Consensus and Factual Dynamics in Large Populations of Interacting Language Models",
+      "summary": "arXiv:2609.39211v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents are increasingly deployed as populations of interacting entities, in which consensus --agreement on a shared answer-- emerges as a collective, unengineered behaviour. Prior work on LLM consensus shows that agents can",
+      "url": "https://arxiv.org/abs/2609.39211",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
