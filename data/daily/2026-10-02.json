@@ -1,0 +1,250 @@
+{
+  "date": "2026-10-02",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-10-02 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
+      "summary": "arXiv:2610.00010v1 Announce Type: new \nAbstract: Long-horizon language agents increasingly rely on external memory as a frozen world model, yet current memory systems are usually judged only by task success or token cost. We argue that the missing object is the shape of memory use: under finite cont",
+      "url": "https://arxiv.org/abs/2610.00010",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "When Do Causal World Models Help Modular LLM Agents",
+      "summary": "arXiv:2610.00012v1 Announce Type: new \nAbstract: LLM agents increasingly act through modular systems, such as order, payment, inventory, and shipment services, where actions in one module change which transitions are valid in another. Standard world models usually fit observational traces, but this",
+      "url": "https://arxiv.org/abs/2610.00012",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
+      "summary": "arXiv:2610.00015v1 Announce Type: new \nAbstract: Large-language-model agents can propose and execute actions, but proposal, authority, dispatch, verified external effect, and serving promotion are different claims. We present Praxa, an agent harness that represents these states explicitly through de",
+      "url": "https://arxiv.org/abs/2610.00015",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA",
+      "summary": "arXiv:2610.00018v1 Announce Type: new \nAbstract: Role-specialized QA pipelines increasingly pass rationales from a reasoner to a verifier, but it is unclear what this message actually buys: better answers, stronger support assessment, or a new failure surface. We introduce a message-intervention dia",
+      "url": "https://arxiv.org/abs/2610.00018",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Deny Without Disabling: Authorization-Paired Evaluation and Control for Multi-Agent Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.00371"
+        },
+        {
+          "title": "Can AI Scientists Coordinate at Runtime?",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.00980"
+        },
+        {
+          "title": "LLM-Driven Multi-Agent Control for Skill-Based Smart Manufacturing",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.01364"
+        },
+        {
+          "title": "After Cooperation Is Learned: Gradient Routing and Optimizer-Dependent Maintenance in Multi-Agent Reinforcement Learning",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.01630"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "Managing Context and Communication in Distributed Agentic UAV Swarms",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.01569"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.00010"
+        },
+        {
+          "title": "When Do Causal World Models Help Modular LLM Agents",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.00012"
+        },
+        {
+          "title": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.00015"
+        },
+        {
+          "title": "Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.00025"
+        }
+      ]
+    }
+  ],
+  "oss": [],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
+      "summary": "arXiv:2610.00010v1 Announce Type: new \nAbstract: Long-horizon language agents increasingly rely on external memory as a frozen world model, yet current memory systems are usually judged only by task success or token cost. We argue that the missing object is the shape of memory use: under finite cont",
+      "url": "https://arxiv.org/abs/2610.00010",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "When Do Causal World Models Help Modular LLM Agents",
+      "summary": "arXiv:2610.00012v1 Announce Type: new \nAbstract: LLM agents increasingly act through modular systems, such as order, payment, inventory, and shipment services, where actions in one module change which transitions are valid in another. Standard world models usually fit observational traces, but this",
+      "url": "https://arxiv.org/abs/2610.00012",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
+      "summary": "arXiv:2610.00015v1 Announce Type: new \nAbstract: Large-language-model agents can propose and execute actions, but proposal, authority, dispatch, verified external effect, and serving promotion are different claims. We present Praxa, an agent harness that represents these states explicitly through de",
+      "url": "https://arxiv.org/abs/2610.00015",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA",
+      "summary": "arXiv:2610.00018v1 Announce Type: new \nAbstract: Role-specialized QA pipelines increasingly pass rationales from a reasoner to a verifier, but it is unclear what this message actually buys: better answers, stronger support assessment, or a new failure surface. We introduce a message-intervention dia",
+      "url": "https://arxiv.org/abs/2610.00018",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?",
+      "summary": "arXiv:2610.00025v1 Announce Type: new \nAbstract: Agent harnesses increasingly want to run small language models (SLMs) on the microtasks around a frontier large language model (LLM) planner: auto-approving shell commands, writing memory, selecting tools, ranking past turns. We ask whether off-the-sh",
+      "url": "https://arxiv.org/abs/2610.00025",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Characterizing a Configuration Where Inference-Time PRM-Pruned Fragment Grafting Is Inert: Evidence from Three Reasoning LMs",
+      "summary": "arXiv:2610.00047v1 Announce Type: new \nAbstract: Diversity collapse in parallel chain-of-thought has motivated inference-time interventions built on a natural design: when a process reward model (PRM) prunes a chain, its high-PRM prefix is extracted and grafted verbatim as an in-context demonstratio",
+      "url": "https://arxiv.org/abs/2610.00047",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Gradient-Aligned Pair Selection for Personalized Preference Optimization",
+      "summary": "arXiv:2610.00061v1 Announce Type: new \nAbstract: Personalizing large language models (LLMs) requires aligning generation behavior with user-specific preferences rather than aggregate quality. While Direct Preference Optimization (DPO) provides a stable framework for preference learning, its effectiv",
+      "url": "https://arxiv.org/abs/2610.00061",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "K-Dense BYOK: An Open-Source AI Research Assistant That Runs Locally and Keeps a Hash-Chained Lab Notebook",
+      "summary": "arXiv:2610.00074v1 Announce Type: new \nAbstract: K-Dense BYOK (bring your own keys) is a free, open-source AI research assistant for scientists in any field that runs on the researcher's own computer. The researcher supplies access to a model of their choice, hosted or running locally, and the appli",
+      "url": "https://arxiv.org/abs/2610.00074",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "The Delegation Danger Band: Why Mid-Capability Sub-Agents Over-Trust Inherited Stale State",
+      "summary": "arXiv:2610.00041v1 Announce Type: new \nAbstract: Agent frameworks increasingly delegate work by forking sub-agents; a common default makes the child inherit the parent's full working context. We measure how the effect of inherited state changes with capability, where $C_m$ denotes clean fork-fresh a",
+      "url": "https://arxiv.org/abs/2610.00041",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Deny Without Disabling: Authorization-Paired Evaluation and Control for Multi-Agent Systems",
+      "summary": "arXiv:2610.00371v1 Announce Type: new \nAbstract: Multi-agent systems derive their capabilities from sharing evidence, delegating tasks, and combining information across agents. The same process creates a safety problem: contributions that are admissible in isolation can jointly enable a prohibited u",
+      "url": "https://arxiv.org/abs/2610.00371",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Can AI Scientists Coordinate at Runtime?",
+      "summary": "arXiv:2610.00980v1 Announce Type: new \nAbstract: Multi-agent AI scientists have shown improving performance across a diverse range of tasks. Yet a common approach is design-time agentic orchestration, which typically relies on fixed workflows. In contrast, human scientists coordinate and adjust thei",
+      "url": "https://arxiv.org/abs/2610.00980",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "LLM-Driven Multi-Agent Control for Skill-Based Smart Manufacturing",
+      "summary": "arXiv:2610.01364v1 Announce Type: new \nAbstract: Factories are shifting toward smaller lot sizes with high product customization, requiring frequent re-programming of flexible and reconfigurable automation systems. LLM-based agents can be deployed in two complementary roles: Offline, they generate d",
+      "url": "https://arxiv.org/abs/2610.01364",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Managing Context and Communication in Distributed Agentic UAV Swarms",
+      "summary": "arXiv:2610.01569v1 Announce Type: new \nAbstract: Unmanned aerial vehicle (UAV) swarms increasingly rely on language-model agents to provide adaptive mission-level reasoning in uncertain environments. Fully distributed control, in which each UAV hosts an independent Small Language Model (SLM), remove",
+      "url": "https://arxiv.org/abs/2610.01569",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "After Cooperation Is Learned: Gradient Routing and Optimizer-Dependent Maintenance in Multi-Agent Reinforcement Learning",
+      "summary": "arXiv:2610.01630v1 Announce Type: new \nAbstract: Cooperative MARL is commonly evaluated through cooperation discovery from random initialization, leaving open whether continued optimization can destabilize learned cooperation. Actor-critic comparisons can also conflate critic presence with value gra",
+      "url": "https://arxiv.org/abs/2610.01630",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "A Verifier Can Leak the Answer: Diagnosability Before Optimization in Closed-Loop Agent Debugging",
+      "summary": "arXiv:2610.00126v1 Announce Type: cross \nAbstract: Agent developers increasingly compare prompts, tools, policies, and diagnosis algorithms through simulator-grounded verifiers. A verifier can nevertheless make a solver comparison vacuous: if its probes or predicates encode the target identity, an e",
+      "url": "https://arxiv.org/abs/2610.00126",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Before Agents Decide: Epistemic Action in LLM-Based Systems",
+      "summary": "arXiv:2610.00511v1 Announce Type: cross \nAbstract: Before a difficult decision, people often act simply to understand the situation better. We turn an object to see another side, place alternatives next to each other, or change one condition and observe what happens. These actions may not complete t",
+      "url": "https://arxiv.org/abs/2610.00511",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
