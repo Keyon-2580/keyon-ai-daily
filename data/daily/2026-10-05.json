@@ -1,0 +1,353 @@
+{
+  "date": "2026-10-05",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-10-05 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Show HN: Recursant, the agent-aware model router built for hybrid workloads",
+      "summary": "Sharing Recursant, the agent-aware model router for private/public workloads. Cut your AI agent bill by 30% and seamlessly operate agents across private and public inference infrastructure. Recursant is agent-aware, routes intelligently, built to be fast (C), and intended for privacy.github.com/aje",
+      "url": "https://github.com/ajensenwaud/recursant/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: SRA-RiskGate-4B – Local LLM for stablecoin risk gating and disputes",
+      "summary": "Article URL: https://huggingface.co/sriram1983007/SRA-RiskGate-4B\nComments URL: https://news.ycombinator.com/item?id=49960513\nPoints: 1\n# Comments: 0",
+      "url": "https://huggingface.co/sriram1983007/SRA-RiskGate-4B",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Moching – AI desktop agent with 219 built-in tools (Rust)",
+      "summary": "Article URL: https://github.com/moching-ai-dev/moching\nComments URL: https://news.ycombinator.com/item?id=49959897\nPoints: 1\n# Comments: 1",
+      "url": "https://github.com/moching-ai-dev/moching",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "An OpenAI agent reached four Australian government systems. Nobody noticed",
+      "summary": "Article URL: https://trustboundarystudio.com/posts/openai-medicare-2026/\nComments URL: https://news.ycombinator.com/item?id=49959024\nPoints: 3\n# Comments: 0",
+      "url": "https://trustboundarystudio.com/posts/openai-medicare-2026/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
+      "summary": "arXiv:2610.02260v1 Announce Type: new \nAbstract: Flow matching models excel at generative modeling, and many downstream applications require their samples to satisfy prescribed constraints, such as observed measurements and physical laws. However, existing constrained samplers often face a trade-off",
+      "url": "https://arxiv.org/abs/2610.02260",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses",
+      "summary": "arXiv:2610.02267v1 Announce Type: new \nAbstract: Agent harnesses make many small, typed decisions per task: which model to call, which tool to use, whether retrieved text is relevant, whether an input carries an injection. System-1 decision models answer such questions in a single forward pass with",
+      "url": "https://arxiv.org/abs/2610.02267",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?",
+      "summary": "arXiv:2610.02281v1 Announce Type: new \nAbstract: Societal resilience research relies on access to useful and actionable data, which motivates our main research question: Can annual reports, processed at scale with LLMs, provide a useful signal about how companies disclose their response to AI? We te",
+      "url": "https://arxiv.org/abs/2610.02281",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation",
+      "summary": "arXiv:2610.02300v1 Announce Type: new \nAbstract: Training-free safeguards for text-to-image generation often rely on a reusable safety signal, such as an unsafe direction or global toxic subspace, applied broadly across prompts. We provide a controlled geometric analysis of this global-unsafety assu",
+      "url": "https://arxiv.org/abs/2610.02300",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Turnover-Orthogonal Credit Assignment for Open-Team Multi-Agent Reinforcement Learning",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.02847"
+        },
+        {
+          "title": "MACTS-EM: Multi-Agent Collaborative Time Series Forecasting with Emergent Memory",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.02255"
+        },
+        {
+          "title": "MIRROR: Multipath Quorum Integrity for LLM Multi-Agent Communication",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.02349"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": []
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.02267"
+        },
+        {
+          "title": "Evaluator-in-the-Loop Monte Carlo Tree Search via LLM Agents for Motif Scaffolding in Protein Design",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.02924"
+        },
+        {
+          "title": "FinNextAssist: Towards Professional Financial Deep Research Assistant",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.03174"
+        },
+        {
+          "title": "WebUIProof: Benchmarking WebUI Code Generators with UI-Agent Execution Harness",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.02617"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "Show HN: Recursant, the agent-aware model router built for hybrid workloads",
+      "summary": "Sharing Recursant, the agent-aware model router for private/public workloads. Cut your AI agent bill by 30% and seamlessly operate agents across private and public inference infrastructure. Recursant is agent-aware, routes intelligently, built to be fast (C), and intended for privacy.github.com/aje",
+      "url": "https://github.com/ajensenwaud/recursant/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: SRA-RiskGate-4B – Local LLM for stablecoin risk gating and disputes",
+      "summary": "Article URL: https://huggingface.co/sriram1983007/SRA-RiskGate-4B\nComments URL: https://news.ycombinator.com/item?id=49960513\nPoints: 1\n# Comments: 0",
+      "url": "https://huggingface.co/sriram1983007/SRA-RiskGate-4B",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Moching – AI desktop agent with 219 built-in tools (Rust)",
+      "summary": "Article URL: https://github.com/moching-ai-dev/moching\nComments URL: https://news.ycombinator.com/item?id=49959897\nPoints: 1\n# Comments: 1",
+      "url": "https://github.com/moching-ai-dev/moching",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "An OpenAI agent reached four Australian government systems. Nobody noticed",
+      "summary": "Article URL: https://trustboundarystudio.com/posts/openai-medicare-2026/\nComments URL: https://news.ycombinator.com/item?id=49959024\nPoints: 3\n# Comments: 0",
+      "url": "https://trustboundarystudio.com/posts/openai-medicare-2026/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Full-fabric VHDL LLM inference engine. Runs Qwen3.5-class transformer inference",
+      "summary": "Article URL: https://github.com/Nero7991/llm.vhdl\nComments URL: https://news.ycombinator.com/item?id=49957671\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/Nero7991/llm.vhdl",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: Ranking the most AI agent friendly tools",
+      "summary": "Article URL: https://www.anchorterminal.com/tools/\nComments URL: https://news.ycombinator.com/item?id=49956865\nPoints: 2\n# Comments: 0",
+      "url": "https://www.anchorterminal.com/tools/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Cosh – a Rust agent that never truncates context",
+      "summary": "Article URL: https://www.co-sh.com\nComments URL: https://news.ycombinator.com/item?id=49956592\nPoints: 2\n# Comments: 1",
+      "url": "https://www.co-sh.com",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Explainer videos and product demos made by your AI agent. Free and open source",
+      "summary": "Article URL: https://github.com/vincentsch/explainroo\nComments URL: https://news.ycombinator.com/item?id=49956470\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/vincentsch/explainroo",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [
+    {
+      "title": "Anthropic reported diary entry to police, woman faces felony charge",
+      "summary": "Article URL: https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html\nComments URL: https://news.ycombinator.com/item?id=49961057\nPoints: 19\n# Comments: 6",
+      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Improper redaction reveals Google Data Center water and electricity usage",
+      "summary": "Article URL: https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/\nComments URL: https://news.ycombinator.com/item?id=49957068\nPoints: 346\n# Comments: 453",
+      "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "research": [
+    {
+      "title": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
+      "summary": "arXiv:2610.02260v1 Announce Type: new \nAbstract: Flow matching models excel at generative modeling, and many downstream applications require their samples to satisfy prescribed constraints, such as observed measurements and physical laws. However, existing constrained samplers often face a trade-off",
+      "url": "https://arxiv.org/abs/2610.02260",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses",
+      "summary": "arXiv:2610.02267v1 Announce Type: new \nAbstract: Agent harnesses make many small, typed decisions per task: which model to call, which tool to use, whether retrieved text is relevant, whether an input carries an injection. System-1 decision models answer such questions in a single forward pass with",
+      "url": "https://arxiv.org/abs/2610.02267",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?",
+      "summary": "arXiv:2610.02281v1 Announce Type: new \nAbstract: Societal resilience research relies on access to useful and actionable data, which motivates our main research question: Can annual reports, processed at scale with LLMs, provide a useful signal about how companies disclose their response to AI? We te",
+      "url": "https://arxiv.org/abs/2610.02281",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation",
+      "summary": "arXiv:2610.02300v1 Announce Type: new \nAbstract: Training-free safeguards for text-to-image generation often rely on a reusable safety signal, such as an unsafe direction or global toxic subspace, applied broadly across prompts. We provide a controlled geometric analysis of this global-unsafety assu",
+      "url": "https://arxiv.org/abs/2610.02300",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents",
+      "summary": "arXiv:2610.02330v1 Announce Type: new \nAbstract: Large language models (LLMs) rely on long-horizon tool invocation sequences for complex tasks, where each invocation can alter the task state and condition subsequent decisions. In long-horizon tool use, final-outcome rewards provide weak credit assig",
+      "url": "https://arxiv.org/abs/2610.02330",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "World Editing: Intervening on Executable Worlds at Increasing Depth",
+      "summary": "arXiv:2610.02331v1 Announce Type: new \nAbstract: Interactive world models are increasingly capable of generating environments and acting within them, yet deliberately editing an existing executable world remains underexplored. We formulate world editing as intervening on an existing world while pres",
+      "url": "https://arxiv.org/abs/2610.02331",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "A Multi Method Importance and Performance Efficiency Analysis of Topological Metrics for Natural Visibility Graph Based Cyber Attack Detection",
+      "summary": "arXiv:2610.02342v1 Announce Type: new \nAbstract: Natural Visibility Graph (NVG) based analysis characterizes network traffic through topological descriptors reflecting different structural properties. However, not all descriptors contribute equally to cyber-attack classification, and extracting a la",
+      "url": "https://arxiv.org/abs/2610.02342",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "DeReAct: Decomposed Reasoning and Acting for Reliable AI Agents",
+      "summary": "arXiv:2610.02351v1 Announce Type: new \nAbstract: ReAct-based agents typically rely on a single LLM policy to propose actions, interact with the environment, and decide when a task is complete. This coupling makes action authorization and completion control difficult to enforce independently, allowin",
+      "url": "https://arxiv.org/abs/2610.02351",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Turnover-Orthogonal Credit Assignment for Open-Team Multi-Agent Reinforcement Learning",
+      "summary": "arXiv:2610.02847v1 Announce Type: new \nAbstract: Open-team multi-agent reinforcement learning studies cooperative systems in which agents may join, leave, or be replaced during an episode. In such settings, the team return changes both because agents choose useful actions and because the active popu",
+      "url": "https://arxiv.org/abs/2610.02847",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Evaluator-in-the-Loop Monte Carlo Tree Search via LLM Agents for Motif Scaffolding in Protein Design",
+      "summary": "arXiv:2610.02924v1 Announce Type: new \nAbstract: Motif-scaffolding systems commonly follow a generate-then-filter paradigm, in which candidate proteins are generated independently and structural evaluation is used primarily for terminal screening or ranking. This paradigm underuses evaluation: faile",
+      "url": "https://arxiv.org/abs/2610.02924",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "FinNextAssist: Towards Professional Financial Deep Research Assistant",
+      "summary": "arXiv:2610.03174v1 Announce Type: new \nAbstract: Deep Research (DR) agents have demonstrated strong capabilities in complex, research-oriented tasks through autonomous planning, iterative retrieval, multi-step reasoning, and structured reporting. However, adapting DR agents to finance introduces uni",
+      "url": "https://arxiv.org/abs/2610.03174",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "MACTS-EM: Multi-Agent Collaborative Time Series Forecasting with Emergent Memory",
+      "summary": "arXiv:2610.02255v1 Announce Type: cross \nAbstract: Time series forecasting remains a critical challenge across numerous domains. Despite significant advancements, existing approaches struggle with complex phenomena such as regime shifts, cross-domain knowledge transfer, and multimodal data integrati",
+      "url": "https://arxiv.org/abs/2610.02255",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "MIRROR: Multipath Quorum Integrity for LLM Multi-Agent Communication",
+      "summary": "arXiv:2610.02349v1 Announce Type: cross \nAbstract: Inter-agent communication is central to Large Language Model Multi-Agent Systems (LLM-MAS), but it introduces an underexplored vulnerability: Agent-in-the-Middle (AiTM) attacks that manipulate messages in transit without compromising the agents them",
+      "url": "https://arxiv.org/abs/2610.02349",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "WebUIProof: Benchmarking WebUI Code Generators with UI-Agent Execution Harness",
+      "summary": "arXiv:2610.02617v1 Announce Type: cross \nAbstract: Evaluating WebUI code generation at scale is difficult: outputs may compile and look plausible yet fail under user interaction, and prior benchmarks largely rely on free-form prompts with static checks (build success, screenshots) that miss function",
+      "url": "https://arxiv.org/abs/2610.02617",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Performance of Zero-determinant Strategies in Repeated Games without Discounting",
+      "summary": "arXiv:2610.02645v1 Announce Type: cross \nAbstract: Zero-determinant (ZD) strategies are a class of strategies in repeated games, which unilaterally control payoffs. It has been shown that several ZD strategies promote cooperation in social dilemma games. It has been widely believed that the performa",
+      "url": "https://arxiv.org/abs/2610.02645",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Coherence-Driven Belief Formation and Population Dynamics of Contagion in LLM Agents",
+      "summary": "arXiv:2610.02654v1 Announce Type: cross \nAbstract: Models of social contagion usually assume how individuals adopt beliefs and derive population behavior from it. We instead empirically measure belief adoption in language model agents, quantifying the probability an agent adopts a claim given how ma",
+      "url": "https://arxiv.org/abs/2610.02654",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
