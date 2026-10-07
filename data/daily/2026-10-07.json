@@ -1,0 +1,244 @@
+{
+  "date": "2026-10-07",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-10-07 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
+      "summary": "arXiv:2610.06910v1 Announce Type: new \nAbstract: Recent advances in Large Language Models (LLMs) have demonstrated remarkable capabilities in web front-end execution, with browser-based game generation emerging as a particularly prominent frontier. While previous efforts frequently rely on complex m",
+      "url": "https://arxiv.org/abs/2610.06910",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterprise DataBrain",
+      "summary": "arXiv:2610.06914v1 Announce Type: new \nAbstract: Text2Dashboard is a DataBrain-specific prototype that turns natural-language analytic requests into inspectable dashboards. An installable Codex plugin and standalone Agent Runtime combine schema-constrained model decisions with typed tools, persisten",
+      "url": "https://arxiv.org/abs/2610.06914",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "FluidPD: In-Place Elasticity for SLO-Aware Prefill-Decode Disaggregated LLM Serving",
+      "summary": "arXiv:2610.06917v1 Announce Type: new \nAbstract: Prefill-decode disaggregation is becoming a common architecture for LLM serving because it separates two phases with distinct execution patterns and SLO objectives. Existing systems typically combine a fixed prefill/decode worker ratio with request ro",
+      "url": "https://arxiv.org/abs/2610.06917",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Anchor Divergence for Semantic Geometry in Contrastive Learning",
+      "summary": "arXiv:2610.06919v1 Announce Type: new \nAbstract: This paper concerns how semantic context determines geometry in learned vector representations. Similarity is typically measured using cosine similarity, which provides a single fixed geometry. Semantic similarity, however, is inherently context depen",
+      "url": "https://arxiv.org/abs/2610.06919",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "AegisFlow: A Multi-Agent Agentic AI Framework for Autonomous Remediation and Self-Healing in Fragile Data Ecosystems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.06971"
+        },
+        {
+          "title": "Disentangling Models from Personas in Heterogeneous LLM Simulations",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.07535"
+        },
+        {
+          "title": "Independent Multi-Agent Reinforcement Learning with Counterfactual Semantic-Social World Models",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.07704"
+        },
+        {
+          "title": "Token-Efficient Multi-Agent Collaboration via System One-Guided Computational Division of Labor",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.08155"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterprise DataBrain",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.06914"
+        },
+        {
+          "title": "Visual Orchestration Tax in Agentic VLM Pipelines: Auditing and Certifying Visual Evidence Reuse",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.08170"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Joint Workflow and Prompt Optimization for User Behavior Simulation",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.07663"
+        },
+        {
+          "title": "DIBench: Benchmarking Decision Integrity of GUI-based Mobile Agents Under Deceptive Injections",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.06898"
+        }
+      ]
+    }
+  ],
+  "oss": [],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
+      "summary": "arXiv:2610.06910v1 Announce Type: new \nAbstract: Recent advances in Large Language Models (LLMs) have demonstrated remarkable capabilities in web front-end execution, with browser-based game generation emerging as a particularly prominent frontier. While previous efforts frequently rely on complex m",
+      "url": "https://arxiv.org/abs/2610.06910",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterprise DataBrain",
+      "summary": "arXiv:2610.06914v1 Announce Type: new \nAbstract: Text2Dashboard is a DataBrain-specific prototype that turns natural-language analytic requests into inspectable dashboards. An installable Codex plugin and standalone Agent Runtime combine schema-constrained model decisions with typed tools, persisten",
+      "url": "https://arxiv.org/abs/2610.06914",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "FluidPD: In-Place Elasticity for SLO-Aware Prefill-Decode Disaggregated LLM Serving",
+      "summary": "arXiv:2610.06917v1 Announce Type: new \nAbstract: Prefill-decode disaggregation is becoming a common architecture for LLM serving because it separates two phases with distinct execution patterns and SLO objectives. Existing systems typically combine a fixed prefill/decode worker ratio with request ro",
+      "url": "https://arxiv.org/abs/2610.06917",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Anchor Divergence for Semantic Geometry in Contrastive Learning",
+      "summary": "arXiv:2610.06919v1 Announce Type: new \nAbstract: This paper concerns how semantic context determines geometry in learned vector representations. Similarity is typically measured using cosine similarity, which provides a single fixed geometry. Semantic similarity, however, is inherently context depen",
+      "url": "https://arxiv.org/abs/2610.06919",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway",
+      "summary": "arXiv:2610.06923v1 Announce Type: new \nAbstract: Artificial intelligence has advanced individual radiotherapy tasks, yet these capabilities remain separated across clinical stages, software environments and data modalities. This fragmentation contrasts with the longitudinal radiotherapy workflow fro",
+      "url": "https://arxiv.org/abs/2610.06923",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Metonymic Circuits for Abstract Concept Grounding in Vision Transformers",
+      "summary": "arXiv:2610.06928v1 Announce Type: new \nAbstract: We study how Vision Transformers ground abstract concepts (e.g., angry) when training data provide limited direct referential evidence. We hypothesize a metonymic grounding mechanism in which abstract predictions are driven by concrete, interpretable",
+      "url": "https://arxiv.org/abs/2610.06928",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Principles that Guide, Actions that Inform: Agent Evolution via Knowledge Abstraction",
+      "summary": "arXiv:2610.06964v1 Announce Type: new \nAbstract: Large language model (LLM) agents have demonstrated strong capabilities in interactive environments, yet their ability to continually evolve from experience remains limited. Although fine-tuning enables adaptation, its dependence on parameter access a",
+      "url": "https://arxiv.org/abs/2610.06964",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "AegisFlow: A Multi-Agent Agentic AI Framework for Autonomous Remediation and Self-Healing in Fragile Data Ecosystems",
+      "summary": "arXiv:2610.06971v1 Announce Type: new \nAbstract: Traditional data pipelines are notoriously brittle, often failing due to upstream schema drift, API contract changes, or website DOM modifications. Present observability tools only raise alerts but for human engineers, resulting in a high Mean Time to",
+      "url": "https://arxiv.org/abs/2610.06971",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Disentangling Models from Personas in Heterogeneous LLM Simulations",
+      "summary": "arXiv:2610.07535v1 Announce Type: new \nAbstract: Multi-agent simulations with large language models (LLMs) often operate networks of agents with a single base model. This overlooks the inter-model effects which may dominate engagement dynamics in real-world deployments. To show this, we simulate a h",
+      "url": "https://arxiv.org/abs/2610.07535",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Joint Workflow and Prompt Optimization for User Behavior Simulation",
+      "summary": "arXiv:2610.07663v1 Announce Type: new \nAbstract: User behavior simulation is the computational modeling of user interactions within information systems through the use of simulated agents in place of live users. It supports system testing and evaluation, decision-making and forecasting, and user exp",
+      "url": "https://arxiv.org/abs/2610.07663",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Independent Multi-Agent Reinforcement Learning with Counterfactual Semantic-Social World Models",
+      "summary": "arXiv:2610.07704v1 Announce Type: new \nAbstract: Fully decentralized multi-agent reinforcement learning (MARL), also referred to as independent learning, requires each agent to learn and act using only its local information and experience, without a centralized critic or inter-agent communication. S",
+      "url": "https://arxiv.org/abs/2610.07704",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Token-Efficient Multi-Agent Collaboration via System One-Guided Computational Division of Labor",
+      "summary": "arXiv:2610.08155v1 Announce Type: new \nAbstract: Large language model (LLM)-based multi-agent systems (MAS) have become a promising paradigm for complex information-seeking and reasoning tasks by enabling collaborative problem solving among specialized agents. However, existing MAS frameworks tightl",
+      "url": "https://arxiv.org/abs/2610.08155",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Visual Orchestration Tax in Agentic VLM Pipelines: Auditing and Certifying Visual Evidence Reuse",
+      "summary": "arXiv:2610.08170v1 Announce Type: new \nAbstract: Agentic VLM pipelines increasingly pass the same static visual evidence through multiple specialist agents and tools. This design creates an orchestration-level redundancy mode: semantically unchanged images are repeatedly reconstructed as image-condi",
+      "url": "https://arxiv.org/abs/2610.08170",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Axiom Satisfiability of Linear Rewards in Alignment",
+      "summary": "arXiv:2610.06892v1 Announce Type: cross \nAbstract: Learning from human preference data is the dominant route to aligning language models with human values. In linear social choice, where rewards are linear in a fixed feature representation of prompt-response pairs, Ge et al.[2024] show that fitting",
+      "url": "https://arxiv.org/abs/2610.06892",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "DIBench: Benchmarking Decision Integrity of GUI-based Mobile Agents Under Deceptive Injections",
+      "summary": "arXiv:2610.06898v1 Announce Type: cross \nAbstract: As GUI-based mobile agents rapidly progress, rigorous safety evaluation of their autonomous decision-making in realistic app interfaces becomes increasingly critical. Existing benchmarks mainly focus on execution-level anomalies using task success o",
+      "url": "https://arxiv.org/abs/2610.06898",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "When Robots Crash: Optimal Asynchronous Gathering at Weber Meeting Nodes",
+      "summary": "arXiv:2610.06939v1 Announce Type: cross \nAbstract: We study the \\textit{optimal gathering} problem over a finite set of designated \\textit{meeting nodes} for \\textit{asynchronous, anonymous,} and \\textit{oblivious} mobile robots on an infinite grid under crash faults. The robots have global visibili",
+      "url": "https://arxiv.org/abs/2610.06939",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
