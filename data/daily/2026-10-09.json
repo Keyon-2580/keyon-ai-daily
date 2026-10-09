@@ -1,0 +1,239 @@
+{
+  "date": "2026-10-09",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-10-09 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
+      "summary": "arXiv:2610.10541v1 Announce Type: new \nAbstract: Knowledge Graph (KG) quality depends not only on downstream graph validation, but also on the quality of tabular metadata used before integration. In metadata-only Semantic Table Interpretation (STI), where cell values are unavailable, noisy, or unsui",
+      "url": "https://arxiv.org/abs/2610.10541",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
+      "summary": "arXiv:2610.10549v1 Announce Type: new \nAbstract: Tool-calling agents have become central to enterprise AI, yet training and evaluating them at scale remains severely constrained due to business and legal restrictions on enterprise systems, data, and database schemas. Tabular data synthesis offers a",
+      "url": "https://arxiv.org/abs/2610.10549",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
+      "summary": "arXiv:2610.10590v1 Announce Type: new \nAbstract: Tool-using agents repeatedly carry observations whose useful content can be much smaller than their original payload. We study agent-controlled forgetting: the acting model selects previously observed tool results, replaces each with a short note at i",
+      "url": "https://arxiv.org/abs/2610.10590",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
+      "summary": "arXiv:2610.10611v1 Announce Type: new \nAbstract: Agentic AI systems can improve by searching longer, receiving additional support, or modifying how they propose and verify outputs. A performance score does not distinguish these mechanisms. We compare these changes through bounded verification with h",
+      "url": "https://arxiv.org/abs/2610.10611",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": [
+        {
+          "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.10611"
+        },
+        {
+          "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.10629"
+        }
+      ]
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Spatial Pattern Formation from Multi-Agent Learning in Public Goods Dilemmas",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.12321"
+        },
+        {
+          "title": "Mental-Models for Multi-Agent Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.12453"
+        },
+        {
+          "title": "RFChipAgent: Multi-Agentic AI Flow for Analog/RF Chip Design",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.10858"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "Plan-and-Patch: Diffusion Language Models for Agentic Planning",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.10786"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.10549"
+        }
+      ]
+    }
+  ],
+  "oss": [],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
+      "summary": "arXiv:2610.10541v1 Announce Type: new \nAbstract: Knowledge Graph (KG) quality depends not only on downstream graph validation, but also on the quality of tabular metadata used before integration. In metadata-only Semantic Table Interpretation (STI), where cell values are unavailable, noisy, or unsui",
+      "url": "https://arxiv.org/abs/2610.10541",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
+      "summary": "arXiv:2610.10549v1 Announce Type: new \nAbstract: Tool-calling agents have become central to enterprise AI, yet training and evaluating them at scale remains severely constrained due to business and legal restrictions on enterprise systems, data, and database schemas. Tabular data synthesis offers a",
+      "url": "https://arxiv.org/abs/2610.10549",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
+      "summary": "arXiv:2610.10590v1 Announce Type: new \nAbstract: Tool-using agents repeatedly carry observations whose useful content can be much smaller than their original payload. We study agent-controlled forgetting: the acting model selects previously observed tool results, replaces each with a short note at i",
+      "url": "https://arxiv.org/abs/2610.10590",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
+      "summary": "arXiv:2610.10611v1 Announce Type: new \nAbstract: Agentic AI systems can improve by searching longer, receiving additional support, or modifying how they propose and verify outputs. A performance score does not distinguish these mechanisms. We compare these changes through bounded verification with h",
+      "url": "https://arxiv.org/abs/2610.10611",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
+      "summary": "arXiv:2610.10629v1 Announce Type: new \nAbstract: Self-improving LLM agents can adapt a credit pipeline to a changed rule, but an agent that rewrites itself destroys the artefact a supervisor reviews: a named change, a recorded test, an approval. We argue that self-evolution is reviewable only if it",
+      "url": "https://arxiv.org/abs/2610.10629",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents",
+      "summary": "arXiv:2610.10635v1 Announce Type: new \nAbstract: Aerial vision-and-language navigation (VLN) agents are typically trained on detail-rich, trajectory-aligned commands, whereas users issue short, intent-driven instructions; on a frozen OpenFly navigator, this \\emph{instruction gap} drops success rate",
+      "url": "https://arxiv.org/abs/2610.10635",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Plan-and-Patch: Diffusion Language Models for Agentic Planning",
+      "summary": "arXiv:2610.10786v1 Announce Type: new \nAbstract: Planning is increasingly important for long-horizon agents, where successful execution requires coordinating subgoals, tool use, and intermediate outcomes over many steps. Yet assumptions made during planning may be invalidated by the environment, too",
+      "url": "https://arxiv.org/abs/2610.10786",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Whose Ground Truth? Embracing Ambiguity in Human-Centered AI",
+      "summary": "arXiv:2610.10805v1 Announce Type: new \nAbstract: As AI systems increasingly interact with people and make decisions about them, understanding human interpretations becomes an important part of developing human-centered AI. Conventional machine learning and AI systems are largely developed under the",
+      "url": "https://arxiv.org/abs/2610.10805",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Decentralized collaborative continual learning: A multi-objective minimization-based technique",
+      "summary": "arXiv:2610.10882v1 Announce Type: new \nAbstract: In this work, we formulate decentralized continual learning within a multi-objective optimization framework. For a given inference task t (corresponding to a common minimizer shared by the cost functions of all agents), agents collecting data in a dis",
+      "url": "https://arxiv.org/abs/2610.10882",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Personalization Matters: Long-Horizon Conversation Agent with User-Centric Information in Online Shopping Interactions",
+      "summary": "arXiv:2610.11375v1 Announce Type: new \nAbstract: Personalized conversational shopping requires maintaining preference consistency over multi-turn interactions, where users reveal constraints gradually. Existing approaches often rely on static profiles and do not explicitly control long-horizon inter",
+      "url": "https://arxiv.org/abs/2610.11375",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "ConventionPlay: Capability-Limited Training for Robust Ad-Hoc Collaboration",
+      "summary": "arXiv:2610.11842v1 Announce Type: new \nAbstract: Ad-hoc collaboration often requires agents to identify and adhere to some shared convention within a cooperative task. Existing work on reinforcement learning (RL) for ad-hoc collaboration focuses on training agents that adapt to the conventions estab",
+      "url": "https://arxiv.org/abs/2610.11842",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Spatial Pattern Formation from Multi-Agent Learning in Public Goods Dilemmas",
+      "summary": "arXiv:2610.12321v1 Announce Type: new \nAbstract: Spatial public goods models show that prescribed movement toward richer locations can generate spatial patterns. We ask how such patterns emerge when agents learn where to move and how learning rates shape their consequences for collective welfare. Fi",
+      "url": "https://arxiv.org/abs/2610.12321",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Mental-Models for Multi-Agent Systems",
+      "summary": "arXiv:2610.12453v1 Announce Type: new \nAbstract: Large foundation models have accelerated progress toward general-purpose agents that interact with humans and other agents through language and multimodal signals. However, robust multi-agent decision-making requires reasoning about what other agents",
+      "url": "https://arxiv.org/abs/2610.12453",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "From Investigation Failures to Reliable SOC Agents: Understanding and Improving LLM-Based Alert Triage",
+      "summary": "arXiv:2610.10608v1 Announce Type: cross \nAbstract: Security operations centers (SOCs) must triage large volumes of alerts, most of which are benign, while missed attacks can remain uninvestigated. Tool-using large language model (LLM) agents can retrieve evidence during triage, but it remains unclea",
+      "url": "https://arxiv.org/abs/2610.10608",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "RFChipAgent: Multi-Agentic AI Flow for Analog/RF Chip Design",
+      "summary": "arXiv:2610.10858v1 Announce Type: cross \nAbstract: Analog/RF circuits remain the critical interface between digital computation and the physical world, and emerging standards from Wi-Fi 7 to 6G place stringent demands on them, yet analog/RF design remains one of the most labor-intensive steps in chi",
+      "url": "https://arxiv.org/abs/2610.10858",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Reading the Room: Foundations, Design, and Challenges of Normative Competence in LLMs",
+      "summary": "arXiv:2610.10906v1 Announce Type: cross \nAbstract: Human communities are governed by normative systems: shared standards that produce \\textit{norms} dictating acceptable behavior, enforced through community sanctioning. Aligning increasingly autonomous AI systems with these norms is a central alignm",
+      "url": "https://arxiv.org/abs/2610.10906",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
