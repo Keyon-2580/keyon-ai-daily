@@ -1,0 +1,384 @@
+{
+  "date": "2026-10-15",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-10-15 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Barista: Synthesizing Typestate Specifications with LLM Agents",
+      "summary": "Article URL: https://catarinagamboa.github.io/papers/barista/\nComments URL: https://news.ycombinator.com/item?id=50099465\nPoints: 1\n# Comments: 0",
+      "url": "https://catarinagamboa.github.io/papers/barista/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Agent Observability on the Claude Platform",
+      "summary": "Article URL: https://claude.com/resources/articles/agent-observability-on-the-claude-platform\nComments URL: https://news.ycombinator.com/item?id=50099105\nPoints: 1\n# Comments: 0",
+      "url": "https://claude.com/resources/articles/agent-observability-on-the-claude-platform",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Agent identity is a really hard problem",
+      "summary": "Article URL: https://12gramsofcarbon.com/p/agentics-agent-identity-is-a-really\nComments URL: https://news.ycombinator.com/item?id=50098626\nPoints: 1\n# Comments: 0",
+      "url": "https://12gramsofcarbon.com/p/agentics-agent-identity-is-a-really",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Five Possible Backdoors into LLM Search Results",
+      "summary": "Article URL: https://www.unite.ai/five-possible-back-doors-into-llm-search-results/\nComments URL: https://news.ycombinator.com/item?id=50098493\nPoints: 1\n# Comments: 0",
+      "url": "https://www.unite.ai/five-possible-back-doors-into-llm-search-results/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
+      "summary": "arXiv:2610.14005v1 Announce Type: new \nAbstract: Under the accelerated pace of AI development, any benchmark whose difficulty is calibrated with humans or current AI systems becomes circular, or saturates soon. How can we then evaluate machines that may become more capable than the current machines",
+      "url": "https://arxiv.org/abs/2610.14005",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "The Silent Failures in Agentic Data Science",
+      "summary": "arXiv:2610.14115v1 Announce Type: new \nAbstract: Large language models have significantly lowered the barrier to writing code. Naturally, this has also led to the development of data science agents that promise automating the design and execution of data science from task formulation to model develo",
+      "url": "https://arxiv.org/abs/2610.14115",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
+      "summary": "arXiv:2610.14118v1 Announce Type: new \nAbstract: The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness environments, where LLM-based agents operate in sandbox workspaces and interact directly with file systems and shells. While numerous post",
+      "url": "https://arxiv.org/abs/2610.14118",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Correction Training for Diffusion Models",
+      "summary": "arXiv:2610.14136v2 Announce Type: new \nAbstract: Iterative sampling in diffusion models can lead to error accumulation due to exposure bias. The denoiser is trained on real images interpolated with noise, but at inference its inputs are constructed from its own imperfect predictions from the earlier",
+      "url": "https://arxiv.org/abs/2610.14136",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": [
+        {
+          "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.14118"
+        },
+        {
+          "title": "XferAgent: Cross-Agent Experience Transfer for Self-Improving LLM Agents",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.19581"
+        }
+      ]
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "CLASHarness: Benchmarking Multi-Agent Conflict in Computer Use via a Controllable and Verifiable Generation Pipeline",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.19128"
+        },
+        {
+          "title": "Why Do Agent Teams Fail Across Boundaries? A Failure Taxonomy for Agent-to-Agent Systems with Private States",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.19342"
+        },
+        {
+          "title": "When Extremists Enter LLM Societies: Investigating Extreme Behavior in Multi-Agent Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.19863"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "Agent identity is a really hard problem",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://12gramsofcarbon.com/p/agentics-agent-identity-is-a-really"
+        },
+        {
+          "title": "The Silent Failures in Agentic Data Science",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.14115"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Agent Observability on the Claude Platform",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://claude.com/resources/articles/agent-observability-on-the-claude-platform"
+        },
+        {
+          "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.14005"
+        },
+        {
+          "title": "Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.14146"
+        },
+        {
+          "title": "VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.14149"
+        },
+        {
+          "title": "One Agent per Zone: Decentralised Active Inference under Partial Observability for Multi-Zone HVAC Control on Edge Hardware",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.19790"
+        },
+        {
+          "title": "From Training to Escalation: Forensic Analysis and Local Recreation of RL/RLHF-Induced Privilege Escalation in AI Agents (CVE-2026-65616)",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.20437"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "Barista: Synthesizing Typestate Specifications with LLM Agents",
+      "summary": "Article URL: https://catarinagamboa.github.io/papers/barista/\nComments URL: https://news.ycombinator.com/item?id=50099465\nPoints: 1\n# Comments: 0",
+      "url": "https://catarinagamboa.github.io/papers/barista/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Agent Observability on the Claude Platform",
+      "summary": "Article URL: https://claude.com/resources/articles/agent-observability-on-the-claude-platform\nComments URL: https://news.ycombinator.com/item?id=50099105\nPoints: 1\n# Comments: 0",
+      "url": "https://claude.com/resources/articles/agent-observability-on-the-claude-platform",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Agent identity is a really hard problem",
+      "summary": "Article URL: https://12gramsofcarbon.com/p/agentics-agent-identity-is-a-really\nComments URL: https://news.ycombinator.com/item?id=50098626\nPoints: 1\n# Comments: 0",
+      "url": "https://12gramsofcarbon.com/p/agentics-agent-identity-is-a-really",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Five Possible Backdoors into LLM Search Results",
+      "summary": "Article URL: https://www.unite.ai/five-possible-back-doors-into-llm-search-results/\nComments URL: https://news.ycombinator.com/item?id=50098493\nPoints: 1\n# Comments: 0",
+      "url": "https://www.unite.ai/five-possible-back-doors-into-llm-search-results/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "The Verifiability Gap in Quantized LLM Supply Chains",
+      "summary": "Article URL: https://arxiv.org/abs/2610.19498\nComments URL: https://news.ycombinator.com/item?id=50098319\nPoints: 1\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2610.19498",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Open-source LLM trading bots vs. the government bond, on paper money",
+      "summary": "Article URL: https://blueprintau.com/knives/\nComments URL: https://news.ycombinator.com/item?id=50097607\nPoints: 1\n# Comments: 0",
+      "url": "https://blueprintau.com/knives/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Things we wish we'd known before building an AI chat agent",
+      "summary": "Article URL: https://trigger.dev/blog/seven-tips-for-building-better-chat-agents\nComments URL: https://news.ycombinator.com/item?id=50096863\nPoints: 3\n# Comments: 0",
+      "url": "https://trigger.dev/blog/seven-tips-for-building-better-chat-agents",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "A friend of mine built an agent-first group chat/social network",
+      "summary": "Article URL: https://lamoom.com/\nComments URL: https://news.ycombinator.com/item?id=50096749\nPoints: 4\n# Comments: 4",
+      "url": "https://lamoom.com/",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [
+    {
+      "title": "Anthropic's Scion is heavily inspired by Mononoke",
+      "summary": "Article URL: https://sunshowers.io/posts/anthropic-mononoke/\nComments URL: https://news.ycombinator.com/item?id=50094694\nPoints: 330\n# Comments: 123",
+      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "research": [
+    {
+      "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
+      "summary": "arXiv:2610.14005v1 Announce Type: new \nAbstract: Under the accelerated pace of AI development, any benchmark whose difficulty is calibrated with humans or current AI systems becomes circular, or saturates soon. How can we then evaluate machines that may become more capable than the current machines",
+      "url": "https://arxiv.org/abs/2610.14005",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "The Silent Failures in Agentic Data Science",
+      "summary": "arXiv:2610.14115v1 Announce Type: new \nAbstract: Large language models have significantly lowered the barrier to writing code. Naturally, this has also led to the development of data science agents that promise automating the design and execution of data science from task formulation to model develo",
+      "url": "https://arxiv.org/abs/2610.14115",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
+      "summary": "arXiv:2610.14118v1 Announce Type: new \nAbstract: The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness environments, where LLM-based agents operate in sandbox workspaces and interact directly with file systems and shells. While numerous post",
+      "url": "https://arxiv.org/abs/2610.14118",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Correction Training for Diffusion Models",
+      "summary": "arXiv:2610.14136v2 Announce Type: new \nAbstract: Iterative sampling in diffusion models can lead to error accumulation due to exposure bias. The denoiser is trained on real images interpolated with noise, but at inference its inputs are constructed from its own imperfect predictions from the earlier",
+      "url": "https://arxiv.org/abs/2610.14136",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress",
+      "summary": "arXiv:2610.14146v1 Announce Type: new \nAbstract: Long-horizon terminal benchmarks measure whether an agent can sustain progress through extended workflows with process rewards, not only whether its final state passes a binary check. We present Long-Horizon-Terminal-Bench 2.0 (LHTB 2.0), an extension",
+      "url": "https://arxiv.org/abs/2610.14146",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation",
+      "summary": "arXiv:2610.14149v1 Announce Type: new \nAbstract: VETNET represents an ecosystem of live benchmark datasets and evaluation frameworks designed to accelerate AI-driven innovation in animal science and veterinary medicine through standardized, high-quality datasets and multi-institutional collaboration",
+      "url": "https://arxiv.org/abs/2610.14149",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Unconstrained CTI-REALM with Open-Weights",
+      "summary": "arXiv:2610.14180v1 Announce Type: new \nAbstract: Organisations that want language-model agents for security work face a choice between open-weight models, which they can run and audit themselves, and far more expensive closed frontier models. We study that choice on CTI-REALM (arXiv:2603.13517), a b",
+      "url": "https://arxiv.org/abs/2610.14180",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Visualizing the World Model in an Agent's Value Function",
+      "summary": "arXiv:2610.14186v1 Announce Type: new \nAbstract: Could model-free reinforcement learning algorithms actually be learning a model of the environment? In this work, we apply counterfactual interventions which hold everything about a state fixed, besides a targeted change, to explore if the value funct",
+      "url": "https://arxiv.org/abs/2610.14186",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "CLASHarness: Benchmarking Multi-Agent Conflict in Computer Use via a Controllable and Verifiable Generation Pipeline",
+      "summary": "arXiv:2610.19128v1 Announce Type: new \nAbstract: Vision-language models (VLMs) are increasingly deployed in multi-agent systems to automate complex computer-use workflows, yet existing benchmarks mostly assume consistent, cooperative environments. In contrast, real-world collaboration rarely runs on",
+      "url": "https://arxiv.org/abs/2610.19128",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Why Do Agent Teams Fail Across Boundaries? A Failure Taxonomy for Agent-to-Agent Systems with Private States",
+      "summary": "arXiv:2610.19342v1 Announce Type: new \nAbstract: Agents are increasingly interacting with other agents that act for different principals -- people or organizations on whose behalf they work -- e.g., a buyer's personal agent negotiating with an enterprise's seller agent. In such agent-to-agent (A2A)",
+      "url": "https://arxiv.org/abs/2610.19342",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "XferAgent: Cross-Agent Experience Transfer for Self-Improving LLM Agents",
+      "summary": "arXiv:2610.19581v1 Announce Type: new \nAbstract: Large language model (LLM) agents can reuse experience from prior task executions to improve performance on subsequent tasks. Although existing methods enable cross-agent experience sharing, differences in agents' execution histories and task requirem",
+      "url": "https://arxiv.org/abs/2610.19581",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Exact Cut Complexity of Equal-Length Proportional Cake Cutting",
+      "summary": "arXiv:2610.19733v1 Announce Type: new \nAbstract: We study proportional cake cutting under an equal-length constraint, where each of $n$ agents must receive a bundle of length exactly $1/n$ that is worth at least $1/n$ to that agent. Our main result determines the exact worst-case number of cuts need",
+      "url": "https://arxiv.org/abs/2610.19733",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "One Agent per Zone: Decentralised Active Inference under Partial Observability for Multi-Zone HVAC Control on Edge Hardware",
+      "summary": "arXiv:2610.19790v1 Announce Type: new \nAbstract: Multi-zone HVAC control is a shared-resource problem: zones on a floor share one fan and cooling coil, so each zone's demand affects its neighbours and the building's peak power. One controller per zone scales well and isolates faults, but each contro",
+      "url": "https://arxiv.org/abs/2610.19790",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "When Extremists Enter LLM Societies: Investigating Extreme Behavior in Multi-Agent Systems",
+      "summary": "arXiv:2610.19863v1 Announce Type: new \nAbstract: Large language model (LLM) agents increasingly serve as computational actors in multi-agent social simulations. While existing work emphasizes representative personas and average-case behavior, social science shows that persistent tail actors can disp",
+      "url": "https://arxiv.org/abs/2610.19863",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "From Training to Escalation: Forensic Analysis and Local Recreation of RL/RLHF-Induced Privilege Escalation in AI Agents (CVE-2026-65616)",
+      "summary": "arXiv:2610.20437v1 Announce Type: new \nAbstract: Mid-2026 reporting on autonomous AI evaluation incidents claimed that frontier large language model (LLM) agents escaped server containment through emergent coordination and cloud infrastructure attacks. This paper contextualizes those claims through",
+      "url": "https://arxiv.org/abs/2610.20437",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "CIPHEUR: LLM-Guided Structural Search Control for Conflict-Graph Optimization",
+      "summary": "arXiv:2610.16158v1 Announce Type: cross \nAbstract: Conflict-graph search can stagnate despite effective operators when interventions fail to address the conflicts blocking progress. A disruptive intervention may also require further search before its value emerges. We propose CIPHEUR, a large langua",
+      "url": "https://arxiv.org/abs/2610.16158",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
