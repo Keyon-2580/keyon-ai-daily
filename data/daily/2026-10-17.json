@@ -1,0 +1,151 @@
+{
+  "date": "2026-10-17",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-10-17 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "EPGM: Execution Provenance for Budgeted Agent Memory Retrieval",
+      "summary": "Article URL: https://arxiv.org/abs/2609.25913\nComments URL: https://news.ycombinator.com/item?id=50128159\nPoints: 1\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2609.25913",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Adversarial stress-testing of long-horizon multi-agent systems",
+      "summary": "Article URL: https://arxiv.org/abs/2609.17320\nComments URL: https://news.ycombinator.com/item?id=50128139\nPoints: 1\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2609.17320",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "summary": "Article URL: https://llmspeed.dev/\nComments URL: https://news.ycombinator.com/item?id=50127979\nPoints: 2\n# Comments: 0",
+      "url": "https://llmspeed.dev/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: AI agent follows instructions you never approved",
+      "summary": "Article URL: https://github.com/Paraphern/rugsnare/blob/main/docs/blog/2026-10-17-mcp-contract-drift.md\nComments URL: https://news.ycombinator.com/item?id=50127659\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/Paraphern/rugsnare/blob/main/docs/blog/2026-10-17-mcp-contract-drift.md",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Adversarial stress-testing of long-horizon multi-agent systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://arxiv.org/abs/2609.17320"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": []
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "EPGM: Execution Provenance for Budgeted Agent Memory Retrieval",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://arxiv.org/abs/2609.25913"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "EPGM: Execution Provenance for Budgeted Agent Memory Retrieval",
+      "summary": "Article URL: https://arxiv.org/abs/2609.25913\nComments URL: https://news.ycombinator.com/item?id=50128159\nPoints: 1\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2609.25913",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Adversarial stress-testing of long-horizon multi-agent systems",
+      "summary": "Article URL: https://arxiv.org/abs/2609.17320\nComments URL: https://news.ycombinator.com/item?id=50128139\nPoints: 1\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2609.17320",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "summary": "Article URL: https://llmspeed.dev/\nComments URL: https://news.ycombinator.com/item?id=50127979\nPoints: 2\n# Comments: 0",
+      "url": "https://llmspeed.dev/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: AI agent follows instructions you never approved",
+      "summary": "Article URL: https://github.com/Paraphern/rugsnare/blob/main/docs/blog/2026-10-17-mcp-contract-drift.md\nComments URL: https://news.ycombinator.com/item?id=50127659\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/Paraphern/rugsnare/blob/main/docs/blog/2026-10-17-mcp-contract-drift.md",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "ESP32 iPhone Agent",
+      "summary": "Article URL: https://github.com/onehumanbeing/esp32-iphone-agent\nComments URL: https://news.ycombinator.com/item?id=50126706\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Agent Cyber Sentinel: Zero-trust runtime security shield for AI agents",
+      "summary": "Article URL: https://github.com/BenniAlencar/agent-cyber-sentinel\nComments URL: https://news.ycombinator.com/item?id=50126612\nPoints: 3\n# Comments: 0",
+      "url": "https://github.com/BenniAlencar/agent-cyber-sentinel",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Give Your Python Agent Memory in Ten Lines",
+      "summary": "Article URL: https://memanto.ai/blog/give-your-python-agent-memory\nComments URL: https://news.ycombinator.com/item?id=50125344\nPoints: 1\n# Comments: 0",
+      "url": "https://memanto.ai/blog/give-your-python-agent-memory",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "AI Agent Hacked into Crypto Wallet and Stole Funds, OpenAI Says",
+      "summary": "Article URL: https://gizmodo.com/ai-agent-hacked-into-crypto-wallet-and-stole-funds-openai-says-2000826980\nComments URL: https://news.ycombinator.com/item?id=50125290\nPoints: 4\n# Comments: 0",
+      "url": "https://gizmodo.com/ai-agent-hacked-into-crypto-wallet-and-stole-funds-openai-says-2000826980",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [],
+  "research": [],
+  "china": []
+}
