@@ -1,0 +1,354 @@
+{
+  "date": "2026-10-21",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-10-21 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Using LLM for confidence scoring is a bad idea",
+      "summary": "Article URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html\nComments URL: https://news.ycombinator.com/item?id=50176082\nPoints: 2\n# Comments: 0",
+      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Agent Manager by HF",
+      "summary": "Article URL: https://github.com/huggingface/agent-manager\nComments URL: https://news.ycombinator.com/item?id=50175964\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/huggingface/agent-manager",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Your LLM is probably overkill for text classification",
+      "summary": "Article URL: https://jeffyclassify.com/blog/jeffy-vs-llm-classification/\nComments URL: https://news.ycombinator.com/item?id=50175649\nPoints: 2\n# Comments: 0",
+      "url": "https://jeffyclassify.com/blog/jeffy-vs-llm-classification/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: acplause – An ACP agent for OpenAI-compatible APIs",
+      "summary": "Article URL: https://github.com/anesthetised/acplause\nComments URL: https://news.ycombinator.com/item?id=50175258\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/anesthetised/acplause",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
+      "summary": "arXiv:2610.26887v1 Announce Type: new \nAbstract: Large language model (LLM) agents are evolving from conversational assistants into Cowork Agents capable of autonomous planning, tool use, and complex task execution. Financial analysis requires these agents to integrate cross-document evidence and pe",
+      "url": "https://arxiv.org/abs/2610.26887",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Large language model and reinforcement learning based autonomous construction and progress updates",
+      "summary": "arXiv:2610.26899v1 Announce Type: new \nAbstract: Due to the rapid growth of the global population, traditional construction methods are gradually unable to meet the current housing demand. The advancement of machine learning algorithms has encouraged researchers to explore their applications in the",
+      "url": "https://arxiv.org/abs/2610.26899",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Pareto-Optimal RTL Code Generation via Multi-Objective Reinforcement Learning with Large Language Models",
+      "summary": "arXiv:2610.26904v1 Announce Type: new \nAbstract: Recent studies have proposed reinforcement learning with verifiable rewards (RLVR) methods that enable LLMs to generate high-quality RTL circuits from natural-language specifications. Existing approaches optimize circuit PPA (Power, Performance, Area)",
+      "url": "https://arxiv.org/abs/2610.26904",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring",
+      "summary": "arXiv:2610.26913v1 Announce Type: new \nAbstract: The adoption of Large Language Models for radiology report structuring has been largely dominated by either proprietary cloud-based models or large open models requiring high-end GPUs for deployment, which is a critical bottleneck for clinical adoptio",
+      "url": "https://arxiv.org/abs/2610.26913",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.26943"
+        },
+        {
+          "title": "Complete Street Design informed by Multi-Agent Simulation",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.27509"
+        },
+        {
+          "title": "S$^2$-MAS: A Society-Scale Multi-Agent Simulation Framework with 500 Million Household Persona Agents",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.27746"
+        },
+        {
+          "title": "Does Multi-Agent Collaboration Pay When Agents Serve Users? Testing Agent Scaling in Dual-Control Settings",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.27655"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.26913"
+        },
+        {
+          "title": "Industrial Agentic AI: LLM-Driven New-Generation Agents for Smart Manufacturing",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.26941"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "WaveCommitments: Private and Verifiable Speech-Agent Marketplaces",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.26867"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "Using LLM for confidence scoring is a bad idea",
+      "summary": "Article URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html\nComments URL: https://news.ycombinator.com/item?id=50176082\nPoints: 2\n# Comments: 0",
+      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Agent Manager by HF",
+      "summary": "Article URL: https://github.com/huggingface/agent-manager\nComments URL: https://news.ycombinator.com/item?id=50175964\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/huggingface/agent-manager",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Your LLM is probably overkill for text classification",
+      "summary": "Article URL: https://jeffyclassify.com/blog/jeffy-vs-llm-classification/\nComments URL: https://news.ycombinator.com/item?id=50175649\nPoints: 2\n# Comments: 0",
+      "url": "https://jeffyclassify.com/blog/jeffy-vs-llm-classification/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: acplause – An ACP agent for OpenAI-compatible APIs",
+      "summary": "Article URL: https://github.com/anesthetised/acplause\nComments URL: https://news.ycombinator.com/item?id=50175258\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/anesthetised/acplause",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Running Agent Factory for Months",
+      "summary": "Article URL: https://medium.com/@deemwar/who-watches-the-agents-what-four-months-of-building-an-agent-factory-taught-us-e8855db9ea0a\nComments URL: https://news.ycombinator.com/item?id=50175060\nPoints: 1\n# Comments: 0",
+      "url": "https://medium.com/@deemwar/who-watches-the-agents-what-four-months-of-building-an-agent-factory-taught-us-e8855db9ea0a",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Agentitter – a tiny plain-text social network you use through your AI agent",
+      "summary": "Article URL: https://agentitter.com/\nComments URL: https://news.ycombinator.com/item?id=50174971\nPoints: 2\n# Comments: 0",
+      "url": "https://agentitter.com/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: Spotnote – click an element, hand your coding agent its file:line",
+      "summary": "Article URL: https://github.com/harukikuri/spotnote\nComments URL: https://news.ycombinator.com/item?id=50174861\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/harukikuri/spotnote",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Agent Economics: Who Keeps the Ledger of AI Labor?",
+      "summary": "Article URL: https://centrail.org/newsletter/agent-economics-who-keeps-the-ledger-of-ai-labor\nComments URL: https://news.ycombinator.com/item?id=50173680\nPoints: 1\n# Comments: 0",
+      "url": "https://centrail.org/newsletter/agent-economics-who-keeps-the-ledger-of-ai-labor",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [
+    {
+      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+      "summary": "Article URL: https://github.com/google-pytorch/torch_tpu\nComments URL: https://news.ycombinator.com/item?id=50169053\nPoints: 306\n# Comments: 67",
+      "url": "https://github.com/google-pytorch/torch_tpu",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Google Cloud outage affects almost all banking and other operations in Europe",
+      "summary": "Article URL: https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/\nComments URL: https://news.ycombinator.com/item?id=50163961\nPoints: 370\n# Comments: 183",
+      "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "research": [
+    {
+      "title": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
+      "summary": "arXiv:2610.26887v1 Announce Type: new \nAbstract: Large language model (LLM) agents are evolving from conversational assistants into Cowork Agents capable of autonomous planning, tool use, and complex task execution. Financial analysis requires these agents to integrate cross-document evidence and pe",
+      "url": "https://arxiv.org/abs/2610.26887",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Large language model and reinforcement learning based autonomous construction and progress updates",
+      "summary": "arXiv:2610.26899v1 Announce Type: new \nAbstract: Due to the rapid growth of the global population, traditional construction methods are gradually unable to meet the current housing demand. The advancement of machine learning algorithms has encouraged researchers to explore their applications in the",
+      "url": "https://arxiv.org/abs/2610.26899",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Pareto-Optimal RTL Code Generation via Multi-Objective Reinforcement Learning with Large Language Models",
+      "summary": "arXiv:2610.26904v1 Announce Type: new \nAbstract: Recent studies have proposed reinforcement learning with verifiable rewards (RLVR) methods that enable LLMs to generate high-quality RTL circuits from natural-language specifications. Existing approaches optimize circuit PPA (Power, Performance, Area)",
+      "url": "https://arxiv.org/abs/2610.26904",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring",
+      "summary": "arXiv:2610.26913v1 Announce Type: new \nAbstract: The adoption of Large Language Models for radiology report structuring has been largely dominated by either proprietary cloud-based models or large open models requiring high-end GPUs for deployment, which is a critical bottleneck for clinical adoptio",
+      "url": "https://arxiv.org/abs/2610.26913",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "DataPraxis: Scaling Analytics Tasks via Verified Workspace Evolution",
+      "summary": "arXiv:2610.26924v1 Announce Type: new \nAbstract: General-purpose agents are increasingly expected to perform professional analytics work, which requires sustained reasoning, iterative investigation, and reliable evidence. Training these capabilities requires diverse and challenging tasks. However, g",
+      "url": "https://arxiv.org/abs/2610.26924",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Industrial Agentic AI: LLM-Driven New-Generation Agents for Smart Manufacturing",
+      "summary": "arXiv:2610.26941v1 Announce Type: new \nAbstract: Large language models (LLMs) are enabling agents to move beyond predefined workflows toward autonomous planning and execution, creating new opportunities for smart manufacturing. However, dynamic environments, complex physical constraints, and stringe",
+      "url": "https://arxiv.org/abs/2610.26941",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Fix, Not Just Resample: Bounded Compiler-Guided Repair in Lean 4",
+      "summary": "arXiv:2610.26942v1 Announce Type: new \nAbstract: Automated theorem provers often rely on sampling language models, but proof assistants like Lean reject each failed step with a precise error message --- information that pure sampling discards. To overcome this, we introduce a bounded, online step-le",
+      "url": "https://arxiv.org/abs/2610.26942",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
+      "summary": "arXiv:2610.26943v1 Announce Type: new \nAbstract: Mathematical reasoning is a fundamental capability for educational applications of Large Language Models (LLMs), where reliable problem solving requires not only correct answers but also coherent and verifiable reasoning processes. Multi-agent systems",
+      "url": "https://arxiv.org/abs/2610.26943",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Complete Street Design informed by Multi-Agent Simulation",
+      "summary": "arXiv:2610.27509v1 Announce Type: new \nAbstract: Objectives: Complete Street design is currently guided largely by qualitative principles despite the increasing complexity of multimodal urban traffic. This paper develops a microscopic simulation framework for quantitatively evaluating alternative st",
+      "url": "https://arxiv.org/abs/2610.27509",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "S$^2$-MAS: A Society-Scale Multi-Agent Simulation Framework with 500 Million Household Persona Agents",
+      "summary": "arXiv:2610.27746v1 Announce Type: new \nAbstract: Simulating economic responses at society scale requires agents whose decisions reflect household circumstances and the effects of earlier actions. We introduce S$^2$-MAS, a society-scale multi-agent simulation framework built on 500 million synthetic",
+      "url": "https://arxiv.org/abs/2610.27746",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Local Work, Global Progress: A Convergence Theory of AI Agent Collaboration",
+      "summary": "arXiv:2610.28286v1 Announce Type: new \nAbstract: Teams of large language model (LLM) agents are increasingly applied to complex tasks, but their collaboration protocols are mostly designed empirically, without convergence guarantees. We formalize collaborative problem solving as block optimization:",
+      "url": "https://arxiv.org/abs/2610.28286",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "WaveCommitments: Private and Verifiable Speech-Agent Marketplaces",
+      "summary": "arXiv:2610.26867v1 Announce Type: cross \nAbstract: Modern speech systems are evolving into ecosystems of autonomous speech agents that speak together, negotiate, and trade assets such as embeddings, spectrograms, or raw data. In such markets, sellers cannot reveal assets for evaluation due to privac",
+      "url": "https://arxiv.org/abs/2610.26867",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Robot-Task Suitability in Heterogeneous Multi-Robot Task Allocation",
+      "summary": "arXiv:2610.27504v1 Announce Type: cross \nAbstract: Heterogeneous multi-robot task allocation depends on estimates of how suitable individual robots are for candidate tasks, yet suitability can be defined in substantially different ways. We compare ten deterministic methods and two LLM-based variants",
+      "url": "https://arxiv.org/abs/2610.27504",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Does Multi-Agent Collaboration Pay When Agents Serve Users? Testing Agent Scaling in Dual-Control Settings",
+      "summary": "arXiv:2610.27655v1 Announce Type: cross \nAbstract: Multi-agent systems (MAS) built from language models are deployed on the premise that collaboration beats a single-agent system (SAS), yet when it pays is unclear. The most systematic study to date gives a capability-saturation rule: coordination he",
+      "url": "https://arxiv.org/abs/2610.27655",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Safe Multi-Robot Collaboration With Uniform Exclusion Using Trust",
+      "summary": "arXiv:2610.28251v1 Announce Type: cross \nAbstract: Robot swarms coordinate through directed, time-varying local communication links, some of which may be compromised to allow the transmission of arbitrary malicious data. We provide an algorithm that acts as a wrapper around robot communication---whe",
+      "url": "https://arxiv.org/abs/2610.28251",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Toolflation: Seller Agents Distort Tool Markets Through Spontaneous Generative Engine Optimization",
+      "summary": "arXiv:2610.28454v1 Announce Type: cross \nAbstract: Agents are starting to sell to other agents. Seller agents write the listings of tools, services and products, and buyer agents read these listings when they choose what to use. We show that seller agents told only to be selected more often practice",
+      "url": "https://arxiv.org/abs/2610.28454",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
