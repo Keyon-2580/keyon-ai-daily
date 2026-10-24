@@ -1,0 +1,137 @@
+{
+  "date": "2026-10-24",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-10-24 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Pi, the coding agent, compiled ahead of time to one native executable",
+      "summary": "Article URL: https://github.com/opensec-git/Pi-Bolt\nComments URL: https://news.ycombinator.com/item?id=50218338\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/opensec-git/Pi-Bolt",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Agent skill for creating isometric illustrations",
+      "summary": "Article URL: https://github.com/wheresryan22/anatomy\nComments URL: https://news.ycombinator.com/item?id=50218031\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Task-view – review a coding agent’s change as a map instead of a diff",
+      "summary": "Article URL: https://github.com/gtindo/task-view\nComments URL: https://news.ycombinator.com/item?id=50217069\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/gtindo/task-view",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "I paired seven months of coding-agent transcripts with a token inventory",
+      "summary": "Article URL: https://morkeeth.substack.com/p/where-the-tokens-go-the-end-of-maxxing\nComments URL: https://news.ycombinator.com/item?id=50216539\nPoints: 1\n# Comments: 1",
+      "url": "https://morkeeth.substack.com/p/where-the-tokens-go-the-end-of-maxxing",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": []
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": []
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": []
+    }
+  ],
+  "oss": [
+    {
+      "title": "Pi, the coding agent, compiled ahead of time to one native executable",
+      "summary": "Article URL: https://github.com/opensec-git/Pi-Bolt\nComments URL: https://news.ycombinator.com/item?id=50218338\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/opensec-git/Pi-Bolt",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Agent skill for creating isometric illustrations",
+      "summary": "Article URL: https://github.com/wheresryan22/anatomy\nComments URL: https://news.ycombinator.com/item?id=50218031\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Task-view – review a coding agent’s change as a map instead of a diff",
+      "summary": "Article URL: https://github.com/gtindo/task-view\nComments URL: https://news.ycombinator.com/item?id=50217069\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/gtindo/task-view",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "I paired seven months of coding-agent transcripts with a token inventory",
+      "summary": "Article URL: https://morkeeth.substack.com/p/where-the-tokens-go-the-end-of-maxxing\nComments URL: https://news.ycombinator.com/item?id=50216539\nPoints: 1\n# Comments: 1",
+      "url": "https://morkeeth.substack.com/p/where-the-tokens-go-the-end-of-maxxing",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Narrative Deck – AI Agent skill for creating interactive web stories",
+      "summary": "Article URL: https://aakatheeri.github.io/narrative-deck/\nComments URL: https://news.ycombinator.com/item?id=50216138\nPoints: 3\n# Comments: 0",
+      "url": "https://aakatheeri.github.io/narrative-deck/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: Token Beggar, route coding agent subtasks to cheaper models",
+      "summary": "Article URL: https://github.com/Arthur031221/Token-Beggar\nComments URL: https://news.ycombinator.com/item?id=50215718\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/Arthur031221/Token-Beggar",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "We deserve a better agent-human interaction",
+      "summary": "Article URL: https://pinrail.dev/blog/we-deserve-a-better-agent-human-interaction/\nComments URL: https://news.ycombinator.com/item?id=50215389\nPoints: 1\n# Comments: 0",
+      "url": "https://pinrail.dev/blog/we-deserve-a-better-agent-human-interaction/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Nu: The personal agent that runs on your rules",
+      "summary": "Article URL: https://github.com/rebuno/nu\nComments URL: https://news.ycombinator.com/item?id=50215160\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/rebuno/nu",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [],
+  "research": [],
+  "china": []
+}
