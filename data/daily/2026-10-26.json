@@ -1,0 +1,232 @@
+{
+  "date": "2026-10-26",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-10-26 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
+      "summary": "arXiv:2610.31701v1 Announce Type: new \nAbstract: Enterprise customer journeys are shaped not only by product experiences and marketing, but also by recurring resource-allocation decisions. In B2B go-to-market (GTM) organizations, territory carving determines which accounts receive seller coverage, w",
+      "url": "https://arxiv.org/abs/2610.31701",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
+      "summary": "arXiv:2610.31789v1 Announce Type: new \nAbstract: Scientific computing increasingly relies on large language model-based agents for performance engineering tasks such as instrumentation, analysis, and workflow porting. However, agent effectiveness depends heavily on the surrounding harness, which typ",
+      "url": "https://arxiv.org/abs/2610.31789",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Patronizing and Condescending Language Detection in English and Mandarin",
+      "summary": "arXiv:2610.31808v1 Announce Type: new \nAbstract: Patronizing and condescending language (PCL) is a form of harmful language that belittles and assumes pity for vulnerable groups, reinforcing negative societal stereotypes. However, unlike overt hate speech, it is often difficult to detect, even for h",
+      "url": "https://arxiv.org/abs/2610.31808",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
+      "summary": "arXiv:2610.31810v1 Announce Type: new \nAbstract: Even a carefully proofread paper can leave small gaps in its proofs or its stated assumptions. We introduce PaperFormalizer, a Lean-based agentic pipeline that helps authors find and close such gaps in their own papers and turn each paper into a Lean-",
+      "url": "https://arxiv.org/abs/2610.31810",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Not Every Agent Needs the Strongest Model: Unified Prompt-Model Optimization for Heterogeneous LLM-based Multi-Agent Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.31743"
+        },
+        {
+          "title": "Knowing Whom to Trust is not Enough: The Trust--Agreement Gap in Repeated Multi-Party LLM Negotiation",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.31971"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.31810"
+        },
+        {
+          "title": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.31882"
+        },
+        {
+          "title": "Toward an Agentic AI Approach to Public Health Data Collection",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.31746"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.31789"
+        }
+      ]
+    }
+  ],
+  "oss": [],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
+      "summary": "arXiv:2610.31701v1 Announce Type: new \nAbstract: Enterprise customer journeys are shaped not only by product experiences and marketing, but also by recurring resource-allocation decisions. In B2B go-to-market (GTM) organizations, territory carving determines which accounts receive seller coverage, w",
+      "url": "https://arxiv.org/abs/2610.31701",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
+      "summary": "arXiv:2610.31789v1 Announce Type: new \nAbstract: Scientific computing increasingly relies on large language model-based agents for performance engineering tasks such as instrumentation, analysis, and workflow porting. However, agent effectiveness depends heavily on the surrounding harness, which typ",
+      "url": "https://arxiv.org/abs/2610.31789",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Patronizing and Condescending Language Detection in English and Mandarin",
+      "summary": "arXiv:2610.31808v1 Announce Type: new \nAbstract: Patronizing and condescending language (PCL) is a form of harmful language that belittles and assumes pity for vulnerable groups, reinforcing negative societal stereotypes. However, unlike overt hate speech, it is often difficult to detect, even for h",
+      "url": "https://arxiv.org/abs/2610.31808",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
+      "summary": "arXiv:2610.31810v1 Announce Type: new \nAbstract: Even a carefully proofread paper can leave small gaps in its proofs or its stated assumptions. We introduce PaperFormalizer, a Lean-based agentic pipeline that helps authors find and close such gaps in their own papers and turn each paper into a Lean-",
+      "url": "https://arxiv.org/abs/2610.31810",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons",
+      "summary": "arXiv:2610.31846v1 Announce Type: new \nAbstract: Intelligent agents should learn from their mistakes so that experience leads to continuous improvement. Yet today's agents recover from a mistake only temporarily: in-context reflections are easily forgotten across sessions and compete for limited con",
+      "url": "https://arxiv.org/abs/2610.31846",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
+      "summary": "arXiv:2610.31882v1 Announce Type: new \nAbstract: We present the framework of TACS-RF - a Tool-driven Agentic Circuit Synthesis of RF and mmWave modules. In this framework, a large-language-model (LLM) coding agent (Claude Opus 4.8) directly drives industry-standard electronic-design-automation (EDA)",
+      "url": "https://arxiv.org/abs/2610.31882",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Permission to Retry: A Study of Authorization and Recovery in AI Agent Workflows",
+      "summary": "arXiv:2610.31916v1 Announce Type: new \nAbstract: A durable agent can resume a consequential action while its authority changes and the action's external outcome remains uncertain. We study execution-time reliability of tool-using AI agents, isolating recovery decisions from language-model behavior.",
+      "url": "https://arxiv.org/abs/2610.31916",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Beyond On-Policy vs. Off-Policy: At What Level Should LLM Agent Distillation Follow the Student?",
+      "summary": "arXiv:2610.31918v1 Announce Type: new \nAbstract: Distilling interactive LLM agents requires choosing between teacher-generated demonstrations and student-generated experience, corresponding broadly to off-policy and on-policy distillation. While both have proven effective, we argue that this distinc",
+      "url": "https://arxiv.org/abs/2610.31918",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Not Every Agent Needs the Strongest Model: Unified Prompt-Model Optimization for Heterogeneous LLM-based Multi-Agent Systems",
+      "summary": "arXiv:2610.31743v1 Announce Type: new \nAbstract: Large language model (LLM)-based multi-agent systems (MAS) rely on role-specific prompts and execution models to solve complex tasks collaboratively. However, prompt optimization typically keeps model assignments fixed, leaving differences in role req",
+      "url": "https://arxiv.org/abs/2610.31743",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Toward an Agentic AI Approach to Public Health Data Collection",
+      "summary": "arXiv:2610.31746v1 Announce Type: new \nAbstract: Disease surveillance increasingly integrates automated data collection, yet predefined sources and procedures require manual adaptation as reporting practices change. We explore agentic artificial intelligence (AI) as an approach to coordinating surve",
+      "url": "https://arxiv.org/abs/2610.31746",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Markets of Minds: A 51-Billion-State Economy of Intelligence",
+      "summary": "arXiv:2610.32190v1 Announce Type: new \nAbstract: When intelligence is shared, reasoning becomes a constrained allocation problem. In a population of agents with limited access to expert models, an intervention can benefit its recipient yet still be a poor use of shared capacity if another feasible i",
+      "url": "https://arxiv.org/abs/2610.32190",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Empirically Calibrated Differential Games for Simulating Driver Interactions",
+      "summary": "arXiv:2610.32276v1 Announce Type: new \nAbstract: Game-theoretic models can resolve vehicle interactions without hand-written priority rules, but whether they describe human drivers once calibrated has rarely been tested. This study formulates a general-sum differential game of vehicle interactions a",
+      "url": "https://arxiv.org/abs/2610.32276",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Agent-Based Transport Model Calibration via Online Stochastic Batch Optimization",
+      "summary": "arXiv:2610.32698v1 Announce Type: new \nAbstract: Calibrating agent-based models (ABMs) is computationally demanding, as traditional black-box optimization typically requires hundreds or thousands of independent simulation runs. To reduce this burden, we introduce an online calibration framework that",
+      "url": "https://arxiv.org/abs/2610.32698",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Emergent Cooperative Thermoregulation in Lunar Swarm Robotics",
+      "summary": "arXiv:2610.31868v1 Announce Type: cross \nAbstract: Swarms of small robots are an attractive way to survey lunar caves and lava tubes. Missions such as NASA's CADRE will fly cooperating rovers for distributed mapping, but only in daylight. The 354 h lunar night drops the surface towards 95 K, and the",
+      "url": "https://arxiv.org/abs/2610.31868",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Distributed Swarm Morphogenesis with Neural Cellular Automata",
+      "summary": "arXiv:2610.31900v1 Announce Type: cross \nAbstract: Swarm morphogenesis requires robots to assemble desired shapes through local interactions. We present a modular framework integrating neural cellular automata (NCA) with existing site selection and collision-aware control. Within this framework, we",
+      "url": "https://arxiv.org/abs/2610.31900",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Knowing Whom to Trust is not Enough: The Trust--Agreement Gap in Repeated Multi-Party LLM Negotiation",
+      "summary": "arXiv:2610.31971v1 Announce Type: cross \nAbstract: Large language model (LLM) agents increasingly participate in negotiations on behalf of individuals and organizations, yet they remain vulnerable to manipulation, particularly in repeated multi-party interactions. Classical multi-agent systems addre",
+      "url": "https://arxiv.org/abs/2610.31971",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
