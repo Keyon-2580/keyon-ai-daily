@@ -1,0 +1,358 @@
+{
+  "date": "2026-10-27",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-10-27 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Cindy, Open-source agent that runs Claude Code and Codex as swappable harnesses",
+      "summary": "Article URL: https://github.com/makecindy/cindy\nComments URL: https://news.ycombinator.com/item?id=50254161\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/makecindy/cindy",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Agent outputs slop texts, so I make a superfast HTML skill visualize it",
+      "summary": "Article URL: https://github.com/QingYunA/answer-me-with-html\nComments URL: https://news.ycombinator.com/item?id=50253981\nPoints: 2\n# Comments: 1",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Let your agent talk to mine",
+      "summary": "Article URL: https://blog.danielbrain.ai/let-your-agent-talk-to-mine\nComments URL: https://news.ycombinator.com/item?id=50253475\nPoints: 1\n# Comments: 0",
+      "url": "https://blog.danielbrain.ai/let-your-agent-talk-to-mine",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Mistrial – Re run your LLM judge and see how often it flips",
+      "summary": "Article URL: https://github.com/hemanth1999k/mistrial\nComments URL: https://news.ycombinator.com/item?id=50253334\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/hemanth1999k/mistrial",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Inverse Modeling for Laser Pulse Shape Design in Inertial Confinement Fusion",
+      "summary": "arXiv:2610.33096v1 Announce Type: new \nAbstract: The achievement of practical fusion energy remains one of the most pressing unsolved scientific challenges, with immense implications for carbon-free power. A critical factor in the success of Inertial Confinement Fusion (ICF) is the design of a Laser",
+      "url": "https://arxiv.org/abs/2610.33096",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "IRON-Meme: A Benchmark for Structured Understanding of Identities and Roles in Online Meme Narratives",
+      "summary": "arXiv:2610.33097v1 Announce Type: new \nAbstract: As polarization grows on social media, understanding how political memes shape online narratives has become increasingly important. Previous research has relied on either qualitative frameworks that are hard to scale or computational methods that lack",
+      "url": "https://arxiv.org/abs/2610.33097",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Prospect Theory in Large Language Models: A Meta-Analysis of Loss Aversion, Diminishing Sensitivity, and Probability Weighting",
+      "summary": "arXiv:2610.33103v1 Announce Type: new \nAbstract: Prospect theory splits risky choice into three parts: loss aversion, measured by the relative weight of losses to gains, $\\lambda$ (e.g., $\\lambda = 2$ implies that losses weigh twice as much as gains), diminishing sensitivity to the size of outcomes",
+      "url": "https://arxiv.org/abs/2610.33103",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Artificial Intelligence in Mechanical Engineering: Foundations, Opportunities, Challenges, and Responsibilities",
+      "summary": "arXiv:2610.33105v1 Announce Type: new \nAbstract: Artificial intelligence (AI) is reshaping mechanical engineering (ME), from modeling, simulation, and optimization to diagnostics, design, and technical communication. Drawing on a round-table at the 28th ABCM International Congress on Mechanical Engi",
+      "url": "https://arxiv.org/abs/2610.33105",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "When Agents Collude: Weak-to-Strong On-Policy Distillation for Mitigating Strategic Deception in Multi-Agent Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.33011"
+        },
+        {
+          "title": "UMAS: System-Level Uncertainty Quantification for Multi-Agent LLM Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.33013"
+        },
+        {
+          "title": "AutoSwarm: Automating Agent Swarms",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.33048"
+        },
+        {
+          "title": "BE-CTDE: Blockchain-Enabled Multi-Agent Reinforcement Learning with Anomaly Detection and Token Economics",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.34121"
+        },
+        {
+          "title": "EvolveMAS: A Unified Self-Evolution Framework for Decentralized Multi-Agent Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.34450"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": []
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Cindy, Open-source agent that runs Claude Code and Codex as swappable harnesses",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://github.com/makecindy/cindy"
+        },
+        {
+          "title": "IRON-Meme: A Benchmark for Structured Understanding of Identities and Roles in Online Meme Narratives",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.33097"
+        },
+        {
+          "title": "Conformance as a Distribution: Delegation Contracts, Error Budgets, and the Allocation of Evaluation Authority in Use-Based AI Regulation",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.33112"
+        },
+        {
+          "title": "Propensities Please: Exposing Alignment-Faking LLMs using Synthetic Document Finetuning",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.33180"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "Cindy, Open-source agent that runs Claude Code and Codex as swappable harnesses",
+      "summary": "Article URL: https://github.com/makecindy/cindy\nComments URL: https://news.ycombinator.com/item?id=50254161\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/makecindy/cindy",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Agent outputs slop texts, so I make a superfast HTML skill visualize it",
+      "summary": "Article URL: https://github.com/QingYunA/answer-me-with-html\nComments URL: https://news.ycombinator.com/item?id=50253981\nPoints: 2\n# Comments: 1",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Let your agent talk to mine",
+      "summary": "Article URL: https://blog.danielbrain.ai/let-your-agent-talk-to-mine\nComments URL: https://news.ycombinator.com/item?id=50253475\nPoints: 1\n# Comments: 0",
+      "url": "https://blog.danielbrain.ai/let-your-agent-talk-to-mine",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Mistrial – Re run your LLM judge and see how often it flips",
+      "summary": "Article URL: https://github.com/hemanth1999k/mistrial\nComments URL: https://news.ycombinator.com/item?id=50253334\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/hemanth1999k/mistrial",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "JDA-Zip Protocol – Deterministic Compression for LLM Contexts",
+      "summary": "Article URL: https://github.com/jdavid465/JDA-ZIP-PROTOCOL\nComments URL: https://news.ycombinator.com/item?id=50252604\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/jdavid465/JDA-ZIP-PROTOCOL",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Paradev: One workspace for Claude Code, Codex, and any coding agent",
+      "summary": "Article URL: https://paradev.com\nComments URL: https://news.ycombinator.com/item?id=50252532\nPoints: 1\n# Comments: 0",
+      "url": "https://paradev.com",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Survival LLM",
+      "summary": "Article URL: https://www.brangus.io/survival-llm\nComments URL: https://news.ycombinator.com/item?id=50252314\nPoints: 2\n# Comments: 1",
+      "url": "https://www.brangus.io/survival-llm",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "The Personal Agent Protocol Map",
+      "summary": "Article URL: https://twitter.com/sytaylor/status/2113710822731989172\nComments URL: https://news.ycombinator.com/item?id=50252041\nPoints: 1\n# Comments: 0",
+      "url": "https://twitter.com/sytaylor/status/2113710822731989172",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [
+    {
+      "title": "Anthropic S-1",
+      "summary": "Article URL: https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm\nComments URL: https://news.ycombinator.com/item?id=50242939\nPoints: 1559\n# Comments: 1498",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "research": [
+    {
+      "title": "Inverse Modeling for Laser Pulse Shape Design in Inertial Confinement Fusion",
+      "summary": "arXiv:2610.33096v1 Announce Type: new \nAbstract: The achievement of practical fusion energy remains one of the most pressing unsolved scientific challenges, with immense implications for carbon-free power. A critical factor in the success of Inertial Confinement Fusion (ICF) is the design of a Laser",
+      "url": "https://arxiv.org/abs/2610.33096",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "IRON-Meme: A Benchmark for Structured Understanding of Identities and Roles in Online Meme Narratives",
+      "summary": "arXiv:2610.33097v1 Announce Type: new \nAbstract: As polarization grows on social media, understanding how political memes shape online narratives has become increasingly important. Previous research has relied on either qualitative frameworks that are hard to scale or computational methods that lack",
+      "url": "https://arxiv.org/abs/2610.33097",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Prospect Theory in Large Language Models: A Meta-Analysis of Loss Aversion, Diminishing Sensitivity, and Probability Weighting",
+      "summary": "arXiv:2610.33103v1 Announce Type: new \nAbstract: Prospect theory splits risky choice into three parts: loss aversion, measured by the relative weight of losses to gains, $\\lambda$ (e.g., $\\lambda = 2$ implies that losses weigh twice as much as gains), diminishing sensitivity to the size of outcomes",
+      "url": "https://arxiv.org/abs/2610.33103",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Artificial Intelligence in Mechanical Engineering: Foundations, Opportunities, Challenges, and Responsibilities",
+      "summary": "arXiv:2610.33105v1 Announce Type: new \nAbstract: Artificial intelligence (AI) is reshaping mechanical engineering (ME), from modeling, simulation, and optimization to diagnostics, design, and technical communication. Drawing on a round-table at the 28th ABCM International Congress on Mechanical Engi",
+      "url": "https://arxiv.org/abs/2610.33105",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Conformance as a Distribution: Delegation Contracts, Error Budgets, and the Allocation of Evaluation Authority in Use-Based AI Regulation",
+      "summary": "arXiv:2610.33112v1 Announce Type: new \nAbstract: Use-based AI regulation assigns obligations by deployment risk but lacks an evidentiary object to carry them. A benchmark score is a property of a model; conformance of a deployment is a failure rate under a declared distribution of contexts, bounded",
+      "url": "https://arxiv.org/abs/2610.33112",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Optimal Correction Sets for Provable Redress of Contestable Causal Discovery",
+      "summary": "arXiv:2610.33138v1 Announce Type: new \nAbstract: Constraint-based causal discovery relies on conditional-independence (CI) tests that may conflict in finite samples, leaving no causal graph that satisfies them all. Causal Assumption-based Argumentation (ABA) makes these tests explicit as defeasible",
+      "url": "https://arxiv.org/abs/2610.33138",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "AOS-Bench: Can LLM Agents Manage Dynamic Workloads?",
+      "summary": "arXiv:2610.33178v1 Announce Type: new \nAbstract: Coding agents are moving from handling one request at a time to serving as persistent assistants to which users hand a stream of work: a build, a data-processing job and a bug fix may all be pending on the same machine at once. Such an agent must deci",
+      "url": "https://arxiv.org/abs/2610.33178",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Propensities Please: Exposing Alignment-Faking LLMs using Synthetic Document Finetuning",
+      "summary": "arXiv:2610.33180v1 Announce Type: new \nAbstract: Alignment evaluations aim to assess whether large language models would engage in dangerous misaligned behaviour. Misaligned and evaluation-aware models might engage in alignment faking, where they pursue a hidden goal, but conceal this behaviour when",
+      "url": "https://arxiv.org/abs/2610.33180",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "LLM-Augmented Agent-Based Simulation of Cyber Social Agents",
+      "summary": "arXiv:2610.32988v1 Announce Type: new \nAbstract: Social media bots are often portrayed as malicious automations to be detected and removed, but automation on social media platforms encompasses a wide spectrum of roles, behaviors, and rhetorical strategies that can shape online discourse in both cons",
+      "url": "https://arxiv.org/abs/2610.32988",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "When Agents Collude: Weak-to-Strong On-Policy Distillation for Mitigating Strategic Deception in Multi-Agent Systems",
+      "summary": "arXiv:2610.33011v1 Announce Type: new \nAbstract: While recent advances in autonomous agents enable them to coordinate on increasingly complex tasks, prior work shows that this growing capacity for coordination can create safety risks, including collusion, in which agents jointly pursue misaligned ac",
+      "url": "https://arxiv.org/abs/2610.33011",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "UMAS: System-Level Uncertainty Quantification for Multi-Agent LLM Systems",
+      "summary": "arXiv:2610.33013v1 Announce Type: new \nAbstract: Multi-Agent Systems (MAS) are a promising paradigm for improving the reasoning capabilities of large language models, yet they remain prone to hallucinations and erroneous outputs. Uncertainty Quantification (UQ) is crucial for assessing system reliab",
+      "url": "https://arxiv.org/abs/2610.33013",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "AutoSwarm: Automating Agent Swarms",
+      "summary": "arXiv:2610.33048v1 Announce Type: new \nAbstract: Large language model (LLM) agents increasingly automate complex tasks, with multi-agent systems seeking further performance gains through specialization and collaboration. However, distributing work across agents does not automatically yield complemen",
+      "url": "https://arxiv.org/abs/2610.33048",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "VibeGame: Prompt-to-Game Development with AI-Native Engine and Self-Evolving Adversarial Agent Team",
+      "summary": "arXiv:2610.33106v1 Announce Type: new \nAbstract: Large language model agents have enabled software development through natural-language interaction, but extending this paradigm to end-to-end game development remains challenging. Building a playable game requires coordinating code, scenes, assets, an",
+      "url": "https://arxiv.org/abs/2610.33106",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Coral Discovery: The Division of Cognitive Labor in Autonomous Research",
+      "summary": "arXiv:2610.33281v1 Announce Type: new \nAbstract: A research community is only as strong as the way it divides its cognitive labour. The philosopher Philip Kitcher argued that researchers should not all pursue the most promising approach. Credit rules, not a central plan, keep some of them on other l",
+      "url": "https://arxiv.org/abs/2610.33281",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "BE-CTDE: Blockchain-Enabled Multi-Agent Reinforcement Learning with Anomaly Detection and Token Economics",
+      "summary": "arXiv:2610.34121v1 Announce Type: new \nAbstract: Multi-agent reinforcement learning supports cooperative decision-making in Internet of Things systems, but strategic deviations can disrupt coordination and undermine confidence in the training process. This paper proposes Blockchain-Enabled Centraliz",
+      "url": "https://arxiv.org/abs/2610.34121",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "EvolveMAS: A Unified Self-Evolution Framework for Decentralized Multi-Agent Systems",
+      "summary": "arXiv:2610.34450v1 Announce Type: new \nAbstract: Decentralized multi-agent systems (MAS) enable large language model agents to interact without centralized control. Agents need to adapt to other agents at test time and reuse accumulated experience to refine their interaction strategies for future in",
+      "url": "https://arxiv.org/abs/2610.34450",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
