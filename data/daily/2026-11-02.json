@@ -1,0 +1,289 @@
+{
+  "date": "2026-11-02",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-11-02 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "CEPO: General Framework for Improving Prompt Optimization in Multi-Agent Systems",
+      "summary": "Article URL: https://arxiv.org/abs/2610.34722\nComments URL: https://news.ycombinator.com/item?id=50333312\nPoints: 2\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2610.34722",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Context as Infrastructure: Knowledge Compilation for Retrieval in Agent Harness",
+      "summary": "Article URL: https://arxiv.org/abs/2610.41172\nComments URL: https://news.ycombinator.com/item?id=50333113\nPoints: 3\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2610.41172",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Rufous – Agent attuned to small models",
+      "summary": "Rufous is an experimental coding agent harness attuned for use with small models in the 2b to 12b range. \nIt builds on the work of the Mingbird team which they first described in this paper: https://arxiv.org/abs/2610.02001\n\nComments URL: https://news.ycombinator.com/item?id=50332594\nPoints: 3\n# Co",
+      "url": "https://rufous.chat",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Why Agent Memory Benchmarks Need a Reproducible Evaluation Pipeline",
+      "summary": "Article URL: https://x.com/AgentMemoryL/\nComments URL: https://news.ycombinator.com/item?id=50332443\nPoints: 1\n# Comments: 0",
+      "url": "https://x.com/AgentMemoryL/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "A Robust Approach to Belief Mismatch in Non-cooperative Dynamic Games",
+      "summary": "arXiv:2610.40999v1 Announce Type: new \nAbstract: Game-theoretic models are increasingly used to describe multi-agent interactions in control and robotics applications. However, theoretical and computational complexity makes these models intractable in many dynamic, incomplete information scenarios.",
+      "url": "https://arxiv.org/abs/2610.40999",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "When Disclosure Is Compulsory: Evaluating Ride-Hailing Rebalancing Policies with Self-Interested LLM Driver Agents",
+      "summary": "arXiv:2610.41132v1 Announce Type: new \nAbstract: The EU Platform Work Directive, to be transposed by December 2026, requires ride-hailing platforms to state in plain language the main parameters of their automated decisions and how a worker's behaviour affects them. Such rules are exactly what a lar",
+      "url": "https://arxiv.org/abs/2610.41132",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "How a group that cannot communicate knows itself by its enemy",
+      "summary": "arXiv:2610.40835v1 Announce Type: cross \nAbstract: Teams that cannot communicate seem stuck with what each member sees. We show that their opponent can tell them the rest. Silent hunters, jammed robots and traders who never meet all face an adversary that reacts to the group as a whole; every member",
+      "url": "https://arxiv.org/abs/2610.40835",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Agentic World Modeling for Agent Test-time Scaling without Environment Replica",
+      "summary": "arXiv:2610.40927v1 Announce Type: cross \nAbstract: Test-time scaling (TTS) improves large language model agents by sampling and selecting among multiple candidate trajectories, but common realizations assume that these trajectories can be executed in parallel. This assumption breaks in realistic dep",
+      "url": "https://arxiv.org/abs/2610.40927",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "CEPO: General Framework for Improving Prompt Optimization in Multi-Agent Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://arxiv.org/abs/2610.34722"
+        },
+        {
+          "title": "A Robust Approach to Belief Mismatch in Non-cooperative Dynamic Games",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.40999"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "Agentic World Modeling for Agent Test-time Scaling without Environment Replica",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.40927"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Context as Infrastructure: Knowledge Compilation for Retrieval in Agent Harness",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://arxiv.org/abs/2610.41172"
+        },
+        {
+          "title": "Show HN: Rufous – Agent attuned to small models",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://rufous.chat"
+        },
+        {
+          "title": "Why Agent Memory Benchmarks Need a Reproducible Evaluation Pipeline",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://x.com/AgentMemoryL/"
+        },
+        {
+          "title": "The tokens in your agent harness",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://armincat.com/articles/where-tokens-go"
+        },
+        {
+          "title": "When Disclosure Is Compulsory: Evaluating Ride-Hailing Rebalancing Policies with Self-Interested LLM Driver Agents",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.41132"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "CEPO: General Framework for Improving Prompt Optimization in Multi-Agent Systems",
+      "summary": "Article URL: https://arxiv.org/abs/2610.34722\nComments URL: https://news.ycombinator.com/item?id=50333312\nPoints: 2\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2610.34722",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Context as Infrastructure: Knowledge Compilation for Retrieval in Agent Harness",
+      "summary": "Article URL: https://arxiv.org/abs/2610.41172\nComments URL: https://news.ycombinator.com/item?id=50333113\nPoints: 3\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2610.41172",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Rufous – Agent attuned to small models",
+      "summary": "Rufous is an experimental coding agent harness attuned for use with small models in the 2b to 12b range. \nIt builds on the work of the Mingbird team which they first described in this paper: https://arxiv.org/abs/2610.02001\n\nComments URL: https://news.ycombinator.com/item?id=50332594\nPoints: 3\n# Co",
+      "url": "https://rufous.chat",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Why Agent Memory Benchmarks Need a Reproducible Evaluation Pipeline",
+      "summary": "Article URL: https://x.com/AgentMemoryL/\nComments URL: https://news.ycombinator.com/item?id=50332443\nPoints: 1\n# Comments: 0",
+      "url": "https://x.com/AgentMemoryL/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "WeVisCut: The Whole Editing Room in One Agent, from Narration to Long-Form Video",
+      "summary": "Article URL: https://tencent.github.io/WeVisCut\nComments URL: https://news.ycombinator.com/item?id=50332213\nPoints: 2\n# Comments: 0",
+      "url": "https://tencent.github.io/WeVisCut",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "In LLM era, can software startup survive?",
+      "summary": "Nowadays, vibe coding is everywhere. Turning an idea into software is just matter of tokens. I was joking the other day. Creating a tax return softwar is much faster than purchasing Turbotax at Costco.Large companies still have compute resources and customer bases. For startup, users are expecting",
+      "url": "https://news.ycombinator.com/item?id=50331001",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: Search2o – An Agent Server for the Enterprise",
+      "summary": "Article URL: https://search2o.com/\nComments URL: https://news.ycombinator.com/item?id=50330182\nPoints: 1\n# Comments: 0",
+      "url": "https://search2o.com/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "The tokens in your agent harness",
+      "summary": "Article URL: https://armincat.com/articles/where-tokens-go\nComments URL: https://news.ycombinator.com/item?id=50328883\nPoints: 1\n# Comments: 0",
+      "url": "https://armincat.com/articles/where-tokens-go",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "A Robust Approach to Belief Mismatch in Non-cooperative Dynamic Games",
+      "summary": "arXiv:2610.40999v1 Announce Type: new \nAbstract: Game-theoretic models are increasingly used to describe multi-agent interactions in control and robotics applications. However, theoretical and computational complexity makes these models intractable in many dynamic, incomplete information scenarios.",
+      "url": "https://arxiv.org/abs/2610.40999",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "When Disclosure Is Compulsory: Evaluating Ride-Hailing Rebalancing Policies with Self-Interested LLM Driver Agents",
+      "summary": "arXiv:2610.41132v1 Announce Type: new \nAbstract: The EU Platform Work Directive, to be transposed by December 2026, requires ride-hailing platforms to state in plain language the main parameters of their automated decisions and how a worker's behaviour affects them. Such rules are exactly what a lar",
+      "url": "https://arxiv.org/abs/2610.41132",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "How a group that cannot communicate knows itself by its enemy",
+      "summary": "arXiv:2610.40835v1 Announce Type: cross \nAbstract: Teams that cannot communicate seem stuck with what each member sees. We show that their opponent can tell them the rest. Silent hunters, jammed robots and traders who never meet all face an adversary that reacts to the group as a whole; every member",
+      "url": "https://arxiv.org/abs/2610.40835",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Agentic World Modeling for Agent Test-time Scaling without Environment Replica",
+      "summary": "arXiv:2610.40927v1 Announce Type: cross \nAbstract: Test-time scaling (TTS) improves large language model agents by sampling and selecting among multiple candidate trajectories, but common realizations assume that these trajectories can be executed in parallel. This assumption breaks in realistic dep",
+      "url": "https://arxiv.org/abs/2610.40927",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Renegotiable Options Fail to Prevent Hold-Up Between Two Profit-Maximizing Frontier LLM Agents",
+      "summary": "arXiv:2610.40961v1 Announce Type: cross \nAbstract: Do contract terms that protect investment between people also protect it between profit-maximizing language-model agents? In the hold-up problem, a seller can adapt a unit to one buyer at a cost before the price is set. Once that cost is sunk, the b",
+      "url": "https://arxiv.org/abs/2610.40961",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Understanding LLM-Based Bargaining of Driving Agents in Mixed-Autonomy Traffic",
+      "summary": "arXiv:2610.41239v1 Announce Type: cross \nAbstract: Large Language Models (LLMs) offer a flexible computational approach for modeling social interactions among heterogeneous agents. This paper develops a novel framework towards characterizing and understanding LLM-based population-level bargaining of",
+      "url": "https://arxiv.org/abs/2610.41239",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Distributed Grid Search for Hyperparameter Tuning",
+      "summary": "arXiv:2610.41537v1 Announce Type: cross \nAbstract: The performance of many distributed optimization algorithms over peer-to-peer networks strongly depends on the choice of their hyperparameters. However, existing selection rules often require global quantities, yield conservative choices, or are tie",
+      "url": "https://arxiv.org/abs/2610.41537",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "ORION: An Outcome-Driven LLM Advisor for RL-Based Multi-Domain 6G Slice Placement",
+      "summary": "arXiv:2610.41563v1 Announce Type: cross \nAbstract: Deploying 6G network slices across administrative domains requires an online decision for each arriving request: which domain hosts each virtual network function, how traffic crosses domain boundaries, and whether the slice is admitted. This joint d",
+      "url": "https://arxiv.org/abs/2610.41563",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
