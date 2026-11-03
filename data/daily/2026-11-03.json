@@ -1,0 +1,175 @@
+{
+  "date": "2026-11-03",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-11-03 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum",
+      "summary": "arXiv:2610.40758v1 Announce Type: new \nAbstract: Self-evolving agents rewrite a persistent state from feedback, but it is largely untested whether this lets them learn a rule nobody told them. An agent can also pass by writing down each correction as an exception, and its list then grows with every",
+      "url": "https://arxiv.org/abs/2610.40758",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Beyond Plausible Prediction: Safety Sufficiency in Web World Models",
+      "summary": "arXiv:2610.40798v1 Announce Type: new \nAbstract: Web world models increasingly predict the consequences of candidate actions before agents act, yet a plausible predicted future does not necessarily support the correct safety decision. In a matched human evaluation of 3,000 predictions from ten froze",
+      "url": "https://arxiv.org/abs/2610.40798",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Circumventing the Computational Hardness of Computational Arbitrage",
+      "summary": "arXiv:2610.40831v1 Announce Type: new \nAbstract: AI model marketplaces host providers with heterogeneous costs and capabilities. These differences create an opportunity for computational arbitrage (Olmedo et al., 2026), in which an intermediary purchases inference from a portfolio of models and rese",
+      "url": "https://arxiv.org/abs/2610.40831",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Incongruence-Aware Evaluation of Multimodal Speech Emotion Recognition in Audio Large Language Models",
+      "summary": "arXiv:2610.40883v1 Announce Type: new \nAbstract: Voice-interactive large language models process both what a speaker says and how they say it, yet the two channels do not always agree. We ask whether that disagreement degrades speech emotion recognition. Mapping text and audio into a shared valence-",
+      "url": "https://arxiv.org/abs/2610.40883",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": []
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "Agentic World Modeling for Agent Test-time Scaling without Environment Replica",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.40927"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.40758"
+        },
+        {
+          "title": "Beyond Plausible Prediction: Safety Sufficiency in Web World Models",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.40798"
+        },
+        {
+          "title": "Incongruence-Aware Evaluation of Multimodal Speech Emotion Recognition in Audio Large Language Models",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.40883"
+        },
+        {
+          "title": "Does Recursive Knowledge Construction Help Agents Verify Consensus Claims in Science?",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.40906"
+        },
+        {
+          "title": "Towards Portable Specification of the Agent Harness",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2610.40917"
+        }
+      ]
+    }
+  ],
+  "oss": [],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum",
+      "summary": "arXiv:2610.40758v1 Announce Type: new \nAbstract: Self-evolving agents rewrite a persistent state from feedback, but it is largely untested whether this lets them learn a rule nobody told them. An agent can also pass by writing down each correction as an exception, and its list then grows with every",
+      "url": "https://arxiv.org/abs/2610.40758",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Beyond Plausible Prediction: Safety Sufficiency in Web World Models",
+      "summary": "arXiv:2610.40798v1 Announce Type: new \nAbstract: Web world models increasingly predict the consequences of candidate actions before agents act, yet a plausible predicted future does not necessarily support the correct safety decision. In a matched human evaluation of 3,000 predictions from ten froze",
+      "url": "https://arxiv.org/abs/2610.40798",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Circumventing the Computational Hardness of Computational Arbitrage",
+      "summary": "arXiv:2610.40831v1 Announce Type: new \nAbstract: AI model marketplaces host providers with heterogeneous costs and capabilities. These differences create an opportunity for computational arbitrage (Olmedo et al., 2026), in which an intermediary purchases inference from a portfolio of models and rese",
+      "url": "https://arxiv.org/abs/2610.40831",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Incongruence-Aware Evaluation of Multimodal Speech Emotion Recognition in Audio Large Language Models",
+      "summary": "arXiv:2610.40883v1 Announce Type: new \nAbstract: Voice-interactive large language models process both what a speaker says and how they say it, yet the two channels do not always agree. We ask whether that disagreement degrades speech emotion recognition. Mapping text and audio into a shared valence-",
+      "url": "https://arxiv.org/abs/2610.40883",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks",
+      "summary": "arXiv:2610.40890v1 Announce Type: new \nAbstract: Large language models (LLMs) can generate detailed guidance, functional code, and persuasive text at scale. As one of the most widely used consumer language model products as of 2026, ChatGPT gives broad public access to these capabilities, motivating",
+      "url": "https://arxiv.org/abs/2610.40890",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Does Recursive Knowledge Construction Help Agents Verify Consensus Claims in Science?",
+      "summary": "arXiv:2610.40906v1 Announce Type: new \nAbstract: Recent scientific agents build knowledge recursively by retrieving evidence, constructing an intermediate state, and judging whether that state contains sufficient information. These agents are evaluated end-to-end, usually without ground truth, so th",
+      "url": "https://arxiv.org/abs/2610.40906",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Towards Portable Specification of the Agent Harness",
+      "summary": "arXiv:2610.40917v1 Announce Type: new \nAbstract: Large language models act only through the infrastructure that surrounds them. That infrastructure, the harness, determines what a model can accomplish and how it fails, yet it has no settled definition. To address this gap, we decompose the harness i",
+      "url": "https://arxiv.org/abs/2610.40917",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Agentic World Modeling for Agent Test-time Scaling without Environment Replica",
+      "summary": "arXiv:2610.40927v1 Announce Type: new \nAbstract: Test-time scaling (TTS) improves large language model agents by sampling and selecting among multiple candidate trajectories, but common realizations assume that these trajectories can be executed in parallel. This assumption breaks in realistic deplo",
+      "url": "https://arxiv.org/abs/2610.40927",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
