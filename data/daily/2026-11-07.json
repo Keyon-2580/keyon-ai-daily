@@ -1,0 +1,138 @@
+{
+  "date": "2026-11-07",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-11-07 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "The Components of Agent Memory",
+      "summary": "Article URL: https://www.anthropic.com/research/components-of-agent-memory\nComments URL: https://news.ycombinator.com/item?id=50402212\nPoints: 1\n# Comments: 0",
+      "url": "https://www.anthropic.com/research/components-of-agent-memory",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Type: Agent orchestrator for running Claude Code and Codex on cloud",
+      "summary": "Article URL: https://type.com/\nComments URL: https://news.ycombinator.com/item?id=50401895\nPoints: 1\n# Comments: 0",
+      "url": "https://type.com/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Code Matters: Reflections on Rust in the LLM Age – Bryan Cantrill – Rust NYC [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=5D7QPOIZ7gY\nComments URL: https://news.ycombinator.com/item?id=50401738\nPoints: 3\n# Comments: 0",
+      "url": "https://www.youtube.com/watch?v=5D7QPOIZ7gY",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Meta introduces Spaces: custom app views built by your Muse agent",
+      "summary": "Article URL: https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/\nComments URL: https://news.ycombinator.com/item?id=50401384\nPoints: 1\n# Comments: 1",
+      "url": "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": []
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": []
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": []
+    }
+  ],
+  "oss": [
+    {
+      "title": "The Components of Agent Memory",
+      "summary": "Article URL: https://www.anthropic.com/research/components-of-agent-memory\nComments URL: https://news.ycombinator.com/item?id=50402212\nPoints: 1\n# Comments: 0",
+      "url": "https://www.anthropic.com/research/components-of-agent-memory",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Type: Agent orchestrator for running Claude Code and Codex on cloud",
+      "summary": "Article URL: https://type.com/\nComments URL: https://news.ycombinator.com/item?id=50401895\nPoints: 1\n# Comments: 0",
+      "url": "https://type.com/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Code Matters: Reflections on Rust in the LLM Age – Bryan Cantrill – Rust NYC [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=5D7QPOIZ7gY\nComments URL: https://news.ycombinator.com/item?id=50401738\nPoints: 3\n# Comments: 0",
+      "url": "https://www.youtube.com/watch?v=5D7QPOIZ7gY",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Meta introduces Spaces: custom app views built by your Muse agent",
+      "summary": "Article URL: https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/\nComments URL: https://news.ycombinator.com/item?id=50401384\nPoints: 1\n# Comments: 1",
+      "url": "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Tell HN: You can have separate agent account on GitHub",
+      "summary": "You can have a separate GitHub account for your agent (GitHub ToS actually allows that since April) and that account can fork your repo and open PRs. This way it cannot do any real damage but can still push.See this user for example: https://github.com/filippo-agenthttps://docs.github.com/en/site-p",
+      "url": "https://news.ycombinator.com/item?id=50400475",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: Cinnamon – a household AI agent with shared context and memories",
+      "summary": "Article URL: https://getcinnamon.ai/\nComments URL: https://news.ycombinator.com/item?id=50400056\nPoints: 1\n# Comments: 0",
+      "url": "https://getcinnamon.ai/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Turns with an LLM: coherence isn't the same as accuracy",
+      "summary": "Article URL: https://zenodo.org/records/23686384\nComments URL: https://news.ycombinator.com/item?id=50399673\nPoints: 1\n# Comments: 0",
+      "url": "https://zenodo.org/records/23686384",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [
+    {
+      "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
+      "summary": "Article URL: https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update\nComments URL: https://news.ycombinator.com/item?id=50397711\nPoints: 63\n# Comments: 12",
+      "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "research": [],
+  "china": []
+}
