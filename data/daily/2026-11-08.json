@@ -1,0 +1,137 @@
+{
+  "date": "2026-11-08",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-11-08 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Interleaf: An experimental tool for LLM assisted knowledge exploration",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=50410733\nPoints: 1\n# Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=50410733",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "VindexLLM – Windows Vulkan GPU GGUF LLM inference engine written in Delphi 12",
+      "summary": "Article URL: https://github.com/tinyBigGAMES/VindexLLM\nComments URL: https://news.ycombinator.com/item?id=50410646\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/tinyBigGAMES/VindexLLM",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: We Build Shareable Context Layer for Agent Teams",
+      "summary": "Article URL: https://github.com/volcengine/OpenViking\nComments URL: https://news.ycombinator.com/item?id=50410477\nPoints: 1\n# Comments: 1",
+      "url": "https://github.com/volcengine/OpenViking",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Is \"GPU-hour per user\" a sane way to price LLM inference?",
+      "summary": "Article URL: https://www.mirastacklabs.ai/\nComments URL: https://news.ycombinator.com/item?id=50410369\nPoints: 1\n# Comments: 0",
+      "url": "https://www.mirastacklabs.ai/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": []
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": []
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": []
+    }
+  ],
+  "oss": [
+    {
+      "title": "Interleaf: An experimental tool for LLM assisted knowledge exploration",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=50410733\nPoints: 1\n# Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=50410733",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "VindexLLM – Windows Vulkan GPU GGUF LLM inference engine written in Delphi 12",
+      "summary": "Article URL: https://github.com/tinyBigGAMES/VindexLLM\nComments URL: https://news.ycombinator.com/item?id=50410646\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/tinyBigGAMES/VindexLLM",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: We Build Shareable Context Layer for Agent Teams",
+      "summary": "Article URL: https://github.com/volcengine/OpenViking\nComments URL: https://news.ycombinator.com/item?id=50410477\nPoints: 1\n# Comments: 1",
+      "url": "https://github.com/volcengine/OpenViking",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Is \"GPU-hour per user\" a sane way to price LLM inference?",
+      "summary": "Article URL: https://www.mirastacklabs.ai/\nComments URL: https://news.ycombinator.com/item?id=50410369\nPoints: 1\n# Comments: 0",
+      "url": "https://www.mirastacklabs.ai/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Elephant-Goldfish Model (Agent Skill)",
+      "summary": "Article URL: https://github.com/google/elephant-goldfish-model\nComments URL: https://news.ycombinator.com/item?id=50410270\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/google/elephant-goldfish-model",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: LLM weight editing tool made by a 15-year-old",
+      "summary": "Article URL: https://github.com/Miyamoto-Renya/LaplacesScissors\nComments URL: https://news.ycombinator.com/item?id=50409986\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/Miyamoto-Renya/LaplacesScissors",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Building trust, an LLM thought experiment",
+      "summary": "Article URL: https://lucaskostka.com/posts/building-trust-llm-thought-experiment\nComments URL: https://news.ycombinator.com/item?id=50409707\nPoints: 1\n# Comments: 0",
+      "url": "https://lucaskostka.com/posts/building-trust-llm-thought-experiment",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Uncensored LLMs in agent loops: 31 models, 5 tasks, most fail half the time",
+      "summary": "Article URL: https://openuncensored.com/blog/uncensored-models-in-agent-loops\nComments URL: https://news.ycombinator.com/item?id=50409685\nPoints: 1\n# Comments: 1",
+      "url": "https://openuncensored.com/blog/uncensored-models-in-agent-loops",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [],
+  "research": [],
+  "china": []
+}
