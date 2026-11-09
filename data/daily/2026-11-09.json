@@ -1,0 +1,176 @@
+{
+  "date": "2026-11-09",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-11-09 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "s$^3$: Simple Scaling of Swarms via Cooperative Multi-agent RL",
+      "summary": "arXiv:2611.08615v1 Announce Type: new \nAbstract: Groups can achieve more than individuals in the same amount of time, but only if their members coordinate: they must decide who works on what and what to share. However, this organization in multi-agent systems today usually comes from arbitrary, stat",
+      "url": "https://arxiv.org/abs/2611.08615",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Divide, Diagnose, and Compose: Optimizing Agentic Pipelines and Harnesses",
+      "summary": "arXiv:2611.08723v1 Announce Type: new \nAbstract: Building agentic pipelines that achieve high task performance while keeping cost and latency low requires jointly optimizing heterogeneous and coupled design choices, including prompts, topology, model selection, and tool policies. Manually searching",
+      "url": "https://arxiv.org/abs/2611.08723",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "ODD+LLM: Specifying LLM-Agent Behavior for Reproducible Social Simulation",
+      "summary": "arXiv:2611.08932v1 Announce Type: new \nAbstract: The ODD protocol is the de facto standard for describing agent-based models, but it lacks vocabulary for the components that determine LLM-agent behavior: prompt assembly, memory serialization, parsing, and retry logic. We propose ODD+LLM, a backward-",
+      "url": "https://arxiv.org/abs/2611.08932",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "AIM: Adaptive Interaction in Multi-Agent Debate for Multimodal LLM Inference",
+      "summary": "arXiv:2611.08950v1 Announce Type: new \nAbstract: Multi-Agent Debate (MAD) improves reasoning on multimodal tasks, but its accuracy and token efficiency depend on how agents interact during debate. A largely overlooked design choice is which interaction modalities agents use to exchange evidence. Exi",
+      "url": "https://arxiv.org/abs/2611.08950",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": [
+        {
+          "title": "Recursively Self-Improving Electromagnetic Spectrum Agents: Architecture and Operation",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2611.09318"
+        }
+      ]
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "s$^3$: Simple Scaling of Swarms via Cooperative Multi-agent RL",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2611.08615"
+        },
+        {
+          "title": "AIM: Adaptive Interaction in Multi-Agent Debate for Multimodal LLM Inference",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2611.08950"
+        },
+        {
+          "title": "Phantom Consensus: Measuring Social Reasoning in Multi-Agent LLM Decision-Making",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2611.08971"
+        },
+        {
+          "title": "From Emergence to Reversibility: Toward Reversible Multi-Agent Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2611.09054"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "Divide, Diagnose, and Compose: Optimizing Agentic Pipelines and Harnesses",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2611.08723"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": []
+    }
+  ],
+  "oss": [],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "s$^3$: Simple Scaling of Swarms via Cooperative Multi-agent RL",
+      "summary": "arXiv:2611.08615v1 Announce Type: new \nAbstract: Groups can achieve more than individuals in the same amount of time, but only if their members coordinate: they must decide who works on what and what to share. However, this organization in multi-agent systems today usually comes from arbitrary, stat",
+      "url": "https://arxiv.org/abs/2611.08615",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Divide, Diagnose, and Compose: Optimizing Agentic Pipelines and Harnesses",
+      "summary": "arXiv:2611.08723v1 Announce Type: new \nAbstract: Building agentic pipelines that achieve high task performance while keeping cost and latency low requires jointly optimizing heterogeneous and coupled design choices, including prompts, topology, model selection, and tool policies. Manually searching",
+      "url": "https://arxiv.org/abs/2611.08723",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "ODD+LLM: Specifying LLM-Agent Behavior for Reproducible Social Simulation",
+      "summary": "arXiv:2611.08932v1 Announce Type: new \nAbstract: The ODD protocol is the de facto standard for describing agent-based models, but it lacks vocabulary for the components that determine LLM-agent behavior: prompt assembly, memory serialization, parsing, and retry logic. We propose ODD+LLM, a backward-",
+      "url": "https://arxiv.org/abs/2611.08932",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "AIM: Adaptive Interaction in Multi-Agent Debate for Multimodal LLM Inference",
+      "summary": "arXiv:2611.08950v1 Announce Type: new \nAbstract: Multi-Agent Debate (MAD) improves reasoning on multimodal tasks, but its accuracy and token efficiency depend on how agents interact during debate. A largely overlooked design choice is which interaction modalities agents use to exchange evidence. Exi",
+      "url": "https://arxiv.org/abs/2611.08950",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Phantom Consensus: Measuring Social Reasoning in Multi-Agent LLM Decision-Making",
+      "summary": "arXiv:2611.08971v1 Announce Type: new \nAbstract: Multi-agent LLM systems increasingly aggregate judgments across model instances, but reasoning about other agents can itself introduce failure. We study a setting in which LLMs shift their public decisions after observing ambiguous social signals whil",
+      "url": "https://arxiv.org/abs/2611.08971",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Sharing the Road: LLM-Based Bargaining in Mixed-Autonomy Traffic",
+      "summary": "arXiv:2611.09004v1 Announce Type: new \nAbstract: Mixed-autonomy traffic involves heterogeneous driving populations competing for shared road space. Previous studies have shown the existence and emergence of collective rationality using game-theoretic and reinforcement learning approaches, which rely",
+      "url": "https://arxiv.org/abs/2611.09004",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "From Emergence to Reversibility: Toward Reversible Multi-Agent Systems",
+      "summary": "arXiv:2611.09054v1 Announce Type: new \nAbstract: Multi-agent systems become capable through institutional mechanisms, such as rules that route information to agents that act on it. These mechanisms are also natural places to restrict the system. Yet as agents learn, share memory, delegate, and repai",
+      "url": "https://arxiv.org/abs/2611.09054",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Recursively Self-Improving Electromagnetic Spectrum Agents: Architecture and Operation",
+      "summary": "arXiv:2611.09318v1 Announce Type: new \nAbstract: Electromagnetic spectrum agents (ESAs) must contend with changing environments and task requirements during sustained autonomous operation, yet their existing capabilities may not remain suitable for new operating conditions. This article proposes rec",
+      "url": "https://arxiv.org/abs/2611.09318",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
