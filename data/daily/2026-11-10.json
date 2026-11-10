@@ -1,0 +1,152 @@
+{
+  "date": "2026-11-10",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-11-10 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "We're launching an in-game AI agent for WoW",
+      "summary": "Article URL: https://willocompanion.com/\nComments URL: https://news.ycombinator.com/item?id=50436869\nPoints: 1\n# Comments: 1",
+      "url": "https://willocompanion.com/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Socratic-tutor – turns an LLM into a strict personal tutor",
+      "summary": "Article URL: https://github.com/janestreet/agent_skills\nComments URL: https://news.ycombinator.com/item?id=50436087\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/janestreet/agent_skills",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "FlashStates Unlocking Flexible Hybrid State Management for Agentic LLM Inference",
+      "summary": "Article URL: https://flashstates.ai/\nComments URL: https://news.ycombinator.com/item?id=50436074\nPoints: 1\n# Comments: 0",
+      "url": "https://flashstates.ai/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "CUDA+ROCm dual-back ends LLM inference for mixed-vendor GPUs (up to 48% faster)",
+      "summary": "Article URL: https://github.com/mw00/project-maya/pull/879\nComments URL: https://news.ycombinator.com/item?id=50435181\nPoints: 2\n# Comments: 1",
+      "url": "https://github.com/mw00/project-maya/pull/879",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": []
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "FlashStates Unlocking Flexible Hybrid State Management for Agentic LLM Inference",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://flashstates.ai/"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": []
+    }
+  ],
+  "oss": [
+    {
+      "title": "We're launching an in-game AI agent for WoW",
+      "summary": "Article URL: https://willocompanion.com/\nComments URL: https://news.ycombinator.com/item?id=50436869\nPoints: 1\n# Comments: 1",
+      "url": "https://willocompanion.com/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Socratic-tutor – turns an LLM into a strict personal tutor",
+      "summary": "Article URL: https://github.com/janestreet/agent_skills\nComments URL: https://news.ycombinator.com/item?id=50436087\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/janestreet/agent_skills",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "FlashStates Unlocking Flexible Hybrid State Management for Agentic LLM Inference",
+      "summary": "Article URL: https://flashstates.ai/\nComments URL: https://news.ycombinator.com/item?id=50436074\nPoints: 1\n# Comments: 0",
+      "url": "https://flashstates.ai/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "CUDA+ROCm dual-back ends LLM inference for mixed-vendor GPUs (up to 48% faster)",
+      "summary": "Article URL: https://github.com/mw00/project-maya/pull/879\nComments URL: https://news.ycombinator.com/item?id=50435181\nPoints: 2\n# Comments: 1",
+      "url": "https://github.com/mw00/project-maya/pull/879",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Toptal AI – Full-Stack AI Services Company in the World for Agent Creation",
+      "summary": "Article URL: https://www.toptal.ai/\nComments URL: https://news.ycombinator.com/item?id=50434934\nPoints: 1\n# Comments: 0",
+      "url": "https://www.toptal.ai/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "JoesProxy – The free network workbench for your AI agent",
+      "summary": "Article URL: https://www.joesproxy.com/\nComments URL: https://news.ycombinator.com/item?id=50433956\nPoints: 2\n# Comments: 0",
+      "url": "https://www.joesproxy.com/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Agent Checks and Balances",
+      "summary": "Hey! First time poster, long time viewer (with personal user name) and early employee from a YC 2015 batch.Have the founder calling and was thinking about a world of rogue agents and human oversight/accountability. There are a few companies kind of doing this, but had the idea of bringing more acti",
+      "url": "https://news.ycombinator.com/item?id=50432964",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: Agent-email-guard – agent tried to send 400 receipts, stopped at 5",
+      "summary": "Article URL: https://github.com/agentisend/agent-email-guard\nComments URL: https://news.ycombinator.com/item?id=50432613\nPoints: 4\n# Comments: 1",
+      "url": "https://github.com/agentisend/agent-email-guard",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [
+    {
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "summary": "Article URL: https://github.com/thisisme6598/gemini_files/\nComments URL: https://news.ycombinator.com/item?id=50429426\nPoints: 559\n# Comments: 126",
+      "url": "https://github.com/thisisme6598/gemini_files/",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "research": [],
+  "china": []
+}
