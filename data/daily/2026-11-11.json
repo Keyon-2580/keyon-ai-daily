@@ -1,0 +1,344 @@
+{
+  "date": "2026-11-11",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-11-11 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Grok Build coding agent leaks confidential info, some belonging to SpaceXSI",
+      "summary": "Article URL: https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/\nComments URL: https://news.ycombinator.com/item?id=50450625\nPoints: 1\n# Comments: 0",
+      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Agent-Based Modeling: Worlds Within Worlds",
+      "summary": "Article URL: https://santafe.edu/features/agent-based-modeling-worlds-within-worlds\nComments URL: https://news.ycombinator.com/item?id=50450417\nPoints: 3\n# Comments: 0",
+      "url": "https://santafe.edu/features/agent-based-modeling-worlds-within-worlds",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Mimzie, an agent-neutral alternative to the Claude Suite/Claude Cowork",
+      "summary": "hi HN!I built Mimzie, an agent neutral AI workspace inspired by the Claude Suite (Docs, Sheets, Slides) and Cowork.It's a free desktop app that runs ChatGPT, Claude, Gemini, and Grok in their native CLI harnesses. Think T3 Code or Conductor but for knowledge work. It's basically a GUI for managing",
+      "url": "https://mimzie.com/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: PeepNote – Local desktop notes for saving and reusing LLM responses",
+      "summary": "Article URL: https://github.com/OddlyGoods/peep-note\nComments URL: https://news.ycombinator.com/item?id=50448161\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/OddlyGoods/peep-note",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
+      "summary": "arXiv:2611.12933v1 Announce Type: new \nAbstract: Closed-loop autonomous experimentation can accelerate scientific discovery, but implementation effort limits accessibility. Agentic systems may lower this barrier, although sustained operation on physical instruments remains largely unexplored. Here,",
+      "url": "https://arxiv.org/abs/2611.12933",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
+      "summary": "arXiv:2611.12934v1 Announce Type: new \nAbstract: While multimodal agents now carry out complex data analysis with tools, their ability to turn decades of satellite imagery into reliable land-change analysis, crucial for Earth observation science, remains unmeasured. Existing benchmarks fall short: t",
+      "url": "https://arxiv.org/abs/2611.12934",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
+      "summary": "arXiv:2611.12935v1 Announce Type: new \nAbstract: Topic monitoring is the task of labelling the topic of each token in a model's response during generation. Activation-based monitors that run at generation time have so far been trained to detect harmful content and are limited to two or three classes",
+      "url": "https://arxiv.org/abs/2611.12935",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding",
+      "summary": "arXiv:2611.12936v1 Announce Type: new \nAbstract: Intelligent landslide detection is essential for disaster prevention. However, existing models primarily focus on isolated visual tasks, require extensive labeled data, and lack deep analytical and scene-understanding capabilities. To address these li",
+      "url": "https://arxiv.org/abs/2611.12936",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Safety and Connectivity Certificates for Finite-Time Formation Transitions",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2611.13927"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2611.12933"
+        },
+        {
+          "title": "AI Governance Should Prioritize Control and Knowledge Boundaries Over Limiting Intelligence",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2611.12941"
+        },
+        {
+          "title": "From Process Models to Composable Agentic Workflows: Combining BPMN, Agents and Enterprise Knowledge",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2611.13196"
+        },
+        {
+          "title": "Do AI Agents need Preventive Care? An Epidemiologic Cohort Design for Agentic AI",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2611.13333"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Show HN: Mimzie, an agent-neutral alternative to the Claude Suite/Claude Cowork",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://mimzie.com/"
+        },
+        {
+          "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2611.12934"
+        },
+        {
+          "title": "Graph Visualizations in Prompts for Knowledge Graph Question Answering",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2611.12938"
+        },
+        {
+          "title": "PARLEY: Evaluating LLM Collaboration Through Cooperative Asymmetric Puzzles",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2611.14242"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "Grok Build coding agent leaks confidential info, some belonging to SpaceXSI",
+      "summary": "Article URL: https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/\nComments URL: https://news.ycombinator.com/item?id=50450625\nPoints: 1\n# Comments: 0",
+      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Agent-Based Modeling: Worlds Within Worlds",
+      "summary": "Article URL: https://santafe.edu/features/agent-based-modeling-worlds-within-worlds\nComments URL: https://news.ycombinator.com/item?id=50450417\nPoints: 3\n# Comments: 0",
+      "url": "https://santafe.edu/features/agent-based-modeling-worlds-within-worlds",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Mimzie, an agent-neutral alternative to the Claude Suite/Claude Cowork",
+      "summary": "hi HN!I built Mimzie, an agent neutral AI workspace inspired by the Claude Suite (Docs, Sheets, Slides) and Cowork.It's a free desktop app that runs ChatGPT, Claude, Gemini, and Grok in their native CLI harnesses. Think T3 Code or Conductor but for knowledge work. It's basically a GUI for managing",
+      "url": "https://mimzie.com/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: PeepNote – Local desktop notes for saving and reusing LLM responses",
+      "summary": "Article URL: https://github.com/OddlyGoods/peep-note\nComments URL: https://news.ycombinator.com/item?id=50448161\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/OddlyGoods/peep-note",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Cinnamon AI – an agent for your household",
+      "summary": "Article URL: https://getcinnamon.ai/\nComments URL: https://news.ycombinator.com/item?id=50447925\nPoints: 2\n# Comments: 2",
+      "url": "https://getcinnamon.ai/",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: Codemm – your coding agent writes exercises, a sandbox rejects bad ones",
+      "summary": "Article URL: https://github.com/iignaite/Codemm\nComments URL: https://news.ycombinator.com/item?id=50447636\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/iignaite/Codemm",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "LLM inference, visually explained: why a 13B model reads 26 GB per token",
+      "summary": "Article URL: https://www.youtube.com/watch?v=R3meYJU7wEg\nComments URL: https://news.ycombinator.com/item?id=50447378\nPoints: 4\n# Comments: 0",
+      "url": "https://www.youtube.com/watch?v=R3meYJU7wEg",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
+      "summary": "Article URL: https://arxiv.org/abs/2611.10866\nComments URL: https://news.ycombinator.com/item?id=50447363\nPoints: 19\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2611.10866",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
+      "summary": "arXiv:2611.12933v1 Announce Type: new \nAbstract: Closed-loop autonomous experimentation can accelerate scientific discovery, but implementation effort limits accessibility. Agentic systems may lower this barrier, although sustained operation on physical instruments remains largely unexplored. Here,",
+      "url": "https://arxiv.org/abs/2611.12933",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
+      "summary": "arXiv:2611.12934v1 Announce Type: new \nAbstract: While multimodal agents now carry out complex data analysis with tools, their ability to turn decades of satellite imagery into reliable land-change analysis, crucial for Earth observation science, remains unmeasured. Existing benchmarks fall short: t",
+      "url": "https://arxiv.org/abs/2611.12934",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
+      "summary": "arXiv:2611.12935v1 Announce Type: new \nAbstract: Topic monitoring is the task of labelling the topic of each token in a model's response during generation. Activation-based monitors that run at generation time have so far been trained to detect harmful content and are limited to two or three classes",
+      "url": "https://arxiv.org/abs/2611.12935",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding",
+      "summary": "arXiv:2611.12936v1 Announce Type: new \nAbstract: Intelligent landslide detection is essential for disaster prevention. However, existing models primarily focus on isolated visual tasks, require extensive labeled data, and lack deep analytical and scene-understanding capabilities. To address these li",
+      "url": "https://arxiv.org/abs/2611.12936",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Tracing Psychometric Inference in Large Language Models",
+      "summary": "arXiv:2611.12937v1 Announce Type: new \nAbstract: Do large language models represent psychological constructs internally, or do they only generate outputs that resemble psychometric structure? We address this question using a cross-persona paradigm across 14 model variants from two families (Llama 3",
+      "url": "https://arxiv.org/abs/2611.12937",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Graph Visualizations in Prompts for Knowledge Graph Question Answering",
+      "summary": "arXiv:2611.12938v1 Announce Type: new \nAbstract: We study when and how multimodal input improves knowledge graph question answering (KGQA) in large vision--language models. Using a controlled evaluation over 1,500 WebQSP and CWQ questions and six VLMs within a fixed KGQA pipeline, we compare text-on",
+      "url": "https://arxiv.org/abs/2611.12938",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Reinforcement Learning based control of Cancer Chemotherapy treatments",
+      "summary": "arXiv:2611.12940v1 Announce Type: new \nAbstract: Reinforcement Learning has achieved tremendous success in recent years. Extending its scope from the traditional complex games such as Atari, Go, Pokeman, and Chess, reinforcement learning has caught researchers' attention on modelling real-life scena",
+      "url": "https://arxiv.org/abs/2611.12940",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "AI Governance Should Prioritize Control and Knowledge Boundaries Over Limiting Intelligence",
+      "summary": "arXiv:2611.12941v1 Announce Type: new \nAbstract: The rapid proliferation of autonomously acting AI agents makes the governance of agentic systems urgent. We propose the competence circuit, summarized as IKC + KC + C, that decomposes an agent's real-world impact into three pathways: intelligence-medi",
+      "url": "https://arxiv.org/abs/2611.12941",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "PARLEY: Evaluating LLM Collaboration Through Cooperative Asymmetric Puzzles",
+      "summary": "arXiv:2611.14242v1 Announce Type: new \nAbstract: As large language models power autonomous agents, understanding how they collaborate and where they fail becomes critical. We introduce PARLEY, an extensible platform for studying LLM agent collaboration through four asymmetric puzzle tasks grounded i",
+      "url": "https://arxiv.org/abs/2611.14242",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "From Process Models to Composable Agentic Workflows: Combining BPMN, Agents and Enterprise Knowledge",
+      "summary": "arXiv:2611.13196v1 Announce Type: cross \nAbstract: LLM-based agents can reason, use tools and collaborate. However, coordinating increasingly complex agentic applications becomes difficult to understand, monitor and improve. Decisions distributed across prompts, tool calls and application logic make",
+      "url": "https://arxiv.org/abs/2611.13196",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Do AI Agents need Preventive Care? An Epidemiologic Cohort Design for Agentic AI",
+      "summary": "arXiv:2611.13333v1 Announce Type: cross \nAbstract: As AI agents increasingly perform tasks autonomously across sectors, including healthcare and biomedical research, understanding how their behaviors develop and influence outcomes over time becomes increasingly important. Existing evaluations largel",
+      "url": "https://arxiv.org/abs/2611.13333",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "DrugCoding: A Scientific Programming Agent for Drug Discovery",
+      "summary": "arXiv:2611.13651v1 Announce Type: cross \nAbstract: Drug discovery involves multiple interconnected research stages, including molecular design, property prediction, and virtual screening. These processes are characterized by complex workflows, interdependent computational tasks, and diverse speciali",
+      "url": "https://arxiv.org/abs/2611.13651",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Safety and Connectivity Certificates for Finite-Time Formation Transitions",
+      "summary": "arXiv:2611.13927v1 Announce Type: cross \nAbstract: Finite-time formation transitions are useful for coordinating multi-agent systems in time-critical missions, but convergence to a prescribed formation in finite time does not guarantee collision avoidance or communication connectivity during the tra",
+      "url": "https://arxiv.org/abs/2611.13927",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Personalized Affective Perception via Continual Learning in Human-Agent Negotiation",
+      "summary": "arXiv:2611.14247v1 Announce Type: cross \nAbstract: Self-interested intelligent agents that negotiate with humans should interpret nonverbal expressions and adapt their behavior accordingly. However, generic facial-affect models degrade across individuals and contexts, creating a generalization gap.",
+      "url": "https://arxiv.org/abs/2611.14247",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents",
+      "summary": "arXiv:2611.14320v1 Announce Type: cross \nAbstract: External memory enables LLM agents to improve from experience by distilling trajectories of past tasks into concise lessons for new tasks. However, memory can also lead to memory-induced degradation, where an agent fails on tasks it would solve with",
+      "url": "https://arxiv.org/abs/2611.14320",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
