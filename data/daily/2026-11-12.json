@@ -1,0 +1,144 @@
+{
+  "date": "2026-11-12",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-11-12 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Agent Substrate",
+      "summary": "Article URL: https://github.com/agent-substrate/substrate\nComments URL: https://news.ycombinator.com/item?id=50464095\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/agent-substrate/substrate",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams",
+      "summary": "Article URL: https://alignment.anthropic.com/2026/worse-together/\nComments URL: https://news.ycombinator.com/item?id=50463856\nPoints: 2\n# Comments: 0",
+      "url": "https://alignment.anthropic.com/2026/worse-together/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Towards Verifiable LLM Infra",
+      "summary": "Article URL: https://haoailab.com/blogs/verifiable-llm-infra/\nComments URL: https://news.ycombinator.com/item?id=50463558\nPoints: 2\n# Comments: 0",
+      "url": "https://haoailab.com/blogs/verifiable-llm-infra/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Receipts, agent skills that make PRDs and metrics cite their evidence",
+      "summary": "Article URL: https://github.com/aliraza2025/receipts\nComments URL: https://news.ycombinator.com/item?id=50461995\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/aliraza2025/receipts",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://alignment.anthropic.com/2026/worse-together/"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": []
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": []
+    }
+  ],
+  "oss": [
+    {
+      "title": "Agent Substrate",
+      "summary": "Article URL: https://github.com/agent-substrate/substrate\nComments URL: https://news.ycombinator.com/item?id=50464095\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/agent-substrate/substrate",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams",
+      "summary": "Article URL: https://alignment.anthropic.com/2026/worse-together/\nComments URL: https://news.ycombinator.com/item?id=50463856\nPoints: 2\n# Comments: 0",
+      "url": "https://alignment.anthropic.com/2026/worse-together/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Towards Verifiable LLM Infra",
+      "summary": "Article URL: https://haoailab.com/blogs/verifiable-llm-infra/\nComments URL: https://news.ycombinator.com/item?id=50463558\nPoints: 2\n# Comments: 0",
+      "url": "https://haoailab.com/blogs/verifiable-llm-infra/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Receipts, agent skills that make PRDs and metrics cite their evidence",
+      "summary": "Article URL: https://github.com/aliraza2025/receipts\nComments URL: https://news.ycombinator.com/item?id=50461995\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/aliraza2025/receipts",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Keeping names, emails and phone numbers out of LLM prompts with a local proxy",
+      "summary": "Article URL: https://github.com/rmpmrepo1278/swapback\nComments URL: https://news.ycombinator.com/item?id=50460951\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/rmpmrepo1278/swapback",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: W-ISA – An instruction set for programming LLM weights",
+      "summary": "Article URL: https://github.com/eax/w-isa\nComments URL: https://news.ycombinator.com/item?id=50460697\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/eax/w-isa",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Modern Web Guidance 1.0: The web platform expertise your coding agent is missing",
+      "summary": "Article URL: https://developer.chrome.com/blog/modern-web-guidance-v1\nComments URL: https://news.ycombinator.com/item?id=50460398\nPoints: 31\n# Comments: 7",
+      "url": "https://developer.chrome.com/blog/modern-web-guidance-v1",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: Agent skill and Claude/Codex plugins for Google Ads campaigns",
+      "summary": "Article URL: https://github.com/adeptads/agent-skills\nComments URL: https://news.ycombinator.com/item?id=50460287\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/adeptads/agent-skills",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [],
+  "research": [],
+  "china": []
+}
