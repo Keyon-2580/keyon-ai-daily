@@ -1,0 +1,338 @@
+{
+  "date": "2026-11-16",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-11-16 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Show HN: Agent-Otel-Kit – OTel Dashboards for Claude Code, Codex and Gemini CLI",
+      "summary": "Article URL: https://github.com/s3onghyun/agent-otel-kit\nComments URL: https://news.ycombinator.com/item?id=50514293\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/s3onghyun/agent-otel-kit",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: A benchmark that diffs the whole database after an AI agent's task",
+      "summary": "Article URL: https://github.com/shubhamjoshipromail-svg/software-world-model\nComments URL: https://news.ycombinator.com/item?id=50514157\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/shubhamjoshipromail-svg/software-world-model",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "A Local-First Agent for Private Knowledge Work",
+      "summary": "Article URL: https://www.perplexity.ai/hub/blog/a-local-first-agent-for-private-and-cost-effective-knowledge-work\nComments URL: https://news.ycombinator.com/item?id=50513901\nPoints: 1\n# Comments: 0",
+      "url": "https://www.perplexity.ai/hub/blog/a-local-first-agent-for-private-and-cost-effective-knowledge-work",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: gavel: guided code review with your coding agent",
+      "summary": "Howdy!I've been working on an open-source tool that helps lighten the burden of reviewing what your coding agents write. You still see all the lines of code, but the agents write a \"tour guide\" that links you through the local PR, and as you have questions or comments, you chat with your agent in t",
+      "url": "https://photostructure.com/coding/gavel/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+      "summary": "arXiv:2611.17338v1 Announce Type: new \nAbstract: LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver errors delete query-critical facts. Across three models, a controlled sensitivity intervention moves hard-dro",
+      "url": "https://arxiv.org/abs/2611.17338",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
+      "summary": "arXiv:2611.17339v1 Announce Type: new \nAbstract: Hallucination detection for large language models is dominated by methods evaluated on 7B-70B research models with abundant sampling budgets and exact-match or ROUGE correctness labels. The small models practitioners actually ship on-device, Phi-3-min",
+      "url": "https://arxiv.org/abs/2611.17339",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
+      "summary": "arXiv:2611.17340v1 Announce Type: new \nAbstract: Large language models are expensive to update through full retraining. Parameter-efficient fine-tuning reduces the cost of adaptation, but repeated adaptation creates a growing pool of task-specific LoRA adapters. This pool complicates adapter selecti",
+      "url": "https://arxiv.org/abs/2611.17340",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
+      "summary": "arXiv:2611.17341v1 Announce Type: new \nAbstract: Medication prediction from electronic health records is a fixed vocabulary structured prediction problem, yet recent clinical RAG systems often treat it like open ended case based reasoning: retrieve similar patient admissions and ask an LLM to infer",
+      "url": "https://arxiv.org/abs/2611.17341",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "I built an open-source multi-agent DAG orchestrator and AST RAG engine on Termux",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://github.com/KrypticKode007/Golden-Agent"
+        },
+        {
+          "title": "Only as Safe as the Weakest Agent: A Break That Appears Only When the System Is Multi-Agent",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2611.17520"
+        },
+        {
+          "title": "When Should a Virtual Patient Ask? RISP-Guided Proactive Information Seeking in Multi-Agent Patient Simulation",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2611.18183"
+        },
+        {
+          "title": "More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2611.17610"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "TradeGauntlet: Evaluating Compliance Controls for Autonomous Trading Agents",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2611.18493"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Show HN: A benchmark that diffs the whole database after an AI agent's task",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://github.com/shubhamjoshipromail-svg/software-world-model"
+        },
+        {
+          "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2611.17339"
+        },
+        {
+          "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2611.17341"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "Show HN: Agent-Otel-Kit – OTel Dashboards for Claude Code, Codex and Gemini CLI",
+      "summary": "Article URL: https://github.com/s3onghyun/agent-otel-kit\nComments URL: https://news.ycombinator.com/item?id=50514293\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/s3onghyun/agent-otel-kit",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: A benchmark that diffs the whole database after an AI agent's task",
+      "summary": "Article URL: https://github.com/shubhamjoshipromail-svg/software-world-model\nComments URL: https://news.ycombinator.com/item?id=50514157\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/shubhamjoshipromail-svg/software-world-model",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "A Local-First Agent for Private Knowledge Work",
+      "summary": "Article URL: https://www.perplexity.ai/hub/blog/a-local-first-agent-for-private-and-cost-effective-knowledge-work\nComments URL: https://news.ycombinator.com/item?id=50513901\nPoints: 1\n# Comments: 0",
+      "url": "https://www.perplexity.ai/hub/blog/a-local-first-agent-for-private-and-cost-effective-knowledge-work",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: gavel: guided code review with your coding agent",
+      "summary": "Howdy!I've been working on an open-source tool that helps lighten the burden of reviewing what your coding agents write. You still see all the lines of code, but the agents write a \"tour guide\" that links you through the local PR, and as you have questions or comments, you chat with your agent in t",
+      "url": "https://photostructure.com/coding/gavel/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Dawn of the Super Agent",
+      "summary": "Article URL: https://www.agno.com/blog/dawn-of-the-super-agent\nComments URL: https://news.ycombinator.com/item?id=50512448\nPoints: 2\n# Comments: 0",
+      "url": "https://www.agno.com/blog/dawn-of-the-super-agent",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "The efficient frontier of LLM inference",
+      "summary": "Article URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/#quantization\nComments URL: https://news.ycombinator.com/item?id=50512233\nPoints: 8\n# Comments: 0",
+      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/#quantization",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: Skillset: Easily curate and install agent skills collection",
+      "summary": "Hi everyone!Installing skills globally in ~/.agents or ~/.claude consumes too much context, yet manually installing specific skills for every project is tedious. Wouldn't it be better to group skills for programming, backend architecture, or graphic design into collections, and install them with a",
+      "url": "https://github.com/itsmeyaw/skillset",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "I built an open-source multi-agent DAG orchestrator and AST RAG engine on Termux",
+      "summary": "Article URL: https://github.com/KrypticKode007/Golden-Agent\nComments URL: https://news.ycombinator.com/item?id=50511715\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/KrypticKode007/Golden-Agent",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+      "summary": "arXiv:2611.17338v1 Announce Type: new \nAbstract: LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver errors delete query-critical facts. Across three models, a controlled sensitivity intervention moves hard-dro",
+      "url": "https://arxiv.org/abs/2611.17338",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
+      "summary": "arXiv:2611.17339v1 Announce Type: new \nAbstract: Hallucination detection for large language models is dominated by methods evaluated on 7B-70B research models with abundant sampling budgets and exact-match or ROUGE correctness labels. The small models practitioners actually ship on-device, Phi-3-min",
+      "url": "https://arxiv.org/abs/2611.17339",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
+      "summary": "arXiv:2611.17340v1 Announce Type: new \nAbstract: Large language models are expensive to update through full retraining. Parameter-efficient fine-tuning reduces the cost of adaptation, but repeated adaptation creates a growing pool of task-specific LoRA adapters. This pool complicates adapter selecti",
+      "url": "https://arxiv.org/abs/2611.17340",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
+      "summary": "arXiv:2611.17341v1 Announce Type: new \nAbstract: Medication prediction from electronic health records is a fixed vocabulary structured prediction problem, yet recent clinical RAG systems often treat it like open ended case based reasoning: retrieve similar patient admissions and ask an LLM to infer",
+      "url": "https://arxiv.org/abs/2611.17341",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "An Operationalization of Opaque Serial Depth",
+      "summary": "arXiv:2611.17495v1 Announce Type: new \nAbstract: Chain-of-thought (CoT) is currently a valuable tool for overseeing AI models, but some architectural shifts could significantly reduce CoT monitorability. We operationalize a measure that serves as a proxy for the amount of unverbalized serial cogniti",
+      "url": "https://arxiv.org/abs/2611.17495",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Advancing Quantization for R&R Models with Microscaling Formats",
+      "summary": "arXiv:2611.17501v1 Announce Type: new \nAbstract: Recommendation and Ranking (R&R) models, particularly in digital advertising, require massive inference throughput but exhibit extreme sensitivity to precision loss. Unlike Large Language Models (LLMs) that frequently tolerate quantization-induced acc",
+      "url": "https://arxiv.org/abs/2611.17501",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
+      "summary": "arXiv:2611.17515v1 Announce Type: new \nAbstract: Can sustained gain-loss (valence) framing sway an LLM agent toward market manipulation? We place Gemma 3 12B into the seat of a defendant in the London silver-fixing litigation, in a market simulation built from real case transcripts. Across 260 simul",
+      "url": "https://arxiv.org/abs/2611.17515",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Model Annealing: Data-Efficient Learning through Review and Consolidation",
+      "summary": "arXiv:2611.17524v1 Announce Type: new \nAbstract: A small labelled dataset is memorized long before the training budget runs out, and the one-hot labels that remain to be fitted then mostly sharpen confidence. Model annealing spends the rest of the budget on review and consolidation, relearning from",
+      "url": "https://arxiv.org/abs/2611.17524",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Only as Safe as the Weakest Agent: A Break That Appears Only When the System Is Multi-Agent",
+      "summary": "arXiv:2611.17520v1 Announce Type: new \nAbstract: Major industry multi-agent systems like Codex and Claude Code can be broken by attacks that have long been unsuccessful against modern frontier models. AI Safety as a discipline has largely focused on finding the bounds and vulnerabilities of AI model",
+      "url": "https://arxiv.org/abs/2611.17520",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "When Should a Virtual Patient Ask? RISP-Guided Proactive Information Seeking in Multi-Agent Patient Simulation",
+      "summary": "arXiv:2611.18183v1 Announce Type: new \nAbstract: Virtual patient (VP) systems support nursing communication training by providing simulated encounters in which learners practise explaining care and responding to patient concerns. Although large language models (LLMs) support flexible dialogue, curre",
+      "url": "https://arxiv.org/abs/2611.18183",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "TradeGauntlet: Evaluating Compliance Controls for Autonomous Trading Agents",
+      "summary": "arXiv:2611.18493v1 Announce Type: new \nAbstract: Autonomous trading agents need controls that prevent problematic orders without making legitimate tasks impractical. We study this aspect of agentic compliance with TradeGauntlet, a replayable limit-order-book simulator that separates detection, preve",
+      "url": "https://arxiv.org/abs/2611.18493",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Physical-Risk-Aware Decentralized Agents for Constrained Vehicle Communications",
+      "summary": "arXiv:2611.17456v1 Announce Type: cross \nAbstract: Decentralized V2X resource control is challenging because each vehicle has only local observations, while reliability depends on network-wide interactions. We develop a physical-risk-aware spatio-temporal graph attention (PA-STGAT) framework for age",
+      "url": "https://arxiv.org/abs/2611.17456",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Collective Tree Exploration with Predictions",
+      "summary": "arXiv:2611.17482v1 Announce Type: cross \nAbstract: We study collective tree exploration with subtree-size predictions. In this problem, a team of $k$ mobile agents needs to explore an unknown rooted tree as fast as possible, and whenever a new vertex $u$ is discovered, the team receives a prediction",
+      "url": "https://arxiv.org/abs/2611.17482",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs",
+      "summary": "arXiv:2611.17610v1 Announce Type: cross \nAbstract: Evaluations of multi-agent language models often compare communicating architectures against a single greedy pass. This practice confounds coordination with sample multiplicity and inference compute. We synthesize nine primary empirical evaluations",
+      "url": "https://arxiv.org/abs/2611.17610",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Smart Home Agents Make Capable but Unpredictable Grid Operators",
+      "summary": "arXiv:2611.18395v1 Announce Type: cross \nAbstract: AI-enabled smart homes are becoming more common across the grid edge. However, there has not been much work on failure response. This area is critical because smart homes operate on the grid edge where failures can cascade down. If a power outage ha",
+      "url": "https://arxiv.org/abs/2611.18395",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
