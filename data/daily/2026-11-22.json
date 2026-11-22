@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-22",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-11-22 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Three-way translation merge: keeping translated pages in sync with an LLM",
+      "summary": "Article URL: https://maxmart.github.io/posts/three-way-translation-merge/\nComments URL: https://news.ycombinator.com/item?id=50597161\nPoints: 1\n# Comments: 0",
+      "url": "https://maxmart.github.io/posts/three-way-translation-merge/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "A Slinky on an Escalator Is a Weirdly Good Test of LLM Intelligence",
+      "summary": "Article URL: https://morethanamachine.com/posts/slinky-escalator-benchmark/\nComments URL: https://news.ycombinator.com/item?id=50597156\nPoints: 1\n# Comments: 1",
+      "url": "https://morethanamachine.com/posts/slinky-escalator-benchmark/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Why agent swarms get better at optimizing code as they grow",
+      "summary": "Article URL: https://frontier.replit.com/throwing-headcount-at-the-problem/\nComments URL: https://news.ycombinator.com/item?id=50596818\nPoints: 2\n# Comments: 0",
+      "url": "https://frontier.replit.com/throwing-headcount-at-the-problem/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Replaying an agent run and what it takes",
+      "summary": "Article URL: https://github.com/chizy7/tether/blob/master/docs/REPLAY.md\nComments URL: https://news.ycombinator.com/item?id=50596505\nPoints: 4\n# Comments: 0",
+      "url": "https://github.com/chizy7/tether/blob/master/docs/REPLAY.md",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": []
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": []
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "A Slinky on an Escalator Is a Weirdly Good Test of LLM Intelligence",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://morethanamachine.com/posts/slinky-escalator-benchmark/"
+        },
+        {
+          "title": "Fleet – manage multiple harnesses with a central agent in a TUI",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://github.com/sturlabragason/fleet"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "Three-way translation merge: keeping translated pages in sync with an LLM",
+      "summary": "Article URL: https://maxmart.github.io/posts/three-way-translation-merge/\nComments URL: https://news.ycombinator.com/item?id=50597161\nPoints: 1\n# Comments: 0",
+      "url": "https://maxmart.github.io/posts/three-way-translation-merge/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "A Slinky on an Escalator Is a Weirdly Good Test of LLM Intelligence",
+      "summary": "Article URL: https://morethanamachine.com/posts/slinky-escalator-benchmark/\nComments URL: https://news.ycombinator.com/item?id=50597156\nPoints: 1\n# Comments: 1",
+      "url": "https://morethanamachine.com/posts/slinky-escalator-benchmark/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Why agent swarms get better at optimizing code as they grow",
+      "summary": "Article URL: https://frontier.replit.com/throwing-headcount-at-the-problem/\nComments URL: https://news.ycombinator.com/item?id=50596818\nPoints: 2\n# Comments: 0",
+      "url": "https://frontier.replit.com/throwing-headcount-at-the-problem/",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Replaying an agent run and what it takes",
+      "summary": "Article URL: https://github.com/chizy7/tether/blob/master/docs/REPLAY.md\nComments URL: https://news.ycombinator.com/item?id=50596505\nPoints: 4\n# Comments: 0",
+      "url": "https://github.com/chizy7/tether/blob/master/docs/REPLAY.md",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Show HN: Git blame for AI code, down to the agent session",
+      "summary": "Article URL: https://keepplain.com/blame\nComments URL: https://news.ycombinator.com/item?id=50594433\nPoints: 3\n# Comments: 0",
+      "url": "https://keepplain.com/blame",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Kvdiff – Local proxy showing the byte breaking your LLM prompt cache",
+      "summary": "Article URL: https://github.com/flipcyde101/kvdiff\nComments URL: https://news.ycombinator.com/item?id=50594339\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/flipcyde101/kvdiff",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Fleet – manage multiple harnesses with a central agent in a TUI",
+      "summary": "Article URL: https://github.com/sturlabragason/fleet\nComments URL: https://news.ycombinator.com/item?id=50594270\nPoints: 2\n# Comments: 1",
+      "url": "https://github.com/sturlabragason/fleet",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "FarmDash (zero-custody DeFi agent API): RFC 9727 catalog, typed webhooks",
+      "summary": "Article URL: https://www.farmdash.one/.well-known/api-catalog\nComments URL: https://news.ycombinator.com/item?id=50594026\nPoints: 3\n# Comments: 0",
+      "url": "https://www.farmdash.one/.well-known/api-catalog",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [],
+  "research": [],
+  "china": []
+}
