@@ -1,0 +1,180 @@
+{
+  "date": "2026-11-25",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-11-25 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "When Successful Collaboration Becomes an Attack Surface: Insider Memory Poisoning in Multi-Agent Systems",
+      "summary": "arXiv:2611.31307v1 Announce Type: new \nAbstract: Recent Multi-Agent Systems (MAS) increasingly use shared memory to store and reuse successful collaboration records, enabling teams to improve across tasks. However, this memory introduces a new attack surface for malicious insiders. Unlike existing i",
+      "url": "https://arxiv.org/abs/2611.31307",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Evolutionary AI Control: Population-Level Safety Under Reproduction, Heredity, and Selection",
+      "summary": "arXiv:2611.31312v1 Announce Type: new \nAbstract: An AI agent can satisfy every individual safety check and still give rise to a population that violates a collective safety limit. This risk arises in open multi-agent systems, where agents copy themselves, modify their successors, and change system m",
+      "url": "https://arxiv.org/abs/2611.31312",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Measuring Counterfactual Credit in a Replayable Wildfire-Suppression Benchmark",
+      "summary": "arXiv:2611.31499v1 Announce Type: new \nAbstract: In cooperative multi-agent reinforcement learning, learned critics are usually evaluated by how well they predict the team's return. Yet predicting a team's return and assigning credit to individual actions are distinct tasks. To test credit directly,",
+      "url": "https://arxiv.org/abs/2611.31499",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Reproducible Social Structure Emerges From Free-Form Interaction Among LLM Agents",
+      "summary": "arXiv:2611.31543v1 Announce Type: new \nAbstract: Multi-agent LLM simulations are increasingly used as models of social systems, but most published findings are anecdotal, i.e., drawn from a single run. It is therefore unclear which observed phenomena are robust findings of the simulated system itsel",
+      "url": "https://arxiv.org/abs/2611.31543",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "When Successful Collaboration Becomes an Attack Surface: Insider Memory Poisoning in Multi-Agent Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2611.31307"
+        },
+        {
+          "title": "Evolutionary AI Control: Population-Level Safety Under Reproduction, Heredity, and Selection",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2611.31312"
+        },
+        {
+          "title": "Measuring Counterfactual Credit in a Replayable Wildfire-Suppression Benchmark",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2611.31499"
+        },
+        {
+          "title": "Reproducible Social Structure Emerges From Free-Form Interaction Among LLM Agents",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2611.31543"
+        },
+        {
+          "title": "Recursive Collective Intelligence: Emergence on an Equal-Budget Ladder in Multi-Agent LLM Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2611.32606"
+        },
+        {
+          "title": "Multi-Agent Coordination Through Stigmergy for Canal Network Formation on Real Terrain",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2611.32966"
+        },
+        {
+          "title": "Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2611.31284"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": []
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": []
+    }
+  ],
+  "oss": [],
+  "voices": [],
+  "industry": [],
+  "research": [
+    {
+      "title": "When Successful Collaboration Becomes an Attack Surface: Insider Memory Poisoning in Multi-Agent Systems",
+      "summary": "arXiv:2611.31307v1 Announce Type: new \nAbstract: Recent Multi-Agent Systems (MAS) increasingly use shared memory to store and reuse successful collaboration records, enabling teams to improve across tasks. However, this memory introduces a new attack surface for malicious insiders. Unlike existing i",
+      "url": "https://arxiv.org/abs/2611.31307",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Evolutionary AI Control: Population-Level Safety Under Reproduction, Heredity, and Selection",
+      "summary": "arXiv:2611.31312v1 Announce Type: new \nAbstract: An AI agent can satisfy every individual safety check and still give rise to a population that violates a collective safety limit. This risk arises in open multi-agent systems, where agents copy themselves, modify their successors, and change system m",
+      "url": "https://arxiv.org/abs/2611.31312",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Measuring Counterfactual Credit in a Replayable Wildfire-Suppression Benchmark",
+      "summary": "arXiv:2611.31499v1 Announce Type: new \nAbstract: In cooperative multi-agent reinforcement learning, learned critics are usually evaluated by how well they predict the team's return. Yet predicting a team's return and assigning credit to individual actions are distinct tasks. To test credit directly,",
+      "url": "https://arxiv.org/abs/2611.31499",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Reproducible Social Structure Emerges From Free-Form Interaction Among LLM Agents",
+      "summary": "arXiv:2611.31543v1 Announce Type: new \nAbstract: Multi-agent LLM simulations are increasingly used as models of social systems, but most published findings are anecdotal, i.e., drawn from a single run. It is therefore unclear which observed phenomena are robust findings of the simulated system itsel",
+      "url": "https://arxiv.org/abs/2611.31543",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Unifying Partner and Environment Diversity to Improve Human-AI Coordination",
+      "summary": "arXiv:2611.32031v1 Announce Type: new \nAbstract: Real-world applications of modern AI systems require generalization to both unseen environments and novel human users. The field of zero-shot coordination (ZSC) has focused primarily on deploying AI to cooperate with novel partners in otherwise famili",
+      "url": "https://arxiv.org/abs/2611.32031",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Recursive Collective Intelligence: Emergence on an Equal-Budget Ladder in Multi-Agent LLM Systems",
+      "summary": "arXiv:2611.32606v1 Announce Type: new \nAbstract: Large language models increasingly work as teams of agents, and a team is expected to solve problems beyond the reach of any single member. Most evaluations credit a team for outperforming a single agent, without accounting for the additional computat",
+      "url": "https://arxiv.org/abs/2611.32606",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Multi-Agent Coordination Through Stigmergy for Canal Network Formation on Real Terrain",
+      "summary": "arXiv:2611.32966v1 Announce Type: new \nAbstract: Terrain-modifying robot swarms operating in unstructured outdoor environments must coordinate under uncertain dynamics despite unreliable communication and incomplete global information. Stigmergy offers a decentralized alternative by allowing agents",
+      "url": "https://arxiv.org/abs/2611.32966",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition",
+      "summary": "arXiv:2611.31284v1 Announce Type: cross \nAbstract: Autonomous agent governance is commonly framed as a problem of enforcing correct execution. However, in multi-agent systems, an equally fundamental question precedes execution: which agents are allowed to act.\n  In this paper, we show that allocatio",
+      "url": "https://arxiv.org/abs/2611.31284",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
