@@ -1,0 +1,372 @@
+{
+  "date": "2026-11-26",
+  "insight": {
+    "author": "auto",
+    "html": "<p>2026-11-26 · RSS 自动聚合稿。等待 Claude 后续生成洞见。</p>"
+  },
+  "hot": [
+    {
+      "title": "Ask HN: Generalized platform for building custom agent harnesses",
+      "summary": "What if you can configure each component of an agent harness from a web application and get a downloadable binary of the harness which runs on your own infrastructure?\nAny opinions/feedback/ideas would be appreciated.\n\nComments URL: https://news.ycombinator.com/item?id=50652983\nPoints: 1\n# Comments",
+      "url": "https://news.ycombinator.com/item?id=50652983",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "KORA: Determining whether LLM inference is necessary before invoking it",
+      "summary": "Article URL: https://arxiv.org/abs/2610.35869\nComments URL: https://news.ycombinator.com/item?id=50652807\nPoints: 1\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2610.35869",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Uber Evals 1M Agent Skill Invocations a Month",
+      "summary": "Article URL: https://twitter.com/UberEng/status/2125008806249930999\nComments URL: https://news.ycombinator.com/item?id=50652770\nPoints: 1\n# Comments: 0",
+      "url": "https://twitter.com/UberEng/status/2125008806249930999",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Precisely.ai Catalog – AI Studio Catalog of App, Agent, Skill and Server",
+      "summary": "Article URL: https://precisely.ai/explore\nComments URL: https://news.ycombinator.com/item?id=50651693\nPoints: 1\n# Comments: 0",
+      "url": "https://precisely.ai/explore",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition",
+      "summary": "arXiv:2611.31284v1 Announce Type: new \nAbstract: Autonomous agent governance is commonly framed as a problem of enforcing correct execution. However, in multi-agent systems, an equally fundamental question precedes execution: which agents are allowed to act.\n  In this paper, we show that allocation",
+      "url": "https://arxiv.org/abs/2611.31284",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake",
+      "summary": "arXiv:2611.31301v2 Announce Type: new \nAbstract: Audio-video (AV) deepfakes can fake the face, the voice, or both. Most benchmarks only ask whether a clip is real or fake, so they cannot show whether a detector relies on the picture, the voice, or encoding traces. We present MOZAIC, a paired benchma",
+      "url": "https://arxiv.org/abs/2611.31301",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Conservative Overlap Fuzzy Rough Sets for Incomplete Data",
+      "summary": "arXiv:2611.31329v1 Announce Type: new \nAbstract: Attribute reduction in incomplete information systems is difficult because missing values break the equivalence-class structure of rough set theory. We propose the Conservative Overlap Fuzzy Rough Set (COFRS) model. Each object is described by its set",
+      "url": "https://arxiv.org/abs/2611.31329",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs",
+      "summary": "arXiv:2611.31345v1 Announce Type: new \nAbstract: In recent years, multimodal large language models (MLLMs) have achieved significant progress in chart-to-code generation. However, existing benchmarks mainly focus on static charts, overlooking interactive charts that enable richer and more expressive",
+      "url": "https://arxiv.org/abs/2611.31345",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    }
+  ],
+  "keyon": [
+    {
+      "topic": "Agent 自进化",
+      "color": "emerald",
+      "items": []
+    },
+    {
+      "topic": "A2A 协议",
+      "color": "violet",
+      "items": [
+        {
+          "title": "Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2611.31284"
+        },
+        {
+          "title": "CypherMAS: Benchmarking Routing Reliability in LLM-Based Multi-Agent Systems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2611.33242"
+        },
+        {
+          "title": "Welfare-Enhancing Mechanism Design for Agent Ecosystems",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2611.33627"
+        },
+        {
+          "title": "Post-Training Policy Replication for Strategy-Following Multi-Agent Deep Reinforcement Learning across Team Sizes",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2611.34035"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic 架构",
+      "color": "amber",
+      "items": [
+        {
+          "title": "Learning What vs. Learning How: Decomposing Task and Interface Competence in Agentic Training",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2611.31427"
+        }
+      ]
+    },
+    {
+      "topic": "Harness 工程",
+      "color": "rose",
+      "items": [
+        {
+          "title": "Ask HN: Generalized platform for building custom agent harnesses",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://news.ycombinator.com/item?id=50652983"
+        },
+        {
+          "title": "Uber Evals 1M Agent Skill Invocations a Month",
+          "comment": "（自动归类，待人工 review）",
+          "source": "hnrss.org",
+          "url": "https://twitter.com/UberEng/status/2125008806249930999"
+        },
+        {
+          "title": "MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2611.31301"
+        },
+        {
+          "title": "Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2611.31345"
+        },
+        {
+          "title": "What People Choose Not to Say: A Multimodal Benchmark for Fine-Grained Information Manipulation in Conversations",
+          "comment": "（自动归类，待人工 review）",
+          "source": "export.arxiv.org",
+          "url": "https://arxiv.org/abs/2611.31346"
+        }
+      ]
+    }
+  ],
+  "oss": [
+    {
+      "title": "Ask HN: Generalized platform for building custom agent harnesses",
+      "summary": "What if you can configure each component of an agent harness from a web application and get a downloadable binary of the harness which runs on your own infrastructure?\nAny opinions/feedback/ideas would be appreciated.\n\nComments URL: https://news.ycombinator.com/item?id=50652983\nPoints: 1\n# Comments",
+      "url": "https://news.ycombinator.com/item?id=50652983",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "KORA: Determining whether LLM inference is necessary before invoking it",
+      "summary": "Article URL: https://arxiv.org/abs/2610.35869\nComments URL: https://news.ycombinator.com/item?id=50652807\nPoints: 1\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2610.35869",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Uber Evals 1M Agent Skill Invocations a Month",
+      "summary": "Article URL: https://twitter.com/UberEng/status/2125008806249930999\nComments URL: https://news.ycombinator.com/item?id=50652770\nPoints: 1\n# Comments: 0",
+      "url": "https://twitter.com/UberEng/status/2125008806249930999",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Precisely.ai Catalog – AI Studio Catalog of App, Agent, Skill and Server",
+      "summary": "Article URL: https://precisely.ai/explore\nComments URL: https://news.ycombinator.com/item?id=50651693\nPoints: 1\n# Comments: 0",
+      "url": "https://precisely.ai/explore",
+      "source": "hnrss.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "In which a traveling salesman digs π out of LLM temperature math",
+      "summary": "Article URL: https://www.hexbites.dev/stories/2026-11-25-pi-from-simulated-annealing.html\nComments URL: https://news.ycombinator.com/item?id=50651261\nPoints: 1\n# Comments: 0",
+      "url": "https://www.hexbites.dev/stories/2026-11-25-pi-from-simulated-annealing.html",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Show HN: StackMaestro – Local management of agent-generated stacks",
+      "summary": "Article URL: https://github.com/marklyons/stackmaestro\nComments URL: https://news.ycombinator.com/item?id=50650650\nPoints: 1\n# Comments: 1",
+      "url": "https://github.com/marklyons/stackmaestro",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Will the next big discovery using LLM's solve Fusion Energy?",
+      "summary": "Or, is it too much of a hardware problem, rather than just software ? You can bet the folks over at Sandia, Fermi, PPPL, LANL, LLNL, ORNL, INL, Brookhaven, etc are all working feverishly with LLM's.  No doubt a Noble prize would be possible.\n\nComments URL: https://news.ycombinator.com/item?id=50650",
+      "url": "https://news.ycombinator.com/item?id=50650485",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Plato's Key: A single rotation lets one LLM use another’s representations",
+      "summary": "Article URL: https://twitter.com/viviencheng__/status/2125631050319831474\nComments URL: https://news.ycombinator.com/item?id=50650141\nPoints: 3\n# Comments: 0",
+      "url": "https://twitter.com/viviencheng__/status/2125631050319831474",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "voices": [],
+  "industry": [
+    {
+      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+      "summary": "Article URL: https://twitter.com/thsottiaux/status/2125784147889393806\nComments URL: https://news.ycombinator.com/item?id=50651117\nPoints: 222\n# Comments: 112",
+      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "source": "hnrss.org",
+      "tags": []
+    },
+    {
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "summary": "Article URL: https://github.com/lsernau/grh-lean\nComments URL: https://news.ycombinator.com/item?id=50648050\nPoints: 444\n# Comments: 225",
+      "url": "https://github.com/lsernau/grh-lean",
+      "source": "hnrss.org",
+      "tags": []
+    }
+  ],
+  "research": [
+    {
+      "title": "Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition",
+      "summary": "arXiv:2611.31284v1 Announce Type: new \nAbstract: Autonomous agent governance is commonly framed as a problem of enforcing correct execution. However, in multi-agent systems, an equally fundamental question precedes execution: which agents are allowed to act.\n  In this paper, we show that allocation",
+      "url": "https://arxiv.org/abs/2611.31284",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake",
+      "summary": "arXiv:2611.31301v2 Announce Type: new \nAbstract: Audio-video (AV) deepfakes can fake the face, the voice, or both. Most benchmarks only ask whether a clip is real or fake, so they cannot show whether a detector relies on the picture, the voice, or encoding traces. We present MOZAIC, a paired benchma",
+      "url": "https://arxiv.org/abs/2611.31301",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Conservative Overlap Fuzzy Rough Sets for Incomplete Data",
+      "summary": "arXiv:2611.31329v1 Announce Type: new \nAbstract: Attribute reduction in incomplete information systems is difficult because missing values break the equivalence-class structure of rough set theory. We propose the Conservative Overlap Fuzzy Rough Set (COFRS) model. Each object is described by its set",
+      "url": "https://arxiv.org/abs/2611.31329",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs",
+      "summary": "arXiv:2611.31345v1 Announce Type: new \nAbstract: In recent years, multimodal large language models (MLLMs) have achieved significant progress in chart-to-code generation. However, existing benchmarks mainly focus on static charts, overlooking interactive charts that enable richer and more expressive",
+      "url": "https://arxiv.org/abs/2611.31345",
+      "source": "export.arxiv.org",
+      "tags": [],
+      "score": 7,
+      "badges": []
+    },
+    {
+      "title": "What People Choose Not to Say: A Multimodal Benchmark for Fine-Grained Information Manipulation in Conversations",
+      "summary": "arXiv:2611.31346v1 Announce Type: new \nAbstract: Recent advances in MLLMs have improved social understanding, enabling models to recognize emotions and distinguish truthful from deceptive behaviors. However, existing benchmarks largely focus on coarse-grained emotion recognition or binary truth-dece",
+      "url": "https://arxiv.org/abs/2611.31346",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Antares-Smaug: Adversarial Names, Tokens and Attack Rewrites: Sanitisers Miss Unseen Generalisations",
+      "summary": "arXiv:2611.31347v1 Announce Type: new \nAbstract: Laya is an open decision model: given a text, a question and K named options with descriptions, it returns one probability per option in a single pass, and software may act on the answer unseen. We attack six Laya models with 81 programmatic edits of",
+      "url": "https://arxiv.org/abs/2611.31347",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "ContextLure: Exploiting Benign Conversation History for Indirect Prompt Injection",
+      "summary": "arXiv:2611.31424v1 Announce Type: new \nAbstract: As LLMs become more capable, agents can perform more complex tasks with tools and maintain longer interactions with users. These benign conversations contain evidence on task results, user concerns, and operational constraints. The risk is that attack",
+      "url": "https://arxiv.org/abs/2611.31424",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Learning What vs. Learning How: Decomposing Task and Interface Competence in Agentic Training",
+      "summary": "arXiv:2611.31427v1 Announce Type: new \nAbstract: LLM agents operate through harnesses that define system prompts, action formats, feedback loops, and resource constraints. A model may possess the knowledge needed to solve a task yet fail to express that knowledge through a particular harness. This r",
+      "url": "https://arxiv.org/abs/2611.31427",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "On the Tragedy of the Commons in Heterogeneous Distributed Resource Allocation",
+      "summary": "arXiv:2611.33172v1 Announce Type: new \nAbstract: We consider the Tragedy of the Commons (ToC) problem, which commonly arises in heterogeneous distributed resource allocation, in which selfish users are independently interested in optimizing their own utility. Such self-interested decision-making in",
+      "url": "https://arxiv.org/abs/2611.33172",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Soft Decentralized Expected SARSA: Equilibrium Selection via Gradual Adaptation",
+      "summary": "arXiv:2611.33228v1 Announce Type: new \nAbstract: We introduce Soft Decentralized Expected SARSA (SDES), a modification of Decentralized Q-learning in which agents maintain persistent exploration and update their acting Q-values gradually rather than switching directly to newly learned best responses",
+      "url": "https://arxiv.org/abs/2611.33228",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "CypherMAS: Benchmarking Routing Reliability in LLM-Based Multi-Agent Systems",
+      "summary": "arXiv:2611.33242v1 Announce Type: new \nAbstract: Multi-agent systems (MAS) built on large language models (LLMs) distribute reasoning across specialized agents that must exchange messages and invoke tools reliably. Existing evaluations typically couple communication with open domain tasks, making it",
+      "url": "https://arxiv.org/abs/2611.33242",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "What Must LLM Agents Communicate? From Information Loss to Communication Failures",
+      "summary": "arXiv:2611.33318v1 Announce Type: new \nAbstract: When evidence is distributed across LLM agents, a team may collectively possess all the information needed for a decision yet fail to use it effectively. What must agents communicate for accurate joint predictions, and when does interaction help? We s",
+      "url": "https://arxiv.org/abs/2611.33318",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Welfare-Enhancing Mechanism Design for Agent Ecosystems",
+      "summary": "arXiv:2611.33627v1 Announce Type: new \nAbstract: The emerging Agentic Web forms a multi-agent ecosystem: a decentralized service market where the user agent selects which content agents to query from their submitted profiles, before seeing any documents. Profiles therefore become a new target of opt",
+      "url": "https://arxiv.org/abs/2611.33627",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "When Are Parallel Subagents Effective for Coding? An Empirical Study on Repository Construction",
+      "summary": "arXiv:2611.33893v1 Announce Type: new \nAbstract: LLM-based coding agents are increasingly used for long-horizon tasks such as building an entire program from a specification. Products like Codex and Claude Code let an agent delegate work to parallel subagents, multiplying run cost, yet it remains un",
+      "url": "https://arxiv.org/abs/2611.33893",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Post-Training Policy Replication for Strategy-Following Multi-Agent Deep Reinforcement Learning across Team Sizes",
+      "summary": "arXiv:2611.34035v1 Announce Type: new \nAbstract: Although multi-agent deep reinforcement learning enables coordinated behavior, aligning it with managerial intent remains difficult due to complex agent interactions. Although the strategy-following distributed attentional actor architecture (sfDA7-X)",
+      "url": "https://arxiv.org/abs/2611.34035",
+      "source": "export.arxiv.org",
+      "tags": []
+    },
+    {
+      "title": "Deep Learning-Based Mesoscopic Emission Modeling",
+      "summary": "arXiv:2611.33179v1 Announce Type: cross \nAbstract: Traffic-related emissions are a major contributor to urban air pollution. However, existing emission models face a fundamental trade-off: macroscopic models are computationally efficient but rely on average speeds, leading to systematic errors, whil",
+      "url": "https://arxiv.org/abs/2611.33179",
+      "source": "export.arxiv.org",
+      "tags": []
+    }
+  ],
+  "china": []
+}
